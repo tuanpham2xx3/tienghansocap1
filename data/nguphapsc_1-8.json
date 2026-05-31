@@ -1,0 +1,269 @@
+{
+  "course": "Tiếng Hàn Sơ cấp 1",
+  "description": "Tài liệu giải thích chi tiết các điểm ngữ pháp Tiếng Hàn Sơ cấp 1 dành cho người Việt Nam, kèm theo ý nghĩa, cách dùng và ví dụ minh họa.",
+  "grammar_list": [
+    {
+      "lesson": "Bài 01",
+      "grammar": ["입니다", "입니까", "은/는"],
+      "grammar_points": [
+        {
+          "grammar": "입니다",
+          "meaning": "Là...",
+          "explanation": "Đuôi câu trần thuật ở thể trang trọng, lịch sự. Được gắn trực tiếp vào sau danh từ để định nghĩa hoặc giới thiệu bản thân (tên, quốc tịch, nghề nghiệp...).",
+          "example_kr": "저는 베트남 사람입니다.",
+          "example_vn": "Tôi là người Việt Nam."
+        },
+        {
+          "grammar": "입니까",
+          "meaning": "Là... phải không?",
+          "explanation": "Dạng nghi vấn (câu hỏi) của '입니다', dùng để hỏi thông tin về một danh từ nào đó một cách trang trọng.",
+          "example_kr": "학생입니까?",
+          "example_vn": "Bạn là học sinh phải không?"
+        },
+        {
+          "grammar": "은/는",
+          "meaning": "Thì, là, ở... (Tiểu từ chủ đề)",
+          "explanation": "Gắn vào sau danh từ để xác định danh từ đó là chủ đề của câu. Từ có phụ âm cuối (patchim) đi với '은', không có phụ âm cuối đi với '는'.",
+          "example_kr": "제 이름은 남입니다.",
+          "example_vn": "Tên của tôi là Nam."
+        }
+      ]
+    },
+    {
+      "lesson": "Bài 02",
+      "grammar": [
+        "여기/거기/저기",
+        "이것/그것/저것",
+        "이/가",
+        "에 있습니다/없습니다",
+        "이/가 아닙니다"
+      ],
+      "grammar_points": [
+        {
+          "grammar": "여기/거기/저기",
+          "meaning": "Đây / Đó / Kia",
+          "explanation": "Đại từ chỉ địa điểm. '여기' (gần người nói), '거기' (gần người nghe), '저기' (xa cả người nói và người nghe).",
+          "example_kr": "여기가 학교입니다.",
+          "example_vn": "Đây là trường học."
+        },
+        {
+          "grammar": "이것/그것/저것",
+          "meaning": "Cái này / Cái đó / Cái kia",
+          "explanation": "Đại từ chỉ đồ vật. Khoảng cách tương tự như đại từ chỉ địa điểm (이: gần người nói, 그: gần người nghe, 저: xa cả hai).",
+          "example_kr": "이것은 책입니다.",
+          "example_vn": "Cái này là quyển sách."
+        },
+        {
+          "grammar": "이/가",
+          "meaning": "Tiểu từ chủ ngữ",
+          "explanation": "Gắn sau danh từ để chỉ định danh từ đó là chủ thể của hành động hoặc trạng thái. Có patchim dùng '이', không có patchim dùng '가'.",
+          "example_kr": "비가 옵니다.",
+          "example_vn": "Trời mưa."
+        },
+        {
+          "grammar": "에 있습니다/없습니다",
+          "meaning": "Có / Không có ở...",
+          "explanation": "Gắn '에' vào sau danh từ chỉ địa điểm để diễn tả sự tồn tại (có mặt hoặc không có mặt) của người hay vật tại nơi đó.",
+          "example_kr": "책상 위에 컴퓨터가 있습니다.",
+          "example_vn": "Có máy tính ở trên bàn."
+        },
+        {
+          "grammar": "이/가 아닙니다",
+          "meaning": "Không phải là...",
+          "explanation": "Dạng phủ định của '입니다'. Luôn đi kèm với tiểu từ '이/가' ngay phía trước.",
+          "example_kr": "저는 의사가 아닙니다.",
+          "example_vn": "Tôi không phải là bác sĩ."
+        }
+      ]
+    },
+    {
+      "lesson": "Bài 03",
+      "grammar": ["-ㅂ/습니다", "-ㅂ/습니까", "을/를", "에서 <địa điểm>"],
+      "grammar_points": [
+        {
+          "grammar": "-ㅂ/습니다",
+          "meaning": "Làm... / Thì...",
+          "explanation": "Đuôi câu trần thuật hiện tại trang trọng dành cho Động từ/Tính từ. Có patchim dùng '습니다', không có patchim dùng 'ㅂ니다'.",
+          "example_kr": "저는 밥을 먹습니다.",
+          "example_vn": "Tôi ăn cơm."
+        },
+        {
+          "grammar": "-ㅂ/습니까",
+          "meaning": "Làm... không? / Có... không?",
+          "explanation": "Dạng câu hỏi nghi vấn trang trọng của '-ㅂ/습니다'. Dùng để hỏi về hành động hoặc trạng thái.",
+          "example_kr": "지금 학교에 갑니까?",
+          "example_vn": "Bây giờ bạn đi đến trường à?"
+        },
+        {
+          "grammar": "을/를",
+          "meaning": "Tiểu từ tân ngữ",
+          "explanation": "Gắn vào sau danh từ, chỉ ra danh từ đó là đối tượng chịu tác động trực tiếp của hành động. Có patchim dùng '을', không patchim dùng '를'.",
+          "example_kr": "한국어를 공부합니다.",
+          "example_vn": "Tôi học tiếng Hàn."
+        },
+        {
+          "grammar": "에서 <địa điểm>",
+          "meaning": "Ở, tại...",
+          "explanation": "Gắn sau danh từ chỉ nơi chốn để chỉ ra địa điểm thực sự diễn ra một hành động nào đó (khác với '에' chỉ sự tồn tại).",
+          "example_kr": "도서관에서 책을 읽습니다.",
+          "example_vn": "Tôi đọc sách ở thư viện."
+        }
+      ]
+    },
+    {
+      "lesson": "Bài 04",
+      "grammar": ["Số từ Hán Hàn", "와/과", "에 <thời gian>"],
+      "grammar_points": [
+        {
+          "grammar": "Số từ Hán Hàn",
+          "meaning": "일(1), 이(2), 삼(3)...",
+          "explanation": "Hệ số đếm gốc Hán. Dùng để nói về ngày, tháng, năm, số điện thoại, số tầng, số phút, số tiền...",
+          "example_kr": "오늘은 삼 월 이 일입니다.",
+          "example_vn": "Hôm nay là ngày 2 tháng 3."
+        },
+        {
+          "grammar": "와/과",
+          "meaning": "Và, cùng với...",
+          "explanation": "Nối hai danh từ lại với nhau. Thường dùng trong văn viết hoặc tình huống trang trọng. Có patchim dùng '과', không có patchim dùng '와'.",
+          "example_kr": "수박과 사과를 삽니다.",
+          "example_vn": "Tôi mua dưa hấu và táo."
+        },
+        {
+          "grammar": "에 <thời gian>",
+          "meaning": "Vào lúc, vào...",
+          "explanation": "Gắn sau danh từ chỉ thời gian để chỉ thời điểm xảy ra hành động. Không dùng cho 오늘 (hôm nay), 내일 (ngày mai), 어제 (hôm qua).",
+          "example_kr": "아침 8시에 일어납니다.",
+          "example_vn": "Tôi thức dậy vào lúc 8 giờ sáng."
+        }
+      ]
+    },
+    {
+      "lesson": "Bài 05",
+      "grammar": [
+        "Số từ thuần Hàn",
+        "Định từ số (1)",
+        "-아/어요",
+        "에 가다",
+        "안"
+      ],
+      "grammar_points": [
+        {
+          "grammar": "Số từ thuần Hàn",
+          "meaning": "하나(1), 둘(2), 셋(3)...",
+          "explanation": "Hệ số đếm thuần Hàn. Dùng để đếm số lượng (đồ vật, con người), nói tuổi tác và nói giờ.",
+          "example_kr": "저는 스무 살입니다.",
+          "example_vn": "Tôi 20 tuổi."
+        },
+        {
+          "grammar": "Định từ số (1)",
+          "meaning": "Biến đổi số thuần Hàn",
+          "explanation": "Khi các số 1, 2, 3, 4, 20 (하나, 둘, 셋, 넷, 스물) đứng trước danh từ đơn vị đếm (개, 명, 살...), chúng biến thành: 한, 두, 세, 네, 스무.",
+          "example_kr": "사과 두 개 주세요.",
+          "example_vn": "Cho tôi 2 quả táo."
+        },
+        {
+          "grammar": "-아/어요",
+          "meaning": "Làm... / Thì... (Đuôi câu thân mật)",
+          "explanation": "Đuôi câu lịch sự dùng trong giao tiếp hàng ngày. Động/tính từ có nguyên âm ㅏ/ㅗ + 아요; nguyên âm khác + 어요; 하다 -> 해요.",
+          "example_kr": "저는 커피를 마셔요.",
+          "example_vn": "Tôi uống cà phê."
+        },
+        {
+          "grammar": "에 가다",
+          "meaning": "Đi đến...",
+          "explanation": "Gắn sau danh từ chỉ địa điểm để diễn tả sự di chuyển đến đích đến nào đó (thường đi với 가다, 오다).",
+          "example_kr": "시장에 가요.",
+          "example_vn": "Tôi đi chợ."
+        },
+        {
+          "grammar": "안",
+          "meaning": "Không...",
+          "explanation": "Phó từ phủ định đứng trước Động/Tính từ. Với động từ có đuôi 하다 (N + 하다), '안' đứng giữa Danh từ và 하다.",
+          "example_kr": "오늘은 학교에 안 가요.",
+          "example_vn": "Hôm nay tôi không đi học."
+        }
+      ]
+    },
+    {
+      "lesson": "Bài 06",
+      "grammar": ["-았/었-", "하고", "-(으)시-"],
+      "grammar_points": [
+        {
+          "grammar": "-았/었-",
+          "meaning": "Đã... (Thì quá khứ)",
+          "explanation": "Vĩ tố chỉ thì quá khứ. Cách chia giống với quy tắc 아/어요 nhưng thay bằng 았/었어요 hoặc 았/습니다.",
+          "example_kr": "어제 영화를 봤어요.",
+          "example_vn": "Hôm qua tôi đã xem phim."
+        },
+        {
+          "grammar": "하고",
+          "meaning": "Và, cùng với...",
+          "explanation": "Nối hai danh từ, ý nghĩa giống '와/과' nhưng dùng nhiều trong giao tiếp hàng ngày (văn nói). Không phân biệt patchim.",
+          "example_kr": "친구하고 밥을 먹어요.",
+          "example_vn": "Tôi ăn cơm cùng với bạn."
+        },
+        {
+          "grammar": "(으)ㅂ시다",
+          "meaning": "Chúng ta hãy..., cùng ... nhé",
+          "explanation": "Gắn với gốc động từ để đưa ra lời đề nghị hoặc rủ người nghe cùng thực hiện một hành động với người nói. Đây là dạng trang trọng. Nếu gốc động từ không có patchim hoặc có patchim ㄹ thì dùng ㅂ시다; nếu có patchim khác thì dùng 읍시다.",
+          "example_kr": "같이 한국어를 공부합시다.",
+          "example_vn": "Chúng ta hãy cùng học tiếng Hàn."
+        }
+      ]
+    },
+    {
+      "lesson": "Bài 07",
+      "grammar": ["Giản lược", "은/는 <đối chiếu>", "-고 싶다"],
+      "grammar_points": [
+        {
+          "grammar": "Giản lược",
+          "meaning": "Bất quy tắc của 'ㅡ'",
+          "explanation": "Động/tính từ kết thúc bằng nguyên âm 'ㅡ' (vd: 바쁘다, 예쁘다) khi gặp đuôi bắt đầu bằng nguyên âm (như -아/어요) thì 'ㅡ' bị lược bỏ.",
+          "example_kr": "요즘 바빠요. (바쁘다 -> 바빠요)",
+          "example_vn": "Dạo này tôi bận."
+        },
+        {
+          "grammar": "은/는 <đối chiếu>",
+          "meaning": "Còn... thì...",
+          "explanation": "Ngoài chức năng làm chủ đề, '은/는' còn dùng để nhấn mạnh sự so sánh, đối chiếu, tương phản giữa hai sự vật/sự việc.",
+          "example_kr": "수박은 크지만 사과는 작아요.",
+          "example_vn": "Dưa hấu thì to còn táo thì nhỏ."
+        },
+        {
+          "grammar": "-고 싶다",
+          "meaning": "Muốn...",
+          "explanation": "Gắn vào sau động từ để thể hiện mong muốn của người nói (hoặc hỏi người nghe). Ngôi thứ 3 dùng -고 싶어하다.",
+          "example_kr": "한국에 가고 싶어요.",
+          "example_vn": "Tôi muốn đi Hàn Quốc."
+        }
+      ]
+    },
+    {
+      "lesson": "Bài 08",
+      "grammar": ["-겠- <ý định>", "-지 않다", "-(으)세요"],
+      "grammar_points": [
+        {
+          "grammar": "-겠- <ý định>",
+          "meaning": "Sẽ... (Ý chí)",
+          "explanation": "Gắn vào gốc động từ, thể hiện ý chí, quyết tâm mạnh mẽ của người nói sẽ thực hiện việc gì đó.",
+          "example_kr": "열심히 공부하겠습니다.",
+          "example_vn": "Tôi sẽ học hành chăm chỉ."
+        },
+        {
+          "grammar": "-지 않다",
+          "meaning": "Không... (Phủ định dài)",
+          "explanation": "Ý nghĩa giống '안' nhưng là cấu trúc gắn vào đuôi động/tính từ, mang sắc thái trang trọng và lịch sự hơn.",
+          "example_kr": "저는 고기를 먹지 않아요.",
+          "example_vn": "Tôi không ăn thịt."
+        },
+        {
+          "grammar": "-(으)세요",
+          "meaning": "Hãy, vui lòng...",
+          "explanation": "Đuôi câu mệnh lệnh, khuyên nhủ, yêu cầu lịch sự. Có patchim + 으세요; không có patchim + 세요.",
+          "example_kr": "여기에 앉으세요.",
+          "example_vn": "Vui lòng ngồi ở đây."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Combo 5 - Modern EdTech SaaS</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+KR:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <script>tailwind.config={theme:{extend:{fontFamily:{sans:["Inter","Noto Sans KR","system-ui","sans-serif"]}}}}</script>
+  </head>
+  <body class="bg-[#F8FAFC] font-sans text-[#0F172A]">
+    <main class="grid min-h-screen lg:grid-cols-[260px_1fr]">
+      <aside class="border-r border-[#E2E8F0] bg-white p-5">
+        <a href="./index.html" class="text-sm font-bold text-[#2563EB]">← 6 combo</a>
+        <h1 class="mt-6 text-2xl font-bold">KoreanLab</h1>
+        <nav class="mt-8 space-y-2 text-sm font-semibold">
+          <a class="block rounded-xl bg-[#EFF6FF] px-4 py-3 text-[#2563EB]">Dashboard</a>
+          <a class="block rounded-xl px-4 py-3 text-[#64748B]">Practice</a>
+          <a class="block rounded-xl px-4 py-3 text-[#64748B]">Question bank</a>
+          <a class="block rounded-xl px-4 py-3 text-[#64748B]">Analytics</a>
+        </nav>
+      </aside>
+
+      <section class="p-5 md:p-7">
+        <div class="flex flex-wrap items-center justify-between gap-4">
+          <div>
+            <p class="text-sm font-bold uppercase tracking-wide text-[#2563EB]">Overview</p>
+            <h2 class="mt-1 text-3xl font-bold">Luyện tập hôm nay</h2>
+          </div>
+          <button class="h-11 rounded-[10px] bg-[#2563EB] px-5 text-sm font-bold text-white">Start practice</button>
+        </div>
+
+        <div class="mt-6 grid gap-4 md:grid-cols-4">
+          <div class="rounded-[14px] border border-[#E2E8F0] bg-white p-5"><p class="text-sm text-[#64748B]">Score</p><p class="mt-2 text-[28px] font-bold">82%</p></div>
+          <div class="rounded-[14px] border border-[#E2E8F0] bg-white p-5"><p class="text-sm text-[#64748B]">Questions</p><p class="mt-2 text-[28px] font-bold">128</p></div>
+          <div class="rounded-[14px] border border-[#E2E8F0] bg-white p-5"><p class="text-sm text-[#64748B]">Weak grammar</p><p class="mt-2 text-[28px] font-bold">6</p></div>
+          <div class="rounded-[14px] border border-[#E2E8F0] bg-white p-5"><p class="text-sm text-[#64748B]">Streak</p><p class="mt-2 text-[28px] font-bold">12d</p></div>
+        </div>
+
+        <div class="mt-6 grid gap-5 xl:grid-cols-[1fr_300px]">
+          <div class="rounded-[14px] border border-[#E2E8F0] bg-white p-6">
+            <div class="flex flex-wrap items-center justify-between gap-3">
+              <h3 class="text-2xl font-semibold">Question preview</h3>
+              <span class="rounded-full bg-[#F5F3FF] px-3 py-1 text-sm font-bold text-[#8B5CF6]">Part 1</span>
+            </div>
+            <p class="mt-6 text-xl font-semibold leading-8">민수 씨는 학생___?</p>
+            <div class="mt-5 grid gap-3 md:grid-cols-2">
+              <button class="h-13 rounded-[10px] border border-[#E2E8F0] px-4 py-3 text-left">A. 입니다</button>
+              <button class="h-13 rounded-[10px] border border-[#2563EB] bg-[#EFF6FF] px-4 py-3 text-left font-semibold">B. 입니까</button>
+              <button class="h-13 rounded-[10px] border border-[#E2E8F0] px-4 py-3 text-left">C. 은</button>
+              <button class="h-13 rounded-[10px] border border-[#E2E8F0] px-4 py-3 text-left">D. 는</button>
+            </div>
+          </div>
+          <aside class="rounded-[14px] border border-[#E2E8F0] bg-white p-5">
+            <h3 class="text-lg font-bold">Queue</h3>
+            <div class="mt-4 space-y-3 text-sm">
+              <p class="flex justify-between"><span>Grammar basics</span><strong>12</strong></p>
+              <p class="flex justify-between"><span>Reading topics</span><strong>8</strong></p>
+              <p class="flex justify-between"><span>Translation</span><strong>5</strong></p>
+            </div>
+          </aside>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>

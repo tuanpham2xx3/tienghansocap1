@@ -1,0 +1,2294 @@
+{
+  "examSetCount": 20,
+  "totalSelectedQuestionSlots": 160,
+  "uniqueQuestionsUsed": 84,
+  "unusedQuestionIds": [],
+  "questionSelectionCounts": [
+    {
+      "questionId": "P3_VK_01_Q001",
+      "poolId": "P3_VK_01",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_010",
+        "PART3_EXAM_020"
+      ]
+    },
+    {
+      "questionId": "P3_VK_01_Q002",
+      "poolId": "P3_VK_01",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_004",
+        "PART3_EXAM_018"
+      ]
+    },
+    {
+      "questionId": "P3_VK_01_Q003",
+      "poolId": "P3_VK_01",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_007",
+        "PART3_EXAM_014"
+      ]
+    },
+    {
+      "questionId": "P3_VK_02_Q001",
+      "poolId": "P3_VK_02",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_009",
+        "PART3_EXAM_012"
+      ]
+    },
+    {
+      "questionId": "P3_VK_02_Q002",
+      "poolId": "P3_VK_02",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_007",
+        "PART3_EXAM_015"
+      ]
+    },
+    {
+      "questionId": "P3_VK_02_Q003",
+      "poolId": "P3_VK_02",
+      "direction": "vi_to_ko",
+      "selectedCount": 1,
+      "selectedInExamIds": [
+        "PART3_EXAM_001"
+      ]
+    },
+    {
+      "questionId": "P3_VK_03_Q001",
+      "poolId": "P3_VK_03",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_009",
+        "PART3_EXAM_020"
+      ]
+    },
+    {
+      "questionId": "P3_VK_03_Q002",
+      "poolId": "P3_VK_03",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_002",
+        "PART3_EXAM_013"
+      ]
+    },
+    {
+      "questionId": "P3_VK_03_Q003",
+      "poolId": "P3_VK_03",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_004",
+        "PART3_EXAM_015"
+      ]
+    },
+    {
+      "questionId": "P3_VK_04_Q001",
+      "poolId": "P3_VK_04",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_003",
+        "PART3_EXAM_011"
+      ]
+    },
+    {
+      "questionId": "P3_VK_04_Q002",
+      "poolId": "P3_VK_04",
+      "direction": "vi_to_ko",
+      "selectedCount": 1,
+      "selectedInExamIds": [
+        "PART3_EXAM_009"
+      ]
+    },
+    {
+      "questionId": "P3_VK_04_Q003",
+      "poolId": "P3_VK_04",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_007",
+        "PART3_EXAM_017"
+      ]
+    },
+    {
+      "questionId": "P3_VK_05_Q001",
+      "poolId": "P3_VK_05",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_004",
+        "PART3_EXAM_016"
+      ]
+    },
+    {
+      "questionId": "P3_VK_05_Q002",
+      "poolId": "P3_VK_05",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_002",
+        "PART3_EXAM_013"
+      ]
+    },
+    {
+      "questionId": "P3_VK_05_Q003",
+      "poolId": "P3_VK_05",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_008",
+        "PART3_EXAM_018"
+      ]
+    },
+    {
+      "questionId": "P3_VK_06_Q001",
+      "poolId": "P3_VK_06",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_010",
+        "PART3_EXAM_015"
+      ]
+    },
+    {
+      "questionId": "P3_VK_06_Q002",
+      "poolId": "P3_VK_06",
+      "direction": "vi_to_ko",
+      "selectedCount": 1,
+      "selectedInExamIds": [
+        "PART3_EXAM_001"
+      ]
+    },
+    {
+      "questionId": "P3_VK_06_Q003",
+      "poolId": "P3_VK_06",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_005",
+        "PART3_EXAM_013"
+      ]
+    },
+    {
+      "questionId": "P3_VK_07_Q001",
+      "poolId": "P3_VK_07",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_005",
+        "PART3_EXAM_020"
+      ]
+    },
+    {
+      "questionId": "P3_VK_07_Q002",
+      "poolId": "P3_VK_07",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_001",
+        "PART3_EXAM_018"
+      ]
+    },
+    {
+      "questionId": "P3_VK_07_Q003",
+      "poolId": "P3_VK_07",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_009",
+        "PART3_EXAM_011"
+      ]
+    },
+    {
+      "questionId": "P3_VK_08_Q001",
+      "poolId": "P3_VK_08",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_005",
+        "PART3_EXAM_013"
+      ]
+    },
+    {
+      "questionId": "P3_VK_08_Q002",
+      "poolId": "P3_VK_08",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_001",
+        "PART3_EXAM_020"
+      ]
+    },
+    {
+      "questionId": "P3_VK_08_Q003",
+      "poolId": "P3_VK_08",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_008",
+        "PART3_EXAM_015"
+      ]
+    },
+    {
+      "questionId": "P3_VK_09_Q001",
+      "poolId": "P3_VK_09",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_010",
+        "PART3_EXAM_014"
+      ]
+    },
+    {
+      "questionId": "P3_VK_09_Q002",
+      "poolId": "P3_VK_09",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_006",
+        "PART3_EXAM_017"
+      ]
+    },
+    {
+      "questionId": "P3_VK_09_Q003",
+      "poolId": "P3_VK_09",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_002",
+        "PART3_EXAM_019"
+      ]
+    },
+    {
+      "questionId": "P3_VK_10_Q001",
+      "poolId": "P3_VK_10",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_008",
+        "PART3_EXAM_016"
+      ]
+    },
+    {
+      "questionId": "P3_VK_10_Q002",
+      "poolId": "P3_VK_10",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_005",
+        "PART3_EXAM_012"
+      ]
+    },
+    {
+      "questionId": "P3_VK_10_Q003",
+      "poolId": "P3_VK_10",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_003",
+        "PART3_EXAM_019"
+      ]
+    },
+    {
+      "questionId": "P3_VK_11_Q001",
+      "poolId": "P3_VK_11",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_006",
+        "PART3_EXAM_018"
+      ]
+    },
+    {
+      "questionId": "P3_VK_11_Q002",
+      "poolId": "P3_VK_11",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_004",
+        "PART3_EXAM_014"
+      ]
+    },
+    {
+      "questionId": "P3_VK_11_Q003",
+      "poolId": "P3_VK_11",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_011",
+        "PART3_EXAM_016"
+      ]
+    },
+    {
+      "questionId": "P3_VK_12_Q001",
+      "poolId": "P3_VK_12",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_006",
+        "PART3_EXAM_012"
+      ]
+    },
+    {
+      "questionId": "P3_VK_12_Q002",
+      "poolId": "P3_VK_12",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_003",
+        "PART3_EXAM_019"
+      ]
+    },
+    {
+      "questionId": "P3_VK_12_Q003",
+      "poolId": "P3_VK_12",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_008",
+        "PART3_EXAM_016"
+      ]
+    },
+    {
+      "questionId": "P3_VK_13_Q001",
+      "poolId": "P3_VK_13",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_006",
+        "PART3_EXAM_017"
+      ]
+    },
+    {
+      "questionId": "P3_VK_13_Q002",
+      "poolId": "P3_VK_13",
+      "direction": "vi_to_ko",
+      "selectedCount": 1,
+      "selectedInExamIds": [
+        "PART3_EXAM_002"
+      ]
+    },
+    {
+      "questionId": "P3_VK_13_Q003",
+      "poolId": "P3_VK_13",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_010",
+        "PART3_EXAM_014"
+      ]
+    },
+    {
+      "questionId": "P3_VK_14_Q001",
+      "poolId": "P3_VK_14",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_003",
+        "PART3_EXAM_012"
+      ]
+    },
+    {
+      "questionId": "P3_VK_14_Q002",
+      "poolId": "P3_VK_14",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_007",
+        "PART3_EXAM_019"
+      ]
+    },
+    {
+      "questionId": "P3_VK_14_Q003",
+      "poolId": "P3_VK_14",
+      "direction": "vi_to_ko",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_011",
+        "PART3_EXAM_017"
+      ]
+    },
+    {
+      "questionId": "P3_KV_01_Q001",
+      "poolId": "P3_KV_01",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_003",
+        "PART3_EXAM_016"
+      ]
+    },
+    {
+      "questionId": "P3_KV_01_Q002",
+      "poolId": "P3_KV_01",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_005",
+        "PART3_EXAM_014"
+      ]
+    },
+    {
+      "questionId": "P3_KV_01_Q003",
+      "poolId": "P3_KV_01",
+      "direction": "ko_to_vi",
+      "selectedCount": 1,
+      "selectedInExamIds": [
+        "PART3_EXAM_008"
+      ]
+    },
+    {
+      "questionId": "P3_KV_02_Q001",
+      "poolId": "P3_KV_02",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_001",
+        "PART3_EXAM_018"
+      ]
+    },
+    {
+      "questionId": "P3_KV_02_Q002",
+      "poolId": "P3_KV_02",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_006",
+        "PART3_EXAM_012"
+      ]
+    },
+    {
+      "questionId": "P3_KV_02_Q003",
+      "poolId": "P3_KV_02",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_010",
+        "PART3_EXAM_020"
+      ]
+    },
+    {
+      "questionId": "P3_KV_03_Q001",
+      "poolId": "P3_KV_03",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_003",
+        "PART3_EXAM_012"
+      ]
+    },
+    {
+      "questionId": "P3_KV_03_Q002",
+      "poolId": "P3_KV_03",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_011",
+        "PART3_EXAM_019"
+      ]
+    },
+    {
+      "questionId": "P3_KV_03_Q003",
+      "poolId": "P3_KV_03",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_006",
+        "PART3_EXAM_016"
+      ]
+    },
+    {
+      "questionId": "P3_KV_04_Q001",
+      "poolId": "P3_KV_04",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_002",
+        "PART3_EXAM_013"
+      ]
+    },
+    {
+      "questionId": "P3_KV_04_Q002",
+      "poolId": "P3_KV_04",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_007",
+        "PART3_EXAM_018"
+      ]
+    },
+    {
+      "questionId": "P3_KV_04_Q003",
+      "poolId": "P3_KV_04",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_008",
+        "PART3_EXAM_015"
+      ]
+    },
+    {
+      "questionId": "P3_KV_05_Q001",
+      "poolId": "P3_KV_05",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_007",
+        "PART3_EXAM_014"
+      ]
+    },
+    {
+      "questionId": "P3_KV_05_Q002",
+      "poolId": "P3_KV_05",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_009",
+        "PART3_EXAM_015"
+      ]
+    },
+    {
+      "questionId": "P3_KV_05_Q003",
+      "poolId": "P3_KV_05",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_004",
+        "PART3_EXAM_019"
+      ]
+    },
+    {
+      "questionId": "P3_KV_06_Q001",
+      "poolId": "P3_KV_06",
+      "direction": "ko_to_vi",
+      "selectedCount": 1,
+      "selectedInExamIds": [
+        "PART3_EXAM_011"
+      ]
+    },
+    {
+      "questionId": "P3_KV_06_Q002",
+      "poolId": "P3_KV_06",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_004",
+        "PART3_EXAM_013"
+      ]
+    },
+    {
+      "questionId": "P3_KV_06_Q003",
+      "poolId": "P3_KV_06",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_007",
+        "PART3_EXAM_015"
+      ]
+    },
+    {
+      "questionId": "P3_KV_07_Q001",
+      "poolId": "P3_KV_07",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_006",
+        "PART3_EXAM_017"
+      ]
+    },
+    {
+      "questionId": "P3_KV_07_Q002",
+      "poolId": "P3_KV_07",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_008",
+        "PART3_EXAM_014"
+      ]
+    },
+    {
+      "questionId": "P3_KV_07_Q003",
+      "poolId": "P3_KV_07",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_002",
+        "PART3_EXAM_020"
+      ]
+    },
+    {
+      "questionId": "P3_KV_08_Q001",
+      "poolId": "P3_KV_08",
+      "direction": "ko_to_vi",
+      "selectedCount": 1,
+      "selectedInExamIds": [
+        "PART3_EXAM_001"
+      ]
+    },
+    {
+      "questionId": "P3_KV_08_Q002",
+      "poolId": "P3_KV_08",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_010",
+        "PART3_EXAM_011"
+      ]
+    },
+    {
+      "questionId": "P3_KV_08_Q003",
+      "poolId": "P3_KV_08",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_007",
+        "PART3_EXAM_018"
+      ]
+    },
+    {
+      "questionId": "P3_KV_09_Q001",
+      "poolId": "P3_KV_09",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_001",
+        "PART3_EXAM_017"
+      ]
+    },
+    {
+      "questionId": "P3_KV_09_Q002",
+      "poolId": "P3_KV_09",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_010",
+        "PART3_EXAM_014"
+      ]
+    },
+    {
+      "questionId": "P3_KV_09_Q003",
+      "poolId": "P3_KV_09",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_004",
+        "PART3_EXAM_020"
+      ]
+    },
+    {
+      "questionId": "P3_KV_10_Q001",
+      "poolId": "P3_KV_10",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_009",
+        "PART3_EXAM_011"
+      ]
+    },
+    {
+      "questionId": "P3_KV_10_Q002",
+      "poolId": "P3_KV_10",
+      "direction": "ko_to_vi",
+      "selectedCount": 1,
+      "selectedInExamIds": [
+        "PART3_EXAM_002"
+      ]
+    },
+    {
+      "questionId": "P3_KV_10_Q003",
+      "poolId": "P3_KV_10",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_005",
+        "PART3_EXAM_017"
+      ]
+    },
+    {
+      "questionId": "P3_KV_11_Q001",
+      "poolId": "P3_KV_11",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_002",
+        "PART3_EXAM_017"
+      ]
+    },
+    {
+      "questionId": "P3_KV_11_Q002",
+      "poolId": "P3_KV_11",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_009",
+        "PART3_EXAM_019"
+      ]
+    },
+    {
+      "questionId": "P3_KV_11_Q003",
+      "poolId": "P3_KV_11",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_005",
+        "PART3_EXAM_013"
+      ]
+    },
+    {
+      "questionId": "P3_KV_12_Q001",
+      "poolId": "P3_KV_12",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_010",
+        "PART3_EXAM_019"
+      ]
+    },
+    {
+      "questionId": "P3_KV_12_Q002",
+      "poolId": "P3_KV_12",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_006",
+        "PART3_EXAM_016"
+      ]
+    },
+    {
+      "questionId": "P3_KV_12_Q003",
+      "poolId": "P3_KV_12",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_003",
+        "PART3_EXAM_013"
+      ]
+    },
+    {
+      "questionId": "P3_KV_13_Q001",
+      "poolId": "P3_KV_13",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_001",
+        "PART3_EXAM_012"
+      ]
+    },
+    {
+      "questionId": "P3_KV_13_Q002",
+      "poolId": "P3_KV_13",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_005",
+        "PART3_EXAM_015"
+      ]
+    },
+    {
+      "questionId": "P3_KV_13_Q003",
+      "poolId": "P3_KV_13",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_009",
+        "PART3_EXAM_020"
+      ]
+    },
+    {
+      "questionId": "P3_KV_14_Q001",
+      "poolId": "P3_KV_14",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_008",
+        "PART3_EXAM_016"
+      ]
+    },
+    {
+      "questionId": "P3_KV_14_Q002",
+      "poolId": "P3_KV_14",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_003",
+        "PART3_EXAM_018"
+      ]
+    },
+    {
+      "questionId": "P3_KV_14_Q003",
+      "poolId": "P3_KV_14",
+      "direction": "ko_to_vi",
+      "selectedCount": 2,
+      "selectedInExamIds": [
+        "PART3_EXAM_004",
+        "PART3_EXAM_012"
+      ]
+    }
+  ],
+  "examOverlapChecks": [
+    {
+      "examIdA": "PART3_EXAM_001",
+      "examIdB": "PART3_EXAM_002",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_001",
+      "examIdB": "PART3_EXAM_003",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_001",
+      "examIdB": "PART3_EXAM_004",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_001",
+      "examIdB": "PART3_EXAM_005",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_001",
+      "examIdB": "PART3_EXAM_006",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_001",
+      "examIdB": "PART3_EXAM_007",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_001",
+      "examIdB": "PART3_EXAM_008",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_001",
+      "examIdB": "PART3_EXAM_009",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_001",
+      "examIdB": "PART3_EXAM_010",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_001",
+      "examIdB": "PART3_EXAM_011",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_001",
+      "examIdB": "PART3_EXAM_012",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_001",
+      "examIdB": "PART3_EXAM_013",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_001",
+      "examIdB": "PART3_EXAM_014",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_001",
+      "examIdB": "PART3_EXAM_015",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_001",
+      "examIdB": "PART3_EXAM_016",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_001",
+      "examIdB": "PART3_EXAM_017",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_001",
+      "examIdB": "PART3_EXAM_018",
+      "sharedQuestionCount": 2,
+      "sharedQuestionRatio": 0.25,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_001",
+      "examIdB": "PART3_EXAM_019",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_001",
+      "examIdB": "PART3_EXAM_020",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_002",
+      "examIdB": "PART3_EXAM_003",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_002",
+      "examIdB": "PART3_EXAM_004",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_002",
+      "examIdB": "PART3_EXAM_005",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_002",
+      "examIdB": "PART3_EXAM_006",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_002",
+      "examIdB": "PART3_EXAM_007",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_002",
+      "examIdB": "PART3_EXAM_008",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_002",
+      "examIdB": "PART3_EXAM_009",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_002",
+      "examIdB": "PART3_EXAM_010",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_002",
+      "examIdB": "PART3_EXAM_011",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_002",
+      "examIdB": "PART3_EXAM_012",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_002",
+      "examIdB": "PART3_EXAM_013",
+      "sharedQuestionCount": 3,
+      "sharedQuestionRatio": 0.375,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_002",
+      "examIdB": "PART3_EXAM_014",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_002",
+      "examIdB": "PART3_EXAM_015",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_002",
+      "examIdB": "PART3_EXAM_016",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_002",
+      "examIdB": "PART3_EXAM_017",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_002",
+      "examIdB": "PART3_EXAM_018",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_002",
+      "examIdB": "PART3_EXAM_019",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_002",
+      "examIdB": "PART3_EXAM_020",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_003",
+      "examIdB": "PART3_EXAM_004",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_003",
+      "examIdB": "PART3_EXAM_005",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_003",
+      "examIdB": "PART3_EXAM_006",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_003",
+      "examIdB": "PART3_EXAM_007",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_003",
+      "examIdB": "PART3_EXAM_008",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_003",
+      "examIdB": "PART3_EXAM_009",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_003",
+      "examIdB": "PART3_EXAM_010",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_003",
+      "examIdB": "PART3_EXAM_011",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_003",
+      "examIdB": "PART3_EXAM_012",
+      "sharedQuestionCount": 2,
+      "sharedQuestionRatio": 0.25,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_003",
+      "examIdB": "PART3_EXAM_013",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_003",
+      "examIdB": "PART3_EXAM_014",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_003",
+      "examIdB": "PART3_EXAM_015",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_003",
+      "examIdB": "PART3_EXAM_016",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_003",
+      "examIdB": "PART3_EXAM_017",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_003",
+      "examIdB": "PART3_EXAM_018",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_003",
+      "examIdB": "PART3_EXAM_019",
+      "sharedQuestionCount": 2,
+      "sharedQuestionRatio": 0.25,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_003",
+      "examIdB": "PART3_EXAM_020",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_004",
+      "examIdB": "PART3_EXAM_005",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_004",
+      "examIdB": "PART3_EXAM_006",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_004",
+      "examIdB": "PART3_EXAM_007",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_004",
+      "examIdB": "PART3_EXAM_008",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_004",
+      "examIdB": "PART3_EXAM_009",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_004",
+      "examIdB": "PART3_EXAM_010",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_004",
+      "examIdB": "PART3_EXAM_011",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_004",
+      "examIdB": "PART3_EXAM_012",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_004",
+      "examIdB": "PART3_EXAM_013",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_004",
+      "examIdB": "PART3_EXAM_014",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_004",
+      "examIdB": "PART3_EXAM_015",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_004",
+      "examIdB": "PART3_EXAM_016",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_004",
+      "examIdB": "PART3_EXAM_017",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_004",
+      "examIdB": "PART3_EXAM_018",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_004",
+      "examIdB": "PART3_EXAM_019",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_004",
+      "examIdB": "PART3_EXAM_020",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_005",
+      "examIdB": "PART3_EXAM_006",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_005",
+      "examIdB": "PART3_EXAM_007",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_005",
+      "examIdB": "PART3_EXAM_008",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_005",
+      "examIdB": "PART3_EXAM_009",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_005",
+      "examIdB": "PART3_EXAM_010",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_005",
+      "examIdB": "PART3_EXAM_011",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_005",
+      "examIdB": "PART3_EXAM_012",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_005",
+      "examIdB": "PART3_EXAM_013",
+      "sharedQuestionCount": 3,
+      "sharedQuestionRatio": 0.375,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_005",
+      "examIdB": "PART3_EXAM_014",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_005",
+      "examIdB": "PART3_EXAM_015",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_005",
+      "examIdB": "PART3_EXAM_016",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_005",
+      "examIdB": "PART3_EXAM_017",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_005",
+      "examIdB": "PART3_EXAM_018",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_005",
+      "examIdB": "PART3_EXAM_019",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_005",
+      "examIdB": "PART3_EXAM_020",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_006",
+      "examIdB": "PART3_EXAM_007",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_006",
+      "examIdB": "PART3_EXAM_008",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_006",
+      "examIdB": "PART3_EXAM_009",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_006",
+      "examIdB": "PART3_EXAM_010",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_006",
+      "examIdB": "PART3_EXAM_011",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_006",
+      "examIdB": "PART3_EXAM_012",
+      "sharedQuestionCount": 2,
+      "sharedQuestionRatio": 0.25,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_006",
+      "examIdB": "PART3_EXAM_013",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_006",
+      "examIdB": "PART3_EXAM_014",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_006",
+      "examIdB": "PART3_EXAM_015",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_006",
+      "examIdB": "PART3_EXAM_016",
+      "sharedQuestionCount": 2,
+      "sharedQuestionRatio": 0.25,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_006",
+      "examIdB": "PART3_EXAM_017",
+      "sharedQuestionCount": 3,
+      "sharedQuestionRatio": 0.375,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_006",
+      "examIdB": "PART3_EXAM_018",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_006",
+      "examIdB": "PART3_EXAM_019",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_006",
+      "examIdB": "PART3_EXAM_020",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_007",
+      "examIdB": "PART3_EXAM_008",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_007",
+      "examIdB": "PART3_EXAM_009",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_007",
+      "examIdB": "PART3_EXAM_010",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_007",
+      "examIdB": "PART3_EXAM_011",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_007",
+      "examIdB": "PART3_EXAM_012",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_007",
+      "examIdB": "PART3_EXAM_013",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_007",
+      "examIdB": "PART3_EXAM_014",
+      "sharedQuestionCount": 2,
+      "sharedQuestionRatio": 0.25,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_007",
+      "examIdB": "PART3_EXAM_015",
+      "sharedQuestionCount": 2,
+      "sharedQuestionRatio": 0.25,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_007",
+      "examIdB": "PART3_EXAM_016",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_007",
+      "examIdB": "PART3_EXAM_017",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_007",
+      "examIdB": "PART3_EXAM_018",
+      "sharedQuestionCount": 2,
+      "sharedQuestionRatio": 0.25,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_007",
+      "examIdB": "PART3_EXAM_019",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_007",
+      "examIdB": "PART3_EXAM_020",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_008",
+      "examIdB": "PART3_EXAM_009",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_008",
+      "examIdB": "PART3_EXAM_010",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_008",
+      "examIdB": "PART3_EXAM_011",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_008",
+      "examIdB": "PART3_EXAM_012",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_008",
+      "examIdB": "PART3_EXAM_013",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_008",
+      "examIdB": "PART3_EXAM_014",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_008",
+      "examIdB": "PART3_EXAM_015",
+      "sharedQuestionCount": 2,
+      "sharedQuestionRatio": 0.25,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_008",
+      "examIdB": "PART3_EXAM_016",
+      "sharedQuestionCount": 3,
+      "sharedQuestionRatio": 0.375,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_008",
+      "examIdB": "PART3_EXAM_017",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_008",
+      "examIdB": "PART3_EXAM_018",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_008",
+      "examIdB": "PART3_EXAM_019",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_008",
+      "examIdB": "PART3_EXAM_020",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_009",
+      "examIdB": "PART3_EXAM_010",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_009",
+      "examIdB": "PART3_EXAM_011",
+      "sharedQuestionCount": 2,
+      "sharedQuestionRatio": 0.25,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_009",
+      "examIdB": "PART3_EXAM_012",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_009",
+      "examIdB": "PART3_EXAM_013",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_009",
+      "examIdB": "PART3_EXAM_014",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_009",
+      "examIdB": "PART3_EXAM_015",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_009",
+      "examIdB": "PART3_EXAM_016",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_009",
+      "examIdB": "PART3_EXAM_017",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_009",
+      "examIdB": "PART3_EXAM_018",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_009",
+      "examIdB": "PART3_EXAM_019",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_009",
+      "examIdB": "PART3_EXAM_020",
+      "sharedQuestionCount": 2,
+      "sharedQuestionRatio": 0.25,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_010",
+      "examIdB": "PART3_EXAM_011",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_010",
+      "examIdB": "PART3_EXAM_012",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_010",
+      "examIdB": "PART3_EXAM_013",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_010",
+      "examIdB": "PART3_EXAM_014",
+      "sharedQuestionCount": 3,
+      "sharedQuestionRatio": 0.375,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_010",
+      "examIdB": "PART3_EXAM_015",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_010",
+      "examIdB": "PART3_EXAM_016",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_010",
+      "examIdB": "PART3_EXAM_017",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_010",
+      "examIdB": "PART3_EXAM_018",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_010",
+      "examIdB": "PART3_EXAM_019",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_010",
+      "examIdB": "PART3_EXAM_020",
+      "sharedQuestionCount": 2,
+      "sharedQuestionRatio": 0.25,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_011",
+      "examIdB": "PART3_EXAM_012",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_011",
+      "examIdB": "PART3_EXAM_013",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_011",
+      "examIdB": "PART3_EXAM_014",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_011",
+      "examIdB": "PART3_EXAM_015",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_011",
+      "examIdB": "PART3_EXAM_016",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_011",
+      "examIdB": "PART3_EXAM_017",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_011",
+      "examIdB": "PART3_EXAM_018",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_011",
+      "examIdB": "PART3_EXAM_019",
+      "sharedQuestionCount": 1,
+      "sharedQuestionRatio": 0.125,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_011",
+      "examIdB": "PART3_EXAM_020",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_012",
+      "examIdB": "PART3_EXAM_013",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_012",
+      "examIdB": "PART3_EXAM_014",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_012",
+      "examIdB": "PART3_EXAM_015",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_012",
+      "examIdB": "PART3_EXAM_016",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_012",
+      "examIdB": "PART3_EXAM_017",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_012",
+      "examIdB": "PART3_EXAM_018",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_012",
+      "examIdB": "PART3_EXAM_019",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_012",
+      "examIdB": "PART3_EXAM_020",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_013",
+      "examIdB": "PART3_EXAM_014",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_013",
+      "examIdB": "PART3_EXAM_015",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_013",
+      "examIdB": "PART3_EXAM_016",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_013",
+      "examIdB": "PART3_EXAM_017",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_013",
+      "examIdB": "PART3_EXAM_018",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_013",
+      "examIdB": "PART3_EXAM_019",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_013",
+      "examIdB": "PART3_EXAM_020",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_014",
+      "examIdB": "PART3_EXAM_015",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_014",
+      "examIdB": "PART3_EXAM_016",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_014",
+      "examIdB": "PART3_EXAM_017",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_014",
+      "examIdB": "PART3_EXAM_018",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_014",
+      "examIdB": "PART3_EXAM_019",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_014",
+      "examIdB": "PART3_EXAM_020",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_015",
+      "examIdB": "PART3_EXAM_016",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_015",
+      "examIdB": "PART3_EXAM_017",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_015",
+      "examIdB": "PART3_EXAM_018",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_015",
+      "examIdB": "PART3_EXAM_019",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_015",
+      "examIdB": "PART3_EXAM_020",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_016",
+      "examIdB": "PART3_EXAM_017",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_016",
+      "examIdB": "PART3_EXAM_018",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_016",
+      "examIdB": "PART3_EXAM_019",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_016",
+      "examIdB": "PART3_EXAM_020",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_017",
+      "examIdB": "PART3_EXAM_018",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_017",
+      "examIdB": "PART3_EXAM_019",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_017",
+      "examIdB": "PART3_EXAM_020",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_018",
+      "examIdB": "PART3_EXAM_019",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_018",
+      "examIdB": "PART3_EXAM_020",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    },
+    {
+      "examIdA": "PART3_EXAM_019",
+      "examIdB": "PART3_EXAM_020",
+      "sharedQuestionCount": 0,
+      "sharedQuestionRatio": 0,
+      "passed": true
+    }
+  ],
+  "coverageChecks": [
+    {
+      "examId": "PART3_EXAM_001",
+      "viToKoCount": 4,
+      "koToViCount": 4,
+      "skillCoveragePassed": true
+    },
+    {
+      "examId": "PART3_EXAM_002",
+      "viToKoCount": 4,
+      "koToViCount": 4,
+      "skillCoveragePassed": true
+    },
+    {
+      "examId": "PART3_EXAM_003",
+      "viToKoCount": 4,
+      "koToViCount": 4,
+      "skillCoveragePassed": true
+    },
+    {
+      "examId": "PART3_EXAM_004",
+      "viToKoCount": 4,
+      "koToViCount": 4,
+      "skillCoveragePassed": true
+    },
+    {
+      "examId": "PART3_EXAM_005",
+      "viToKoCount": 4,
+      "koToViCount": 4,
+      "skillCoveragePassed": true
+    },
+    {
+      "examId": "PART3_EXAM_006",
+      "viToKoCount": 4,
+      "koToViCount": 4,
+      "skillCoveragePassed": true
+    },
+    {
+      "examId": "PART3_EXAM_007",
+      "viToKoCount": 4,
+      "koToViCount": 4,
+      "skillCoveragePassed": true
+    },
+    {
+      "examId": "PART3_EXAM_008",
+      "viToKoCount": 4,
+      "koToViCount": 4,
+      "skillCoveragePassed": true
+    },
+    {
+      "examId": "PART3_EXAM_009",
+      "viToKoCount": 4,
+      "koToViCount": 4,
+      "skillCoveragePassed": true
+    },
+    {
+      "examId": "PART3_EXAM_010",
+      "viToKoCount": 4,
+      "koToViCount": 4,
+      "skillCoveragePassed": true
+    },
+    {
+      "examId": "PART3_EXAM_011",
+      "viToKoCount": 4,
+      "koToViCount": 4,
+      "skillCoveragePassed": true
+    },
+    {
+      "examId": "PART3_EXAM_012",
+      "viToKoCount": 4,
+      "koToViCount": 4,
+      "skillCoveragePassed": true
+    },
+    {
+      "examId": "PART3_EXAM_013",
+      "viToKoCount": 4,
+      "koToViCount": 4,
+      "skillCoveragePassed": true
+    },
+    {
+      "examId": "PART3_EXAM_014",
+      "viToKoCount": 4,
+      "koToViCount": 4,
+      "skillCoveragePassed": true
+    },
+    {
+      "examId": "PART3_EXAM_015",
+      "viToKoCount": 4,
+      "koToViCount": 4,
+      "skillCoveragePassed": true
+    },
+    {
+      "examId": "PART3_EXAM_016",
+      "viToKoCount": 4,
+      "koToViCount": 4,
+      "skillCoveragePassed": true
+    },
+    {
+      "examId": "PART3_EXAM_017",
+      "viToKoCount": 4,
+      "koToViCount": 4,
+      "skillCoveragePassed": true
+    },
+    {
+      "examId": "PART3_EXAM_018",
+      "viToKoCount": 4,
+      "koToViCount": 4,
+      "skillCoveragePassed": true
+    },
+    {
+      "examId": "PART3_EXAM_019",
+      "viToKoCount": 4,
+      "koToViCount": 4,
+      "skillCoveragePassed": true
+    },
+    {
+      "examId": "PART3_EXAM_020",
+      "viToKoCount": 4,
+      "koToViCount": 4,
+      "skillCoveragePassed": true
+    }
+  ]
+}

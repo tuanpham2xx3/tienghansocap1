@@ -1,0 +1,13 @@
+{
+  "id": "P2_T2_NOTICE_Q001_STIMULUS",
+  "type": "notice",
+  "title": "공지",
+  "structuredData": {
+    "event": "한국어 파티",
+    "date": "금요일",
+    "time": "오후 6시",
+    "place": "교실",
+    "note": "친구와 같이 오세요."
+  },
+  "fallbackText": "공지\n한국어 파티\n금요일 오후 6시 / 교실\n친구와 같이 오세요."
+}

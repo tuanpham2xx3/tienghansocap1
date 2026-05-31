@@ -1,0 +1,13 @@
+{
+  "id": "P2_T2_CARD_Q001_STIMULUS",
+  "type": "card",
+  "title": "생일 카드",
+  "structuredData": {
+    "sender": "민수",
+    "receiver": "흐엉",
+    "occasion": "생일",
+    "gift": "시계",
+    "message": "생일 축하해요."
+  },
+  "fallbackText": "흐엉 씨에게\n생일 축하해요. 시계를 준비했어요.\n민수"
+}

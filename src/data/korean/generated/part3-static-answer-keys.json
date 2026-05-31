@@ -1,0 +1,1862 @@
+[
+  {
+    "examId": "PART3_EXAM_001",
+    "answers": [
+      {
+        "questionId": "P3_VK_02_Q003",
+        "displayOrder": 1,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "흐엉 씨는 한국어를 좋아해요.",
+        "acceptedAnswers": [
+          "흐엉 씨는 한국어를 좋아해요.",
+          "흐엉 씨는 한국어를 좋아합니다."
+        ],
+        "explanationVi": "Dùng 좋아하다 với tân ngữ 한국어를."
+      },
+      {
+        "questionId": "P3_VK_06_Q002",
+        "displayOrder": 2,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "제 아버지는 태국에 여행을 가고 싶어합니다.",
+        "acceptedAnswers": [
+          "제 아버지는 태국에 여행을 가고 싶어합니다.",
+          "우리 아빠는 태국에 여행을 가고 싶어해요."
+        ],
+        "explanationVi": "Mong muốn của người thứ ba dùng 싶어합니다/싶어해요."
+      },
+      {
+        "questionId": "P3_VK_08_Q002",
+        "displayOrder": 3,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "한국 음식은 맛있지만 매워요.",
+        "acceptedAnswers": [
+          "한국 음식은 맛있지만 매워요.",
+          "한식은 맛있지만 매워요."
+        ],
+        "explanationVi": "Tương phản ngon nhưng cay dùng -지만."
+      },
+      {
+        "questionId": "P3_VK_07_Q002",
+        "displayOrder": 4,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "비빔밥 두 개하고 김치찌개 한 개 주세요. 콜라 한 개 더 주세요.",
+        "acceptedAnswers": [
+          "비빔밥 두 개하고 김치찌개 한 개 주세요. 콜라 한 개 더 주세요.",
+          "비빔밥 두 개와 김치찌개 한 개 주세요. 콜라 한 개 더 주세요."
+        ],
+        "explanationVi": "Yêu cầu món dùng 주세요; số lượng dùng 두 개/한 개."
+      },
+      {
+        "questionId": "P3_KV_13_Q001",
+        "displayOrder": 5,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Nhà vệ sinh ở đâu? Nhà vệ sinh ở tầng 2.",
+        "acceptedAnswers": [
+          "Nhà vệ sinh ở đâu? Nhà vệ sinh ở tầng 2.",
+          "Nhà vệ sinh ở đâu ạ? Ở tầng 2."
+        ],
+        "explanationVi": "어디에 있어요 hỏi vị trí."
+      },
+      {
+        "questionId": "P3_KV_08_Q001",
+        "displayOrder": 6,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Quả táo thì rẻ. Quả xoài thì đắt.",
+        "acceptedAnswers": [
+          "Quả táo thì rẻ. Quả xoài thì đắt.",
+          "Táo rẻ, còn xoài đắt."
+        ],
+        "explanationVi": "은/는 dùng để đối chiếu hai chủ đề."
+      },
+      {
+        "questionId": "P3_KV_09_Q001",
+        "displayOrder": 7,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Chị Hương có thể lái xe không? Không, tôi không thể lái xe.",
+        "acceptedAnswers": [
+          "Chị Hương có thể lái xe không? Không, tôi không thể lái xe.",
+          "Hương có biết lái xe không? Không, tôi không thể lái xe."
+        ],
+        "explanationVi": "할 수 있다/없다 diễn tả có thể/không thể."
+      },
+      {
+        "questionId": "P3_KV_02_Q001",
+        "displayOrder": 8,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Nam thích tiếng Hàn và tiếng Việt.",
+        "acceptedAnswers": [
+          "Nam thích tiếng Hàn và tiếng Việt.",
+          "Anh Nam thích tiếng Hàn và tiếng Việt."
+        ],
+        "explanationVi": "좋아하다 là thích; 와 nối hai danh từ."
+      }
+    ]
+  },
+  {
+    "examId": "PART3_EXAM_002",
+    "answers": [
+      {
+        "questionId": "P3_VK_03_Q002",
+        "displayOrder": 1,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "제 어머니는 병원에서 일해요.",
+        "acceptedAnswers": [
+          "제 어머니는 병원에서 일해요.",
+          "우리 엄마는 병원에서 일합니다."
+        ],
+        "explanationVi": "Địa điểm xảy ra hành động 일하다 dùng 에서."
+      },
+      {
+        "questionId": "P3_VK_13_Q002",
+        "displayOrder": 2,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "여기에 화장실이 있어요?",
+        "acceptedAnswers": [
+          "여기에 화장실이 있어요?",
+          "여기 화장실이 있어요?"
+        ],
+        "explanationVi": "Hỏi sự tồn tại dùng 있다."
+      },
+      {
+        "questionId": "P3_VK_05_Q002",
+        "displayOrder": 3,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "남 씨는 프랑스 사람입니까? 아니요, 남 씨는 미국 사람입니다.",
+        "acceptedAnswers": [
+          "남 씨는 프랑스 사람입니까? 아니요, 남 씨는 미국 사람입니다.",
+          "남 씨는 프랑스 사람이에요? 아니요, 남 씨는 미국 사람이에요."
+        ],
+        "explanationVi": "Giữ đúng chủ thể Nam và quốc tịch."
+      },
+      {
+        "questionId": "P3_VK_09_Q003",
+        "displayOrder": 4,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "저는 도서관에서 한국어를 공부할 수 있어요.",
+        "acceptedAnswers": [
+          "저는 도서관에서 한국어를 공부할 수 있어요.",
+          "저는 도서관에서 한국어를 공부할 수 있습니다."
+        ],
+        "explanationVi": "Khả năng làm hành động tại địa điểm dùng 공부할 수 있어요."
+      },
+      {
+        "questionId": "P3_KV_10_Q002",
+        "displayOrder": 5,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Vì đồ ăn Hàn Quốc cay nên tôi không thể ăn nhiều.",
+        "acceptedAnswers": [
+          "Vì đồ ăn Hàn Quốc cay nên tôi không thể ăn nhiều.",
+          "Món Hàn cay nên tôi không ăn được nhiều."
+        ],
+        "explanationVi": "Không cần dịch cứng từng chữ, nhưng phải giữ nghĩa nguyên nhân."
+      },
+      {
+        "questionId": "P3_KV_04_Q001",
+        "displayOrder": 6,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Chủ nhật tuần này tôi đã làm kim chi cùng bạn ở nhà.",
+        "acceptedAnswers": [
+          "Chủ nhật tuần này tôi đã làm kim chi cùng bạn ở nhà.",
+          "Chủ nhật tuần này tôi làm kim chi với bạn ở nhà."
+        ],
+        "explanationVi": "만들었어요 là đã làm."
+      },
+      {
+        "questionId": "P3_KV_07_Q003",
+        "displayOrder": 7,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Tôi muốn mua ba con cá và hai chai Cola.",
+        "acceptedAnswers": [
+          "Tôi muốn mua ba con cá và hai chai Cola.",
+          "Tôi muốn mua 3 con cá và 2 Cola."
+        ],
+        "explanationVi": "사고 싶어요 là muốn mua."
+      },
+      {
+        "questionId": "P3_KV_11_Q001",
+        "displayOrder": 8,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Tôi thích âm nhạc. Cuối tuần tôi thường nghe nhạc trong phòng.",
+        "acceptedAnswers": [
+          "Tôi thích âm nhạc. Cuối tuần tôi thường nghe nhạc trong phòng.",
+          "Tôi thích nghe nhạc. Cuối tuần tôi thường nghe nhạc ở trong phòng."
+        ],
+        "explanationVi": "자주 là thường xuyên."
+      }
+    ]
+  },
+  {
+    "examId": "PART3_EXAM_003",
+    "answers": [
+      {
+        "questionId": "P3_VK_04_Q001",
+        "displayOrder": 1,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "이번 주 일요일에 저는 친구와 같이 집에서 김치를 만들었습니다.",
+        "acceptedAnswers": [
+          "이번 주 일요일에 저는 친구와 같이 집에서 김치를 만들었습니다.",
+          "이번 주 일요일에 저는 친구하고 같이 집에서 김치를 만들었어요."
+        ],
+        "explanationVi": "Hoạt động quá khứ dùng -았/었-; địa điểm hành động dùng 에서."
+      },
+      {
+        "questionId": "P3_VK_10_Q003",
+        "displayOrder": 2,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "비빔밥이 맛있어서 한 개 더 주세요.",
+        "acceptedAnswers": [
+          "비빔밥이 맛있어서 한 개 더 주세요.",
+          "비빔밥이 맛있어서 하나 더 주세요."
+        ],
+        "explanationVi": "Lý do 맛있어서 nối với yêu cầu thêm."
+      },
+      {
+        "questionId": "P3_VK_14_Q001",
+        "displayOrder": 3,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "한국어 수업은 오후 다섯 시에 끝나요.",
+        "acceptedAnswers": [
+          "한국어 수업은 오후 다섯 시에 끝나요.",
+          "한국어 수업은 오후 다섯 시에 끝납니다."
+        ],
+        "explanationVi": "Thời điểm dùng 에; lịch trình kết thúc dùng 끝나다."
+      },
+      {
+        "questionId": "P3_VK_12_Q002",
+        "displayOrder": 4,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "다음 주말에 저는 태국에 여행을 가겠습니다.",
+        "acceptedAnswers": [
+          "다음 주말에 저는 태국에 여행을 가겠습니다.",
+          "다음 주말에 저는 태국에 여행을 갈 거예요."
+        ],
+        "explanationVi": "Ý định/kế hoạch dùng -겠습니다."
+      },
+      {
+        "questionId": "P3_KV_14_Q002",
+        "displayOrder": 5,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Hôm nay lớp học kết thúc lúc 8 giờ tối.",
+        "acceptedAnswers": [
+          "Hôm nay lớp học kết thúc lúc 8 giờ tối.",
+          "Lớp học hôm nay kết thúc vào 8 giờ tối."
+        ],
+        "explanationVi": "저녁 여덟 시에 là lúc 8 giờ tối."
+      },
+      {
+        "questionId": "P3_KV_01_Q001",
+        "displayOrder": 6,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Chúng ta cùng đi dạo ở công viên lúc 8 giờ tối nhé.",
+        "acceptedAnswers": [
+          "Chúng ta cùng đi dạo ở công viên lúc 8 giờ tối nhé.",
+          "Hãy cùng đi dạo ở công viên lúc 8 giờ tối."
+        ],
+        "explanationVi": "Nhận diện -(으)ㅂ시다 là lời rủ rê."
+      },
+      {
+        "questionId": "P3_KV_03_Q001",
+        "displayOrder": 7,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Bố của tôi là bác sĩ. Ông ấy làm việc ở bệnh viện Đà Nẵng.",
+        "acceptedAnswers": [
+          "Bố của tôi là bác sĩ. Ông ấy làm việc ở bệnh viện Đà Nẵng.",
+          "Bố tôi là bác sĩ và làm việc ở bệnh viện Đà Nẵng."
+        ],
+        "explanationVi": "의사 là bác sĩ; 에서 일하다 là làm việc ở."
+      },
+      {
+        "questionId": "P3_KV_12_Q003",
+        "displayOrder": 8,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Cuối tuần sau Nam định học tiếng Hàn ở thư viện.",
+        "acceptedAnswers": [
+          "Cuối tuần sau Nam định học tiếng Hàn ở thư viện.",
+          "Cuối tuần sau anh Nam sẽ học tiếng Hàn ở thư viện."
+        ],
+        "explanationVi": "Giữ đủ thời gian, người, địa điểm."
+      }
+    ]
+  },
+  {
+    "examId": "PART3_EXAM_004",
+    "answers": [
+      {
+        "questionId": "P3_VK_03_Q003",
+        "displayOrder": 1,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "제 아버지는 병원 의사입니다.",
+        "acceptedAnswers": [
+          "제 아버지는 병원 의사입니다.",
+          "우리 아빠는 병원에서 일하는 의사예요."
+        ],
+        "explanationVi": "Câu giới thiệu quan hệ và nghề nghiệp."
+      },
+      {
+        "questionId": "P3_VK_01_Q002",
+        "displayOrder": 2,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "오후 8시에 도서관에서 같이 공부합시다.",
+        "acceptedAnswers": [
+          "오후 8시에 도서관에서 같이 공부합시다.",
+          "오후 8시에 도서관에서 함께 공부합시다."
+        ],
+        "explanationVi": "Câu rủ rê học cùng dùng 공부합시다."
+      },
+      {
+        "questionId": "P3_VK_11_Q002",
+        "displayOrder": 3,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "주말에 저는 친구들과 같이 자주 등산해요.",
+        "acceptedAnswers": [
+          "주말에 저는 친구들과 같이 자주 등산해요.",
+          "주말에 저는 친구하고 같이 자주 등산합니다."
+        ],
+        "explanationVi": "Tần suất thường xuyên dùng 자주."
+      },
+      {
+        "questionId": "P3_VK_05_Q001",
+        "displayOrder": 4,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "미국 사람입니까? 아니요, 저는 프랑스 사람입니다.",
+        "acceptedAnswers": [
+          "미국 사람입니까? 아니요, 저는 프랑스 사람입니다.",
+          "미국 사람이에요? 아니요, 저는 프랑스 사람이에요."
+        ],
+        "explanationVi": "Hỏi đáp danh từ dùng 입니까/입니다 hoặc 이에요/예요."
+      },
+      {
+        "questionId": "P3_KV_05_Q003",
+        "displayOrder": 5,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Hương có phải là người Mỹ không? Không, Hương là người Pháp.",
+        "acceptedAnswers": [
+          "Hương có phải là người Mỹ không? Không, Hương là người Pháp.",
+          "Chị Hương là người Mỹ phải không? Không, chị Hương là người Pháp."
+        ],
+        "explanationVi": "Giữ đúng hai quốc tịch trong câu hỏi và trả lời."
+      },
+      {
+        "questionId": "P3_KV_06_Q002",
+        "displayOrder": 6,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Bố tôi muốn đi du lịch Thái Lan.",
+        "acceptedAnswers": [
+          "Bố tôi muốn đi du lịch Thái Lan.",
+          "Bố của chúng tôi muốn đi du lịch Thái Lan."
+        ],
+        "explanationVi": "아빠 là bố; 가고 싶어해요 là muốn đi."
+      },
+      {
+        "questionId": "P3_KV_14_Q003",
+        "displayOrder": 7,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Cuối tuần tôi học tiếng Hàn lúc 8 giờ tối.",
+        "acceptedAnswers": [
+          "Cuối tuần tôi học tiếng Hàn lúc 8 giờ tối.",
+          "Vào cuối tuần tôi học tiếng Hàn vào 8 giờ tối."
+        ],
+        "explanationVi": "Giữ thời gian cuối tuần và 8 giờ tối."
+      },
+      {
+        "questionId": "P3_KV_09_Q003",
+        "displayOrder": 8,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Tôi có thể học tiếng Hàn ở thư viện.",
+        "acceptedAnswers": [
+          "Tôi có thể học tiếng Hàn ở thư viện.",
+          "Tôi có thể học tiếng Hàn tại thư viện."
+        ],
+        "explanationVi": "공부할 수 있어요 là có thể học."
+      }
+    ]
+  },
+  {
+    "examId": "PART3_EXAM_005",
+    "answers": [
+      {
+        "questionId": "P3_VK_06_Q003",
+        "displayOrder": 1,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "흐엉 씨는 가족과 같이 여행을 가고 싶어해요.",
+        "acceptedAnswers": [
+          "흐엉 씨는 가족과 같이 여행을 가고 싶어해요.",
+          "흐엉 씨는 가족하고 같이 여행을 가고 싶어합니다."
+        ],
+        "explanationVi": "Hương là người thứ ba nên dùng 싶어해요."
+      },
+      {
+        "questionId": "P3_VK_07_Q001",
+        "displayOrder": 2,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "저는 생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 동이에요.",
+        "acceptedAnswers": [
+          "저는 생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 동이에요.",
+          "생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 동이에요."
+        ],
+        "explanationVi": "Số lượng con cá dùng 세 마리; tiền dùng 십이만 동."
+      },
+      {
+        "questionId": "P3_VK_08_Q001",
+        "displayOrder": 3,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "사과는 싸요. 망고는 비싸요.",
+        "acceptedAnswers": [
+          "사과는 싸요. 망고는 비싸요.",
+          "사과는 싸지만 망고는 비싸요."
+        ],
+        "explanationVi": "Đối chiếu hai chủ đề dùng 은/는; tương phản có thể dùng -지만."
+      },
+      {
+        "questionId": "P3_VK_10_Q002",
+        "displayOrder": 4,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "한국 음식이 매워서 많이 먹을 수 없어요.",
+        "acceptedAnswers": [
+          "한국 음식이 매워서 많이 먹을 수 없어요.",
+          "한식이 매워서 많이 먹을 수 없습니다."
+        ],
+        "explanationVi": "Giữ quan hệ nguyên nhân và khả năng phủ định."
+      },
+      {
+        "questionId": "P3_KV_11_Q003",
+        "displayOrder": 5,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Một tháng tôi ăn đồ Hàn hai lần.",
+        "acceptedAnswers": [
+          "Một tháng tôi ăn đồ Hàn hai lần.",
+          "Tôi ăn món Hàn hai lần một tháng."
+        ],
+        "explanationVi": "한 달에 두 번 là một tháng hai lần."
+      },
+      {
+        "questionId": "P3_KV_10_Q003",
+        "displayOrder": 6,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Vì cơm trộn ngon nên hãy cho tôi thêm một phần.",
+        "acceptedAnswers": [
+          "Vì cơm trộn ngon nên hãy cho tôi thêm một phần.",
+          "Cơm trộn ngon nên cho tôi thêm một phần nữa."
+        ],
+        "explanationVi": "한 개 더 là thêm một phần/cái."
+      },
+      {
+        "questionId": "P3_KV_01_Q002",
+        "displayOrder": 7,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Chúng ta cùng học ở thư viện lúc 8 giờ tối nhé.",
+        "acceptedAnswers": [
+          "Chúng ta cùng học ở thư viện lúc 8 giờ tối nhé.",
+          "Hãy cùng học bài ở thư viện lúc 8 giờ tối."
+        ],
+        "explanationVi": "함께/cùng và 공부합시다/hãy học cùng."
+      },
+      {
+        "questionId": "P3_KV_13_Q002",
+        "displayOrder": 8,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Ở đây có nhà vệ sinh không?",
+        "acceptedAnswers": [
+          "Ở đây có nhà vệ sinh không?",
+          "Gần đây có nhà vệ sinh không?"
+        ],
+        "explanationVi": "있어요 hỏi sự tồn tại."
+      }
+    ]
+  },
+  {
+    "examId": "PART3_EXAM_006",
+    "answers": [
+      {
+        "questionId": "P3_VK_11_Q001",
+        "displayOrder": 1,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "저는 음악을 듣는 것을 좋아해요. 주말에 방에서 자주 음악을 들어요.",
+        "acceptedAnswers": [
+          "저는 음악을 듣는 것을 좋아해요. 주말에 방에서 자주 음악을 들어요.",
+          "저는 음악을 좋아해요. 주말에 방에서 자주 음악을 들어요."
+        ],
+        "explanationVi": "Thói quen dùng 자주; địa điểm nghe nhạc dùng 에서."
+      },
+      {
+        "questionId": "P3_VK_09_Q002",
+        "displayOrder": 2,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "남 씨는 김치를 먹을 수 있어요? 아니요, 남 씨는 김치를 먹을 수 없어요.",
+        "acceptedAnswers": [
+          "남 씨는 김치를 먹을 수 있어요? 아니요, 남 씨는 김치를 먹을 수 없어요.",
+          "남 씨는 김치를 먹을 수 있습니까? 아니요, 남 씨는 김치를 먹을 수 없습니다."
+        ],
+        "explanationVi": "먹다 có patchim nên dùng 먹을 수 있다/없다."
+      },
+      {
+        "questionId": "P3_VK_13_Q001",
+        "displayOrder": 3,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "화장실이 어디에 있어요? 화장실은 2층에 있어요.",
+        "acceptedAnswers": [
+          "화장실이 어디에 있어요? 화장실은 2층에 있어요.",
+          "화장실은 어디예요? 2층에 있어요."
+        ],
+        "explanationVi": "Vị trí tồn tại dùng 에 있어요."
+      },
+      {
+        "questionId": "P3_VK_12_Q001",
+        "displayOrder": 4,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "다음 주말에 저는 농구를 하겠습니다. 친구들과 같이 낚시도 하겠습니다.",
+        "acceptedAnswers": [
+          "다음 주말에 저는 농구를 하겠습니다. 친구들과 같이 낚시도 하겠습니다.",
+          "다음 주말에 저는 농구를 할 거예요. 친구들과 같이 낚시도 할 거예요."
+        ],
+        "explanationVi": "Trong scope dùng -겠- cho ý định; không cần chấm tự động theo exact string."
+      },
+      {
+        "questionId": "P3_KV_03_Q003",
+        "displayOrder": 5,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Bố tôi là bác sĩ bệnh viện.",
+        "acceptedAnswers": [
+          "Bố tôi là bác sĩ bệnh viện.",
+          "Bố tôi là bác sĩ ở bệnh viện."
+        ],
+        "explanationVi": "이다 dùng để giới thiệu nghề nghiệp."
+      },
+      {
+        "questionId": "P3_KV_02_Q002",
+        "displayOrder": 6,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Tôi thích nghe nhạc.",
+        "acceptedAnswers": [
+          "Tôi thích nghe nhạc.",
+          "Tôi thích việc nghe nhạc."
+        ],
+        "explanationVi": "음악을 듣다 là nghe nhạc."
+      },
+      {
+        "questionId": "P3_KV_12_Q002",
+        "displayOrder": 7,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Cuối tuần sau tôi định đi du lịch Thái Lan.",
+        "acceptedAnswers": [
+          "Cuối tuần sau tôi định đi du lịch Thái Lan.",
+          "Cuối tuần sau tôi sẽ đi du lịch Thái Lan."
+        ],
+        "explanationVi": "여행을 가겠습니다 là sẽ/định đi du lịch."
+      },
+      {
+        "questionId": "P3_KV_07_Q001",
+        "displayOrder": 8,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Tôi muốn mua ba con cá. Tất cả là bao nhiêu tiền? Là 120.000 đồng.",
+        "acceptedAnswers": [
+          "Tôi muốn mua ba con cá. Tất cả là bao nhiêu tiền? Là 120.000 đồng.",
+          "Tôi muốn mua 3 con cá. Tổng cộng bao nhiêu tiền? 120.000 đồng."
+        ],
+        "explanationVi": "세 마리 là ba con; 십이만 동 là 120.000 đồng."
+      }
+    ]
+  },
+  {
+    "examId": "PART3_EXAM_007",
+    "answers": [
+      {
+        "questionId": "P3_VK_14_Q002",
+        "displayOrder": 1,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "오늘 수업은 저녁 여덟 시에 끝나요.",
+        "acceptedAnswers": [
+          "오늘 수업은 저녁 여덟 시에 끝나요.",
+          "오늘 수업은 저녁 여덟 시에 끝납니다."
+        ],
+        "explanationVi": "Giữ đúng hôm nay và 8 giờ tối."
+      },
+      {
+        "questionId": "P3_VK_01_Q003",
+        "displayOrder": 2,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "주말에 친구와 같이 등산합시다.",
+        "acceptedAnswers": [
+          "주말에 친구와 같이 등산합시다.",
+          "주말에 친구하고 같이 등산합시다."
+        ],
+        "explanationVi": "친구와/친구하고 đều là cách nối danh từ trong phạm vi."
+      },
+      {
+        "questionId": "P3_VK_02_Q002",
+        "displayOrder": 3,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "저는 음악을 듣는 것을 좋아해요.",
+        "acceptedAnswers": [
+          "저는 음악을 듣는 것을 좋아해요.",
+          "저는 음악을 좋아해요."
+        ],
+        "explanationVi": "Bản dịch chấp nhận diễn đạt sở thích nghe nhạc tự nhiên."
+      },
+      {
+        "questionId": "P3_VK_04_Q003",
+        "displayOrder": 4,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "오늘 저는 친구와 같이 도서관에서 한국어를 공부했어요.",
+        "acceptedAnswers": [
+          "오늘 저는 친구와 같이 도서관에서 한국어를 공부했어요.",
+          "오늘 저는 친구하고 같이 도서관에서 한국어를 공부했습니다."
+        ],
+        "explanationVi": "Dùng 공부했어요/공부했습니다 cho quá khứ."
+      },
+      {
+        "questionId": "P3_KV_04_Q002",
+        "displayOrder": 5,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Tuần trước Nam đã ăn đồ Hàn cùng gia đình ở nhà hàng.",
+        "acceptedAnswers": [
+          "Tuần trước Nam đã ăn đồ Hàn cùng gia đình ở nhà hàng.",
+          "Tuần trước anh Nam ăn món Hàn cùng gia đình ở nhà hàng."
+        ],
+        "explanationVi": "지난주에 là tuần trước; 먹었어요 là đã ăn."
+      },
+      {
+        "questionId": "P3_KV_06_Q003",
+        "displayOrder": 6,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Hương muốn đi du lịch cùng gia đình.",
+        "acceptedAnswers": [
+          "Hương muốn đi du lịch cùng gia đình.",
+          "Chị Hương muốn đi du lịch với gia đình."
+        ],
+        "explanationVi": "가족과 같이 là cùng gia đình."
+      },
+      {
+        "questionId": "P3_KV_05_Q001",
+        "displayOrder": 7,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Anh có phải là người Mỹ không? Không, tôi là người Pháp.",
+        "acceptedAnswers": [
+          "Anh có phải là người Mỹ không? Không, tôi là người Pháp.",
+          "Bạn là người Mỹ phải không? Không, tôi là người Pháp."
+        ],
+        "explanationVi": "입니까 là câu hỏi danh từ; 아니요 là không."
+      },
+      {
+        "questionId": "P3_KV_08_Q003",
+        "displayOrder": 8,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Kim chi cay nhưng ngon.",
+        "acceptedAnswers": [
+          "Kim chi cay nhưng ngon.",
+          "Kim chi thì cay nhưng ngon."
+        ],
+        "explanationVi": "맵지만 맛있어요 là cay nhưng ngon."
+      }
+    ]
+  },
+  {
+    "examId": "PART3_EXAM_008",
+    "answers": [
+      {
+        "questionId": "P3_VK_12_Q003",
+        "displayOrder": 1,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "다음 주말에 남 씨는 도서관에서 한국어를 공부하겠습니다.",
+        "acceptedAnswers": [
+          "다음 주말에 남 씨는 도서관에서 한국어를 공부하겠습니다.",
+          "다음 주말에 남 씨는 도서관에서 한국어를 공부할 거예요."
+        ],
+        "explanationVi": "Giữ đủ thời gian, chủ thể, địa điểm và hành động."
+      },
+      {
+        "questionId": "P3_VK_10_Q001",
+        "displayOrder": 2,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "김치가 매워서 먹을 수 없어요. 밥을 좀 더 주세요.",
+        "acceptedAnswers": [
+          "김치가 매워서 먹을 수 없어요. 밥을 좀 더 주세요.",
+          "김치가 매워서 먹을 수 없습니다. 밥을 좀 더 주세요."
+        ],
+        "explanationVi": "Lý do dùng -아서/어서; yêu cầu thêm dùng 더 주세요."
+      },
+      {
+        "questionId": "P3_VK_08_Q003",
+        "displayOrder": 3,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "김치는 맵지만 맛있어요.",
+        "acceptedAnswers": [
+          "김치는 맵지만 맛있어요.",
+          "김치는 맵지만 맛있습니다."
+        ],
+        "explanationVi": "Tương phản tính chất trong cùng món ăn dùng -지만."
+      },
+      {
+        "questionId": "P3_VK_05_Q003",
+        "displayOrder": 4,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "흐엉 씨는 미국 사람입니까? 아니요, 흐엉 씨는 프랑스 사람입니다.",
+        "acceptedAnswers": [
+          "흐엉 씨는 미국 사람입니까? 아니요, 흐엉 씨는 프랑스 사람입니다.",
+          "흐엉 씨는 미국 사람이에요? 아니요, 흐엉 씨는 프랑스 사람이에요."
+        ],
+        "explanationVi": "Câu phủ định trả lời quốc tịch dùng 아니요."
+      },
+      {
+        "questionId": "P3_KV_04_Q003",
+        "displayOrder": 5,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Hôm nay tôi đã học tiếng Hàn cùng bạn ở thư viện.",
+        "acceptedAnswers": [
+          "Hôm nay tôi đã học tiếng Hàn cùng bạn ở thư viện.",
+          "Hôm nay tôi học tiếng Hàn với bạn ở thư viện."
+        ],
+        "explanationVi": "공부했어요 là đã học."
+      },
+      {
+        "questionId": "P3_KV_14_Q001",
+        "displayOrder": 6,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Lớp học tiếng Hàn kết thúc lúc 5 giờ chiều.",
+        "acceptedAnswers": [
+          "Lớp học tiếng Hàn kết thúc lúc 5 giờ chiều.",
+          "Lớp tiếng Hàn kết thúc vào 5 giờ chiều."
+        ],
+        "explanationVi": "오후 다섯 시에 là lúc 5 giờ chiều."
+      },
+      {
+        "questionId": "P3_KV_01_Q003",
+        "displayOrder": 7,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Cuối tuần chúng ta cùng leo núi với bạn nhé.",
+        "acceptedAnswers": [
+          "Cuối tuần chúng ta cùng leo núi với bạn nhé.",
+          "Cuối tuần hãy cùng leo núi với bạn."
+        ],
+        "explanationVi": "친구와 같이 là cùng với bạn."
+      },
+      {
+        "questionId": "P3_KV_07_Q002",
+        "displayOrder": 8,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Cho tôi hai cơm trộn và một canh kim chi. Cho tôi thêm một chai Cola.",
+        "acceptedAnswers": [
+          "Cho tôi hai cơm trộn và một canh kim chi. Cho tôi thêm một chai Cola.",
+          "Hãy cho tôi 2 phần cơm trộn, 1 canh kim chi và thêm 1 Cola."
+        ],
+        "explanationVi": "주세요 dùng để yêu cầu/gọi món."
+      }
+    ]
+  },
+  {
+    "examId": "PART3_EXAM_009",
+    "answers": [
+      {
+        "questionId": "P3_VK_04_Q002",
+        "displayOrder": 1,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "남 씨는 지난주에 식당에서 가족과 같이 한국 음식을 먹었습니다.",
+        "acceptedAnswers": [
+          "남 씨는 지난주에 식당에서 가족과 같이 한국 음식을 먹었습니다.",
+          "남 씨는 지난주에 가족하고 같이 식당에서 한식을 먹었어요."
+        ],
+        "explanationVi": "Giữ đủ thời gian, địa điểm, người đi cùng và món ăn."
+      },
+      {
+        "questionId": "P3_VK_02_Q001",
+        "displayOrder": 2,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "남 씨는 한국어와 베트남어를 좋아합니다.",
+        "acceptedAnswers": [
+          "남 씨는 한국어와 베트남어를 좋아합니다.",
+          "남 씨는 한국어하고 베트남어를 좋아해요."
+        ],
+        "explanationVi": "Tân ngữ của 좋아하다 dùng 을/를; hai danh từ nối bằng 와/과 hoặc 하고."
+      },
+      {
+        "questionId": "P3_VK_07_Q003",
+        "displayOrder": 3,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "저는 생선 세 마리하고 콜라 두 개를 사고 싶어요.",
+        "acceptedAnswers": [
+          "저는 생선 세 마리하고 콜라 두 개를 사고 싶어요.",
+          "저는 생선 세 마리와 콜라 두 개를 사고 싶습니다."
+        ],
+        "explanationVi": "Kết hợp mong muốn mua và số lượng."
+      },
+      {
+        "questionId": "P3_VK_03_Q001",
+        "displayOrder": 4,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "제 아버지는 의사입니다. 다낭 병원에서 일합니다.",
+        "acceptedAnswers": [
+          "제 아버지는 의사입니다. 다낭 병원에서 일합니다.",
+          "우리 아빠는 의사예요. 다낭 병원에서 일해요."
+        ],
+        "explanationVi": "Giới thiệu nghề dùng 이다; nơi làm việc dùng 에서."
+      },
+      {
+        "questionId": "P3_KV_05_Q002",
+        "displayOrder": 5,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Nam có phải là người Pháp không? Không, Nam là người Mỹ.",
+        "acceptedAnswers": [
+          "Nam có phải là người Pháp không? Không, Nam là người Mỹ.",
+          "Anh Nam là người Pháp à? Không, anh Nam là người Mỹ."
+        ],
+        "explanationVi": "이에요 dùng để nói là người nước nào."
+      },
+      {
+        "questionId": "P3_KV_13_Q003",
+        "displayOrder": 6,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Nhà vệ sinh của nhà hàng ở tầng 2.",
+        "acceptedAnswers": [
+          "Nhà vệ sinh của nhà hàng ở tầng 2.",
+          "Nhà vệ sinh ở tầng 2 của nhà hàng."
+        ],
+        "explanationVi": "2층에 있어요 là ở tầng 2."
+      },
+      {
+        "questionId": "P3_KV_11_Q002",
+        "displayOrder": 7,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Cuối tuần tôi thường leo núi cùng bạn.",
+        "acceptedAnswers": [
+          "Cuối tuần tôi thường leo núi cùng bạn.",
+          "Vào cuối tuần tôi thường xuyên leo núi với bạn."
+        ],
+        "explanationVi": "주말에 là vào cuối tuần."
+      },
+      {
+        "questionId": "P3_KV_10_Q001",
+        "displayOrder": 8,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Vì kim chi cay nên tôi không thể ăn. Hãy cho tôi thêm một chút cơm.",
+        "acceptedAnswers": [
+          "Vì kim chi cay nên tôi không thể ăn. Hãy cho tôi thêm một chút cơm.",
+          "Kim chi cay nên tôi không ăn được. Cho tôi thêm cơm."
+        ],
+        "explanationVi": "매워서 là vì cay; 더 주세요 là cho thêm."
+      }
+    ]
+  },
+  {
+    "examId": "PART3_EXAM_010",
+    "answers": [
+      {
+        "questionId": "P3_VK_13_Q003",
+        "displayOrder": 1,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "식당 화장실은 2층에 있어요.",
+        "acceptedAnswers": [
+          "식당 화장실은 2층에 있어요.",
+          "화장실은 식당 2층에 있어요."
+        ],
+        "explanationVi": "Giữ địa điểm nhà hàng và tầng 2."
+      },
+      {
+        "questionId": "P3_VK_01_Q001",
+        "displayOrder": 2,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "오후 8시에 공원에서 같이 산책합시다.",
+        "acceptedAnswers": [
+          "오후 8시에 공원에서 같이 산책합시다.",
+          "오후 8시에 공원에서 함께 산책합시다."
+        ],
+        "explanationVi": "Dùng -(으)ㅂ시다 để rủ rê cùng làm việc."
+      },
+      {
+        "questionId": "P3_VK_09_Q001",
+        "displayOrder": 3,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "흐엉 씨는 운전할 수 있어요? 아니요, 저는 운전할 수 없어요.",
+        "acceptedAnswers": [
+          "흐엉 씨는 운전할 수 있어요? 아니요, 저는 운전할 수 없어요.",
+          "흐엉 씨는 운전할 수 있습니까? 아니요, 저는 운전할 수 없습니다."
+        ],
+        "explanationVi": "Khả năng dùng -(으)ㄹ 수 있다/없다."
+      },
+      {
+        "questionId": "P3_VK_06_Q001",
+        "displayOrder": 4,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "제 어머니는 태국에 여행을 가고 싶어합니다.",
+        "acceptedAnswers": [
+          "제 어머니는 태국에 여행을 가고 싶어합니다.",
+          "우리 엄마는 태국에 여행을 가고 싶어해요."
+        ],
+        "explanationVi": "Ngôi thứ ba dùng -고 싶어하다."
+      },
+      {
+        "questionId": "P3_KV_02_Q003",
+        "displayOrder": 5,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Chị Hương thích tiếng Hàn.",
+        "acceptedAnswers": [
+          "Chị Hương thích tiếng Hàn.",
+          "Hương thích tiếng Hàn."
+        ],
+        "explanationVi": "한국어를 좋아해요 là thích tiếng Hàn."
+      },
+      {
+        "questionId": "P3_KV_09_Q002",
+        "displayOrder": 6,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Nam có thể ăn kim chi không? Không, Nam không thể ăn kim chi.",
+        "acceptedAnswers": [
+          "Nam có thể ăn kim chi không? Không, Nam không thể ăn kim chi.",
+          "Anh Nam ăn được kim chi không? Không, anh Nam không ăn được kim chi."
+        ],
+        "explanationVi": "먹을 수 없어요 là không thể ăn."
+      },
+      {
+        "questionId": "P3_KV_08_Q002",
+        "displayOrder": 7,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Đồ ăn Hàn Quốc ngon nhưng cay.",
+        "acceptedAnswers": [
+          "Đồ ăn Hàn Quốc ngon nhưng cay.",
+          "Món Hàn ngon nhưng cay."
+        ],
+        "explanationVi": "지만 biểu thị tương phản nhưng."
+      },
+      {
+        "questionId": "P3_KV_12_Q001",
+        "displayOrder": 8,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Cuối tuần sau tôi định chơi bóng rổ. Tôi cũng định câu cá cùng bạn bè.",
+        "acceptedAnswers": [
+          "Cuối tuần sau tôi định chơi bóng rổ. Tôi cũng định câu cá cùng bạn bè.",
+          "Cuối tuần sau tôi sẽ chơi bóng rổ và cũng sẽ câu cá với bạn bè."
+        ],
+        "explanationVi": "하겠습니다 biểu thị ý định/kế hoạch trong scope."
+      }
+    ]
+  },
+  {
+    "examId": "PART3_EXAM_011",
+    "answers": [
+      {
+        "questionId": "P3_VK_07_Q003",
+        "displayOrder": 1,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "저는 생선 세 마리하고 콜라 두 개를 사고 싶어요.",
+        "acceptedAnswers": [
+          "저는 생선 세 마리하고 콜라 두 개를 사고 싶어요.",
+          "저는 생선 세 마리와 콜라 두 개를 사고 싶습니다."
+        ],
+        "explanationVi": "Kết hợp mong muốn mua và số lượng."
+      },
+      {
+        "questionId": "P3_VK_14_Q003",
+        "displayOrder": 2,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "주말에 저는 저녁 여덟 시에 한국어를 공부해요.",
+        "acceptedAnswers": [
+          "주말에 저는 저녁 여덟 시에 한국어를 공부해요.",
+          "주말에 저는 저녁 여덟 시에 한국어를 공부합니다."
+        ],
+        "explanationVi": "Thời gian dùng 에; tân ngữ 한국어를."
+      },
+      {
+        "questionId": "P3_VK_04_Q001",
+        "displayOrder": 3,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "이번 주 일요일에 저는 친구와 같이 집에서 김치를 만들었습니다.",
+        "acceptedAnswers": [
+          "이번 주 일요일에 저는 친구와 같이 집에서 김치를 만들었습니다.",
+          "이번 주 일요일에 저는 친구하고 같이 집에서 김치를 만들었어요."
+        ],
+        "explanationVi": "Hoạt động quá khứ dùng -았/었-; địa điểm hành động dùng 에서."
+      },
+      {
+        "questionId": "P3_VK_11_Q003",
+        "displayOrder": 4,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "저는 한 달에 두 번 한국 음식을 먹어요.",
+        "acceptedAnswers": [
+          "저는 한 달에 두 번 한국 음식을 먹어요.",
+          "저는 한 달에 두 번 한식을 먹습니다."
+        ],
+        "explanationVi": "Tần suất 한 달에 두 번 giữ đúng nghĩa một tháng hai lần."
+      },
+      {
+        "questionId": "P3_KV_08_Q002",
+        "displayOrder": 5,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Đồ ăn Hàn Quốc ngon nhưng cay.",
+        "acceptedAnswers": [
+          "Đồ ăn Hàn Quốc ngon nhưng cay.",
+          "Món Hàn ngon nhưng cay."
+        ],
+        "explanationVi": "지만 biểu thị tương phản nhưng."
+      },
+      {
+        "questionId": "P3_KV_06_Q001",
+        "displayOrder": 6,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Mẹ tôi muốn đi du lịch Thái Lan.",
+        "acceptedAnswers": [
+          "Mẹ tôi muốn đi du lịch Thái Lan.",
+          "Mẹ của tôi muốn đi du lịch đến Thái Lan."
+        ],
+        "explanationVi": "싶어합니다 diễn tả mong muốn của người thứ ba."
+      },
+      {
+        "questionId": "P3_KV_03_Q002",
+        "displayOrder": 7,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Mẹ tôi làm việc ở bệnh viện.",
+        "acceptedAnswers": [
+          "Mẹ tôi làm việc ở bệnh viện.",
+          "Mẹ của chúng tôi làm việc ở bệnh viện."
+        ],
+        "explanationVi": "엄마 là mẹ; 병원에서 là ở bệnh viện."
+      },
+      {
+        "questionId": "P3_KV_10_Q001",
+        "displayOrder": 8,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Vì kim chi cay nên tôi không thể ăn. Hãy cho tôi thêm một chút cơm.",
+        "acceptedAnswers": [
+          "Vì kim chi cay nên tôi không thể ăn. Hãy cho tôi thêm một chút cơm.",
+          "Kim chi cay nên tôi không ăn được. Cho tôi thêm cơm."
+        ],
+        "explanationVi": "매워서 là vì cay; 더 주세요 là cho thêm."
+      }
+    ]
+  },
+  {
+    "examId": "PART3_EXAM_012",
+    "answers": [
+      {
+        "questionId": "P3_VK_02_Q001",
+        "displayOrder": 1,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "남 씨는 한국어와 베트남어를 좋아합니다.",
+        "acceptedAnswers": [
+          "남 씨는 한국어와 베트남어를 좋아합니다.",
+          "남 씨는 한국어하고 베트남어를 좋아해요."
+        ],
+        "explanationVi": "Tân ngữ của 좋아하다 dùng 을/를; hai danh từ nối bằng 와/과 hoặc 하고."
+      },
+      {
+        "questionId": "P3_VK_14_Q001",
+        "displayOrder": 2,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "한국어 수업은 오후 다섯 시에 끝나요.",
+        "acceptedAnswers": [
+          "한국어 수업은 오후 다섯 시에 끝나요.",
+          "한국어 수업은 오후 다섯 시에 끝납니다."
+        ],
+        "explanationVi": "Thời điểm dùng 에; lịch trình kết thúc dùng 끝나다."
+      },
+      {
+        "questionId": "P3_VK_12_Q001",
+        "displayOrder": 3,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "다음 주말에 저는 농구를 하겠습니다. 친구들과 같이 낚시도 하겠습니다.",
+        "acceptedAnswers": [
+          "다음 주말에 저는 농구를 하겠습니다. 친구들과 같이 낚시도 하겠습니다.",
+          "다음 주말에 저는 농구를 할 거예요. 친구들과 같이 낚시도 할 거예요."
+        ],
+        "explanationVi": "Trong scope dùng -겠- cho ý định; không cần chấm tự động theo exact string."
+      },
+      {
+        "questionId": "P3_VK_10_Q002",
+        "displayOrder": 4,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "한국 음식이 매워서 많이 먹을 수 없어요.",
+        "acceptedAnswers": [
+          "한국 음식이 매워서 많이 먹을 수 없어요.",
+          "한식이 매워서 많이 먹을 수 없습니다."
+        ],
+        "explanationVi": "Giữ quan hệ nguyên nhân và khả năng phủ định."
+      },
+      {
+        "questionId": "P3_KV_02_Q002",
+        "displayOrder": 5,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Tôi thích nghe nhạc.",
+        "acceptedAnswers": [
+          "Tôi thích nghe nhạc.",
+          "Tôi thích việc nghe nhạc."
+        ],
+        "explanationVi": "음악을 듣다 là nghe nhạc."
+      },
+      {
+        "questionId": "P3_KV_03_Q001",
+        "displayOrder": 6,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Bố của tôi là bác sĩ. Ông ấy làm việc ở bệnh viện Đà Nẵng.",
+        "acceptedAnswers": [
+          "Bố của tôi là bác sĩ. Ông ấy làm việc ở bệnh viện Đà Nẵng.",
+          "Bố tôi là bác sĩ và làm việc ở bệnh viện Đà Nẵng."
+        ],
+        "explanationVi": "의사 là bác sĩ; 에서 일하다 là làm việc ở."
+      },
+      {
+        "questionId": "P3_KV_13_Q001",
+        "displayOrder": 7,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Nhà vệ sinh ở đâu? Nhà vệ sinh ở tầng 2.",
+        "acceptedAnswers": [
+          "Nhà vệ sinh ở đâu? Nhà vệ sinh ở tầng 2.",
+          "Nhà vệ sinh ở đâu ạ? Ở tầng 2."
+        ],
+        "explanationVi": "어디에 있어요 hỏi vị trí."
+      },
+      {
+        "questionId": "P3_KV_14_Q003",
+        "displayOrder": 8,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Cuối tuần tôi học tiếng Hàn lúc 8 giờ tối.",
+        "acceptedAnswers": [
+          "Cuối tuần tôi học tiếng Hàn lúc 8 giờ tối.",
+          "Vào cuối tuần tôi học tiếng Hàn vào 8 giờ tối."
+        ],
+        "explanationVi": "Giữ thời gian cuối tuần và 8 giờ tối."
+      }
+    ]
+  },
+  {
+    "examId": "PART3_EXAM_013",
+    "answers": [
+      {
+        "questionId": "P3_VK_03_Q002",
+        "displayOrder": 1,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "제 어머니는 병원에서 일해요.",
+        "acceptedAnswers": [
+          "제 어머니는 병원에서 일해요.",
+          "우리 엄마는 병원에서 일합니다."
+        ],
+        "explanationVi": "Địa điểm xảy ra hành động 일하다 dùng 에서."
+      },
+      {
+        "questionId": "P3_VK_05_Q002",
+        "displayOrder": 2,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "남 씨는 프랑스 사람입니까? 아니요, 남 씨는 미국 사람입니다.",
+        "acceptedAnswers": [
+          "남 씨는 프랑스 사람입니까? 아니요, 남 씨는 미국 사람입니다.",
+          "남 씨는 프랑스 사람이에요? 아니요, 남 씨는 미국 사람이에요."
+        ],
+        "explanationVi": "Giữ đúng chủ thể Nam và quốc tịch."
+      },
+      {
+        "questionId": "P3_VK_06_Q003",
+        "displayOrder": 3,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "흐엉 씨는 가족과 같이 여행을 가고 싶어해요.",
+        "acceptedAnswers": [
+          "흐엉 씨는 가족과 같이 여행을 가고 싶어해요.",
+          "흐엉 씨는 가족하고 같이 여행을 가고 싶어합니다."
+        ],
+        "explanationVi": "Hương là người thứ ba nên dùng 싶어해요."
+      },
+      {
+        "questionId": "P3_VK_08_Q001",
+        "displayOrder": 4,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "사과는 싸요. 망고는 비싸요.",
+        "acceptedAnswers": [
+          "사과는 싸요. 망고는 비싸요.",
+          "사과는 싸지만 망고는 비싸요."
+        ],
+        "explanationVi": "Đối chiếu hai chủ đề dùng 은/는; tương phản có thể dùng -지만."
+      },
+      {
+        "questionId": "P3_KV_06_Q002",
+        "displayOrder": 5,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Bố tôi muốn đi du lịch Thái Lan.",
+        "acceptedAnswers": [
+          "Bố tôi muốn đi du lịch Thái Lan.",
+          "Bố của chúng tôi muốn đi du lịch Thái Lan."
+        ],
+        "explanationVi": "아빠 là bố; 가고 싶어해요 là muốn đi."
+      },
+      {
+        "questionId": "P3_KV_11_Q003",
+        "displayOrder": 6,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Một tháng tôi ăn đồ Hàn hai lần.",
+        "acceptedAnswers": [
+          "Một tháng tôi ăn đồ Hàn hai lần.",
+          "Tôi ăn món Hàn hai lần một tháng."
+        ],
+        "explanationVi": "한 달에 두 번 là một tháng hai lần."
+      },
+      {
+        "questionId": "P3_KV_12_Q003",
+        "displayOrder": 7,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Cuối tuần sau Nam định học tiếng Hàn ở thư viện.",
+        "acceptedAnswers": [
+          "Cuối tuần sau Nam định học tiếng Hàn ở thư viện.",
+          "Cuối tuần sau anh Nam sẽ học tiếng Hàn ở thư viện."
+        ],
+        "explanationVi": "Giữ đủ thời gian, người, địa điểm."
+      },
+      {
+        "questionId": "P3_KV_04_Q001",
+        "displayOrder": 8,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Chủ nhật tuần này tôi đã làm kim chi cùng bạn ở nhà.",
+        "acceptedAnswers": [
+          "Chủ nhật tuần này tôi đã làm kim chi cùng bạn ở nhà.",
+          "Chủ nhật tuần này tôi làm kim chi với bạn ở nhà."
+        ],
+        "explanationVi": "만들었어요 là đã làm."
+      }
+    ]
+  },
+  {
+    "examId": "PART3_EXAM_014",
+    "answers": [
+      {
+        "questionId": "P3_VK_13_Q003",
+        "displayOrder": 1,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "식당 화장실은 2층에 있어요.",
+        "acceptedAnswers": [
+          "식당 화장실은 2층에 있어요.",
+          "화장실은 식당 2층에 있어요."
+        ],
+        "explanationVi": "Giữ địa điểm nhà hàng và tầng 2."
+      },
+      {
+        "questionId": "P3_VK_11_Q002",
+        "displayOrder": 2,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "주말에 저는 친구들과 같이 자주 등산해요.",
+        "acceptedAnswers": [
+          "주말에 저는 친구들과 같이 자주 등산해요.",
+          "주말에 저는 친구하고 같이 자주 등산합니다."
+        ],
+        "explanationVi": "Tần suất thường xuyên dùng 자주."
+      },
+      {
+        "questionId": "P3_VK_09_Q001",
+        "displayOrder": 3,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "흐엉 씨는 운전할 수 있어요? 아니요, 저는 운전할 수 없어요.",
+        "acceptedAnswers": [
+          "흐엉 씨는 운전할 수 있어요? 아니요, 저는 운전할 수 없어요.",
+          "흐엉 씨는 운전할 수 있습니까? 아니요, 저는 운전할 수 없습니다."
+        ],
+        "explanationVi": "Khả năng dùng -(으)ㄹ 수 있다/없다."
+      },
+      {
+        "questionId": "P3_VK_01_Q003",
+        "displayOrder": 4,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "주말에 친구와 같이 등산합시다.",
+        "acceptedAnswers": [
+          "주말에 친구와 같이 등산합시다.",
+          "주말에 친구하고 같이 등산합시다."
+        ],
+        "explanationVi": "친구와/친구하고 đều là cách nối danh từ trong phạm vi."
+      },
+      {
+        "questionId": "P3_KV_07_Q002",
+        "displayOrder": 5,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Cho tôi hai cơm trộn và một canh kim chi. Cho tôi thêm một chai Cola.",
+        "acceptedAnswers": [
+          "Cho tôi hai cơm trộn và một canh kim chi. Cho tôi thêm một chai Cola.",
+          "Hãy cho tôi 2 phần cơm trộn, 1 canh kim chi và thêm 1 Cola."
+        ],
+        "explanationVi": "주세요 dùng để yêu cầu/gọi món."
+      },
+      {
+        "questionId": "P3_KV_05_Q001",
+        "displayOrder": 6,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Anh có phải là người Mỹ không? Không, tôi là người Pháp.",
+        "acceptedAnswers": [
+          "Anh có phải là người Mỹ không? Không, tôi là người Pháp.",
+          "Bạn là người Mỹ phải không? Không, tôi là người Pháp."
+        ],
+        "explanationVi": "입니까 là câu hỏi danh từ; 아니요 là không."
+      },
+      {
+        "questionId": "P3_KV_01_Q002",
+        "displayOrder": 7,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Chúng ta cùng học ở thư viện lúc 8 giờ tối nhé.",
+        "acceptedAnswers": [
+          "Chúng ta cùng học ở thư viện lúc 8 giờ tối nhé.",
+          "Hãy cùng học bài ở thư viện lúc 8 giờ tối."
+        ],
+        "explanationVi": "함께/cùng và 공부합시다/hãy học cùng."
+      },
+      {
+        "questionId": "P3_KV_09_Q002",
+        "displayOrder": 8,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Nam có thể ăn kim chi không? Không, Nam không thể ăn kim chi.",
+        "acceptedAnswers": [
+          "Nam có thể ăn kim chi không? Không, Nam không thể ăn kim chi.",
+          "Anh Nam ăn được kim chi không? Không, anh Nam không ăn được kim chi."
+        ],
+        "explanationVi": "먹을 수 없어요 là không thể ăn."
+      }
+    ]
+  },
+  {
+    "examId": "PART3_EXAM_015",
+    "answers": [
+      {
+        "questionId": "P3_VK_06_Q001",
+        "displayOrder": 1,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "제 어머니는 태국에 여행을 가고 싶어합니다.",
+        "acceptedAnswers": [
+          "제 어머니는 태국에 여행을 가고 싶어합니다.",
+          "우리 엄마는 태국에 여행을 가고 싶어해요."
+        ],
+        "explanationVi": "Ngôi thứ ba dùng -고 싶어하다."
+      },
+      {
+        "questionId": "P3_VK_08_Q003",
+        "displayOrder": 2,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "김치는 맵지만 맛있어요.",
+        "acceptedAnswers": [
+          "김치는 맵지만 맛있어요.",
+          "김치는 맵지만 맛있습니다."
+        ],
+        "explanationVi": "Tương phản tính chất trong cùng món ăn dùng -지만."
+      },
+      {
+        "questionId": "P3_VK_02_Q002",
+        "displayOrder": 3,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "저는 음악을 듣는 것을 좋아해요.",
+        "acceptedAnswers": [
+          "저는 음악을 듣는 것을 좋아해요.",
+          "저는 음악을 좋아해요."
+        ],
+        "explanationVi": "Bản dịch chấp nhận diễn đạt sở thích nghe nhạc tự nhiên."
+      },
+      {
+        "questionId": "P3_VK_03_Q003",
+        "displayOrder": 4,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "제 아버지는 병원 의사입니다.",
+        "acceptedAnswers": [
+          "제 아버지는 병원 의사입니다.",
+          "우리 아빠는 병원에서 일하는 의사예요."
+        ],
+        "explanationVi": "Câu giới thiệu quan hệ và nghề nghiệp."
+      },
+      {
+        "questionId": "P3_KV_05_Q002",
+        "displayOrder": 5,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Nam có phải là người Pháp không? Không, Nam là người Mỹ.",
+        "acceptedAnswers": [
+          "Nam có phải là người Pháp không? Không, Nam là người Mỹ.",
+          "Anh Nam là người Pháp à? Không, anh Nam là người Mỹ."
+        ],
+        "explanationVi": "이에요 dùng để nói là người nước nào."
+      },
+      {
+        "questionId": "P3_KV_06_Q003",
+        "displayOrder": 6,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Hương muốn đi du lịch cùng gia đình.",
+        "acceptedAnswers": [
+          "Hương muốn đi du lịch cùng gia đình.",
+          "Chị Hương muốn đi du lịch với gia đình."
+        ],
+        "explanationVi": "가족과 같이 là cùng gia đình."
+      },
+      {
+        "questionId": "P3_KV_13_Q002",
+        "displayOrder": 7,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Ở đây có nhà vệ sinh không?",
+        "acceptedAnswers": [
+          "Ở đây có nhà vệ sinh không?",
+          "Gần đây có nhà vệ sinh không?"
+        ],
+        "explanationVi": "있어요 hỏi sự tồn tại."
+      },
+      {
+        "questionId": "P3_KV_04_Q003",
+        "displayOrder": 8,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Hôm nay tôi đã học tiếng Hàn cùng bạn ở thư viện.",
+        "acceptedAnswers": [
+          "Hôm nay tôi đã học tiếng Hàn cùng bạn ở thư viện.",
+          "Hôm nay tôi học tiếng Hàn với bạn ở thư viện."
+        ],
+        "explanationVi": "공부했어요 là đã học."
+      }
+    ]
+  },
+  {
+    "examId": "PART3_EXAM_016",
+    "answers": [
+      {
+        "questionId": "P3_VK_11_Q003",
+        "displayOrder": 1,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "저는 한 달에 두 번 한국 음식을 먹어요.",
+        "acceptedAnswers": [
+          "저는 한 달에 두 번 한국 음식을 먹어요.",
+          "저는 한 달에 두 번 한식을 먹습니다."
+        ],
+        "explanationVi": "Tần suất 한 달에 두 번 giữ đúng nghĩa một tháng hai lần."
+      },
+      {
+        "questionId": "P3_VK_10_Q001",
+        "displayOrder": 2,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "김치가 매워서 먹을 수 없어요. 밥을 좀 더 주세요.",
+        "acceptedAnswers": [
+          "김치가 매워서 먹을 수 없어요. 밥을 좀 더 주세요.",
+          "김치가 매워서 먹을 수 없습니다. 밥을 좀 더 주세요."
+        ],
+        "explanationVi": "Lý do dùng -아서/어서; yêu cầu thêm dùng 더 주세요."
+      },
+      {
+        "questionId": "P3_VK_05_Q001",
+        "displayOrder": 3,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "미국 사람입니까? 아니요, 저는 프랑스 사람입니다.",
+        "acceptedAnswers": [
+          "미국 사람입니까? 아니요, 저는 프랑스 사람입니다.",
+          "미국 사람이에요? 아니요, 저는 프랑스 사람이에요."
+        ],
+        "explanationVi": "Hỏi đáp danh từ dùng 입니까/입니다 hoặc 이에요/예요."
+      },
+      {
+        "questionId": "P3_VK_12_Q003",
+        "displayOrder": 4,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "다음 주말에 남 씨는 도서관에서 한국어를 공부하겠습니다.",
+        "acceptedAnswers": [
+          "다음 주말에 남 씨는 도서관에서 한국어를 공부하겠습니다.",
+          "다음 주말에 남 씨는 도서관에서 한국어를 공부할 거예요."
+        ],
+        "explanationVi": "Giữ đủ thời gian, chủ thể, địa điểm và hành động."
+      },
+      {
+        "questionId": "P3_KV_03_Q003",
+        "displayOrder": 5,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Bố tôi là bác sĩ bệnh viện.",
+        "acceptedAnswers": [
+          "Bố tôi là bác sĩ bệnh viện.",
+          "Bố tôi là bác sĩ ở bệnh viện."
+        ],
+        "explanationVi": "이다 dùng để giới thiệu nghề nghiệp."
+      },
+      {
+        "questionId": "P3_KV_12_Q002",
+        "displayOrder": 6,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Cuối tuần sau tôi định đi du lịch Thái Lan.",
+        "acceptedAnswers": [
+          "Cuối tuần sau tôi định đi du lịch Thái Lan.",
+          "Cuối tuần sau tôi sẽ đi du lịch Thái Lan."
+        ],
+        "explanationVi": "여행을 가겠습니다 là sẽ/định đi du lịch."
+      },
+      {
+        "questionId": "P3_KV_01_Q001",
+        "displayOrder": 7,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Chúng ta cùng đi dạo ở công viên lúc 8 giờ tối nhé.",
+        "acceptedAnswers": [
+          "Chúng ta cùng đi dạo ở công viên lúc 8 giờ tối nhé.",
+          "Hãy cùng đi dạo ở công viên lúc 8 giờ tối."
+        ],
+        "explanationVi": "Nhận diện -(으)ㅂ시다 là lời rủ rê."
+      },
+      {
+        "questionId": "P3_KV_14_Q001",
+        "displayOrder": 8,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Lớp học tiếng Hàn kết thúc lúc 5 giờ chiều.",
+        "acceptedAnswers": [
+          "Lớp học tiếng Hàn kết thúc lúc 5 giờ chiều.",
+          "Lớp tiếng Hàn kết thúc vào 5 giờ chiều."
+        ],
+        "explanationVi": "오후 다섯 시에 là lúc 5 giờ chiều."
+      }
+    ]
+  },
+  {
+    "examId": "PART3_EXAM_017",
+    "answers": [
+      {
+        "questionId": "P3_VK_09_Q002",
+        "displayOrder": 1,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "남 씨는 김치를 먹을 수 있어요? 아니요, 남 씨는 김치를 먹을 수 없어요.",
+        "acceptedAnswers": [
+          "남 씨는 김치를 먹을 수 있어요? 아니요, 남 씨는 김치를 먹을 수 없어요.",
+          "남 씨는 김치를 먹을 수 있습니까? 아니요, 남 씨는 김치를 먹을 수 없습니다."
+        ],
+        "explanationVi": "먹다 có patchim nên dùng 먹을 수 있다/없다."
+      },
+      {
+        "questionId": "P3_VK_14_Q003",
+        "displayOrder": 2,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "주말에 저는 저녁 여덟 시에 한국어를 공부해요.",
+        "acceptedAnswers": [
+          "주말에 저는 저녁 여덟 시에 한국어를 공부해요.",
+          "주말에 저는 저녁 여덟 시에 한국어를 공부합니다."
+        ],
+        "explanationVi": "Thời gian dùng 에; tân ngữ 한국어를."
+      },
+      {
+        "questionId": "P3_VK_04_Q003",
+        "displayOrder": 3,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "오늘 저는 친구와 같이 도서관에서 한국어를 공부했어요.",
+        "acceptedAnswers": [
+          "오늘 저는 친구와 같이 도서관에서 한국어를 공부했어요.",
+          "오늘 저는 친구하고 같이 도서관에서 한국어를 공부했습니다."
+        ],
+        "explanationVi": "Dùng 공부했어요/공부했습니다 cho quá khứ."
+      },
+      {
+        "questionId": "P3_VK_13_Q001",
+        "displayOrder": 4,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "화장실이 어디에 있어요? 화장실은 2층에 있어요.",
+        "acceptedAnswers": [
+          "화장실이 어디에 있어요? 화장실은 2층에 있어요.",
+          "화장실은 어디예요? 2층에 있어요."
+        ],
+        "explanationVi": "Vị trí tồn tại dùng 에 있어요."
+      },
+      {
+        "questionId": "P3_KV_07_Q001",
+        "displayOrder": 5,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Tôi muốn mua ba con cá. Tất cả là bao nhiêu tiền? Là 120.000 đồng.",
+        "acceptedAnswers": [
+          "Tôi muốn mua ba con cá. Tất cả là bao nhiêu tiền? Là 120.000 đồng.",
+          "Tôi muốn mua 3 con cá. Tổng cộng bao nhiêu tiền? 120.000 đồng."
+        ],
+        "explanationVi": "세 마리 là ba con; 십이만 동 là 120.000 đồng."
+      },
+      {
+        "questionId": "P3_KV_10_Q003",
+        "displayOrder": 6,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Vì cơm trộn ngon nên hãy cho tôi thêm một phần.",
+        "acceptedAnswers": [
+          "Vì cơm trộn ngon nên hãy cho tôi thêm một phần.",
+          "Cơm trộn ngon nên cho tôi thêm một phần nữa."
+        ],
+        "explanationVi": "한 개 더 là thêm một phần/cái."
+      },
+      {
+        "questionId": "P3_KV_09_Q001",
+        "displayOrder": 7,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Chị Hương có thể lái xe không? Không, tôi không thể lái xe.",
+        "acceptedAnswers": [
+          "Chị Hương có thể lái xe không? Không, tôi không thể lái xe.",
+          "Hương có biết lái xe không? Không, tôi không thể lái xe."
+        ],
+        "explanationVi": "할 수 있다/없다 diễn tả có thể/không thể."
+      },
+      {
+        "questionId": "P3_KV_11_Q001",
+        "displayOrder": 8,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Tôi thích âm nhạc. Cuối tuần tôi thường nghe nhạc trong phòng.",
+        "acceptedAnswers": [
+          "Tôi thích âm nhạc. Cuối tuần tôi thường nghe nhạc trong phòng.",
+          "Tôi thích nghe nhạc. Cuối tuần tôi thường nghe nhạc ở trong phòng."
+        ],
+        "explanationVi": "자주 là thường xuyên."
+      }
+    ]
+  },
+  {
+    "examId": "PART3_EXAM_018",
+    "answers": [
+      {
+        "questionId": "P3_VK_05_Q003",
+        "displayOrder": 1,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "흐엉 씨는 미국 사람입니까? 아니요, 흐엉 씨는 프랑스 사람입니다.",
+        "acceptedAnswers": [
+          "흐엉 씨는 미국 사람입니까? 아니요, 흐엉 씨는 프랑스 사람입니다.",
+          "흐엉 씨는 미국 사람이에요? 아니요, 흐엉 씨는 프랑스 사람이에요."
+        ],
+        "explanationVi": "Câu phủ định trả lời quốc tịch dùng 아니요."
+      },
+      {
+        "questionId": "P3_VK_11_Q001",
+        "displayOrder": 2,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "저는 음악을 듣는 것을 좋아해요. 주말에 방에서 자주 음악을 들어요.",
+        "acceptedAnswers": [
+          "저는 음악을 듣는 것을 좋아해요. 주말에 방에서 자주 음악을 들어요.",
+          "저는 음악을 좋아해요. 주말에 방에서 자주 음악을 들어요."
+        ],
+        "explanationVi": "Thói quen dùng 자주; địa điểm nghe nhạc dùng 에서."
+      },
+      {
+        "questionId": "P3_VK_07_Q002",
+        "displayOrder": 3,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "비빔밥 두 개하고 김치찌개 한 개 주세요. 콜라 한 개 더 주세요.",
+        "acceptedAnswers": [
+          "비빔밥 두 개하고 김치찌개 한 개 주세요. 콜라 한 개 더 주세요.",
+          "비빔밥 두 개와 김치찌개 한 개 주세요. 콜라 한 개 더 주세요."
+        ],
+        "explanationVi": "Yêu cầu món dùng 주세요; số lượng dùng 두 개/한 개."
+      },
+      {
+        "questionId": "P3_VK_01_Q002",
+        "displayOrder": 4,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "오후 8시에 도서관에서 같이 공부합시다.",
+        "acceptedAnswers": [
+          "오후 8시에 도서관에서 같이 공부합시다.",
+          "오후 8시에 도서관에서 함께 공부합시다."
+        ],
+        "explanationVi": "Câu rủ rê học cùng dùng 공부합시다."
+      },
+      {
+        "questionId": "P3_KV_02_Q001",
+        "displayOrder": 5,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Nam thích tiếng Hàn và tiếng Việt.",
+        "acceptedAnswers": [
+          "Nam thích tiếng Hàn và tiếng Việt.",
+          "Anh Nam thích tiếng Hàn và tiếng Việt."
+        ],
+        "explanationVi": "좋아하다 là thích; 와 nối hai danh từ."
+      },
+      {
+        "questionId": "P3_KV_04_Q002",
+        "displayOrder": 6,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Tuần trước Nam đã ăn đồ Hàn cùng gia đình ở nhà hàng.",
+        "acceptedAnswers": [
+          "Tuần trước Nam đã ăn đồ Hàn cùng gia đình ở nhà hàng.",
+          "Tuần trước anh Nam ăn món Hàn cùng gia đình ở nhà hàng."
+        ],
+        "explanationVi": "지난주에 là tuần trước; 먹었어요 là đã ăn."
+      },
+      {
+        "questionId": "P3_KV_14_Q002",
+        "displayOrder": 7,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Hôm nay lớp học kết thúc lúc 8 giờ tối.",
+        "acceptedAnswers": [
+          "Hôm nay lớp học kết thúc lúc 8 giờ tối.",
+          "Lớp học hôm nay kết thúc vào 8 giờ tối."
+        ],
+        "explanationVi": "저녁 여덟 시에 là lúc 8 giờ tối."
+      },
+      {
+        "questionId": "P3_KV_08_Q003",
+        "displayOrder": 8,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Kim chi cay nhưng ngon.",
+        "acceptedAnswers": [
+          "Kim chi cay nhưng ngon.",
+          "Kim chi thì cay nhưng ngon."
+        ],
+        "explanationVi": "맵지만 맛있어요 là cay nhưng ngon."
+      }
+    ]
+  },
+  {
+    "examId": "PART3_EXAM_019",
+    "answers": [
+      {
+        "questionId": "P3_VK_09_Q003",
+        "displayOrder": 1,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "저는 도서관에서 한국어를 공부할 수 있어요.",
+        "acceptedAnswers": [
+          "저는 도서관에서 한국어를 공부할 수 있어요.",
+          "저는 도서관에서 한국어를 공부할 수 있습니다."
+        ],
+        "explanationVi": "Khả năng làm hành động tại địa điểm dùng 공부할 수 있어요."
+      },
+      {
+        "questionId": "P3_VK_14_Q002",
+        "displayOrder": 2,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "오늘 수업은 저녁 여덟 시에 끝나요.",
+        "acceptedAnswers": [
+          "오늘 수업은 저녁 여덟 시에 끝나요.",
+          "오늘 수업은 저녁 여덟 시에 끝납니다."
+        ],
+        "explanationVi": "Giữ đúng hôm nay và 8 giờ tối."
+      },
+      {
+        "questionId": "P3_VK_12_Q002",
+        "displayOrder": 3,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "다음 주말에 저는 태국에 여행을 가겠습니다.",
+        "acceptedAnswers": [
+          "다음 주말에 저는 태국에 여행을 가겠습니다.",
+          "다음 주말에 저는 태국에 여행을 갈 거예요."
+        ],
+        "explanationVi": "Ý định/kế hoạch dùng -겠습니다."
+      },
+      {
+        "questionId": "P3_VK_10_Q003",
+        "displayOrder": 4,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "비빔밥이 맛있어서 한 개 더 주세요.",
+        "acceptedAnswers": [
+          "비빔밥이 맛있어서 한 개 더 주세요.",
+          "비빔밥이 맛있어서 하나 더 주세요."
+        ],
+        "explanationVi": "Lý do 맛있어서 nối với yêu cầu thêm."
+      },
+      {
+        "questionId": "P3_KV_03_Q002",
+        "displayOrder": 5,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Mẹ tôi làm việc ở bệnh viện.",
+        "acceptedAnswers": [
+          "Mẹ tôi làm việc ở bệnh viện.",
+          "Mẹ của chúng tôi làm việc ở bệnh viện."
+        ],
+        "explanationVi": "엄마 là mẹ; 병원에서 là ở bệnh viện."
+      },
+      {
+        "questionId": "P3_KV_12_Q001",
+        "displayOrder": 6,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Cuối tuần sau tôi định chơi bóng rổ. Tôi cũng định câu cá cùng bạn bè.",
+        "acceptedAnswers": [
+          "Cuối tuần sau tôi định chơi bóng rổ. Tôi cũng định câu cá cùng bạn bè.",
+          "Cuối tuần sau tôi sẽ chơi bóng rổ và cũng sẽ câu cá với bạn bè."
+        ],
+        "explanationVi": "하겠습니다 biểu thị ý định/kế hoạch trong scope."
+      },
+      {
+        "questionId": "P3_KV_05_Q003",
+        "displayOrder": 7,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Hương có phải là người Mỹ không? Không, Hương là người Pháp.",
+        "acceptedAnswers": [
+          "Hương có phải là người Mỹ không? Không, Hương là người Pháp.",
+          "Chị Hương là người Mỹ phải không? Không, chị Hương là người Pháp."
+        ],
+        "explanationVi": "Giữ đúng hai quốc tịch trong câu hỏi và trả lời."
+      },
+      {
+        "questionId": "P3_KV_11_Q002",
+        "displayOrder": 8,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Cuối tuần tôi thường leo núi cùng bạn.",
+        "acceptedAnswers": [
+          "Cuối tuần tôi thường leo núi cùng bạn.",
+          "Vào cuối tuần tôi thường xuyên leo núi với bạn."
+        ],
+        "explanationVi": "주말에 là vào cuối tuần."
+      }
+    ]
+  },
+  {
+    "examId": "PART3_EXAM_020",
+    "answers": [
+      {
+        "questionId": "P3_VK_07_Q001",
+        "displayOrder": 1,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "저는 생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 동이에요.",
+        "acceptedAnswers": [
+          "저는 생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 동이에요.",
+          "생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 동이에요."
+        ],
+        "explanationVi": "Số lượng con cá dùng 세 마리; tiền dùng 십이만 동."
+      },
+      {
+        "questionId": "P3_VK_01_Q001",
+        "displayOrder": 2,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "오후 8시에 공원에서 같이 산책합시다.",
+        "acceptedAnswers": [
+          "오후 8시에 공원에서 같이 산책합시다.",
+          "오후 8시에 공원에서 함께 산책합시다."
+        ],
+        "explanationVi": "Dùng -(으)ㅂ시다 để rủ rê cùng làm việc."
+      },
+      {
+        "questionId": "P3_VK_08_Q002",
+        "displayOrder": 3,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "한국 음식은 맛있지만 매워요.",
+        "acceptedAnswers": [
+          "한국 음식은 맛있지만 매워요.",
+          "한식은 맛있지만 매워요."
+        ],
+        "explanationVi": "Tương phản ngon nhưng cay dùng -지만."
+      },
+      {
+        "questionId": "P3_VK_03_Q001",
+        "displayOrder": 4,
+        "direction": "vi_to_ko",
+        "sampleAnswer": "제 아버지는 의사입니다. 다낭 병원에서 일합니다.",
+        "acceptedAnswers": [
+          "제 아버지는 의사입니다. 다낭 병원에서 일합니다.",
+          "우리 아빠는 의사예요. 다낭 병원에서 일해요."
+        ],
+        "explanationVi": "Giới thiệu nghề dùng 이다; nơi làm việc dùng 에서."
+      },
+      {
+        "questionId": "P3_KV_09_Q003",
+        "displayOrder": 5,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Tôi có thể học tiếng Hàn ở thư viện.",
+        "acceptedAnswers": [
+          "Tôi có thể học tiếng Hàn ở thư viện.",
+          "Tôi có thể học tiếng Hàn tại thư viện."
+        ],
+        "explanationVi": "공부할 수 있어요 là có thể học."
+      },
+      {
+        "questionId": "P3_KV_13_Q003",
+        "displayOrder": 6,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Nhà vệ sinh của nhà hàng ở tầng 2.",
+        "acceptedAnswers": [
+          "Nhà vệ sinh của nhà hàng ở tầng 2.",
+          "Nhà vệ sinh ở tầng 2 của nhà hàng."
+        ],
+        "explanationVi": "2층에 있어요 là ở tầng 2."
+      },
+      {
+        "questionId": "P3_KV_02_Q003",
+        "displayOrder": 7,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Chị Hương thích tiếng Hàn.",
+        "acceptedAnswers": [
+          "Chị Hương thích tiếng Hàn.",
+          "Hương thích tiếng Hàn."
+        ],
+        "explanationVi": "한국어를 좋아해요 là thích tiếng Hàn."
+      },
+      {
+        "questionId": "P3_KV_07_Q003",
+        "displayOrder": 8,
+        "direction": "ko_to_vi",
+        "sampleAnswer": "Tôi muốn mua ba con cá và hai chai Cola.",
+        "acceptedAnswers": [
+          "Tôi muốn mua ba con cá và hai chai Cola.",
+          "Tôi muốn mua 3 con cá và 2 Cola."
+        ],
+        "explanationVi": "사고 싶어요 là muốn mua."
+      }
+    ]
+  }
+]

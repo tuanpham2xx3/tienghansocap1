@@ -1,0 +1,268 @@
+[
+  {
+    "id": "P1_L01_01",
+    "targetLesson": 1,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn 입니다 / 입니까 trong câu giới thiệu hoặc hỏi thông tin",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L01_02",
+    "targetLesson": 1,
+    "skill": "grammar",
+    "knowledgeTarget": "Điền tiểu từ chủ đề 은/는",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L01_03",
+    "targetLesson": 1,
+    "skill": "vocabulary",
+    "knowledgeTarget": "Chọn từ vựng về quốc tịch, nghề nghiệp hoặc ngành học",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L02_01",
+    "targetLesson": 2,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn 이것 / 그것 / 저것",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L02_02",
+    "targetLesson": 2,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn 여기 / 거기 / 저기",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L02_03",
+    "targetLesson": 2,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn 에 있습니다 / 없습니다 theo ngữ cảnh",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L02_04",
+    "targetLesson": 2,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn cấu trúc phủ định danh từ 이/가 아닙니다",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L02_05",
+    "targetLesson": 2,
+    "skill": "vocabulary",
+    "knowledgeTarget": "Chọn từ vựng đồ vật hoặc cơ sở vật chất trường học",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L03_01",
+    "targetLesson": 3,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn đuôi trần thuật/nghi vấn -ㅂ/습니다 / -ㅂ/습니까",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L03_02",
+    "targetLesson": 3,
+    "skill": "grammar",
+    "knowledgeTarget": "Điền tiểu từ tân ngữ 을/를",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L03_03",
+    "targetLesson": 3,
+    "skill": "grammar",
+    "knowledgeTarget": "Điền 에서 chỉ địa điểm diễn ra hành động",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L03_04",
+    "targetLesson": 3,
+    "skill": "vocabulary",
+    "knowledgeTarget": "Chọn động từ sinh hoạt phù hợp ngữ cảnh",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L03_05",
+    "targetLesson": 3,
+    "skill": "dialogue",
+    "knowledgeTarget": "Chọn câu trả lời phù hợp trong hội thoại sinh hoạt hằng ngày",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L04_01",
+    "targetLesson": 4,
+    "skill": "number_time",
+    "knowledgeTarget": "Số Hán Hàn dùng cho ngày/tháng/năm/số điện thoại/tầng/phút",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L04_02",
+    "targetLesson": 4,
+    "skill": "grammar",
+    "knowledgeTarget": "Điền 에 chỉ thời gian",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L04_03",
+    "targetLesson": 4,
+    "skill": "grammar",
+    "knowledgeTarget": "Điền 와/과 nối hai danh từ",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L04_04",
+    "targetLesson": 4,
+    "skill": "dialogue",
+    "knowledgeTarget": "Hội thoại về ngày, thứ hoặc kế hoạch",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L05_01",
+    "targetLesson": 5,
+    "skill": "number_time",
+    "knowledgeTarget": "Số thuần Hàn khi nói giờ",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L05_02",
+    "targetLesson": 5,
+    "skill": "number_counter",
+    "knowledgeTarget": "Chọn định từ số 한 / 두 / 세 / 네 / 스무",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L05_03",
+    "targetLesson": 5,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn dạng chia lịch sự -아/어요",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L05_04",
+    "targetLesson": 5,
+    "skill": "grammar",
+    "knowledgeTarget": "Điền 에 trong cấu trúc chỉ địa điểm đến 에 가다",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L05_05",
+    "targetLesson": 5,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn phủ định ngắn 안",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L05_06",
+    "targetLesson": 5,
+    "skill": "dialogue",
+    "knowledgeTarget": "Hội thoại về lịch trình hằng ngày",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L06_01",
+    "targetLesson": 6,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn dạng quá khứ -았/었-",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L06_02",
+    "targetLesson": 6,
+    "skill": "grammar",
+    "knowledgeTarget": "Điền 하고 với nghĩa và/cùng với",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L06_03",
+    "targetLesson": 6,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn câu rủ rê -(으)ㅂ시다",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L06_04",
+    "targetLesson": 6,
+    "skill": "vocabulary_dialogue",
+    "knowledgeTarget": "Từ vựng hoặc hội thoại về hoạt động cuối tuần",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L07_01",
+    "targetLesson": 7,
+    "skill": "number_counter",
+    "knowledgeTarget": "Chọn đơn vị đếm phù hợp",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L07_02",
+    "targetLesson": 7,
+    "skill": "number_counter",
+    "knowledgeTarget": "Số thuần Hàn kết hợp đơn vị đếm trong ngữ cảnh mua hàng",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L07_03",
+    "targetLesson": 7,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn cấu trúc mong muốn -고 싶다",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L07_04",
+    "targetLesson": 7,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn 은/는 mang nghĩa đối chiếu trong so sánh đồ vật/giá cả",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L07_05",
+    "targetLesson": 7,
+    "skill": "dialogue",
+    "knowledgeTarget": "Hội thoại mua hàng hoặc hỏi giá",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L08_01",
+    "targetLesson": 8,
+    "skill": "vocabulary",
+    "knowledgeTarget": "Chọn tên món ăn phù hợp ngữ cảnh",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L08_02",
+    "targetLesson": 8,
+    "skill": "vocabulary",
+    "knowledgeTarget": "Chọn tính từ vị giác phù hợp",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L08_03",
+    "targetLesson": 8,
+    "skill": "grammar_dialogue",
+    "knowledgeTarget": "Chọn cấu trúc ý định -겠- trong ngữ cảnh gọi món/quyết định",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L08_04",
+    "targetLesson": 8,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn phủ định dài -지 않다",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L08_05",
+    "targetLesson": 8,
+    "skill": "grammar_dialogue",
+    "knowledgeTarget": "Chọn yêu cầu/khuyên nhủ lịch sự -(으)세요",
+    "quantity": 3
+  },
+  {
+    "id": "P1_L08_06",
+    "targetLesson": 8,
+    "skill": "dialogue",
+    "knowledgeTarget": "Hội thoại gọi món hoặc thanh toán trong nhà hàng",
+    "quantity": 3
+  }
+]

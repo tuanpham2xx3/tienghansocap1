@@ -1,0 +1,57 @@
+{
+  "version": "part2-v1",
+  "sourceLessons": [1, 2, 3, 4, 5, 6, 7, 8],
+  "topicLabels": [
+    { "key": "NATIONALITY", "koreanLabel": "국적", "vietnameseMeaning": "Quốc tịch", "allowedVocabulary": ["베트남", "한국", "미국", "일본", "중국"] },
+    { "key": "JOB", "koreanLabel": "직업", "vietnameseMeaning": "Nghề nghiệp", "allowedVocabulary": ["선생님", "학생", "약사", "회사원"] },
+    { "key": "SCHOOL", "koreanLabel": "학교", "vietnameseMeaning": "Trường học", "allowedVocabulary": ["학교", "교실", "도서관", "강의실"] },
+    { "key": "OBJECT", "koreanLabel": "물건", "vietnameseMeaning": "Đồ vật", "allowedVocabulary": ["책", "사전", "가방", "펜", "시계"] },
+    { "key": "PLACE", "koreanLabel": "장소", "vietnameseMeaning": "Địa điểm", "allowedVocabulary": ["은행", "우체국", "식당", "병원", "공원"] },
+    { "key": "DAILY_LIFE", "koreanLabel": "일상생활", "vietnameseMeaning": "Sinh hoạt hằng ngày", "allowedVocabulary": ["먹다", "마시다", "읽다", "자다", "청소하다"] },
+    { "key": "HOBBY", "koreanLabel": "취미", "vietnameseMeaning": "Sở thích", "allowedVocabulary": ["영화", "음악", "축구", "낚시", "배구"] },
+    { "key": "DATE_DAY", "koreanLabel": "날짜와 요일", "vietnameseMeaning": "Ngày tháng và thứ", "allowedVocabulary": ["월요일", "화요일", "토요일", "일요일", "오월"] },
+    { "key": "DAILY_SCHEDULE", "koreanLabel": "하루 일과", "vietnameseMeaning": "Lịch trình trong ngày", "allowedVocabulary": ["아침", "오후", "출근하다", "퇴근하다", "일어나다"] },
+    { "key": "WEEKEND", "koreanLabel": "주말", "vietnameseMeaning": "Cuối tuần", "allowedVocabulary": ["주말", "여행하다", "등산하다", "수영하다", "산책하다"] },
+    { "key": "SHOPPING", "koreanLabel": "물건 사기", "vietnameseMeaning": "Mua đồ", "allowedVocabulary": ["마트", "과자", "주스", "소설책", "원"] },
+    { "key": "FOOD", "koreanLabel": "음식", "vietnameseMeaning": "Món ăn", "allowedVocabulary": ["김치찌개", "비빔밥", "냉면", "라면", "콜라"] },
+    { "key": "TASTE", "koreanLabel": "맛", "vietnameseMeaning": "Vị", "allowedVocabulary": ["맛있다", "맵다", "달다", "짜다", "싱겁다"] },
+    { "key": "TIME", "koreanLabel": "시간", "vietnameseMeaning": "Thời gian", "allowedVocabulary": ["시", "분", "오전", "오후", "저녁"] }
+  ],
+  "allowedGrammarKeys": [
+    "TOPIC_READING",
+    "VISUAL_READING",
+    "PASSAGE_READING",
+    "PRESENT_POLITE",
+    "PAST_TENSE",
+    "TIME_EXPRESSION",
+    "LOCATION_EXISTENCE",
+    "ACTION_LOCATION",
+    "COUNTER_NUMBER",
+    "NEGATION",
+    "CONNECTOR"
+  ],
+  "allowedVocabulary": [
+    "국적", "직업", "학교", "물건", "장소", "일상생활", "취미", "날짜와 요일", "하루 일과", "주말", "물건 사기", "음식", "맛", "시간",
+    "베트남", "한국", "미국", "일본", "중국", "선생님", "학생", "약사", "회사원", "교실", "도서관", "강의실", "책", "사전", "가방", "펜", "시계",
+    "은행", "우체국", "식당", "병원", "공원", "먹다", "마시다", "읽다", "자다", "청소하다", "영화", "음악", "축구", "낚시", "배구",
+    "월요일", "화요일", "토요일", "일요일", "오월", "아침", "오후", "출근하다", "퇴근하다", "일어나다", "여행하다", "등산하다", "수영하다", "산책하다",
+    "마트", "과자", "주스", "소설책", "원", "김치찌개", "비빔밥", "냉면", "라면", "콜라", "맛있다", "맵다", "달다", "짜다", "싱겁다",
+    "시", "분", "오전", "저녁", "영수증", "카드", "메뉴", "일정", "공지", "생일", "파티", "회의", "시험", "가격", "합계", "수업", "친구", "가족",
+    "한국어", "오늘", "어머니", "집", "회사", "밥", "지난주", "개"
+  ],
+  "stimulusTypes": [
+    { "key": "receipt", "allowedFields": ["date", "time", "items", "grandTotal", "currency"], "allowedVocabulary": ["영수증", "우유", "과자", "주스", "합계"] },
+    { "key": "card", "allowedFields": ["sender", "receiver", "occasion", "gift", "message"], "allowedVocabulary": ["생일", "카드", "선물", "친구"] },
+    { "key": "menu", "allowedFields": ["restaurantName", "items", "currency"], "allowedVocabulary": ["메뉴", "김치찌개", "비빔밥", "냉면", "콜라"] },
+    { "key": "schedule", "allowedFields": ["date", "day", "time", "activity", "place"], "allowedVocabulary": ["일정", "월요일", "시험", "회의", "도서관"] },
+    { "key": "notice", "allowedFields": ["event", "date", "time", "place", "note"], "allowedVocabulary": ["공지", "파티", "식당", "교실", "시간"] }
+  ],
+  "passageFocuses": [
+    "profile_language",
+    "class_activity",
+    "gift_plan",
+    "daily_schedule",
+    "weekend_activity",
+    "shopping_food"
+  ]
+}

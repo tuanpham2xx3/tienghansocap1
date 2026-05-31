@@ -1,0 +1,26 @@
+{
+  "id": "P2_T2_RECEIPT_Q002_STIMULUS",
+  "type": "receipt",
+  "title": "영수증",
+  "structuredData": {
+    "date": "2010/05/10",
+    "time": "14:20",
+    "items": [
+      {
+        "name": "주스",
+        "quantity": 2,
+        "unit": "개",
+        "lineTotal": 2000
+      },
+      {
+        "name": "과자",
+        "quantity": 2,
+        "unit": "개",
+        "lineTotal": 3000
+      }
+    ],
+    "grandTotal": 5000,
+    "currency": "원"
+  },
+  "fallbackText": "영수증\n2010/05/10 14:20\n주스 x 2 2,000원\n과자 x 2 3,000원\n합계 5,000원"
+}

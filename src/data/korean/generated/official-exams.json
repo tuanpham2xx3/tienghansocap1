@@ -1,0 +1,322 @@
+[
+  {
+    "id": "OFFICIAL_EXAM_001",
+    "title": "Đề chính thức 001",
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "partExamIds": {
+      "part1": "PART1_EXAM_001",
+      "part2": "PART2_EXAM_002",
+      "part3": "PART3_EXAM_003"
+    },
+    "questionCounts": {
+      "part1": 10,
+      "part2": 9,
+      "part3": 8,
+      "total": 27
+    }
+  },
+  {
+    "id": "OFFICIAL_EXAM_002",
+    "title": "Đề chính thức 002",
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "partExamIds": {
+      "part1": "PART1_EXAM_002",
+      "part2": "PART2_EXAM_003",
+      "part3": "PART3_EXAM_004"
+    },
+    "questionCounts": {
+      "part1": 10,
+      "part2": 9,
+      "part3": 8,
+      "total": 27
+    }
+  },
+  {
+    "id": "OFFICIAL_EXAM_003",
+    "title": "Đề chính thức 003",
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "partExamIds": {
+      "part1": "PART1_EXAM_003",
+      "part2": "PART2_EXAM_004",
+      "part3": "PART3_EXAM_005"
+    },
+    "questionCounts": {
+      "part1": 10,
+      "part2": 9,
+      "part3": 8,
+      "total": 27
+    }
+  },
+  {
+    "id": "OFFICIAL_EXAM_004",
+    "title": "Đề chính thức 004",
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "partExamIds": {
+      "part1": "PART1_EXAM_004",
+      "part2": "PART2_EXAM_005",
+      "part3": "PART3_EXAM_006"
+    },
+    "questionCounts": {
+      "part1": 10,
+      "part2": 9,
+      "part3": 8,
+      "total": 27
+    }
+  },
+  {
+    "id": "OFFICIAL_EXAM_005",
+    "title": "Đề chính thức 005",
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "partExamIds": {
+      "part1": "PART1_EXAM_005",
+      "part2": "PART2_EXAM_006",
+      "part3": "PART3_EXAM_007"
+    },
+    "questionCounts": {
+      "part1": 10,
+      "part2": 9,
+      "part3": 8,
+      "total": 27
+    }
+  },
+  {
+    "id": "OFFICIAL_EXAM_006",
+    "title": "Đề chính thức 006",
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "partExamIds": {
+      "part1": "PART1_EXAM_006",
+      "part2": "PART2_EXAM_007",
+      "part3": "PART3_EXAM_008"
+    },
+    "questionCounts": {
+      "part1": 10,
+      "part2": 9,
+      "part3": 8,
+      "total": 27
+    }
+  },
+  {
+    "id": "OFFICIAL_EXAM_007",
+    "title": "Đề chính thức 007",
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "partExamIds": {
+      "part1": "PART1_EXAM_007",
+      "part2": "PART2_EXAM_008",
+      "part3": "PART3_EXAM_009"
+    },
+    "questionCounts": {
+      "part1": 10,
+      "part2": 9,
+      "part3": 8,
+      "total": 27
+    }
+  },
+  {
+    "id": "OFFICIAL_EXAM_008",
+    "title": "Đề chính thức 008",
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "partExamIds": {
+      "part1": "PART1_EXAM_008",
+      "part2": "PART2_EXAM_009",
+      "part3": "PART3_EXAM_010"
+    },
+    "questionCounts": {
+      "part1": 10,
+      "part2": 9,
+      "part3": 8,
+      "total": 27
+    }
+  },
+  {
+    "id": "OFFICIAL_EXAM_009",
+    "title": "Đề chính thức 009",
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "partExamIds": {
+      "part1": "PART1_EXAM_009",
+      "part2": "PART2_EXAM_010",
+      "part3": "PART3_EXAM_011"
+    },
+    "questionCounts": {
+      "part1": 10,
+      "part2": 9,
+      "part3": 8,
+      "total": 27
+    }
+  },
+  {
+    "id": "OFFICIAL_EXAM_010",
+    "title": "Đề chính thức 010",
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "partExamIds": {
+      "part1": "PART1_EXAM_010",
+      "part2": "PART2_EXAM_011",
+      "part3": "PART3_EXAM_012"
+    },
+    "questionCounts": {
+      "part1": 10,
+      "part2": 9,
+      "part3": 8,
+      "total": 27
+    }
+  },
+  {
+    "id": "OFFICIAL_EXAM_011",
+    "title": "Đề chính thức 011",
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "partExamIds": {
+      "part1": "PART1_EXAM_011",
+      "part2": "PART2_EXAM_012",
+      "part3": "PART3_EXAM_013"
+    },
+    "questionCounts": {
+      "part1": 10,
+      "part2": 9,
+      "part3": 8,
+      "total": 27
+    }
+  },
+  {
+    "id": "OFFICIAL_EXAM_012",
+    "title": "Đề chính thức 012",
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "partExamIds": {
+      "part1": "PART1_EXAM_012",
+      "part2": "PART2_EXAM_013",
+      "part3": "PART3_EXAM_014"
+    },
+    "questionCounts": {
+      "part1": 10,
+      "part2": 9,
+      "part3": 8,
+      "total": 27
+    }
+  },
+  {
+    "id": "OFFICIAL_EXAM_013",
+    "title": "Đề chính thức 013",
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "partExamIds": {
+      "part1": "PART1_EXAM_013",
+      "part2": "PART2_EXAM_014",
+      "part3": "PART3_EXAM_015"
+    },
+    "questionCounts": {
+      "part1": 10,
+      "part2": 9,
+      "part3": 8,
+      "total": 27
+    }
+  },
+  {
+    "id": "OFFICIAL_EXAM_014",
+    "title": "Đề chính thức 014",
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "partExamIds": {
+      "part1": "PART1_EXAM_014",
+      "part2": "PART2_EXAM_015",
+      "part3": "PART3_EXAM_016"
+    },
+    "questionCounts": {
+      "part1": 10,
+      "part2": 9,
+      "part3": 8,
+      "total": 27
+    }
+  },
+  {
+    "id": "OFFICIAL_EXAM_015",
+    "title": "Đề chính thức 015",
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "partExamIds": {
+      "part1": "PART1_EXAM_015",
+      "part2": "PART2_EXAM_016",
+      "part3": "PART3_EXAM_017"
+    },
+    "questionCounts": {
+      "part1": 10,
+      "part2": 9,
+      "part3": 8,
+      "total": 27
+    }
+  },
+  {
+    "id": "OFFICIAL_EXAM_016",
+    "title": "Đề chính thức 016",
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "partExamIds": {
+      "part1": "PART1_EXAM_016",
+      "part2": "PART2_EXAM_017",
+      "part3": "PART3_EXAM_018"
+    },
+    "questionCounts": {
+      "part1": 10,
+      "part2": 9,
+      "part3": 8,
+      "total": 27
+    }
+  },
+  {
+    "id": "OFFICIAL_EXAM_017",
+    "title": "Đề chính thức 017",
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "partExamIds": {
+      "part1": "PART1_EXAM_017",
+      "part2": "PART2_EXAM_018",
+      "part3": "PART3_EXAM_019"
+    },
+    "questionCounts": {
+      "part1": 10,
+      "part2": 9,
+      "part3": 8,
+      "total": 27
+    }
+  },
+  {
+    "id": "OFFICIAL_EXAM_018",
+    "title": "Đề chính thức 018",
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "partExamIds": {
+      "part1": "PART1_EXAM_018",
+      "part2": "PART2_EXAM_019",
+      "part3": "PART3_EXAM_020"
+    },
+    "questionCounts": {
+      "part1": 10,
+      "part2": 9,
+      "part3": 8,
+      "total": 27
+    }
+  },
+  {
+    "id": "OFFICIAL_EXAM_019",
+    "title": "Đề chính thức 019",
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "partExamIds": {
+      "part1": "PART1_EXAM_019",
+      "part2": "PART2_EXAM_020",
+      "part3": "PART3_EXAM_001"
+    },
+    "questionCounts": {
+      "part1": 10,
+      "part2": 9,
+      "part3": 8,
+      "total": 27
+    }
+  },
+  {
+    "id": "OFFICIAL_EXAM_020",
+    "title": "Đề chính thức 020",
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "partExamIds": {
+      "part1": "PART1_EXAM_020",
+      "part2": "PART2_EXAM_001",
+      "part3": "PART3_EXAM_002"
+    },
+    "questionCounts": {
+      "part1": 10,
+      "part2": 9,
+      "part3": 8,
+      "total": 27
+    }
+  }
+]

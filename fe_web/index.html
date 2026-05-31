@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Học tiếng Hàn sơ cấp</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+KR:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              sans: ["Inter", "Noto Sans KR", "system-ui", "sans-serif"],
+              korean: ["Noto Sans KR", "Inter", "system-ui", "sans-serif"],
+            },
+          },
+        },
+      };
+    </script>
+  </head>
+  <body class="bg-[#FFF8EE] font-sans text-[#262422]">
+    <main class="mx-auto min-h-screen max-w-7xl px-5 py-6">
+      <header class="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
+        <a href="./index.html" class="text-2xl font-extrabold tracking-tight text-[#2F5D50]">Korean Study</a>
+        <nav class="flex flex-wrap items-center gap-2 text-sm font-bold">
+          <a class="rounded-xl px-4 py-2 hover:bg-white" href="#vocabulary">Từ vựng</a>
+          <a class="rounded-xl px-4 py-2 hover:bg-white" href="#grammar">Ngữ pháp</a>
+          <a class="rounded-xl bg-[#2F5D50] px-4 py-2 text-white" href="./exam.html">Thi thử</a>
+        </nav>
+      </header>
+
+      <section class="grid min-h-[calc(100dvh-96px)] items-center gap-8 py-10 lg:grid-cols-[0.92fr_1.08fr]">
+        <div>
+          <div class="inline-block -rotate-1 bg-[#F6D365] px-4 py-2 text-sm font-extrabold">Học nhẹ mỗi ngày, thi thử rõ ràng</div>
+          <h1 class="mt-6 max-w-3xl text-5xl font-extrabold leading-[1.05] md:text-6xl">
+            Chọn phần cần học hôm nay.
+          </h1>
+          <p class="mt-5 max-w-xl text-lg leading-8 text-[#6B625C]">
+            Tập trung vào 3 luồng chính: ôn từ vựng, học ngữ pháp, và làm đề thi thử tiếng Hàn sơ cấp.
+          </p>
+          <div class="mt-7 flex flex-wrap gap-3">
+            <a class="inline-flex h-12 items-center rounded-xl bg-[#2F5D50] px-5 text-sm font-bold text-white" href="./exam.html">Vào thi thử</a>
+            <a class="inline-flex h-12 items-center rounded-xl border border-[#D9CBB8] bg-white px-5 text-sm font-bold" href="./test_ui/combo-6-ui-kit.html">Xem UI kit</a>
+          </div>
+        </div>
+
+        <section class="grid gap-4">
+          <a id="vocabulary" href="#vocabulary" class="group relative overflow-hidden rounded-2xl border border-[#D9CBB8] bg-white p-6 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md">
+            <div class="absolute -right-8 top-8 h-10 w-36 rotate-6 bg-[#F6D365]/60"></div>
+            <div class="relative flex flex-col gap-5 md:flex-row md:items-center md:justify-between">
+              <div>
+                <p class="text-sm font-extrabold uppercase tracking-wide text-[#2F5D50]">01</p>
+                <h2 class="mt-2 text-3xl font-extrabold">Học từ vựng</h2>
+                <p class="mt-2 max-w-xl leading-7 text-[#6B625C]">Flashcard, nghĩa tiếng Việt, ví dụ tiếng Hàn, lưu từ khó để ôn lại.</p>
+              </div>
+              <div class="rounded-2xl bg-[#FFF8EE] p-5 text-right">
+                <p class="font-korean text-3xl font-extrabold">도서관</p>
+                <p class="mt-1 text-sm font-semibold text-[#6B625C]">thư viện</p>
+              </div>
+            </div>
+          </a>
+
+          <a id="grammar" href="#grammar" class="group relative overflow-hidden rounded-2xl border border-[#D9CBB8] bg-white p-6 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md">
+            <div class="absolute -right-8 top-8 h-10 w-36 -rotate-6 bg-[#E88771]/45"></div>
+            <div class="relative flex flex-col gap-5 md:flex-row md:items-center md:justify-between">
+              <div>
+                <p class="text-sm font-extrabold uppercase tracking-wide text-[#2F5D50]">02</p>
+                <h2 class="mt-2 text-3xl font-extrabold">Học ngữ pháp</h2>
+                <p class="mt-2 max-w-xl leading-7 text-[#6B625C]">Mẫu câu, cách dùng, ví dụ và bài tập ngắn theo từng chủ điểm.</p>
+              </div>
+              <div class="rounded-2xl bg-[#EEF6F2] p-5 text-right">
+                <p class="font-korean text-3xl font-extrabold">N + 입니다</p>
+                <p class="mt-1 text-sm font-semibold text-[#6B625C]">câu giới thiệu</p>
+              </div>
+            </div>
+          </a>
+
+          <a id="exam" href="./exam.html" class="group relative overflow-hidden rounded-2xl border-2 border-[#2F5D50] bg-white p-6 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md">
+            <div class="absolute -right-8 top-8 h-10 w-36 rotate-3 bg-[#2F5D50]/15"></div>
+            <div class="relative flex flex-col gap-5 md:flex-row md:items-center md:justify-between">
+              <div>
+                <p class="text-sm font-extrabold uppercase tracking-wide text-[#2F5D50]">03</p>
+                <h2 class="mt-2 text-3xl font-extrabold">Thi thử</h2>
+                <p class="mt-2 max-w-xl leading-7 text-[#6B625C]">Làm đề Part 1, Part 2, Part 3 với chấm điểm và xem đáp án.</p>
+              </div>
+              <div class="rounded-xl border border-[#D6D3CD] bg-[#F5F4F0] p-5 text-right">
+                <p class="text-3xl font-extrabold">20 đề</p>
+                <p class="mt-1 text-sm font-semibold text-[#6B625C]">mock exam</p>
+              </div>
+            </div>
+          </a>
+        </section>
+      </section>
+    </main>
+  </body>
+</html>

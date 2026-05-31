@@ -1,0 +1,5009 @@
+[
+  {
+    "id": "P1_L01_01_Q001",
+    "poolId": "P1_L01_01",
+    "targetLesson": 1,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn 입니다 / 입니까 trong câu giới thiệu hoặc hỏi thông tin",
+    "difficulty": "easy",
+    "stem": "저는 베트남 사람___.",
+    "options": [
+      {
+        "id": "P1_L01_01_Q001_OPT_A",
+        "text": "입니다"
+      },
+      {
+        "id": "P1_L01_01_Q001_OPT_B",
+        "text": "입니까"
+      },
+      {
+        "id": "P1_L01_01_Q001_OPT_C",
+        "text": "은"
+      },
+      {
+        "id": "P1_L01_01_Q001_OPT_D",
+        "text": "는"
+      }
+    ],
+    "correctOptionId": "P1_L01_01_Q001_OPT_A",
+    "correctValue": "입니다",
+    "explanationVi": "Câu trần thuật giới thiệu dùng 입니다.",
+    "grammarUsed": [
+      "입니다",
+      "입니까"
+    ],
+    "vocabularyUsed": [
+      "저",
+      "베트남",
+      "사람"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L01_01_Q002",
+    "poolId": "P1_L01_01",
+    "targetLesson": 1,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn 입니다 / 입니까 trong câu giới thiệu hoặc hỏi thông tin",
+    "difficulty": "easy",
+    "stem": "민수 씨는 학생___.",
+    "options": [
+      {
+        "id": "P1_L01_01_Q002_OPT_A",
+        "text": "입니까"
+      },
+      {
+        "id": "P1_L01_01_Q002_OPT_B",
+        "text": "입니다"
+      },
+      {
+        "id": "P1_L01_01_Q002_OPT_C",
+        "text": "은"
+      },
+      {
+        "id": "P1_L01_01_Q002_OPT_D",
+        "text": "는"
+      }
+    ],
+    "correctOptionId": "P1_L01_01_Q002_OPT_A",
+    "correctValue": "입니까",
+    "explanationVi": "Câu hỏi danh từ dùng 입니까.",
+    "grammarUsed": [
+      "입니다",
+      "입니까"
+    ],
+    "vocabularyUsed": [
+      "씨",
+      "학생"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L01_01_Q003",
+    "poolId": "P1_L01_01",
+    "targetLesson": 1,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn 입니다 / 입니까 trong câu giới thiệu hoặc hỏi thông tin",
+    "difficulty": "easy",
+    "stem": "제 이름은 흐엉___.",
+    "options": [
+      {
+        "id": "P1_L01_01_Q003_OPT_A",
+        "text": "입니다"
+      },
+      {
+        "id": "P1_L01_01_Q003_OPT_B",
+        "text": "입니까"
+      },
+      {
+        "id": "P1_L01_01_Q003_OPT_C",
+        "text": "은"
+      },
+      {
+        "id": "P1_L01_01_Q003_OPT_D",
+        "text": "는"
+      }
+    ],
+    "correctOptionId": "P1_L01_01_Q003_OPT_A",
+    "correctValue": "입니다",
+    "explanationVi": "Giới thiệu tên là câu trần thuật, dùng 입니다.",
+    "grammarUsed": [
+      "입니다",
+      "입니까"
+    ],
+    "vocabularyUsed": [
+      "제",
+      "이름"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L01_02_Q001",
+    "poolId": "P1_L01_02",
+    "targetLesson": 1,
+    "skill": "grammar",
+    "knowledgeTarget": "Điền tiểu từ chủ đề 은/는",
+    "difficulty": "easy",
+    "stem": "제 이름__ 남입니다.",
+    "options": [
+      {
+        "id": "P1_L01_02_Q001_OPT_A",
+        "text": "은"
+      },
+      {
+        "id": "P1_L01_02_Q001_OPT_B",
+        "text": "는"
+      },
+      {
+        "id": "P1_L01_02_Q001_OPT_C",
+        "text": "이"
+      },
+      {
+        "id": "P1_L01_02_Q001_OPT_D",
+        "text": "가"
+      }
+    ],
+    "correctOptionId": "P1_L01_02_Q001_OPT_A",
+    "correctValue": "은",
+    "explanationVi": "이름 có phụ âm cuối nên dùng 은.",
+    "grammarUsed": [
+      "은/는"
+    ],
+    "vocabularyUsed": [
+      "제",
+      "이름"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L01_02_Q002",
+    "poolId": "P1_L01_02",
+    "targetLesson": 1,
+    "skill": "grammar",
+    "knowledgeTarget": "Điền tiểu từ chủ đề 은/는",
+    "difficulty": "easy",
+    "stem": "저__ 베트남 사람입니다.",
+    "options": [
+      {
+        "id": "P1_L01_02_Q002_OPT_A",
+        "text": "는"
+      },
+      {
+        "id": "P1_L01_02_Q002_OPT_B",
+        "text": "은"
+      },
+      {
+        "id": "P1_L01_02_Q002_OPT_C",
+        "text": "이"
+      },
+      {
+        "id": "P1_L01_02_Q002_OPT_D",
+        "text": "가"
+      }
+    ],
+    "correctOptionId": "P1_L01_02_Q002_OPT_A",
+    "correctValue": "는",
+    "explanationVi": "저 không có phụ âm cuối nên dùng 는.",
+    "grammarUsed": [
+      "은/는"
+    ],
+    "vocabularyUsed": [
+      "저",
+      "베트남",
+      "사람"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L01_02_Q003",
+    "poolId": "P1_L01_02",
+    "targetLesson": 1,
+    "skill": "grammar",
+    "knowledgeTarget": "Điền tiểu từ chủ đề 은/는",
+    "difficulty": "easy",
+    "stem": "한국어__ 재미있습니다.",
+    "options": [
+      {
+        "id": "P1_L01_02_Q003_OPT_A",
+        "text": "는"
+      },
+      {
+        "id": "P1_L01_02_Q003_OPT_B",
+        "text": "은"
+      },
+      {
+        "id": "P1_L01_02_Q003_OPT_C",
+        "text": "이"
+      },
+      {
+        "id": "P1_L01_02_Q003_OPT_D",
+        "text": "가"
+      }
+    ],
+    "correctOptionId": "P1_L01_02_Q003_OPT_A",
+    "correctValue": "는",
+    "explanationVi": "한국어 không có phụ âm cuối nên dùng 는.",
+    "grammarUsed": [
+      "은/는"
+    ],
+    "vocabularyUsed": [
+      "한국어"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L01_03_Q001",
+    "poolId": "P1_L01_03",
+    "targetLesson": 1,
+    "skill": "vocabulary",
+    "knowledgeTarget": "Chọn từ vựng về quốc tịch, nghề nghiệp hoặc ngành học",
+    "difficulty": "easy",
+    "stem": "Trong các từ dưới đây, từ nào không cùng loại với các từ còn lại?",
+    "options": [
+      {
+        "id": "P1_L01_03_Q001_OPT_A",
+        "text": "약사"
+      },
+      {
+        "id": "P1_L01_03_Q001_OPT_B",
+        "text": "베트남"
+      },
+      {
+        "id": "P1_L01_03_Q001_OPT_C",
+        "text": "일본"
+      },
+      {
+        "id": "P1_L01_03_Q001_OPT_D",
+        "text": "중국"
+      }
+    ],
+    "correctOptionId": "P1_L01_03_Q001_OPT_A",
+    "correctValue": "약사",
+    "explanationVi": "베트남, 일본, 중국 là tên quốc gia; 약사 là nghề nghiệp.",
+    "grammarUsed": [],
+    "vocabularyUsed": [
+      "약사",
+      "베트남",
+      "일본",
+      "중국"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L01_03_Q002",
+    "poolId": "P1_L01_03",
+    "targetLesson": 1,
+    "skill": "vocabulary",
+    "knowledgeTarget": "Chọn từ vựng về quốc tịch, nghề nghiệp hoặc ngành học",
+    "difficulty": "easy",
+    "stem": "Trong các từ dưới đây, từ nào không cùng loại với các từ còn lại?",
+    "options": [
+      {
+        "id": "P1_L01_03_Q002_OPT_A",
+        "text": "미국"
+      },
+      {
+        "id": "P1_L01_03_Q002_OPT_B",
+        "text": "대학생"
+      },
+      {
+        "id": "P1_L01_03_Q002_OPT_C",
+        "text": "선생님"
+      },
+      {
+        "id": "P1_L01_03_Q002_OPT_D",
+        "text": "회사원"
+      }
+    ],
+    "correctOptionId": "P1_L01_03_Q002_OPT_A",
+    "correctValue": "미국",
+    "explanationVi": "대학생, 선생님, 회사원 chỉ người/nghề nghiệp; 미국 là tên quốc gia.",
+    "grammarUsed": [],
+    "vocabularyUsed": [
+      "미국",
+      "대학생",
+      "선생님",
+      "회사원"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L01_03_Q003",
+    "poolId": "P1_L01_03",
+    "targetLesson": 1,
+    "skill": "vocabulary",
+    "knowledgeTarget": "Chọn từ vựng về quốc tịch, nghề nghiệp hoặc ngành học",
+    "difficulty": "easy",
+    "stem": "Trong các từ dưới đây, từ nào không cùng loại với các từ còn lại?",
+    "options": [
+      {
+        "id": "P1_L01_03_Q003_OPT_A",
+        "text": "주소"
+      },
+      {
+        "id": "P1_L01_03_Q003_OPT_B",
+        "text": "한국어과"
+      },
+      {
+        "id": "P1_L01_03_Q003_OPT_C",
+        "text": "국어국문학과"
+      },
+      {
+        "id": "P1_L01_03_Q003_OPT_D",
+        "text": "학과"
+      }
+    ],
+    "correctOptionId": "P1_L01_03_Q003_OPT_A",
+    "correctValue": "주소",
+    "explanationVi": "한국어과, 국어국문학과, 학과 liên quan đến khoa/ngành học; 주소 là địa chỉ.",
+    "grammarUsed": [],
+    "vocabularyUsed": [
+      "주소",
+      "한국어과",
+      "국어국문학과",
+      "학과"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L02_01_Q001",
+    "poolId": "P1_L02_01",
+    "targetLesson": 2,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn 이것 / 그것 / 저것",
+    "difficulty": "easy",
+    "stem": "Vật ở gần người nói: ___은 책입니다.",
+    "options": [
+      {
+        "id": "P1_L02_01_Q001_OPT_A",
+        "text": "이것"
+      },
+      {
+        "id": "P1_L02_01_Q001_OPT_B",
+        "text": "그것"
+      },
+      {
+        "id": "P1_L02_01_Q001_OPT_C",
+        "text": "저것"
+      },
+      {
+        "id": "P1_L02_01_Q001_OPT_D",
+        "text": "여기"
+      }
+    ],
+    "correctOptionId": "P1_L02_01_Q001_OPT_A",
+    "correctValue": "이것",
+    "explanationVi": "이것 chỉ vật ở gần người nói.",
+    "grammarUsed": [
+      "이것/그것/저것"
+    ],
+    "vocabularyUsed": [
+      "책상"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L02_01_Q002",
+    "poolId": "P1_L02_01",
+    "targetLesson": 2,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn 이것 / 그것 / 저것",
+    "difficulty": "easy",
+    "stem": "Vật ở gần người nghe: ___은 가방입니다.",
+    "options": [
+      {
+        "id": "P1_L02_01_Q002_OPT_A",
+        "text": "그것"
+      },
+      {
+        "id": "P1_L02_01_Q002_OPT_B",
+        "text": "이것"
+      },
+      {
+        "id": "P1_L02_01_Q002_OPT_C",
+        "text": "저것"
+      },
+      {
+        "id": "P1_L02_01_Q002_OPT_D",
+        "text": "거기"
+      }
+    ],
+    "correctOptionId": "P1_L02_01_Q002_OPT_A",
+    "correctValue": "그것",
+    "explanationVi": "그것 chỉ vật ở gần người nghe.",
+    "grammarUsed": [
+      "이것/그것/저것"
+    ],
+    "vocabularyUsed": [
+      "가방"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L02_01_Q003",
+    "poolId": "P1_L02_01",
+    "targetLesson": 2,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn 이것 / 그것 / 저것",
+    "difficulty": "easy",
+    "stem": "Vật ở xa cả hai người: ___은 시계입니다.",
+    "options": [
+      {
+        "id": "P1_L02_01_Q003_OPT_A",
+        "text": "저것"
+      },
+      {
+        "id": "P1_L02_01_Q003_OPT_B",
+        "text": "이것"
+      },
+      {
+        "id": "P1_L02_01_Q003_OPT_C",
+        "text": "그것"
+      },
+      {
+        "id": "P1_L02_01_Q003_OPT_D",
+        "text": "저기"
+      }
+    ],
+    "correctOptionId": "P1_L02_01_Q003_OPT_A",
+    "correctValue": "저것",
+    "explanationVi": "저것 chỉ vật ở xa cả người nói và người nghe.",
+    "grammarUsed": [
+      "이것/그것/저것"
+    ],
+    "vocabularyUsed": [
+      "시계"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L02_02_Q001",
+    "poolId": "P1_L02_02",
+    "targetLesson": 2,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn 여기 / 거기 / 저기",
+    "difficulty": "easy",
+    "stem": "Nơi ở gần người nói: ___가 학교입니다.",
+    "options": [
+      {
+        "id": "P1_L02_02_Q001_OPT_A",
+        "text": "여기"
+      },
+      {
+        "id": "P1_L02_02_Q001_OPT_B",
+        "text": "거기"
+      },
+      {
+        "id": "P1_L02_02_Q001_OPT_C",
+        "text": "저기"
+      },
+      {
+        "id": "P1_L02_02_Q001_OPT_D",
+        "text": "이것"
+      }
+    ],
+    "correctOptionId": "P1_L02_02_Q001_OPT_A",
+    "correctValue": "여기",
+    "explanationVi": "여기 chỉ chỗ gần người nói.",
+    "grammarUsed": [
+      "여기/거기/저기"
+    ],
+    "vocabularyUsed": [
+      "학교"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L02_02_Q002",
+    "poolId": "P1_L02_02",
+    "targetLesson": 2,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn 여기 / 거기 / 저기",
+    "difficulty": "easy",
+    "stem": "Nơi ở gần người nghe: ___가 도서관입니까?",
+    "options": [
+      {
+        "id": "P1_L02_02_Q002_OPT_A",
+        "text": "거기"
+      },
+      {
+        "id": "P1_L02_02_Q002_OPT_B",
+        "text": "여기"
+      },
+      {
+        "id": "P1_L02_02_Q002_OPT_C",
+        "text": "저기"
+      },
+      {
+        "id": "P1_L02_02_Q002_OPT_D",
+        "text": "그것"
+      }
+    ],
+    "correctOptionId": "P1_L02_02_Q002_OPT_A",
+    "correctValue": "거기",
+    "explanationVi": "거기 chỉ chỗ gần người nghe.",
+    "grammarUsed": [
+      "여기/거기/저기"
+    ],
+    "vocabularyUsed": [
+      "도서관"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L02_02_Q003",
+    "poolId": "P1_L02_02",
+    "targetLesson": 2,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn 여기 / 거기 / 저기",
+    "difficulty": "easy",
+    "stem": "Nơi ở xa cả hai người: ___가 은행입니다.",
+    "options": [
+      {
+        "id": "P1_L02_02_Q003_OPT_A",
+        "text": "저기"
+      },
+      {
+        "id": "P1_L02_02_Q003_OPT_B",
+        "text": "여기"
+      },
+      {
+        "id": "P1_L02_02_Q003_OPT_C",
+        "text": "거기"
+      },
+      {
+        "id": "P1_L02_02_Q003_OPT_D",
+        "text": "저것"
+      }
+    ],
+    "correctOptionId": "P1_L02_02_Q003_OPT_A",
+    "correctValue": "저기",
+    "explanationVi": "저기 chỉ chỗ ở xa cả hai.",
+    "grammarUsed": [
+      "여기/거기/저기"
+    ],
+    "vocabularyUsed": [
+      "은행"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L02_03_Q001",
+    "poolId": "P1_L02_03",
+    "targetLesson": 2,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn 에 있습니다 / 없습니다 theo ngữ cảnh",
+    "difficulty": "easy",
+    "stem": "책은 책상 위___.",
+    "options": [
+      {
+        "id": "P1_L02_03_Q001_OPT_A",
+        "text": "에 있습니다"
+      },
+      {
+        "id": "P1_L02_03_Q001_OPT_B",
+        "text": "에 없습니다"
+      },
+      {
+        "id": "P1_L02_03_Q001_OPT_C",
+        "text": "에서 있습니다"
+      },
+      {
+        "id": "P1_L02_03_Q001_OPT_D",
+        "text": "이 아닙니다"
+      }
+    ],
+    "correctOptionId": "P1_L02_03_Q001_OPT_A",
+    "correctValue": "에 있습니다",
+    "explanationVi": "Diễn tả đồ vật tồn tại ở vị trí dùng 에 있습니다.",
+    "grammarUsed": [
+      "에 있습니다/없습니다",
+      "이/가"
+    ],
+    "vocabularyUsed": [
+      "책상"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L02_03_Q002",
+    "poolId": "P1_L02_03",
+    "targetLesson": 2,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn 에 있습니다 / 없습니다 theo ngữ cảnh",
+    "difficulty": "easy",
+    "stem": "사전이 가방 안___.",
+    "options": [
+      {
+        "id": "P1_L02_03_Q002_OPT_A",
+        "text": "에 있습니다"
+      },
+      {
+        "id": "P1_L02_03_Q002_OPT_B",
+        "text": "에서 있습니다"
+      },
+      {
+        "id": "P1_L02_03_Q002_OPT_C",
+        "text": "에 갑니다"
+      },
+      {
+        "id": "P1_L02_03_Q002_OPT_D",
+        "text": "이 아닙니다"
+      }
+    ],
+    "correctOptionId": "P1_L02_03_Q002_OPT_A",
+    "correctValue": "에 있습니다",
+    "explanationVi": "Vị trí tồn tại dùng 에 있습니다.",
+    "grammarUsed": [
+      "에 있습니다/없습니다",
+      "이/가"
+    ],
+    "vocabularyUsed": [
+      "사전",
+      "가방"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L02_03_Q003",
+    "poolId": "P1_L02_03",
+    "targetLesson": 2,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn 에 있습니다 / 없습니다 theo ngữ cảnh",
+    "difficulty": "easy",
+    "stem": "오늘 교실에 학생이 ___ .",
+    "options": [
+      {
+        "id": "P1_L02_03_Q003_OPT_A",
+        "text": "없습니다"
+      },
+      {
+        "id": "P1_L02_03_Q003_OPT_B",
+        "text": "있습니다"
+      },
+      {
+        "id": "P1_L02_03_Q003_OPT_C",
+        "text": "아닙니다"
+      },
+      {
+        "id": "P1_L02_03_Q003_OPT_D",
+        "text": "갑니다"
+      }
+    ],
+    "correctOptionId": "P1_L02_03_Q003_OPT_A",
+    "correctValue": "없습니다",
+    "explanationVi": "Không có ai ở địa điểm dùng 없습니다.",
+    "grammarUsed": [
+      "에 있습니다/없습니다",
+      "이/가"
+    ],
+    "vocabularyUsed": [
+      "교실",
+      "학생"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L02_04_Q001",
+    "poolId": "P1_L02_04",
+    "targetLesson": 2,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn cấu trúc phủ định danh từ 이/가 아닙니다",
+    "difficulty": "easy",
+    "stem": "저는 의사___. 저는 학생입니다.",
+    "options": [
+      {
+        "id": "P1_L02_04_Q001_OPT_A",
+        "text": "가 아닙니다"
+      },
+      {
+        "id": "P1_L02_04_Q001_OPT_B",
+        "text": "이 아닙니다"
+      },
+      {
+        "id": "P1_L02_04_Q001_OPT_C",
+        "text": "입니다"
+      },
+      {
+        "id": "P1_L02_04_Q001_OPT_D",
+        "text": "입니까"
+      }
+    ],
+    "correctOptionId": "P1_L02_04_Q001_OPT_A",
+    "correctValue": "가 아닙니다",
+    "explanationVi": "의사 không có phụ âm cuối nên dùng 가 아닙니다.",
+    "grammarUsed": [
+      "이/가 아닙니다"
+    ],
+    "vocabularyUsed": [
+      "저",
+      "학생"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L02_04_Q002",
+    "poolId": "P1_L02_04",
+    "targetLesson": 2,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn cấu trúc phủ định danh từ 이/가 아닙니다",
+    "difficulty": "easy",
+    "stem": "이것은 책___. 공책입니다.",
+    "options": [
+      {
+        "id": "P1_L02_04_Q002_OPT_A",
+        "text": "이 아닙니다"
+      },
+      {
+        "id": "P1_L02_04_Q002_OPT_B",
+        "text": "가 아닙니다"
+      },
+      {
+        "id": "P1_L02_04_Q002_OPT_C",
+        "text": "입니다"
+      },
+      {
+        "id": "P1_L02_04_Q002_OPT_D",
+        "text": "있습니다"
+      }
+    ],
+    "correctOptionId": "P1_L02_04_Q002_OPT_A",
+    "correctValue": "이 아닙니다",
+    "explanationVi": "책 có phụ âm cuối nên dùng 이 아닙니다.",
+    "grammarUsed": [
+      "이/가 아닙니다"
+    ],
+    "vocabularyUsed": [
+      "이것",
+      "공책"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L02_04_Q003",
+    "poolId": "P1_L02_04",
+    "targetLesson": 2,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn cấu trúc phủ định danh từ 이/가 아닙니다",
+    "difficulty": "easy",
+    "stem": "여기는 은행___. 도서관입니다.",
+    "options": [
+      {
+        "id": "P1_L02_04_Q003_OPT_A",
+        "text": "이 아닙니다"
+      },
+      {
+        "id": "P1_L02_04_Q003_OPT_B",
+        "text": "가 아닙니다"
+      },
+      {
+        "id": "P1_L02_04_Q003_OPT_C",
+        "text": "있습니다"
+      },
+      {
+        "id": "P1_L02_04_Q003_OPT_D",
+        "text": "없습니다"
+      }
+    ],
+    "correctOptionId": "P1_L02_04_Q003_OPT_A",
+    "correctValue": "이 아닙니다",
+    "explanationVi": "은행 có phụ âm cuối nên dùng 이 아닙니다.",
+    "grammarUsed": [
+      "이/가 아닙니다"
+    ],
+    "vocabularyUsed": [
+      "여기",
+      "은행",
+      "도서관"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L02_05_Q001",
+    "poolId": "P1_L02_05",
+    "targetLesson": 2,
+    "skill": "vocabulary",
+    "knowledgeTarget": "Chọn từ vựng đồ vật hoặc cơ sở vật chất trường học",
+    "difficulty": "easy",
+    "stem": "Trong các từ dưới đây, từ nào không cùng loại với các từ còn lại?",
+    "options": [
+      {
+        "id": "P1_L02_05_Q001_OPT_A",
+        "text": "베트남"
+      },
+      {
+        "id": "P1_L02_05_Q001_OPT_B",
+        "text": "도서관"
+      },
+      {
+        "id": "P1_L02_05_Q001_OPT_C",
+        "text": "강의실"
+      },
+      {
+        "id": "P1_L02_05_Q001_OPT_D",
+        "text": "교실"
+      }
+    ],
+    "correctOptionId": "P1_L02_05_Q001_OPT_A",
+    "correctValue": "베트남",
+    "explanationVi": "도서관, 강의실, 교실 là cơ sở/phòng trong trường học; 베트남 là tên quốc gia.",
+    "grammarUsed": [],
+    "vocabularyUsed": [
+      "베트남",
+      "도서관",
+      "강의실",
+      "교실"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L02_05_Q002",
+    "poolId": "P1_L02_05",
+    "targetLesson": 2,
+    "skill": "vocabulary",
+    "knowledgeTarget": "Chọn từ vựng đồ vật hoặc cơ sở vật chất trường học",
+    "difficulty": "easy",
+    "stem": "Trong các từ dưới đây, từ nào không cùng loại với các từ còn lại?",
+    "options": [
+      {
+        "id": "P1_L02_05_Q002_OPT_A",
+        "text": "미국"
+      },
+      {
+        "id": "P1_L02_05_Q002_OPT_B",
+        "text": "펜"
+      },
+      {
+        "id": "P1_L02_05_Q002_OPT_C",
+        "text": "책상"
+      },
+      {
+        "id": "P1_L02_05_Q002_OPT_D",
+        "text": "의자"
+      }
+    ],
+    "correctOptionId": "P1_L02_05_Q002_OPT_A",
+    "correctValue": "미국",
+    "explanationVi": "펜, 책상, 의자 là đồ vật; 미국 là tên quốc gia.",
+    "grammarUsed": [],
+    "vocabularyUsed": [
+      "미국",
+      "펜",
+      "책상",
+      "의자"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L02_05_Q003",
+    "poolId": "P1_L02_05",
+    "targetLesson": 2,
+    "skill": "vocabulary",
+    "knowledgeTarget": "Chọn từ vựng đồ vật hoặc cơ sở vật chất trường học",
+    "difficulty": "easy",
+    "stem": "Trong các từ dưới đây, từ nào không cùng loại với các từ còn lại?",
+    "options": [
+      {
+        "id": "P1_L02_05_Q003_OPT_A",
+        "text": "일본"
+      },
+      {
+        "id": "P1_L02_05_Q003_OPT_B",
+        "text": "교실"
+      },
+      {
+        "id": "P1_L02_05_Q003_OPT_C",
+        "text": "강의실"
+      },
+      {
+        "id": "P1_L02_05_Q003_OPT_D",
+        "text": "도서관"
+      }
+    ],
+    "correctOptionId": "P1_L02_05_Q003_OPT_A",
+    "correctValue": "일본",
+    "explanationVi": "교실, 강의실, 도서관 là địa điểm/cơ sở học tập; 일본 là tên quốc gia.",
+    "grammarUsed": [],
+    "vocabularyUsed": [
+      "일본",
+      "교실",
+      "강의실",
+      "도서관"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L03_01_Q001",
+    "poolId": "P1_L03_01",
+    "targetLesson": 3,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn đuôi trần thuật/nghi vấn -ㅂ/습니다 / -ㅂ/습니까",
+    "difficulty": "easy",
+    "stem": "저는 학교에 갑___.",
+    "options": [
+      {
+        "id": "P1_L03_01_Q001_OPT_A",
+        "text": "니다"
+      },
+      {
+        "id": "P1_L03_01_Q001_OPT_B",
+        "text": "니까"
+      },
+      {
+        "id": "P1_L03_01_Q001_OPT_C",
+        "text": "습니다"
+      },
+      {
+        "id": "P1_L03_01_Q001_OPT_D",
+        "text": "어요"
+      }
+    ],
+    "correctOptionId": "P1_L03_01_Q001_OPT_A",
+    "correctValue": "니다",
+    "explanationVi": "가다 không có patchim nên dùng 갑니다.",
+    "grammarUsed": [
+      "-ㅂ/습니다",
+      "-ㅂ/습니까"
+    ],
+    "vocabularyUsed": [
+      "저",
+      "학교",
+      "가다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L03_01_Q002",
+    "poolId": "P1_L03_01",
+    "targetLesson": 3,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn đuôi trần thuật/nghi vấn -ㅂ/습니다 / -ㅂ/습니까",
+    "difficulty": "easy",
+    "stem": "민수 씨는 밥을 먹___.",
+    "options": [
+      {
+        "id": "P1_L03_01_Q002_OPT_A",
+        "text": "습니까"
+      },
+      {
+        "id": "P1_L03_01_Q002_OPT_B",
+        "text": "습니다"
+      },
+      {
+        "id": "P1_L03_01_Q002_OPT_C",
+        "text": "입니다"
+      },
+      {
+        "id": "P1_L03_01_Q002_OPT_D",
+        "text": "입니까"
+      }
+    ],
+    "correctOptionId": "P1_L03_01_Q002_OPT_A",
+    "correctValue": "습니까",
+    "explanationVi": "Câu hỏi với 먹다 dùng 먹습니까.",
+    "grammarUsed": [
+      "-ㅂ/습니다",
+      "-ㅂ/습니까"
+    ],
+    "vocabularyUsed": [
+      "씨",
+      "먹다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L03_01_Q003",
+    "poolId": "P1_L03_01",
+    "targetLesson": 3,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn đuôi trần thuật/nghi vấn -ㅂ/습니다 / -ㅂ/습니까",
+    "difficulty": "easy",
+    "stem": "저는 도서관에서 책을 읽___.",
+    "options": [
+      {
+        "id": "P1_L03_01_Q003_OPT_A",
+        "text": "습니다"
+      },
+      {
+        "id": "P1_L03_01_Q003_OPT_B",
+        "text": "습니까"
+      },
+      {
+        "id": "P1_L03_01_Q003_OPT_C",
+        "text": "입니다"
+      },
+      {
+        "id": "P1_L03_01_Q003_OPT_D",
+        "text": "어요"
+      }
+    ],
+    "correctOptionId": "P1_L03_01_Q003_OPT_A",
+    "correctValue": "습니다",
+    "explanationVi": "읽다 có patchim nên dùng 읽습니다.",
+    "grammarUsed": [
+      "-ㅂ/습니다",
+      "-ㅂ/습니까"
+    ],
+    "vocabularyUsed": [
+      "저",
+      "도서관",
+      "읽다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L03_02_Q001",
+    "poolId": "P1_L03_02",
+    "targetLesson": 3,
+    "skill": "grammar",
+    "knowledgeTarget": "Điền tiểu từ tân ngữ 을/를",
+    "difficulty": "easy",
+    "stem": "한국어__ 공부합니다.",
+    "options": [
+      {
+        "id": "P1_L03_02_Q001_OPT_A",
+        "text": "를"
+      },
+      {
+        "id": "P1_L03_02_Q001_OPT_B",
+        "text": "을"
+      },
+      {
+        "id": "P1_L03_02_Q001_OPT_C",
+        "text": "이"
+      },
+      {
+        "id": "P1_L03_02_Q001_OPT_D",
+        "text": "가"
+      }
+    ],
+    "correctOptionId": "P1_L03_02_Q001_OPT_A",
+    "correctValue": "를",
+    "explanationVi": "한국어 không có phụ âm cuối nên dùng 를.",
+    "grammarUsed": [
+      "을/를"
+    ],
+    "vocabularyUsed": [
+      "한국어",
+      "공부하다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L03_02_Q002",
+    "poolId": "P1_L03_02",
+    "targetLesson": 3,
+    "skill": "grammar",
+    "knowledgeTarget": "Điền tiểu từ tân ngữ 을/를",
+    "difficulty": "easy",
+    "stem": "밥__ 먹습니다.",
+    "options": [
+      {
+        "id": "P1_L03_02_Q002_OPT_A",
+        "text": "을"
+      },
+      {
+        "id": "P1_L03_02_Q002_OPT_B",
+        "text": "를"
+      },
+      {
+        "id": "P1_L03_02_Q002_OPT_C",
+        "text": "은"
+      },
+      {
+        "id": "P1_L03_02_Q002_OPT_D",
+        "text": "는"
+      }
+    ],
+    "correctOptionId": "P1_L03_02_Q002_OPT_A",
+    "correctValue": "을",
+    "explanationVi": "밥 có phụ âm cuối nên dùng 을.",
+    "grammarUsed": [
+      "을/를"
+    ],
+    "vocabularyUsed": [
+      "먹다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L03_02_Q003",
+    "poolId": "P1_L03_02",
+    "targetLesson": 3,
+    "skill": "grammar",
+    "knowledgeTarget": "Điền tiểu từ tân ngữ 을/를",
+    "difficulty": "easy",
+    "stem": "영화__ 봅니다.",
+    "options": [
+      {
+        "id": "P1_L03_02_Q003_OPT_A",
+        "text": "를"
+      },
+      {
+        "id": "P1_L03_02_Q003_OPT_B",
+        "text": "을"
+      },
+      {
+        "id": "P1_L03_02_Q003_OPT_C",
+        "text": "에"
+      },
+      {
+        "id": "P1_L03_02_Q003_OPT_D",
+        "text": "에서"
+      }
+    ],
+    "correctOptionId": "P1_L03_02_Q003_OPT_A",
+    "correctValue": "를",
+    "explanationVi": "영화 không có phụ âm cuối nên dùng 를.",
+    "grammarUsed": [
+      "을/를"
+    ],
+    "vocabularyUsed": [
+      "영화",
+      "보다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L03_03_Q001",
+    "poolId": "P1_L03_03",
+    "targetLesson": 3,
+    "skill": "grammar",
+    "knowledgeTarget": "Điền 에서 chỉ địa điểm diễn ra hành động",
+    "difficulty": "easy",
+    "stem": "도서관__ 책을 읽습니다.",
+    "options": [
+      {
+        "id": "P1_L03_03_Q001_OPT_A",
+        "text": "에서"
+      },
+      {
+        "id": "P1_L03_03_Q001_OPT_B",
+        "text": "에"
+      },
+      {
+        "id": "P1_L03_03_Q001_OPT_C",
+        "text": "을"
+      },
+      {
+        "id": "P1_L03_03_Q001_OPT_D",
+        "text": "와"
+      }
+    ],
+    "correctOptionId": "P1_L03_03_Q001_OPT_A",
+    "correctValue": "에서",
+    "explanationVi": "Hành động đọc sách diễn ra ở thư viện nên dùng 에서.",
+    "grammarUsed": [
+      "에서"
+    ],
+    "vocabularyUsed": [
+      "도서관",
+      "읽다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L03_03_Q002",
+    "poolId": "P1_L03_03",
+    "targetLesson": 3,
+    "skill": "grammar",
+    "knowledgeTarget": "Điền 에서 chỉ địa điểm diễn ra hành động",
+    "difficulty": "easy",
+    "stem": "카페__ 커피를 마십니다.",
+    "options": [
+      {
+        "id": "P1_L03_03_Q002_OPT_A",
+        "text": "에서"
+      },
+      {
+        "id": "P1_L03_03_Q002_OPT_B",
+        "text": "에"
+      },
+      {
+        "id": "P1_L03_03_Q002_OPT_C",
+        "text": "를"
+      },
+      {
+        "id": "P1_L03_03_Q002_OPT_D",
+        "text": "이"
+      }
+    ],
+    "correctOptionId": "P1_L03_03_Q002_OPT_A",
+    "correctValue": "에서",
+    "explanationVi": "Địa điểm diễn ra hành động dùng 에서.",
+    "grammarUsed": [
+      "에서"
+    ],
+    "vocabularyUsed": [
+      "카페",
+      "커피",
+      "마시다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L03_03_Q003",
+    "poolId": "P1_L03_03",
+    "targetLesson": 3,
+    "skill": "grammar",
+    "knowledgeTarget": "Điền 에서 chỉ địa điểm diễn ra hành động",
+    "difficulty": "easy",
+    "stem": "공원__ 산책합니다.",
+    "options": [
+      {
+        "id": "P1_L03_03_Q003_OPT_A",
+        "text": "에서"
+      },
+      {
+        "id": "P1_L03_03_Q003_OPT_B",
+        "text": "에"
+      },
+      {
+        "id": "P1_L03_03_Q003_OPT_C",
+        "text": "은"
+      },
+      {
+        "id": "P1_L03_03_Q003_OPT_D",
+        "text": "를"
+      }
+    ],
+    "correctOptionId": "P1_L03_03_Q003_OPT_A",
+    "correctValue": "에서",
+    "explanationVi": "Hành động 산책하다 diễn ra ở công viên nên dùng 에서.",
+    "grammarUsed": [
+      "에서"
+    ],
+    "vocabularyUsed": [
+      "공원",
+      "산책하다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L03_04_Q001",
+    "poolId": "P1_L03_04",
+    "targetLesson": 3,
+    "skill": "vocabulary",
+    "knowledgeTarget": "Chọn động từ sinh hoạt phù hợp ngữ cảnh",
+    "difficulty": "easy",
+    "stem": "커피를 ___ .",
+    "options": [
+      {
+        "id": "P1_L03_04_Q001_OPT_A",
+        "text": "마십니다"
+      },
+      {
+        "id": "P1_L03_04_Q001_OPT_B",
+        "text": "먹습니다"
+      },
+      {
+        "id": "P1_L03_04_Q001_OPT_C",
+        "text": "봅니다"
+      },
+      {
+        "id": "P1_L03_04_Q001_OPT_D",
+        "text": "잡니다"
+      }
+    ],
+    "correctOptionId": "P1_L03_04_Q001_OPT_A",
+    "correctValue": "마십니다",
+    "explanationVi": "커피 đi với động từ 마시다.",
+    "grammarUsed": [],
+    "vocabularyUsed": [
+      "커피",
+      "마시다",
+      "먹다",
+      "보다",
+      "자다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L03_04_Q002",
+    "poolId": "P1_L03_04",
+    "targetLesson": 3,
+    "skill": "vocabulary",
+    "knowledgeTarget": "Chọn động từ sinh hoạt phù hợp ngữ cảnh",
+    "difficulty": "easy",
+    "stem": "신문을 ___ .",
+    "options": [
+      {
+        "id": "P1_L03_04_Q002_OPT_A",
+        "text": "읽습니다"
+      },
+      {
+        "id": "P1_L03_04_Q002_OPT_B",
+        "text": "마십니다"
+      },
+      {
+        "id": "P1_L03_04_Q002_OPT_C",
+        "text": "삽니다"
+      },
+      {
+        "id": "P1_L03_04_Q002_OPT_D",
+        "text": "잡니다"
+      }
+    ],
+    "correctOptionId": "P1_L03_04_Q002_OPT_A",
+    "correctValue": "읽습니다",
+    "explanationVi": "신문 đi với động từ 읽다.",
+    "grammarUsed": [],
+    "vocabularyUsed": [
+      "신문",
+      "읽다",
+      "마시다",
+      "사다",
+      "자다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L03_04_Q003",
+    "poolId": "P1_L03_04",
+    "targetLesson": 3,
+    "skill": "vocabulary",
+    "knowledgeTarget": "Chọn động từ sinh hoạt phù hợp ngữ cảnh",
+    "difficulty": "easy",
+    "stem": "영화를 ___ .",
+    "options": [
+      {
+        "id": "P1_L03_04_Q003_OPT_A",
+        "text": "봅니다"
+      },
+      {
+        "id": "P1_L03_04_Q003_OPT_B",
+        "text": "먹습니다"
+      },
+      {
+        "id": "P1_L03_04_Q003_OPT_C",
+        "text": "마십니다"
+      },
+      {
+        "id": "P1_L03_04_Q003_OPT_D",
+        "text": "일합니다"
+      }
+    ],
+    "correctOptionId": "P1_L03_04_Q003_OPT_A",
+    "correctValue": "봅니다",
+    "explanationVi": "영화 đi với động từ 보다.",
+    "grammarUsed": [],
+    "vocabularyUsed": [
+      "영화",
+      "보다",
+      "먹다",
+      "마시다",
+      "일하다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L03_05_Q001",
+    "poolId": "P1_L03_05",
+    "targetLesson": 3,
+    "skill": "dialogue",
+    "knowledgeTarget": "Chọn câu trả lời phù hợp trong hội thoại sinh hoạt hằng ngày",
+    "difficulty": "medium",
+    "stem": "A: 무엇을 합니까?\nB: ___",
+    "options": [
+      {
+        "id": "P1_L03_05_Q001_OPT_A",
+        "text": "한국어를 공부합니다."
+      },
+      {
+        "id": "P1_L03_05_Q001_OPT_B",
+        "text": "네, 학생입니다."
+      },
+      {
+        "id": "P1_L03_05_Q001_OPT_C",
+        "text": "여기가 학교입니다."
+      },
+      {
+        "id": "P1_L03_05_Q001_OPT_D",
+        "text": "책상 위에 있습니다."
+      }
+    ],
+    "correctOptionId": "P1_L03_05_Q001_OPT_A",
+    "correctValue": "한국어를 공부합니다.",
+    "explanationVi": "Hỏi đang làm gì thì trả lời bằng hành động.",
+    "grammarUsed": [
+      "-ㅂ/습니까",
+      "-ㅂ/습니다"
+    ],
+    "vocabularyUsed": [
+      "무엇",
+      "한국어",
+      "공부하다",
+      "학생",
+      "학교",
+      "책상",
+      "위"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L03_05_Q002",
+    "poolId": "P1_L03_05",
+    "targetLesson": 3,
+    "skill": "dialogue",
+    "knowledgeTarget": "Chọn câu trả lời phù hợp trong hội thoại sinh hoạt hằng ngày",
+    "difficulty": "medium",
+    "stem": "A: 어디에서 책을 읽습니까?\nB: ___",
+    "options": [
+      {
+        "id": "P1_L03_05_Q002_OPT_A",
+        "text": "도서관에서 읽습니다."
+      },
+      {
+        "id": "P1_L03_05_Q002_OPT_B",
+        "text": "커피를 마십니다."
+      },
+      {
+        "id": "P1_L03_05_Q002_OPT_C",
+        "text": "저는 베트남 사람입니다."
+      },
+      {
+        "id": "P1_L03_05_Q002_OPT_D",
+        "text": "이것은 책입니다."
+      }
+    ],
+    "correctOptionId": "P1_L03_05_Q002_OPT_A",
+    "correctValue": "도서관에서 읽습니다.",
+    "explanationVi": "Hỏi địa điểm hành động thì trả lời với 에서.",
+    "grammarUsed": [
+      "-ㅂ/습니까",
+      "-ㅂ/습니다"
+    ],
+    "vocabularyUsed": [
+      "어디",
+      "읽다",
+      "도서관",
+      "커피",
+      "마시다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L03_05_Q003",
+    "poolId": "P1_L03_05",
+    "targetLesson": 3,
+    "skill": "dialogue",
+    "knowledgeTarget": "Chọn câu trả lời phù hợp trong hội thoại sinh hoạt hằng ngày",
+    "difficulty": "medium",
+    "stem": "A: 민수 씨는 영화를 봅니까?\nB: ___",
+    "options": [
+      {
+        "id": "P1_L03_05_Q003_OPT_A",
+        "text": "네, 영화를 봅니다."
+      },
+      {
+        "id": "P1_L03_05_Q003_OPT_B",
+        "text": "아니요, 의자입니다."
+      },
+      {
+        "id": "P1_L03_05_Q003_OPT_C",
+        "text": "여기는 은행입니다."
+      },
+      {
+        "id": "P1_L03_05_Q003_OPT_D",
+        "text": "책상이 있습니다."
+      }
+    ],
+    "correctOptionId": "P1_L03_05_Q003_OPT_A",
+    "correctValue": "네, 영화를 봅니다.",
+    "explanationVi": "Câu hỏi có/không về hành động thì 답변 네/아니요 + hành động.",
+    "grammarUsed": [
+      "-ㅂ/습니까",
+      "-ㅂ/습니다"
+    ],
+    "vocabularyUsed": [
+      "씨",
+      "영화",
+      "보다",
+      "의자",
+      "은행",
+      "책상"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L04_01_Q001",
+    "poolId": "P1_L04_01",
+    "targetLesson": 4,
+    "skill": "number_time",
+    "knowledgeTarget": "Số Hán Hàn dùng cho ngày/tháng/năm/số điện thoại/tầng/phút",
+    "difficulty": "easy",
+    "stem": "Trong các từ dưới đây, từ nào không cùng loại với các từ còn lại?",
+    "options": [
+      {
+        "id": "P1_L04_01_Q001_OPT_A",
+        "text": "층"
+      },
+      {
+        "id": "P1_L04_01_Q001_OPT_B",
+        "text": "오월"
+      },
+      {
+        "id": "P1_L04_01_Q001_OPT_C",
+        "text": "유월"
+      },
+      {
+        "id": "P1_L04_01_Q001_OPT_D",
+        "text": "칠월"
+      }
+    ],
+    "correctOptionId": "P1_L04_01_Q001_OPT_A",
+    "correctValue": "층",
+    "explanationVi": "오월, 유월, 칠월 là tên tháng; 층 là đơn vị tầng.",
+    "grammarUsed": [
+      "Số từ Hán Hàn"
+    ],
+    "vocabularyUsed": [
+      "층",
+      "오월",
+      "유월",
+      "칠월"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L04_01_Q002",
+    "poolId": "P1_L04_01",
+    "targetLesson": 4,
+    "skill": "number_time",
+    "knowledgeTarget": "Số Hán Hàn dùng cho ngày/tháng/năm/số điện thoại/tầng/phút",
+    "difficulty": "easy",
+    "stem": "“Tầng 3” dùng số Hán Hàn như thế nào?",
+    "options": [
+      {
+        "id": "P1_L04_01_Q002_OPT_A",
+        "text": "삼 층"
+      },
+      {
+        "id": "P1_L04_01_Q002_OPT_B",
+        "text": "세 층"
+      },
+      {
+        "id": "P1_L04_01_Q002_OPT_C",
+        "text": "셋 층"
+      },
+      {
+        "id": "P1_L04_01_Q002_OPT_D",
+        "text": "서 층"
+      }
+    ],
+    "correctOptionId": "P1_L04_01_Q002_OPT_A",
+    "correctValue": "삼 층",
+    "explanationVi": "Tầng dùng số Hán Hàn, 3 là 삼.",
+    "grammarUsed": [
+      "Số từ Hán Hàn"
+    ],
+    "vocabularyUsed": [
+      "층"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L04_01_Q003",
+    "poolId": "P1_L04_01",
+    "targetLesson": 4,
+    "skill": "number_time",
+    "knowledgeTarget": "Số Hán Hàn dùng cho ngày/tháng/năm/số điện thoại/tầng/phút",
+    "difficulty": "easy",
+    "stem": "“12월” đọc là gì?",
+    "options": [
+      {
+        "id": "P1_L04_01_Q003_OPT_A",
+        "text": "십이월"
+      },
+      {
+        "id": "P1_L04_01_Q003_OPT_B",
+        "text": "십일월"
+      },
+      {
+        "id": "P1_L04_01_Q003_OPT_C",
+        "text": "시월"
+      },
+      {
+        "id": "P1_L04_01_Q003_OPT_D",
+        "text": "이월"
+      }
+    ],
+    "correctOptionId": "P1_L04_01_Q003_OPT_A",
+    "correctValue": "십이월",
+    "explanationVi": "12월 đọc là 십이월.",
+    "grammarUsed": [
+      "Số từ Hán Hàn"
+    ],
+    "vocabularyUsed": [
+      "십이월",
+      "십일월",
+      "시월",
+      "이월"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L04_02_Q001",
+    "poolId": "P1_L04_02",
+    "targetLesson": 4,
+    "skill": "grammar",
+    "knowledgeTarget": "Điền 에 chỉ thời gian",
+    "difficulty": "easy",
+    "stem": "월요일__ 회의합니다.",
+    "options": [
+      {
+        "id": "P1_L04_02_Q001_OPT_A",
+        "text": "에"
+      },
+      {
+        "id": "P1_L04_02_Q001_OPT_B",
+        "text": "에서"
+      },
+      {
+        "id": "P1_L04_02_Q001_OPT_C",
+        "text": "을"
+      },
+      {
+        "id": "P1_L04_02_Q001_OPT_D",
+        "text": "와"
+      }
+    ],
+    "correctOptionId": "P1_L04_02_Q001_OPT_A",
+    "correctValue": "에",
+    "explanationVi": "Thời điểm cụ thể dùng 에.",
+    "grammarUsed": [
+      "에 <thời gian>"
+    ],
+    "vocabularyUsed": [
+      "월요일",
+      "회의하다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L04_02_Q002",
+    "poolId": "P1_L04_02",
+    "targetLesson": 4,
+    "skill": "grammar",
+    "knowledgeTarget": "Điền 에 chỉ thời gian",
+    "difficulty": "easy",
+    "stem": "오월 오일__ 시험을 봅니다.",
+    "options": [
+      {
+        "id": "P1_L04_02_Q002_OPT_A",
+        "text": "에"
+      },
+      {
+        "id": "P1_L04_02_Q002_OPT_B",
+        "text": "에서"
+      },
+      {
+        "id": "P1_L04_02_Q002_OPT_C",
+        "text": "를"
+      },
+      {
+        "id": "P1_L04_02_Q002_OPT_D",
+        "text": "과"
+      }
+    ],
+    "correctOptionId": "P1_L04_02_Q002_OPT_A",
+    "correctValue": "에",
+    "explanationVi": "Ngày tháng cụ thể dùng 에.",
+    "grammarUsed": [
+      "에 <thời gian>"
+    ],
+    "vocabularyUsed": [
+      "오월",
+      "시험"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L04_02_Q003",
+    "poolId": "P1_L04_02",
+    "targetLesson": 4,
+    "skill": "grammar",
+    "knowledgeTarget": "Điền 에 chỉ thời gian",
+    "difficulty": "easy",
+    "stem": "아침 8시__ 학교에 갑니다.",
+    "options": [
+      {
+        "id": "P1_L04_02_Q003_OPT_A",
+        "text": "에"
+      },
+      {
+        "id": "P1_L04_02_Q003_OPT_B",
+        "text": "에서"
+      },
+      {
+        "id": "P1_L04_02_Q003_OPT_C",
+        "text": "은"
+      },
+      {
+        "id": "P1_L04_02_Q003_OPT_D",
+        "text": "을"
+      }
+    ],
+    "correctOptionId": "P1_L04_02_Q003_OPT_A",
+    "correctValue": "에",
+    "explanationVi": "Giờ cụ thể dùng 에.",
+    "grammarUsed": [
+      "에 <thời gian>"
+    ],
+    "vocabularyUsed": [
+      "시",
+      "학교",
+      "가다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L04_03_Q001",
+    "poolId": "P1_L04_03",
+    "targetLesson": 4,
+    "skill": "grammar",
+    "knowledgeTarget": "Điền 와/과 nối hai danh từ",
+    "difficulty": "easy",
+    "stem": "사과__ 우유를 삽니다.",
+    "options": [
+      {
+        "id": "P1_L04_03_Q001_OPT_A",
+        "text": "와"
+      },
+      {
+        "id": "P1_L04_03_Q001_OPT_B",
+        "text": "과"
+      },
+      {
+        "id": "P1_L04_03_Q001_OPT_C",
+        "text": "을"
+      },
+      {
+        "id": "P1_L04_03_Q001_OPT_D",
+        "text": "에"
+      }
+    ],
+    "correctOptionId": "P1_L04_03_Q001_OPT_A",
+    "correctValue": "와",
+    "explanationVi": "사과 không có patchim nên dùng 와.",
+    "grammarUsed": [
+      "와/과"
+    ],
+    "vocabularyUsed": [
+      "사과",
+      "우유",
+      "사다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L04_03_Q002",
+    "poolId": "P1_L04_03",
+    "targetLesson": 4,
+    "skill": "grammar",
+    "knowledgeTarget": "Điền 와/과 nối hai danh từ",
+    "difficulty": "easy",
+    "stem": "책__ 사전을 읽습니다.",
+    "options": [
+      {
+        "id": "P1_L04_03_Q002_OPT_A",
+        "text": "과"
+      },
+      {
+        "id": "P1_L04_03_Q002_OPT_B",
+        "text": "와"
+      },
+      {
+        "id": "P1_L04_03_Q002_OPT_C",
+        "text": "를"
+      },
+      {
+        "id": "P1_L04_03_Q002_OPT_D",
+        "text": "에서"
+      }
+    ],
+    "correctOptionId": "P1_L04_03_Q002_OPT_A",
+    "correctValue": "과",
+    "explanationVi": "책 có patchim nên dùng 과.",
+    "grammarUsed": [
+      "와/과"
+    ],
+    "vocabularyUsed": [
+      "사전",
+      "읽다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L04_03_Q003",
+    "poolId": "P1_L04_03",
+    "targetLesson": 4,
+    "skill": "grammar",
+    "knowledgeTarget": "Điền 와/과 nối hai danh từ",
+    "difficulty": "easy",
+    "stem": "월요일__ 화요일에 공부합니다.",
+    "options": [
+      {
+        "id": "P1_L04_03_Q003_OPT_A",
+        "text": "과"
+      },
+      {
+        "id": "P1_L04_03_Q003_OPT_B",
+        "text": "와"
+      },
+      {
+        "id": "P1_L04_03_Q003_OPT_C",
+        "text": "을"
+      },
+      {
+        "id": "P1_L04_03_Q003_OPT_D",
+        "text": "는"
+      }
+    ],
+    "correctOptionId": "P1_L04_03_Q003_OPT_A",
+    "correctValue": "과",
+    "explanationVi": "월요일 có patchim nên dùng 과.",
+    "grammarUsed": [
+      "와/과"
+    ],
+    "vocabularyUsed": [
+      "월요일",
+      "화요일",
+      "공부하다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L04_04_Q001",
+    "poolId": "P1_L04_04",
+    "targetLesson": 4,
+    "skill": "dialogue",
+    "knowledgeTarget": "Hội thoại về ngày, thứ hoặc kế hoạch",
+    "difficulty": "medium",
+    "stem": "A: 시험이 언제입니까?\nB: ___",
+    "options": [
+      {
+        "id": "P1_L04_04_Q001_OPT_A",
+        "text": "금요일에 봅니다."
+      },
+      {
+        "id": "P1_L04_04_Q001_OPT_B",
+        "text": "도서관에서 읽습니다."
+      },
+      {
+        "id": "P1_L04_04_Q001_OPT_C",
+        "text": "커피를 마십니다."
+      },
+      {
+        "id": "P1_L04_04_Q001_OPT_D",
+        "text": "이것은 사전입니다."
+      }
+    ],
+    "correctOptionId": "P1_L04_04_Q001_OPT_A",
+    "correctValue": "금요일에 봅니다.",
+    "explanationVi": "Hỏi khi nào thì trả lời bằng thời gian + 에.",
+    "grammarUsed": [
+      "에 <thời gian>"
+    ],
+    "vocabularyUsed": [
+      "시험",
+      "언제",
+      "금요일",
+      "도서관",
+      "커피",
+      "사전"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L04_04_Q002",
+    "poolId": "P1_L04_04",
+    "targetLesson": 4,
+    "skill": "dialogue",
+    "knowledgeTarget": "Hội thoại về ngày, thứ hoặc kế hoạch",
+    "difficulty": "medium",
+    "stem": "A: 오늘은 무슨 요일입니까?\nB: ___",
+    "options": [
+      {
+        "id": "P1_L04_04_Q002_OPT_A",
+        "text": "오늘은 월요일입니다."
+      },
+      {
+        "id": "P1_L04_04_Q002_OPT_B",
+        "text": "오늘은 도서관입니다."
+      },
+      {
+        "id": "P1_L04_04_Q002_OPT_C",
+        "text": "오늘은 책상입니다."
+      },
+      {
+        "id": "P1_L04_04_Q002_OPT_D",
+        "text": "오늘은 공부합니다."
+      }
+    ],
+    "correctOptionId": "P1_L04_04_Q002_OPT_A",
+    "correctValue": "오늘은 월요일입니다.",
+    "explanationVi": "Hỏi thứ trong tuần thì trả lời tên 요일.",
+    "grammarUsed": [
+      "에 <thời gian>"
+    ],
+    "vocabularyUsed": [
+      "오늘",
+      "요일",
+      "월요일",
+      "도서관",
+      "책상",
+      "공부하다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L04_04_Q003",
+    "poolId": "P1_L04_04",
+    "targetLesson": 4,
+    "skill": "dialogue",
+    "knowledgeTarget": "Hội thoại về ngày, thứ hoặc kế hoạch",
+    "difficulty": "medium",
+    "stem": "A: 생일 파티는 언제입니까?\nB: ___",
+    "options": [
+      {
+        "id": "P1_L04_04_Q003_OPT_A",
+        "text": "토요일에 합니다."
+      },
+      {
+        "id": "P1_L04_04_Q003_OPT_B",
+        "text": "학교에서 있습니다."
+      },
+      {
+        "id": "P1_L04_04_Q003_OPT_C",
+        "text": "사과와 우유입니다."
+      },
+      {
+        "id": "P1_L04_04_Q003_OPT_D",
+        "text": "책을 읽습니다."
+      }
+    ],
+    "correctOptionId": "P1_L04_04_Q003_OPT_A",
+    "correctValue": "토요일에 합니다.",
+    "explanationVi": "Sự kiện diễn ra vào thứ bảy dùng 토요일에.",
+    "grammarUsed": [
+      "에 <thời gian>"
+    ],
+    "vocabularyUsed": [
+      "생일 파티",
+      "언제",
+      "토요일",
+      "학교",
+      "사과",
+      "우유",
+      "읽다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L05_01_Q001",
+    "poolId": "P1_L05_01",
+    "targetLesson": 5,
+    "skill": "number_time",
+    "knowledgeTarget": "Số thuần Hàn khi nói giờ",
+    "difficulty": "easy",
+    "stem": "3시 trong cách nói giờ dùng số thuần Hàn là gì?",
+    "options": [
+      {
+        "id": "P1_L05_01_Q001_OPT_A",
+        "text": "세 시"
+      },
+      {
+        "id": "P1_L05_01_Q001_OPT_B",
+        "text": "삼 시"
+      },
+      {
+        "id": "P1_L05_01_Q001_OPT_C",
+        "text": "셋 시"
+      },
+      {
+        "id": "P1_L05_01_Q001_OPT_D",
+        "text": "서 시"
+      }
+    ],
+    "correctOptionId": "P1_L05_01_Q001_OPT_A",
+    "correctValue": "세 시",
+    "explanationVi": "Nói giờ dùng số thuần Hàn dạng định từ: 세 시.",
+    "grammarUsed": [
+      "Số từ thuần Hàn"
+    ],
+    "vocabularyUsed": [
+      "시"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L05_01_Q002",
+    "poolId": "P1_L05_01",
+    "targetLesson": 5,
+    "skill": "number_time",
+    "knowledgeTarget": "Số thuần Hàn khi nói giờ",
+    "difficulty": "easy",
+    "stem": "4시 trong cách nói giờ là gì?",
+    "options": [
+      {
+        "id": "P1_L05_01_Q002_OPT_A",
+        "text": "네 시"
+      },
+      {
+        "id": "P1_L05_01_Q002_OPT_B",
+        "text": "사 시"
+      },
+      {
+        "id": "P1_L05_01_Q002_OPT_C",
+        "text": "넷 시"
+      },
+      {
+        "id": "P1_L05_01_Q002_OPT_D",
+        "text": "나 시"
+      }
+    ],
+    "correctOptionId": "P1_L05_01_Q002_OPT_A",
+    "correctValue": "네 시",
+    "explanationVi": "4 giờ là 네 시.",
+    "grammarUsed": [
+      "Số từ thuần Hàn"
+    ],
+    "vocabularyUsed": [
+      "시"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L05_01_Q003",
+    "poolId": "P1_L05_01",
+    "targetLesson": 5,
+    "skill": "number_time",
+    "knowledgeTarget": "Số thuần Hàn khi nói giờ",
+    "difficulty": "easy",
+    "stem": "1시 trong cách nói giờ là gì?",
+    "options": [
+      {
+        "id": "P1_L05_01_Q003_OPT_A",
+        "text": "한 시"
+      },
+      {
+        "id": "P1_L05_01_Q003_OPT_B",
+        "text": "일 시"
+      },
+      {
+        "id": "P1_L05_01_Q003_OPT_C",
+        "text": "하나 시"
+      },
+      {
+        "id": "P1_L05_01_Q003_OPT_D",
+        "text": "하 시"
+      }
+    ],
+    "correctOptionId": "P1_L05_01_Q003_OPT_A",
+    "correctValue": "한 시",
+    "explanationVi": "1 giờ là 한 시.",
+    "grammarUsed": [
+      "Số từ thuần Hàn"
+    ],
+    "vocabularyUsed": [
+      "시"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L05_02_Q001",
+    "poolId": "P1_L05_02",
+    "targetLesson": 5,
+    "skill": "number_counter",
+    "knowledgeTarget": "Chọn định từ số 한 / 두 / 세 / 네 / 스무",
+    "difficulty": "easy",
+    "stem": "사과 ___ 개 주세요.",
+    "options": [
+      {
+        "id": "P1_L05_02_Q001_OPT_A",
+        "text": "두"
+      },
+      {
+        "id": "P1_L05_02_Q001_OPT_B",
+        "text": "둘"
+      },
+      {
+        "id": "P1_L05_02_Q001_OPT_C",
+        "text": "이"
+      },
+      {
+        "id": "P1_L05_02_Q001_OPT_D",
+        "text": "둘이"
+      }
+    ],
+    "correctOptionId": "P1_L05_02_Q001_OPT_A",
+    "correctValue": "두",
+    "explanationVi": "Trước đơn vị đếm, 둘 đổi thành 두.",
+    "grammarUsed": [
+      "Định từ số (1)"
+    ],
+    "vocabularyUsed": [
+      "사과"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L05_02_Q002",
+    "poolId": "P1_L05_02",
+    "targetLesson": 5,
+    "skill": "number_counter",
+    "knowledgeTarget": "Chọn định từ số 한 / 두 / 세 / 네 / 스무",
+    "difficulty": "easy",
+    "stem": "학생 ___ 명이 있습니다.",
+    "options": [
+      {
+        "id": "P1_L05_02_Q002_OPT_A",
+        "text": "세"
+      },
+      {
+        "id": "P1_L05_02_Q002_OPT_B",
+        "text": "셋"
+      },
+      {
+        "id": "P1_L05_02_Q002_OPT_C",
+        "text": "삼"
+      },
+      {
+        "id": "P1_L05_02_Q002_OPT_D",
+        "text": "서"
+      }
+    ],
+    "correctOptionId": "P1_L05_02_Q002_OPT_A",
+    "correctValue": "세",
+    "explanationVi": "Trước đơn vị đếm, 셋 đổi thành 세.",
+    "grammarUsed": [
+      "Định từ số (1)"
+    ],
+    "vocabularyUsed": [
+      "학생"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L05_02_Q003",
+    "poolId": "P1_L05_02",
+    "targetLesson": 5,
+    "skill": "number_counter",
+    "knowledgeTarget": "Chọn định từ số 한 / 두 / 세 / 네 / 스무",
+    "difficulty": "easy",
+    "stem": "저는 ___ 살입니다.",
+    "options": [
+      {
+        "id": "P1_L05_02_Q003_OPT_A",
+        "text": "스무"
+      },
+      {
+        "id": "P1_L05_02_Q003_OPT_B",
+        "text": "스물"
+      },
+      {
+        "id": "P1_L05_02_Q003_OPT_C",
+        "text": "이십"
+      },
+      {
+        "id": "P1_L05_02_Q003_OPT_D",
+        "text": "수무"
+      }
+    ],
+    "correctOptionId": "P1_L05_02_Q003_OPT_A",
+    "correctValue": "스무",
+    "explanationVi": "Trước 살, 스물 đổi thành 스무.",
+    "grammarUsed": [
+      "Định từ số (1)"
+    ],
+    "vocabularyUsed": [
+      "저"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L05_03_Q001",
+    "poolId": "P1_L05_03",
+    "targetLesson": 5,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn dạng chia lịch sự -아/어요",
+    "difficulty": "easy",
+    "stem": "가다 ở thể lịch sự là gì?",
+    "options": [
+      {
+        "id": "P1_L05_03_Q001_OPT_A",
+        "text": "가요"
+      },
+      {
+        "id": "P1_L05_03_Q001_OPT_B",
+        "text": "가아요"
+      },
+      {
+        "id": "P1_L05_03_Q001_OPT_C",
+        "text": "가어요"
+      },
+      {
+        "id": "P1_L05_03_Q001_OPT_D",
+        "text": "갑니다"
+      }
+    ],
+    "correctOptionId": "P1_L05_03_Q001_OPT_A",
+    "correctValue": "가요",
+    "explanationVi": "가다 có nguyên âm ㅏ nên chia thành 가요.",
+    "grammarUsed": [
+      "-아/어요"
+    ],
+    "vocabularyUsed": [
+      "가다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L05_03_Q002",
+    "poolId": "P1_L05_03",
+    "targetLesson": 5,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn dạng chia lịch sự -아/어요",
+    "difficulty": "easy",
+    "stem": "먹다 ở thể lịch sự là gì?",
+    "options": [
+      {
+        "id": "P1_L05_03_Q002_OPT_A",
+        "text": "먹어요"
+      },
+      {
+        "id": "P1_L05_03_Q002_OPT_B",
+        "text": "먹아요"
+      },
+      {
+        "id": "P1_L05_03_Q002_OPT_C",
+        "text": "먹습니다"
+      },
+      {
+        "id": "P1_L05_03_Q002_OPT_D",
+        "text": "먹습니까"
+      }
+    ],
+    "correctOptionId": "P1_L05_03_Q002_OPT_A",
+    "correctValue": "먹어요",
+    "explanationVi": "먹다 dùng 어요.",
+    "grammarUsed": [
+      "-아/어요"
+    ],
+    "vocabularyUsed": [
+      "먹다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L05_03_Q003",
+    "poolId": "P1_L05_03",
+    "targetLesson": 5,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn dạng chia lịch sự -아/어요",
+    "difficulty": "easy",
+    "stem": "공부하다 ở thể lịch sự là gì?",
+    "options": [
+      {
+        "id": "P1_L05_03_Q003_OPT_A",
+        "text": "공부해요"
+      },
+      {
+        "id": "P1_L05_03_Q003_OPT_B",
+        "text": "공부하어요"
+      },
+      {
+        "id": "P1_L05_03_Q003_OPT_C",
+        "text": "공부아요"
+      },
+      {
+        "id": "P1_L05_03_Q003_OPT_D",
+        "text": "공부합니다"
+      }
+    ],
+    "correctOptionId": "P1_L05_03_Q003_OPT_A",
+    "correctValue": "공부해요",
+    "explanationVi": "하다 chia thành 해요.",
+    "grammarUsed": [
+      "-아/어요"
+    ],
+    "vocabularyUsed": [
+      "공부하다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L05_04_Q001",
+    "poolId": "P1_L05_04",
+    "targetLesson": 5,
+    "skill": "grammar",
+    "knowledgeTarget": "Điền 에 trong cấu trúc chỉ địa điểm đến 에 가다",
+    "difficulty": "easy",
+    "stem": "학교__ 가요.",
+    "options": [
+      {
+        "id": "P1_L05_04_Q001_OPT_A",
+        "text": "에"
+      },
+      {
+        "id": "P1_L05_04_Q001_OPT_B",
+        "text": "에서"
+      },
+      {
+        "id": "P1_L05_04_Q001_OPT_C",
+        "text": "을"
+      },
+      {
+        "id": "P1_L05_04_Q001_OPT_D",
+        "text": "와"
+      }
+    ],
+    "correctOptionId": "P1_L05_04_Q001_OPT_A",
+    "correctValue": "에",
+    "explanationVi": "Đi đến địa điểm dùng 에 가다.",
+    "grammarUsed": [
+      "에 가다"
+    ],
+    "vocabularyUsed": [
+      "학교",
+      "가다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L05_04_Q002",
+    "poolId": "P1_L05_04",
+    "targetLesson": 5,
+    "skill": "grammar",
+    "knowledgeTarget": "Điền 에 trong cấu trúc chỉ địa điểm đến 에 가다",
+    "difficulty": "easy",
+    "stem": "시장__ 가요.",
+    "options": [
+      {
+        "id": "P1_L05_04_Q002_OPT_A",
+        "text": "에"
+      },
+      {
+        "id": "P1_L05_04_Q002_OPT_B",
+        "text": "에서"
+      },
+      {
+        "id": "P1_L05_04_Q002_OPT_C",
+        "text": "를"
+      },
+      {
+        "id": "P1_L05_04_Q002_OPT_D",
+        "text": "과"
+      }
+    ],
+    "correctOptionId": "P1_L05_04_Q002_OPT_A",
+    "correctValue": "에",
+    "explanationVi": "Đích đến của hành động đi dùng 에.",
+    "grammarUsed": [
+      "에 가다"
+    ],
+    "vocabularyUsed": [
+      "시장",
+      "가다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L05_04_Q003",
+    "poolId": "P1_L05_04",
+    "targetLesson": 5,
+    "skill": "grammar",
+    "knowledgeTarget": "Điền 에 trong cấu trúc chỉ địa điểm đến 에 가다",
+    "difficulty": "easy",
+    "stem": "회사__ 갑니다.",
+    "options": [
+      {
+        "id": "P1_L05_04_Q003_OPT_A",
+        "text": "에"
+      },
+      {
+        "id": "P1_L05_04_Q003_OPT_B",
+        "text": "에서"
+      },
+      {
+        "id": "P1_L05_04_Q003_OPT_C",
+        "text": "은"
+      },
+      {
+        "id": "P1_L05_04_Q003_OPT_D",
+        "text": "를"
+      }
+    ],
+    "correctOptionId": "P1_L05_04_Q003_OPT_A",
+    "correctValue": "에",
+    "explanationVi": "Địa điểm đến là 회사, dùng 에.",
+    "grammarUsed": [
+      "에 가다"
+    ],
+    "vocabularyUsed": [
+      "회사",
+      "가다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L05_05_Q001",
+    "poolId": "P1_L05_05",
+    "targetLesson": 5,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn phủ định ngắn 안",
+    "difficulty": "easy",
+    "stem": "오늘은 학교에 ___ 가요.",
+    "options": [
+      {
+        "id": "P1_L05_05_Q001_OPT_A",
+        "text": "안"
+      },
+      {
+        "id": "P1_L05_05_Q001_OPT_B",
+        "text": "못"
+      },
+      {
+        "id": "P1_L05_05_Q001_OPT_C",
+        "text": "없"
+      },
+      {
+        "id": "P1_L05_05_Q001_OPT_D",
+        "text": "아니"
+      }
+    ],
+    "correctOptionId": "P1_L05_05_Q001_OPT_A",
+    "correctValue": "안",
+    "explanationVi": "Phủ định ngắn đặt 안 trước động từ.",
+    "grammarUsed": [
+      "안"
+    ],
+    "vocabularyUsed": [
+      "오늘",
+      "학교",
+      "가다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L05_05_Q002",
+    "poolId": "P1_L05_05",
+    "targetLesson": 5,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn phủ định ngắn 안",
+    "difficulty": "easy",
+    "stem": "저는 커피를 ___ 마셔요.",
+    "options": [
+      {
+        "id": "P1_L05_05_Q002_OPT_A",
+        "text": "안"
+      },
+      {
+        "id": "P1_L05_05_Q002_OPT_B",
+        "text": "아니"
+      },
+      {
+        "id": "P1_L05_05_Q002_OPT_C",
+        "text": "없"
+      },
+      {
+        "id": "P1_L05_05_Q002_OPT_D",
+        "text": "못"
+      }
+    ],
+    "correctOptionId": "P1_L05_05_Q002_OPT_A",
+    "correctValue": "안",
+    "explanationVi": "안 đứng trước động từ để phủ định.",
+    "grammarUsed": [
+      "안"
+    ],
+    "vocabularyUsed": [
+      "저",
+      "커피",
+      "마시다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L05_05_Q003",
+    "poolId": "P1_L05_05",
+    "targetLesson": 5,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn phủ định ngắn 안",
+    "difficulty": "easy",
+    "stem": "민수 씨는 운동을 ___ 해요.",
+    "options": [
+      {
+        "id": "P1_L05_05_Q003_OPT_A",
+        "text": "안"
+      },
+      {
+        "id": "P1_L05_05_Q003_OPT_B",
+        "text": "아니"
+      },
+      {
+        "id": "P1_L05_05_Q003_OPT_C",
+        "text": "없"
+      },
+      {
+        "id": "P1_L05_05_Q003_OPT_D",
+        "text": "못"
+      }
+    ],
+    "correctOptionId": "P1_L05_05_Q003_OPT_A",
+    "correctValue": "안",
+    "explanationVi": "Với N+하다, 안 thường đứng giữa danh từ và 하다.",
+    "grammarUsed": [
+      "안"
+    ],
+    "vocabularyUsed": [
+      "씨",
+      "운동하다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L05_06_Q001",
+    "poolId": "P1_L05_06",
+    "targetLesson": 5,
+    "skill": "dialogue",
+    "knowledgeTarget": "Hội thoại về lịch trình hằng ngày",
+    "difficulty": "medium",
+    "stem": "A: 몇 시에 일어나요?\nB: ___",
+    "options": [
+      {
+        "id": "P1_L05_06_Q001_OPT_A",
+        "text": "아침 7시에 일어나요."
+      },
+      {
+        "id": "P1_L05_06_Q001_OPT_B",
+        "text": "도서관에서 읽어요."
+      },
+      {
+        "id": "P1_L05_06_Q001_OPT_C",
+        "text": "커피를 안 마셔요."
+      },
+      {
+        "id": "P1_L05_06_Q001_OPT_D",
+        "text": "저는 학생입니다."
+      }
+    ],
+    "correctOptionId": "P1_L05_06_Q001_OPT_A",
+    "correctValue": "아침 7시에 일어나요.",
+    "explanationVi": "Hỏi mấy giờ thì trả lời thời gian + 에.",
+    "grammarUsed": [
+      "-아/어요",
+      "에 <thời gian>"
+    ],
+    "vocabularyUsed": [
+      "시",
+      "일어나다",
+      "아침(시간)",
+      "도서관",
+      "읽다",
+      "커피",
+      "마시다",
+      "학생"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L05_06_Q002",
+    "poolId": "P1_L05_06",
+    "targetLesson": 5,
+    "skill": "dialogue",
+    "knowledgeTarget": "Hội thoại về lịch trình hằng ngày",
+    "difficulty": "medium",
+    "stem": "A: 오후에 무엇을 해요?\nB: ___",
+    "options": [
+      {
+        "id": "P1_L05_06_Q002_OPT_A",
+        "text": "숙제해요."
+      },
+      {
+        "id": "P1_L05_06_Q002_OPT_B",
+        "text": "네 시입니다."
+      },
+      {
+        "id": "P1_L05_06_Q002_OPT_C",
+        "text": "학교에 있어요."
+      },
+      {
+        "id": "P1_L05_06_Q002_OPT_D",
+        "text": "사과입니다."
+      }
+    ],
+    "correctOptionId": "P1_L05_06_Q002_OPT_A",
+    "correctValue": "숙제해요.",
+    "explanationVi": "Hỏi làm gì thì trả lời hoạt động.",
+    "grammarUsed": [
+      "-아/어요",
+      "에 <thời gian>"
+    ],
+    "vocabularyUsed": [
+      "오후",
+      "무엇",
+      "숙제하다",
+      "학교",
+      "사과"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L05_06_Q003",
+    "poolId": "P1_L05_06",
+    "targetLesson": 5,
+    "skill": "dialogue",
+    "knowledgeTarget": "Hội thoại về lịch trình hằng ngày",
+    "difficulty": "medium",
+    "stem": "A: 저녁에 회사에 가요?\nB: ___",
+    "options": [
+      {
+        "id": "P1_L05_06_Q003_OPT_A",
+        "text": "아니요, 안 가요."
+      },
+      {
+        "id": "P1_L05_06_Q003_OPT_B",
+        "text": "네, 회사입니다."
+      },
+      {
+        "id": "P1_L05_06_Q003_OPT_C",
+        "text": "책상 위에 있어요."
+      },
+      {
+        "id": "P1_L05_06_Q003_OPT_D",
+        "text": "월요일입니다."
+      }
+    ],
+    "correctOptionId": "P1_L05_06_Q003_OPT_A",
+    "correctValue": "아니요, 안 가요.",
+    "explanationVi": "Phủ định ngắn dùng 안 가요.",
+    "grammarUsed": [
+      "-아/어요",
+      "에 <thời gian>"
+    ],
+    "vocabularyUsed": [
+      "저녁(시간)",
+      "회사",
+      "가다",
+      "책상",
+      "위",
+      "월요일"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L06_01_Q001",
+    "poolId": "P1_L06_01",
+    "targetLesson": 6,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn dạng quá khứ -았/었-",
+    "difficulty": "easy",
+    "stem": "보다 ở quá khứ lịch sự là gì?",
+    "options": [
+      {
+        "id": "P1_L06_01_Q001_OPT_A",
+        "text": "봤어요"
+      },
+      {
+        "id": "P1_L06_01_Q001_OPT_B",
+        "text": "보었어요"
+      },
+      {
+        "id": "P1_L06_01_Q001_OPT_C",
+        "text": "봐요"
+      },
+      {
+        "id": "P1_L06_01_Q001_OPT_D",
+        "text": "봅니다"
+      }
+    ],
+    "correctOptionId": "P1_L06_01_Q001_OPT_A",
+    "correctValue": "봤어요",
+    "explanationVi": "보다 chia quá khứ thành 봤어요.",
+    "grammarUsed": [
+      "-았/었-"
+    ],
+    "vocabularyUsed": [
+      "보다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L06_01_Q002",
+    "poolId": "P1_L06_01",
+    "targetLesson": 6,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn dạng quá khứ -았/었-",
+    "difficulty": "easy",
+    "stem": "먹다 ở quá khứ lịch sự là gì?",
+    "options": [
+      {
+        "id": "P1_L06_01_Q002_OPT_A",
+        "text": "먹었어요"
+      },
+      {
+        "id": "P1_L06_01_Q002_OPT_B",
+        "text": "먹았어요"
+      },
+      {
+        "id": "P1_L06_01_Q002_OPT_C",
+        "text": "먹어요"
+      },
+      {
+        "id": "P1_L06_01_Q002_OPT_D",
+        "text": "먹습니다"
+      }
+    ],
+    "correctOptionId": "P1_L06_01_Q002_OPT_A",
+    "correctValue": "먹었어요",
+    "explanationVi": "먹다 dùng 었어요.",
+    "grammarUsed": [
+      "-았/었-"
+    ],
+    "vocabularyUsed": [
+      "먹다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L06_01_Q003",
+    "poolId": "P1_L06_01",
+    "targetLesson": 6,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn dạng quá khứ -았/었-",
+    "difficulty": "easy",
+    "stem": "공부하다 ở quá khứ lịch sự là gì?",
+    "options": [
+      {
+        "id": "P1_L06_01_Q003_OPT_A",
+        "text": "공부했어요"
+      },
+      {
+        "id": "P1_L06_01_Q003_OPT_B",
+        "text": "공부하었어요"
+      },
+      {
+        "id": "P1_L06_01_Q003_OPT_C",
+        "text": "공부해요"
+      },
+      {
+        "id": "P1_L06_01_Q003_OPT_D",
+        "text": "공부합니다"
+      }
+    ],
+    "correctOptionId": "P1_L06_01_Q003_OPT_A",
+    "correctValue": "공부했어요",
+    "explanationVi": "하다 quá khứ là 했어요.",
+    "grammarUsed": [
+      "-았/었-"
+    ],
+    "vocabularyUsed": [
+      "공부하다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L06_02_Q001",
+    "poolId": "P1_L06_02",
+    "targetLesson": 6,
+    "skill": "grammar",
+    "knowledgeTarget": "Điền 하고 với nghĩa và/cùng với",
+    "difficulty": "easy",
+    "stem": "친구__ 밥을 먹었어요.",
+    "options": [
+      {
+        "id": "P1_L06_02_Q001_OPT_A",
+        "text": "하고"
+      },
+      {
+        "id": "P1_L06_02_Q001_OPT_B",
+        "text": "와"
+      },
+      {
+        "id": "P1_L06_02_Q001_OPT_C",
+        "text": "과"
+      },
+      {
+        "id": "P1_L06_02_Q001_OPT_D",
+        "text": "에서"
+      }
+    ],
+    "correctOptionId": "P1_L06_02_Q001_OPT_A",
+    "correctValue": "하고",
+    "explanationVi": "하고 dùng trong văn nói với nghĩa cùng với.",
+    "grammarUsed": [
+      "하고"
+    ],
+    "vocabularyUsed": [
+      "친구",
+      "밥",
+      "먹다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L06_02_Q002",
+    "poolId": "P1_L06_02",
+    "targetLesson": 6,
+    "skill": "grammar",
+    "knowledgeTarget": "Điền 하고 với nghĩa và/cùng với",
+    "difficulty": "easy",
+    "stem": "사과__ 우유를 샀어요.",
+    "options": [
+      {
+        "id": "P1_L06_02_Q002_OPT_A",
+        "text": "하고"
+      },
+      {
+        "id": "P1_L06_02_Q002_OPT_B",
+        "text": "에"
+      },
+      {
+        "id": "P1_L06_02_Q002_OPT_C",
+        "text": "를"
+      },
+      {
+        "id": "P1_L06_02_Q002_OPT_D",
+        "text": "은"
+      }
+    ],
+    "correctOptionId": "P1_L06_02_Q002_OPT_A",
+    "correctValue": "하고",
+    "explanationVi": "하고 nối hai danh từ trong giao tiếp.",
+    "grammarUsed": [
+      "하고"
+    ],
+    "vocabularyUsed": [
+      "사과",
+      "우유",
+      "사다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L06_02_Q003",
+    "poolId": "P1_L06_02",
+    "targetLesson": 6,
+    "skill": "grammar",
+    "knowledgeTarget": "Điền 하고 với nghĩa và/cùng với",
+    "difficulty": "easy",
+    "stem": "동생__ 영화를 봤어요.",
+    "options": [
+      {
+        "id": "P1_L06_02_Q003_OPT_A",
+        "text": "하고"
+      },
+      {
+        "id": "P1_L06_02_Q003_OPT_B",
+        "text": "에서"
+      },
+      {
+        "id": "P1_L06_02_Q003_OPT_C",
+        "text": "을"
+      },
+      {
+        "id": "P1_L06_02_Q003_OPT_D",
+        "text": "이"
+      }
+    ],
+    "correctOptionId": "P1_L06_02_Q003_OPT_A",
+    "correctValue": "하고",
+    "explanationVi": "Làm việc với ai dùng danh từ + 하고.",
+    "grammarUsed": [
+      "하고"
+    ],
+    "vocabularyUsed": [
+      "남동생",
+      "영화",
+      "보다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L06_03_Q001",
+    "poolId": "P1_L06_03",
+    "targetLesson": 6,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn câu rủ rê -(으)ㅂ시다",
+    "difficulty": "easy",
+    "stem": "같이 한국어를 공부___.",
+    "options": [
+      {
+        "id": "P1_L06_03_Q001_OPT_A",
+        "text": "합시다"
+      },
+      {
+        "id": "P1_L06_03_Q001_OPT_B",
+        "text": "합니다"
+      },
+      {
+        "id": "P1_L06_03_Q001_OPT_C",
+        "text": "합니까"
+      },
+      {
+        "id": "P1_L06_03_Q001_OPT_D",
+        "text": "해요"
+      }
+    ],
+    "correctOptionId": "P1_L06_03_Q001_OPT_A",
+    "correctValue": "합시다",
+    "explanationVi": "Rủ rê với 하다 dùng 합시다.",
+    "grammarUsed": [
+      "-(으)ㅂ시다"
+    ],
+    "vocabularyUsed": [
+      "한국어",
+      "공부하다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L06_03_Q002",
+    "poolId": "P1_L06_03",
+    "targetLesson": 6,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn câu rủ rê -(으)ㅂ시다",
+    "difficulty": "easy",
+    "stem": "주말에 영화를 ___ .",
+    "options": [
+      {
+        "id": "P1_L06_03_Q002_OPT_A",
+        "text": "봅시다"
+      },
+      {
+        "id": "P1_L06_03_Q002_OPT_B",
+        "text": "봅니다"
+      },
+      {
+        "id": "P1_L06_03_Q002_OPT_C",
+        "text": "봐요"
+      },
+      {
+        "id": "P1_L06_03_Q002_OPT_D",
+        "text": "봤어요"
+      }
+    ],
+    "correctOptionId": "P1_L06_03_Q002_OPT_A",
+    "correctValue": "봅시다",
+    "explanationVi": "보다 không có patchim nên dùng 봅시다.",
+    "grammarUsed": [
+      "-(으)ㅂ시다"
+    ],
+    "vocabularyUsed": [
+      "주말",
+      "영화",
+      "보다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L06_03_Q003",
+    "poolId": "P1_L06_03",
+    "targetLesson": 6,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn câu rủ rê -(으)ㅂ시다",
+    "difficulty": "easy",
+    "stem": "같이 책을 ___ .",
+    "options": [
+      {
+        "id": "P1_L06_03_Q003_OPT_A",
+        "text": "읽읍시다"
+      },
+      {
+        "id": "P1_L06_03_Q003_OPT_B",
+        "text": "읽습니다"
+      },
+      {
+        "id": "P1_L06_03_Q003_OPT_C",
+        "text": "읽어요"
+      },
+      {
+        "id": "P1_L06_03_Q003_OPT_D",
+        "text": "읽었어요"
+      }
+    ],
+    "correctOptionId": "P1_L06_03_Q003_OPT_A",
+    "correctValue": "읽읍시다",
+    "explanationVi": "읽다 có patchim nên dùng 읽읍시다.",
+    "grammarUsed": [
+      "-(으)ㅂ시다"
+    ],
+    "vocabularyUsed": [
+      "읽다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L06_04_Q001",
+    "poolId": "P1_L06_04",
+    "targetLesson": 6,
+    "skill": "vocabulary_dialogue",
+    "knowledgeTarget": "Từ vựng hoặc hội thoại về hoạt động cuối tuần",
+    "difficulty": "medium",
+    "stem": "A: 주말에 무엇을 했어요?\nB: ___",
+    "options": [
+      {
+        "id": "P1_L06_04_Q001_OPT_A",
+        "text": "등산했어요."
+      },
+      {
+        "id": "P1_L06_04_Q001_OPT_B",
+        "text": "사전입니다."
+      },
+      {
+        "id": "P1_L06_04_Q001_OPT_C",
+        "text": "책상에 있어요."
+      },
+      {
+        "id": "P1_L06_04_Q001_OPT_D",
+        "text": "월요일입니다."
+      }
+    ],
+    "correctOptionId": "P1_L06_04_Q001_OPT_A",
+    "correctValue": "등산했어요.",
+    "explanationVi": "등산하다 là hoạt động cuối tuần phù hợp.",
+    "grammarUsed": [
+      "-았/었-"
+    ],
+    "vocabularyUsed": [
+      "주말",
+      "무엇",
+      "등산하다",
+      "사전",
+      "책상",
+      "월요일"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L06_04_Q002",
+    "poolId": "P1_L06_04",
+    "targetLesson": 6,
+    "skill": "vocabulary_dialogue",
+    "knowledgeTarget": "Từ vựng hoặc hội thoại về hoạt động cuối tuần",
+    "difficulty": "medium",
+    "stem": "Trong các từ dưới đây, từ nào không cùng loại với các từ còn lại?",
+    "options": [
+      {
+        "id": "P1_L06_04_Q002_OPT_A",
+        "text": "구두"
+      },
+      {
+        "id": "P1_L06_04_Q002_OPT_B",
+        "text": "여행하다"
+      },
+      {
+        "id": "P1_L06_04_Q002_OPT_C",
+        "text": "빨래하다"
+      },
+      {
+        "id": "P1_L06_04_Q002_OPT_D",
+        "text": "등산하다"
+      }
+    ],
+    "correctOptionId": "P1_L06_04_Q002_OPT_A",
+    "correctValue": "구두",
+    "explanationVi": "여행하다, 빨래하다, 등산하다 là động từ/hoạt động; 구두 là danh từ chỉ đồ vật.",
+    "grammarUsed": [
+      "-았/었-"
+    ],
+    "vocabularyUsed": [
+      "구두",
+      "여행하다",
+      "빨래하다",
+      "등산하다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L06_04_Q003",
+    "poolId": "P1_L06_04",
+    "targetLesson": 6,
+    "skill": "vocabulary_dialogue",
+    "knowledgeTarget": "Từ vựng hoặc hội thoại về hoạt động cuối tuần",
+    "difficulty": "medium",
+    "stem": "A: 어제 뭐 했어요?\nB: 친구를 ___",
+    "options": [
+      {
+        "id": "P1_L06_04_Q003_OPT_A",
+        "text": "만났어요."
+      },
+      {
+        "id": "P1_L06_04_Q003_OPT_B",
+        "text": "마셨어요."
+      },
+      {
+        "id": "P1_L06_04_Q003_OPT_C",
+        "text": "없었어요."
+      },
+      {
+        "id": "P1_L06_04_Q003_OPT_D",
+        "text": "입니까?"
+      }
+    ],
+    "correctOptionId": "P1_L06_04_Q003_OPT_A",
+    "correctValue": "만났어요.",
+    "explanationVi": "친구를 만나다 nghĩa là gặp bạn.",
+    "grammarUsed": [
+      "-았/었-"
+    ],
+    "vocabularyUsed": [
+      "어제",
+      "친구를 만나다."
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L07_01_Q001",
+    "poolId": "P1_L07_01",
+    "targetLesson": 7,
+    "skill": "number_counter",
+    "knowledgeTarget": "Chọn đơn vị đếm phù hợp",
+    "difficulty": "easy",
+    "stem": "소설책 두 ___ 주세요.",
+    "options": [
+      {
+        "id": "P1_L07_01_Q001_OPT_A",
+        "text": "권"
+      },
+      {
+        "id": "P1_L07_01_Q001_OPT_B",
+        "text": "병"
+      },
+      {
+        "id": "P1_L07_01_Q001_OPT_C",
+        "text": "잔"
+      },
+      {
+        "id": "P1_L07_01_Q001_OPT_D",
+        "text": "켤레"
+      }
+    ],
+    "correctOptionId": "P1_L07_01_Q001_OPT_A",
+    "correctValue": "권",
+    "explanationVi": "Sách dùng đơn vị 권.",
+    "grammarUsed": [
+      "Định từ số (1)"
+    ],
+    "vocabularyUsed": [
+      "소설책",
+      "권(단위)",
+      "병(단위)",
+      "잔",
+      "켤레"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L07_01_Q002",
+    "poolId": "P1_L07_01",
+    "targetLesson": 7,
+    "skill": "number_counter",
+    "knowledgeTarget": "Chọn đơn vị đếm phù hợp",
+    "difficulty": "easy",
+    "stem": "주스 한 ___ 주세요.",
+    "options": [
+      {
+        "id": "P1_L07_01_Q002_OPT_A",
+        "text": "병"
+      },
+      {
+        "id": "P1_L07_01_Q002_OPT_B",
+        "text": "권"
+      },
+      {
+        "id": "P1_L07_01_Q002_OPT_C",
+        "text": "대"
+      },
+      {
+        "id": "P1_L07_01_Q002_OPT_D",
+        "text": "명(단위)"
+      }
+    ],
+    "correctOptionId": "P1_L07_01_Q002_OPT_A",
+    "correctValue": "병",
+    "explanationVi": "Đồ uống đóng chai dùng 병.",
+    "grammarUsed": [
+      "Định từ số (1)"
+    ],
+    "vocabularyUsed": [
+      "주스",
+      "병(단위)",
+      "권(단위)",
+      "대(단위)",
+      "명(단위)"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L07_01_Q003",
+    "poolId": "P1_L07_01",
+    "targetLesson": 7,
+    "skill": "number_counter",
+    "knowledgeTarget": "Chọn đơn vị đếm phù hợp",
+    "difficulty": "easy",
+    "stem": "구두 한 ___ 주세요.",
+    "options": [
+      {
+        "id": "P1_L07_01_Q003_OPT_A",
+        "text": "켤레"
+      },
+      {
+        "id": "P1_L07_01_Q003_OPT_B",
+        "text": "잔"
+      },
+      {
+        "id": "P1_L07_01_Q003_OPT_C",
+        "text": "장"
+      },
+      {
+        "id": "P1_L07_01_Q003_OPT_D",
+        "text": "마리"
+      }
+    ],
+    "correctOptionId": "P1_L07_01_Q003_OPT_A",
+    "correctValue": "켤레",
+    "explanationVi": "Giày dùng đơn vị 켤레.",
+    "grammarUsed": [
+      "Định từ số (1)"
+    ],
+    "vocabularyUsed": [
+      "구두",
+      "켤레",
+      "잔",
+      "장",
+      "마리"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L07_02_Q001",
+    "poolId": "P1_L07_02",
+    "targetLesson": 7,
+    "skill": "number_counter",
+    "knowledgeTarget": "Số thuần Hàn kết hợp đơn vị đếm trong ngữ cảnh mua hàng",
+    "difficulty": "easy",
+    "stem": "이거 ___ 개 주세요.",
+    "options": [
+      {
+        "id": "P1_L07_02_Q001_OPT_A",
+        "text": "두"
+      },
+      {
+        "id": "P1_L07_02_Q001_OPT_B",
+        "text": "둘"
+      },
+      {
+        "id": "P1_L07_02_Q001_OPT_C",
+        "text": "이"
+      },
+      {
+        "id": "P1_L07_02_Q001_OPT_D",
+        "text": "두이"
+      }
+    ],
+    "correctOptionId": "P1_L07_02_Q001_OPT_A",
+    "correctValue": "두",
+    "explanationVi": "Trước 개, 둘 đổi thành 두.",
+    "grammarUsed": [
+      "Định từ số (1)"
+    ],
+    "vocabularyUsed": [
+      "이거 두 개 주세요.",
+      "개(단위)"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L07_02_Q002",
+    "poolId": "P1_L07_02",
+    "targetLesson": 7,
+    "skill": "number_counter",
+    "knowledgeTarget": "Số thuần Hàn kết hợp đơn vị đếm trong ngữ cảnh mua hàng",
+    "difficulty": "easy",
+    "stem": "티셔츠 ___ 장 주세요.",
+    "options": [
+      {
+        "id": "P1_L07_02_Q002_OPT_A",
+        "text": "세"
+      },
+      {
+        "id": "P1_L07_02_Q002_OPT_B",
+        "text": "셋"
+      },
+      {
+        "id": "P1_L07_02_Q002_OPT_C",
+        "text": "삼"
+      },
+      {
+        "id": "P1_L07_02_Q002_OPT_D",
+        "text": "서"
+      }
+    ],
+    "correctOptionId": "P1_L07_02_Q002_OPT_A",
+    "correctValue": "세",
+    "explanationVi": "Trước 장, 셋 đổi thành 세.",
+    "grammarUsed": [
+      "Định từ số (1)"
+    ],
+    "vocabularyUsed": [
+      "티셔츠",
+      "장"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L07_02_Q003",
+    "poolId": "P1_L07_02",
+    "targetLesson": 7,
+    "skill": "number_counter",
+    "knowledgeTarget": "Số thuần Hàn kết hợp đơn vị đếm trong ngữ cảnh mua hàng",
+    "difficulty": "easy",
+    "stem": "카메라 ___ 대 있어요?",
+    "options": [
+      {
+        "id": "P1_L07_02_Q003_OPT_A",
+        "text": "한"
+      },
+      {
+        "id": "P1_L07_02_Q003_OPT_B",
+        "text": "하나"
+      },
+      {
+        "id": "P1_L07_02_Q003_OPT_C",
+        "text": "일"
+      },
+      {
+        "id": "P1_L07_02_Q003_OPT_D",
+        "text": "하"
+      }
+    ],
+    "correctOptionId": "P1_L07_02_Q003_OPT_A",
+    "correctValue": "한",
+    "explanationVi": "Trước 대, 하나 đổi thành 한.",
+    "grammarUsed": [
+      "Định từ số (1)"
+    ],
+    "vocabularyUsed": [
+      "카메라",
+      "대(단위)"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L07_03_Q001",
+    "poolId": "P1_L07_03",
+    "targetLesson": 7,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn cấu trúc mong muốn -고 싶다",
+    "difficulty": "easy",
+    "stem": "저는 주스를 마시___.",
+    "options": [
+      {
+        "id": "P1_L07_03_Q001_OPT_A",
+        "text": "고 싶어요"
+      },
+      {
+        "id": "P1_L07_03_Q001_OPT_B",
+        "text": "고 싶습니다?"
+      },
+      {
+        "id": "P1_L07_03_Q001_OPT_C",
+        "text": "고 있어요"
+      },
+      {
+        "id": "P1_L07_03_Q001_OPT_D",
+        "text": "지 않아요"
+      }
+    ],
+    "correctOptionId": "P1_L07_03_Q001_OPT_A",
+    "correctValue": "고 싶어요",
+    "explanationVi": "Mong muốn dùng gốc động từ + 고 싶어요.",
+    "grammarUsed": [
+      "-고 싶다"
+    ],
+    "vocabularyUsed": [
+      "저",
+      "주스",
+      "마시다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L07_03_Q002",
+    "poolId": "P1_L07_03",
+    "targetLesson": 7,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn cấu trúc mong muốn -고 싶다",
+    "difficulty": "easy",
+    "stem": "소설책을 읽___.",
+    "options": [
+      {
+        "id": "P1_L07_03_Q002_OPT_A",
+        "text": "고 싶어요"
+      },
+      {
+        "id": "P1_L07_03_Q002_OPT_B",
+        "text": "고 싶어합니다"
+      },
+      {
+        "id": "P1_L07_03_Q002_OPT_C",
+        "text": "고 싶습니다?"
+      },
+      {
+        "id": "P1_L07_03_Q002_OPT_D",
+        "text": "고 있어요"
+      }
+    ],
+    "correctOptionId": "P1_L07_03_Q002_OPT_A",
+    "correctValue": "고 싶어요",
+    "explanationVi": "Người nói muốn đọc dùng 읽고 싶어요.",
+    "grammarUsed": [
+      "-고 싶다"
+    ],
+    "vocabularyUsed": [
+      "소설책",
+      "읽다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L07_03_Q003",
+    "poolId": "P1_L07_03",
+    "targetLesson": 7,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn cấu trúc mong muốn -고 싶다",
+    "difficulty": "easy",
+    "stem": "저는 망고를 사___.",
+    "options": [
+      {
+        "id": "P1_L07_03_Q003_OPT_A",
+        "text": "고 싶어요"
+      },
+      {
+        "id": "P1_L07_03_Q003_OPT_B",
+        "text": "고 싶습니까"
+      },
+      {
+        "id": "P1_L07_03_Q003_OPT_C",
+        "text": "았어요"
+      },
+      {
+        "id": "P1_L07_03_Q003_OPT_D",
+        "text": "지 않아요"
+      }
+    ],
+    "correctOptionId": "P1_L07_03_Q003_OPT_A",
+    "correctValue": "고 싶어요",
+    "explanationVi": "Mong muốn mua dùng 사고 싶어요.",
+    "grammarUsed": [
+      "-고 싶다"
+    ],
+    "vocabularyUsed": [
+      "저",
+      "망고",
+      "사다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L07_04_Q001",
+    "poolId": "P1_L07_04",
+    "targetLesson": 7,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn 은/는 mang nghĩa đối chiếu trong so sánh đồ vật/giá cả",
+    "difficulty": "easy",
+    "stem": "이 티셔츠__ 비싸요. 저 티셔츠는 싸요.",
+    "options": [
+      {
+        "id": "P1_L07_04_Q001_OPT_A",
+        "text": "는"
+      },
+      {
+        "id": "P1_L07_04_Q001_OPT_B",
+        "text": "은"
+      },
+      {
+        "id": "P1_L07_04_Q001_OPT_C",
+        "text": "이"
+      },
+      {
+        "id": "P1_L07_04_Q001_OPT_D",
+        "text": "가"
+      }
+    ],
+    "correctOptionId": "P1_L07_04_Q001_OPT_A",
+    "correctValue": "는",
+    "explanationVi": "티셔츠 không có patchim nên dùng 는 để đối chiếu.",
+    "grammarUsed": [
+      "은/는 <đối chiếu>"
+    ],
+    "vocabularyUsed": [
+      "티셔츠",
+      "비싸다",
+      "싸다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L07_04_Q002",
+    "poolId": "P1_L07_04",
+    "targetLesson": 7,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn 은/는 mang nghĩa đối chiếu trong so sánh đồ vật/giá cả",
+    "difficulty": "easy",
+    "stem": "이 옷__ 싸요. 저 옷은 비싸요.",
+    "options": [
+      {
+        "id": "P1_L07_04_Q002_OPT_A",
+        "text": "은"
+      },
+      {
+        "id": "P1_L07_04_Q002_OPT_B",
+        "text": "는"
+      },
+      {
+        "id": "P1_L07_04_Q002_OPT_C",
+        "text": "이"
+      },
+      {
+        "id": "P1_L07_04_Q002_OPT_D",
+        "text": "가"
+      }
+    ],
+    "correctOptionId": "P1_L07_04_Q002_OPT_A",
+    "correctValue": "은",
+    "explanationVi": "옷 có patchim nên dùng 은.",
+    "grammarUsed": [
+      "은/는 <đối chiếu>"
+    ],
+    "vocabularyUsed": [
+      "옷",
+      "싸다",
+      "비싸다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L07_04_Q003",
+    "poolId": "P1_L07_04",
+    "targetLesson": 7,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn 은/는 mang nghĩa đối chiếu trong so sánh đồ vật/giá cả",
+    "difficulty": "easy",
+    "stem": "이 카메라__ 좋아요. 저 카메라는 안 좋아요.",
+    "options": [
+      {
+        "id": "P1_L07_04_Q003_OPT_A",
+        "text": "는"
+      },
+      {
+        "id": "P1_L07_04_Q003_OPT_B",
+        "text": "은"
+      },
+      {
+        "id": "P1_L07_04_Q003_OPT_C",
+        "text": "을"
+      },
+      {
+        "id": "P1_L07_04_Q003_OPT_D",
+        "text": "를"
+      }
+    ],
+    "correctOptionId": "P1_L07_04_Q003_OPT_A",
+    "correctValue": "는",
+    "explanationVi": "카메라 không có patchim nên dùng 는.",
+    "grammarUsed": [
+      "은/는 <đối chiếu>"
+    ],
+    "vocabularyUsed": [
+      "카메라",
+      "좋다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L07_05_Q001",
+    "poolId": "P1_L07_05",
+    "targetLesson": 7,
+    "skill": "dialogue",
+    "knowledgeTarget": "Hội thoại mua hàng hoặc hỏi giá",
+    "difficulty": "medium",
+    "stem": "A: 이거 얼마예요?\nB: ___",
+    "options": [
+      {
+        "id": "P1_L07_05_Q001_OPT_A",
+        "text": "10,000원이에요."
+      },
+      {
+        "id": "P1_L07_05_Q001_OPT_B",
+        "text": "어서 오세요."
+      },
+      {
+        "id": "P1_L07_05_Q001_OPT_C",
+        "text": "다음에 또 오세요."
+      },
+      {
+        "id": "P1_L07_05_Q001_OPT_D",
+        "text": "책을 읽어요."
+      }
+    ],
+    "correctOptionId": "P1_L07_05_Q001_OPT_A",
+    "correctValue": "10,000원이에요.",
+    "explanationVi": "Hỏi giá thì trả lời số tiền.",
+    "grammarUsed": [
+      "-아/어요"
+    ],
+    "vocabularyUsed": [
+      "이거 얼마예요?",
+      "10,000원이에요.",
+      "어서 오세요.",
+      "다음에 또 오세요."
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L07_05_Q002",
+    "poolId": "P1_L07_05",
+    "targetLesson": 7,
+    "skill": "dialogue",
+    "knowledgeTarget": "Hội thoại mua hàng hoặc hỏi giá",
+    "difficulty": "medium",
+    "stem": "A: 무얼 찾으세요?\nB: ___",
+    "options": [
+      {
+        "id": "P1_L07_05_Q002_OPT_A",
+        "text": "티셔츠가 있어요?"
+      },
+      {
+        "id": "P1_L07_05_Q002_OPT_B",
+        "text": "월요일이에요."
+      },
+      {
+        "id": "P1_L07_05_Q002_OPT_C",
+        "text": "도서관에서 읽어요."
+      },
+      {
+        "id": "P1_L07_05_Q002_OPT_D",
+        "text": "네 시예요."
+      }
+    ],
+    "correctOptionId": "P1_L07_05_Q002_OPT_A",
+    "correctValue": "티셔츠가 있어요?",
+    "explanationVi": "Trong cửa hàng, hỏi đồ cần tìm thì trả lời tên hàng.",
+    "grammarUsed": [
+      "-아/어요"
+    ],
+    "vocabularyUsed": [
+      "무얼 찾으세요?",
+      "티셔츠",
+      "( )이/가 있어요?",
+      "월요일",
+      "도서관",
+      "시"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L07_05_Q003",
+    "poolId": "P1_L07_05",
+    "targetLesson": 7,
+    "skill": "dialogue",
+    "knowledgeTarget": "Hội thoại mua hàng hoặc hỏi giá",
+    "difficulty": "medium",
+    "stem": "A: 너무 비싸요.\nB: ___",
+    "options": [
+      {
+        "id": "P1_L07_05_Q003_OPT_A",
+        "text": "8,000원에 드릴게요."
+      },
+      {
+        "id": "P1_L07_05_Q003_OPT_B",
+        "text": "밥을 먹어요."
+      },
+      {
+        "id": "P1_L07_05_Q003_OPT_C",
+        "text": "금요일에 봐요."
+      },
+      {
+        "id": "P1_L07_05_Q003_OPT_D",
+        "text": "학교에 가요."
+      }
+    ],
+    "correctOptionId": "P1_L07_05_Q003_OPT_A",
+    "correctValue": "8,000원에 드릴게요.",
+    "explanationVi": "Khi khách nói đắt, chủ cửa hàng có thể giảm giá.",
+    "grammarUsed": [
+      "-아/어요"
+    ],
+    "vocabularyUsed": [
+      "너무 비싸요.",
+      "8,000원에 드릴게요.",
+      "밥",
+      "금요일",
+      "학교",
+      "가다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L08_01_Q001",
+    "poolId": "P1_L08_01",
+    "targetLesson": 8,
+    "skill": "vocabulary",
+    "knowledgeTarget": "Chọn tên món ăn phù hợp ngữ cảnh",
+    "difficulty": "easy",
+    "stem": "Trong các từ dưới đây, từ nào không cùng loại với các từ còn lại?",
+    "options": [
+      {
+        "id": "P1_L08_01_Q001_OPT_A",
+        "text": "소금"
+      },
+      {
+        "id": "P1_L08_01_Q001_OPT_B",
+        "text": "김치찌개"
+      },
+      {
+        "id": "P1_L08_01_Q001_OPT_C",
+        "text": "냉면"
+      },
+      {
+        "id": "P1_L08_01_Q001_OPT_D",
+        "text": "케이크"
+      }
+    ],
+    "correctOptionId": "P1_L08_01_Q001_OPT_A",
+    "correctValue": "소금",
+    "explanationVi": "김치찌개, 냉면, 케이크 là món ăn; 소금 là gia vị.",
+    "grammarUsed": [],
+    "vocabularyUsed": [
+      "소금",
+      "김치찌개",
+      "냉면",
+      "케이크"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L08_01_Q002",
+    "poolId": "P1_L08_01",
+    "targetLesson": 8,
+    "skill": "vocabulary",
+    "knowledgeTarget": "Chọn tên món ăn phù hợp ngữ cảnh",
+    "difficulty": "easy",
+    "stem": "Trong các từ dưới đây, từ nào không cùng loại với các từ còn lại?",
+    "options": [
+      {
+        "id": "P1_L08_01_Q002_OPT_A",
+        "text": "콜라"
+      },
+      {
+        "id": "P1_L08_01_Q002_OPT_B",
+        "text": "냉면"
+      },
+      {
+        "id": "P1_L08_01_Q002_OPT_C",
+        "text": "된장찌개"
+      },
+      {
+        "id": "P1_L08_01_Q002_OPT_D",
+        "text": "떡볶이"
+      }
+    ],
+    "correctOptionId": "P1_L08_01_Q002_OPT_A",
+    "correctValue": "콜라",
+    "explanationVi": "냉면, 된장찌개, 떡볶이 là món ăn; 콜라 là đồ uống.",
+    "grammarUsed": [],
+    "vocabularyUsed": [
+      "콜라",
+      "냉면",
+      "된장찌개",
+      "떡볶이"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L08_01_Q003",
+    "poolId": "P1_L08_01",
+    "targetLesson": 8,
+    "skill": "vocabulary",
+    "knowledgeTarget": "Chọn tên món ăn phù hợp ngữ cảnh",
+    "difficulty": "easy",
+    "stem": "Trong các từ dưới đây, từ nào không cùng loại với các từ còn lại?",
+    "options": [
+      {
+        "id": "P1_L08_01_Q003_OPT_A",
+        "text": "인삼차"
+      },
+      {
+        "id": "P1_L08_01_Q003_OPT_B",
+        "text": "볶음밥"
+      },
+      {
+        "id": "P1_L08_01_Q003_OPT_C",
+        "text": "삼계탕"
+      },
+      {
+        "id": "P1_L08_01_Q003_OPT_D",
+        "text": "김치찌개"
+      }
+    ],
+    "correctOptionId": "P1_L08_01_Q003_OPT_A",
+    "correctValue": "인삼차",
+    "explanationVi": "볶음밥, 삼계탕, 김치찌개 là món ăn; 인삼차 là đồ uống.",
+    "grammarUsed": [],
+    "vocabularyUsed": [
+      "인삼차",
+      "볶음밥",
+      "삼계탕",
+      "김치찌개"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L08_02_Q001",
+    "poolId": "P1_L08_02",
+    "targetLesson": 8,
+    "skill": "vocabulary",
+    "knowledgeTarget": "Chọn tính từ vị giác phù hợp",
+    "difficulty": "easy",
+    "stem": "고추가 많아요. 음식이 ___ .",
+    "options": [
+      {
+        "id": "P1_L08_02_Q001_OPT_A",
+        "text": "매워요"
+      },
+      {
+        "id": "P1_L08_02_Q001_OPT_B",
+        "text": "달아요"
+      },
+      {
+        "id": "P1_L08_02_Q001_OPT_C",
+        "text": "싱거워요"
+      },
+      {
+        "id": "P1_L08_02_Q001_OPT_D",
+        "text": "맛있게"
+      }
+    ],
+    "correctOptionId": "P1_L08_02_Q001_OPT_A",
+    "correctValue": "매워요",
+    "explanationVi": "고추 nhiều thì món ăn cay: 맵다.",
+    "grammarUsed": [],
+    "vocabularyUsed": [
+      "고추",
+      "음식",
+      "맵다",
+      "달다",
+      "싱겁다",
+      "맛있게"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L08_02_Q002",
+    "poolId": "P1_L08_02",
+    "targetLesson": 8,
+    "skill": "vocabulary",
+    "knowledgeTarget": "Chọn tính từ vị giác phù hợp",
+    "difficulty": "easy",
+    "stem": "설탕이 많아요. 케이크가 ___ .",
+    "options": [
+      {
+        "id": "P1_L08_02_Q002_OPT_A",
+        "text": "달아요"
+      },
+      {
+        "id": "P1_L08_02_Q002_OPT_B",
+        "text": "짜요"
+      },
+      {
+        "id": "P1_L08_02_Q002_OPT_C",
+        "text": "매워요"
+      },
+      {
+        "id": "P1_L08_02_Q002_OPT_D",
+        "text": "시어요"
+      }
+    ],
+    "correctOptionId": "P1_L08_02_Q002_OPT_A",
+    "correctValue": "달아요",
+    "explanationVi": "Vị ngọt là 달다.",
+    "grammarUsed": [],
+    "vocabularyUsed": [
+      "케이크",
+      "달다",
+      "짜다",
+      "맵다",
+      "시다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L08_02_Q003",
+    "poolId": "P1_L08_02",
+    "targetLesson": 8,
+    "skill": "vocabulary",
+    "knowledgeTarget": "Chọn tính từ vị giác phù hợp",
+    "difficulty": "easy",
+    "stem": "소금이 많아요. 국이 ___ .",
+    "options": [
+      {
+        "id": "P1_L08_02_Q003_OPT_A",
+        "text": "짜요"
+      },
+      {
+        "id": "P1_L08_02_Q003_OPT_B",
+        "text": "달아요"
+      },
+      {
+        "id": "P1_L08_02_Q003_OPT_C",
+        "text": "싱거워요"
+      },
+      {
+        "id": "P1_L08_02_Q003_OPT_D",
+        "text": "맛없어요"
+      }
+    ],
+    "correctOptionId": "P1_L08_02_Q003_OPT_A",
+    "correctValue": "짜요",
+    "explanationVi": "Nhiều muối thì mặn: 짜다.",
+    "grammarUsed": [],
+    "vocabularyUsed": [
+      "소금",
+      "국",
+      "짜다",
+      "달다",
+      "싱겁다",
+      "맛없다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L08_03_Q001",
+    "poolId": "P1_L08_03",
+    "targetLesson": 8,
+    "skill": "grammar_dialogue",
+    "knowledgeTarget": "Chọn cấu trúc ý định -겠- trong ngữ cảnh gọi món/quyết định",
+    "difficulty": "medium",
+    "stem": "A: 무엇을 드시겠어요?\nB: 저는 비빔밥을 먹___.",
+    "options": [
+      {
+        "id": "P1_L08_03_Q001_OPT_A",
+        "text": "겠습니다"
+      },
+      {
+        "id": "P1_L08_03_Q001_OPT_B",
+        "text": "습니다"
+      },
+      {
+        "id": "P1_L08_03_Q001_OPT_C",
+        "text": "었어요"
+      },
+      {
+        "id": "P1_L08_03_Q001_OPT_D",
+        "text": "고 싶어요"
+      }
+    ],
+    "correctOptionId": "P1_L08_03_Q001_OPT_A",
+    "correctValue": "겠습니다",
+    "explanationVi": "Khi quyết định gọi món dùng -겠습니다.",
+    "grammarUsed": [
+      "-겠-"
+    ],
+    "vocabularyUsed": [
+      "무엇",
+      "저",
+      "비빔밥",
+      "먹다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L08_03_Q002",
+    "poolId": "P1_L08_03",
+    "targetLesson": 8,
+    "skill": "grammar_dialogue",
+    "knowledgeTarget": "Chọn cấu trúc ý định -겠- trong ngữ cảnh gọi món/quyết định",
+    "difficulty": "medium",
+    "stem": "A: 주문하시겠어요?\nB: 네, 냉면을 먹___.",
+    "options": [
+      {
+        "id": "P1_L08_03_Q002_OPT_A",
+        "text": "겠습니다"
+      },
+      {
+        "id": "P1_L08_03_Q002_OPT_B",
+        "text": "습니다"
+      },
+      {
+        "id": "P1_L08_03_Q002_OPT_C",
+        "text": "어요"
+      },
+      {
+        "id": "P1_L08_03_Q002_OPT_D",
+        "text": "지 않아요"
+      }
+    ],
+    "correctOptionId": "P1_L08_03_Q002_OPT_A",
+    "correctValue": "겠습니다",
+    "explanationVi": "Ý định chọn món dùng 먹겠습니다.",
+    "grammarUsed": [
+      "-겠-"
+    ],
+    "vocabularyUsed": [
+      "주문하다",
+      "냉면",
+      "먹다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L08_03_Q003",
+    "poolId": "P1_L08_03",
+    "targetLesson": 8,
+    "skill": "grammar_dialogue",
+    "knowledgeTarget": "Chọn cấu trúc ý định -겠- trong ngữ cảnh gọi món/quyết định",
+    "difficulty": "medium",
+    "stem": "A: 어떤 음료수를 드시겠어요?\nB: 콜라를 마시___.",
+    "options": [
+      {
+        "id": "P1_L08_03_Q003_OPT_A",
+        "text": "겠습니다"
+      },
+      {
+        "id": "P1_L08_03_Q003_OPT_B",
+        "text": "습니다"
+      },
+      {
+        "id": "P1_L08_03_Q003_OPT_C",
+        "text": "고 싶어요"
+      },
+      {
+        "id": "P1_L08_03_Q003_OPT_D",
+        "text": "었어요"
+      }
+    ],
+    "correctOptionId": "P1_L08_03_Q003_OPT_A",
+    "correctValue": "겠습니다",
+    "explanationVi": "Quyết định uống dùng 마시겠습니다.",
+    "grammarUsed": [
+      "-겠-"
+    ],
+    "vocabularyUsed": [
+      "음료수",
+      "콜라",
+      "마시다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L08_04_Q001",
+    "poolId": "P1_L08_04",
+    "targetLesson": 8,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn phủ định dài -지 않다",
+    "difficulty": "easy",
+    "stem": "저는 매운 음식을 먹___.",
+    "options": [
+      {
+        "id": "P1_L08_04_Q001_OPT_A",
+        "text": "지 않아요"
+      },
+      {
+        "id": "P1_L08_04_Q001_OPT_B",
+        "text": "안 않아요"
+      },
+      {
+        "id": "P1_L08_04_Q001_OPT_C",
+        "text": "지 있어요"
+      },
+      {
+        "id": "P1_L08_04_Q001_OPT_D",
+        "text": "고 싶어요"
+      }
+    ],
+    "correctOptionId": "P1_L08_04_Q001_OPT_A",
+    "correctValue": "지 않아요",
+    "explanationVi": "Phủ định dài dùng gốc động từ + 지 않아요.",
+    "grammarUsed": [
+      "-지 않다"
+    ],
+    "vocabularyUsed": [
+      "저",
+      "음식",
+      "먹다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L08_04_Q002",
+    "poolId": "P1_L08_04",
+    "targetLesson": 8,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn phủ định dài -지 않다",
+    "difficulty": "easy",
+    "stem": "김치찌개가 맵___.",
+    "options": [
+      {
+        "id": "P1_L08_04_Q002_OPT_A",
+        "text": "지 않아요"
+      },
+      {
+        "id": "P1_L08_04_Q002_OPT_B",
+        "text": "지 있어요"
+      },
+      {
+        "id": "P1_L08_04_Q002_OPT_C",
+        "text": "안 않아요"
+      },
+      {
+        "id": "P1_L08_04_Q002_OPT_D",
+        "text": "고 싶어요"
+      }
+    ],
+    "correctOptionId": "P1_L08_04_Q002_OPT_A",
+    "correctValue": "지 않아요",
+    "explanationVi": "Phủ định tính từ cũng dùng 지 않아요.",
+    "grammarUsed": [
+      "-지 않다"
+    ],
+    "vocabularyUsed": [
+      "김치찌개",
+      "맵다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L08_04_Q003",
+    "poolId": "P1_L08_04",
+    "targetLesson": 8,
+    "skill": "grammar",
+    "knowledgeTarget": "Chọn phủ định dài -지 않다",
+    "difficulty": "easy",
+    "stem": "저는 콜라를 마시___.",
+    "options": [
+      {
+        "id": "P1_L08_04_Q003_OPT_A",
+        "text": "지 않습니다"
+      },
+      {
+        "id": "P1_L08_04_Q003_OPT_B",
+        "text": "지 않습니다?"
+      },
+      {
+        "id": "P1_L08_04_Q003_OPT_C",
+        "text": "지 있어요"
+      },
+      {
+        "id": "P1_L08_04_Q003_OPT_D",
+        "text": "고 싶습니다"
+      }
+    ],
+    "correctOptionId": "P1_L08_04_Q003_OPT_A",
+    "correctValue": "지 않습니다",
+    "explanationVi": "Dạng trang trọng phủ định dài là 지 않습니다.",
+    "grammarUsed": [
+      "-지 않다"
+    ],
+    "vocabularyUsed": [
+      "저",
+      "콜라",
+      "마시다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L08_05_Q001",
+    "poolId": "P1_L08_05",
+    "targetLesson": 8,
+    "skill": "grammar_dialogue",
+    "knowledgeTarget": "Chọn yêu cầu/khuyên nhủ lịch sự -(으)세요",
+    "difficulty": "medium",
+    "stem": "계산서 좀 주___.",
+    "options": [
+      {
+        "id": "P1_L08_05_Q001_OPT_A",
+        "text": "세요"
+      },
+      {
+        "id": "P1_L08_05_Q001_OPT_B",
+        "text": "십시오?"
+      },
+      {
+        "id": "P1_L08_05_Q001_OPT_C",
+        "text": "습니다"
+      },
+      {
+        "id": "P1_L08_05_Q001_OPT_D",
+        "text": "고 싶어요"
+      }
+    ],
+    "correctOptionId": "P1_L08_05_Q001_OPT_A",
+    "correctValue": "세요",
+    "explanationVi": "Yêu cầu lịch sự dùng 주세요.",
+    "grammarUsed": [
+      "-(으)세요"
+    ],
+    "vocabularyUsed": [
+      "계산서",
+      "좀",
+      "주다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L08_05_Q002",
+    "poolId": "P1_L08_05",
+    "targetLesson": 8,
+    "skill": "grammar_dialogue",
+    "knowledgeTarget": "Chọn yêu cầu/khuyên nhủ lịch sự -(으)세요",
+    "difficulty": "medium",
+    "stem": "여기에 앉___.",
+    "options": [
+      {
+        "id": "P1_L08_05_Q002_OPT_A",
+        "text": "으세요"
+      },
+      {
+        "id": "P1_L08_05_Q002_OPT_B",
+        "text": "세요"
+      },
+      {
+        "id": "P1_L08_05_Q002_OPT_C",
+        "text": "습니다"
+      },
+      {
+        "id": "P1_L08_05_Q002_OPT_D",
+        "text": "고 싶어요"
+      }
+    ],
+    "correctOptionId": "P1_L08_05_Q002_OPT_A",
+    "correctValue": "으세요",
+    "explanationVi": "앉다 có patchim nên dùng 앉으세요.",
+    "grammarUsed": [
+      "-(으)세요"
+    ],
+    "vocabularyUsed": [
+      "여기"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L08_05_Q003",
+    "poolId": "P1_L08_05",
+    "targetLesson": 8,
+    "skill": "grammar_dialogue",
+    "knowledgeTarget": "Chọn yêu cầu/khuyên nhủ lịch sự -(으)세요",
+    "difficulty": "medium",
+    "stem": "물 좀 ___ 주세요.",
+    "options": [
+      {
+        "id": "P1_L08_05_Q003_OPT_A",
+        "text": "가져"
+      },
+      {
+        "id": "P1_L08_05_Q003_OPT_B",
+        "text": "가집"
+      },
+      {
+        "id": "P1_L08_05_Q003_OPT_C",
+        "text": "갔"
+      },
+      {
+        "id": "P1_L08_05_Q003_OPT_D",
+        "text": "가지 않"
+      }
+    ],
+    "correctOptionId": "P1_L08_05_Q003_OPT_A",
+    "correctValue": "가져",
+    "explanationVi": "Câu yêu cầu lịch sự có thể dùng 주세요.",
+    "grammarUsed": [
+      "-(으)세요"
+    ],
+    "vocabularyUsed": [
+      "물",
+      "좀",
+      "주다"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L08_06_Q001",
+    "poolId": "P1_L08_06",
+    "targetLesson": 8,
+    "skill": "dialogue",
+    "knowledgeTarget": "Hội thoại gọi món hoặc thanh toán trong nhà hàng",
+    "difficulty": "medium",
+    "stem": "A: 무엇을 드시겠어요?\nB: ___",
+    "options": [
+      {
+        "id": "P1_L08_06_Q001_OPT_A",
+        "text": "김치찌개 주세요."
+      },
+      {
+        "id": "P1_L08_06_Q001_OPT_B",
+        "text": "도서관에 가요."
+      },
+      {
+        "id": "P1_L08_06_Q001_OPT_C",
+        "text": "책을 읽었어요."
+      },
+      {
+        "id": "P1_L08_06_Q001_OPT_D",
+        "text": "월요일입니다."
+      }
+    ],
+    "correctOptionId": "P1_L08_06_Q001_OPT_A",
+    "correctValue": "김치찌개 주세요.",
+    "explanationVi": "Ngữ cảnh gọi món cần tên món + 주세요.",
+    "grammarUsed": [
+      "-(으)세요",
+      "-겠-"
+    ],
+    "vocabularyUsed": [
+      "무엇",
+      "김치찌개",
+      "주다",
+      "도서관",
+      "월요일"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L08_06_Q002",
+    "poolId": "P1_L08_06",
+    "targetLesson": 8,
+    "skill": "dialogue",
+    "knowledgeTarget": "Hội thoại gọi món hoặc thanh toán trong nhà hàng",
+    "difficulty": "medium",
+    "stem": "A: 계산서를 드릴까요?\nB: ___",
+    "options": [
+      {
+        "id": "P1_L08_06_Q002_OPT_A",
+        "text": "네, 주세요."
+      },
+      {
+        "id": "P1_L08_06_Q002_OPT_B",
+        "text": "아니요, 학교입니다."
+      },
+      {
+        "id": "P1_L08_06_Q002_OPT_C",
+        "text": "커피를 읽어요."
+      },
+      {
+        "id": "P1_L08_06_Q002_OPT_D",
+        "text": "토요일에 있어요."
+      }
+    ],
+    "correctOptionId": "P1_L08_06_Q002_OPT_A",
+    "correctValue": "네, 주세요.",
+    "explanationVi": "Yêu cầu nhận hóa đơn dùng 주세요.",
+    "grammarUsed": [
+      "-(으)세요",
+      "-겠-"
+    ],
+    "vocabularyUsed": [
+      "계산서",
+      "주다",
+      "학교",
+      "커피",
+      "토요일"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  },
+  {
+    "id": "P1_L08_06_Q003",
+    "poolId": "P1_L08_06",
+    "targetLesson": 8,
+    "skill": "dialogue",
+    "knowledgeTarget": "Hội thoại gọi món hoặc thanh toán trong nhà hàng",
+    "difficulty": "medium",
+    "stem": "A: 이 음식이 어때요?\nB: ___",
+    "options": [
+      {
+        "id": "P1_L08_06_Q003_OPT_A",
+        "text": "맛있어요."
+      },
+      {
+        "id": "P1_L08_06_Q003_OPT_B",
+        "text": "계산하세요."
+      },
+      {
+        "id": "P1_L08_06_Q003_OPT_C",
+        "text": "금연석입니다."
+      },
+      {
+        "id": "P1_L08_06_Q003_OPT_D",
+        "text": "책상입니다."
+      }
+    ],
+    "correctOptionId": "P1_L08_06_Q003_OPT_A",
+    "correctValue": "맛있어요.",
+    "explanationVi": "Hỏi đánh giá món ăn thì trả lời vị/trạng thái.",
+    "grammarUsed": [
+      "-(으)세요",
+      "-겠-"
+    ],
+    "vocabularyUsed": [
+      "음식",
+      "( )이/가 어때요?",
+      "맛있다",
+      "금연석",
+      "책상"
+    ],
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": true
+    }
+  }
+]

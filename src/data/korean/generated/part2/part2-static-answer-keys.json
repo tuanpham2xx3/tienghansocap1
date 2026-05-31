@@ -1,0 +1,1542 @@
+[
+  {
+    "examId": "PART2_EXAM_001",
+    "answers": [
+      {
+        "questionId": "P2_T1_TOPIC_DAILY_SCHEDULE_Q003",
+        "displayOrder": 1,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_DAILY_SCHEDULE_Q003_OPT_A",
+        "correctValue": "하루 일과",
+        "explanationVi": "Bài đọc nói rõ về lịch trình trong ngày, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_SHOPPING_Q003",
+        "displayOrder": 2,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_SHOPPING_Q003_OPT_A",
+        "correctValue": "물건 사기",
+        "explanationVi": "Bài đọc nói rõ về mua đồ, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_PLACE_Q001",
+        "displayOrder": 3,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_PLACE_Q001_OPT_A",
+        "correctValue": "장소",
+        "explanationVi": "Bài đọc nói rõ về địa điểm, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_HOBBY_Q001",
+        "displayOrder": 4,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_HOBBY_Q001_OPT_A",
+        "correctValue": "취미",
+        "explanationVi": "Bài đọc nói rõ về sở thích, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_FOOD_Q001",
+        "displayOrder": 5,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_FOOD_Q001_OPT_A",
+        "correctValue": "음식",
+        "explanationVi": "Bài đọc nói rõ về món ăn, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T2_RECEIPT_Q003",
+        "displayOrder": 6,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_RECEIPT_Q003_OPT_A",
+        "correctValue": "라면은 한 개 샀습니다.",
+        "explanationVi": "Biên lai ghi mì mua hai gói, nên phát biểu mua một gói mì là sai."
+      },
+      {
+        "questionId": "P2_T2_CARD_Q001",
+        "displayOrder": 7,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_CARD_Q001_OPT_A",
+        "correctValue": "선물은 가방입니다.",
+        "explanationVi": "Quà tặng là đồng hồ, nên phát biểu quà là cặp/túi là sai."
+      },
+      {
+        "questionId": "P2_T3_SHOPPING_FOOD_Q001",
+        "displayOrder": 8,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_SHOPPING_FOOD_Q001_OPT_A",
+        "correctValue": "저는 주스 한 개를 샀습니다.",
+        "explanationVi": "Đoạn văn cho biết người nói mua một chai nước ép."
+      },
+      {
+        "questionId": "P2_T3_DAILY_SCHEDULE_Q001",
+        "displayOrder": 9,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_DAILY_SCHEDULE_Q001_OPT_A",
+        "correctValue": "저는 아침 7시에 일어납니다.",
+        "explanationVi": "Đoạn ghi thức dậy lúc 7 giờ."
+      }
+    ]
+  },
+  {
+    "examId": "PART2_EXAM_002",
+    "answers": [
+      {
+        "questionId": "P2_T1_TOPIC_TASTE_Q002",
+        "displayOrder": 1,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_TASTE_Q002_OPT_A",
+        "correctValue": "맛",
+        "explanationVi": "Bài đọc nói rõ về vị giác, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_SCHOOL_Q001",
+        "displayOrder": 2,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_SCHOOL_Q001_OPT_A",
+        "correctValue": "학교",
+        "explanationVi": "Bài đọc nói rõ về trường học, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_OBJECT_Q001",
+        "displayOrder": 3,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_OBJECT_Q001_OPT_A",
+        "correctValue": "물건",
+        "explanationVi": "Bài đọc nói rõ về đồ vật, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DATE_DAY_Q001",
+        "displayOrder": 4,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_DATE_DAY_Q001_OPT_A",
+        "correctValue": "날짜와 요일",
+        "explanationVi": "Bài đọc nói rõ về ngày tháng và thứ, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_TIME_Q001",
+        "displayOrder": 5,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_TIME_Q001_OPT_A",
+        "correctValue": "시간",
+        "explanationVi": "Bài đọc nói rõ về thời gian, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T2_NOTICE_Q002",
+        "displayOrder": 6,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_NOTICE_Q002_OPT_A",
+        "correctValue": "시험은 오후 9시에 있습니다.",
+        "explanationVi": "Thời gian thi là 9 giờ sáng, không phải 9 giờ tối."
+      },
+      {
+        "questionId": "P2_T2_MENU_Q003",
+        "displayOrder": 7,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_MENU_Q003_OPT_A",
+        "correctValue": "김치찌개는 8,000원입니다.",
+        "explanationVi": "Giá canh kim chi là 7.000 won, không phải 8.000 won."
+      },
+      {
+        "questionId": "P2_T3_GIFT_PLAN_Q001",
+        "displayOrder": 8,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_GIFT_PLAN_Q001_OPT_A",
+        "correctValue": "생일 파티는 식당에서 합니다.",
+        "explanationVi": "Địa điểm tổ chức tiệc sinh nhật là nhà hàng."
+      },
+      {
+        "questionId": "P2_T3_CLASS_ACTIVITY_Q002",
+        "displayOrder": 9,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_CLASS_ACTIVITY_Q002_OPT_A",
+        "correctValue": "학생들은 교실에서 공부합니다.",
+        "explanationVi": "Địa điểm học là phòng học."
+      }
+    ]
+  },
+  {
+    "examId": "PART2_EXAM_003",
+    "answers": [
+      {
+        "questionId": "P2_T1_TOPIC_WEEKEND_Q003",
+        "displayOrder": 1,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_WEEKEND_Q003_OPT_A",
+        "correctValue": "주말",
+        "explanationVi": "Bài đọc nói rõ về cuối tuần, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_TASTE_Q001",
+        "displayOrder": 2,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_TASTE_Q001_OPT_A",
+        "correctValue": "맛",
+        "explanationVi": "Bài đọc nói rõ về vị giác, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_JOB_Q002",
+        "displayOrder": 3,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_JOB_Q002_OPT_A",
+        "correctValue": "직업",
+        "explanationVi": "Bài đọc nói rõ về nghề nghiệp, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DAILY_LIFE_Q003",
+        "displayOrder": 4,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_DAILY_LIFE_Q003_OPT_A",
+        "correctValue": "일상생활",
+        "explanationVi": "Bài đọc nói rõ về sinh hoạt hằng ngày, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_NATIONALITY_Q003",
+        "displayOrder": 5,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_NATIONALITY_Q003_OPT_A",
+        "correctValue": "국적",
+        "explanationVi": "Bài đọc nói rõ về quốc tịch, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T2_SCHEDULE_Q002",
+        "displayOrder": 6,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_SCHEDULE_Q002_OPT_A",
+        "correctValue": "시험은 오후 10시에 있습니다.",
+        "explanationVi": "Thời gian thi là 10 giờ sáng, không phải 10 giờ chiều."
+      },
+      {
+        "questionId": "P2_T2_RECEIPT_Q001",
+        "displayOrder": 7,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_RECEIPT_Q001_OPT_A",
+        "correctValue": "우유는 한 개 샀습니다.",
+        "explanationVi": "Biên lai ghi sữa mua hai hộp, nên phát biểu mua một hộp sữa là sai."
+      },
+      {
+        "questionId": "P2_T3_WEEKEND_ACTIVITY_Q002",
+        "displayOrder": 8,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_WEEKEND_ACTIVITY_Q002_OPT_A",
+        "correctValue": "토요일에 바다에 갔습니다.",
+        "explanationVi": "Thứ bảy đi biển."
+      },
+      {
+        "questionId": "P2_T3_PROFILE_LANGUAGE_Q003",
+        "displayOrder": 9,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_PROFILE_LANGUAGE_Q003_OPT_A",
+        "correctValue": "흐엉 씨는 베트남 사람입니다.",
+        "explanationVi": "Quốc tịch đúng là Việt Nam."
+      }
+    ]
+  },
+  {
+    "examId": "PART2_EXAM_004",
+    "answers": [
+      {
+        "questionId": "P2_T1_TOPIC_TIME_Q003",
+        "displayOrder": 1,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_TIME_Q003_OPT_A",
+        "correctValue": "시간",
+        "explanationVi": "Bài đọc nói rõ về thời gian, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DAILY_SCHEDULE_Q002",
+        "displayOrder": 2,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_DAILY_SCHEDULE_Q002_OPT_A",
+        "correctValue": "하루 일과",
+        "explanationVi": "Bài đọc nói rõ về lịch trình trong ngày, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_WEEKEND_Q002",
+        "displayOrder": 3,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_WEEKEND_Q002_OPT_A",
+        "correctValue": "주말",
+        "explanationVi": "Bài đọc nói rõ về cuối tuần, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_HOBBY_Q003",
+        "displayOrder": 4,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_HOBBY_Q003_OPT_A",
+        "correctValue": "취미",
+        "explanationVi": "Bài đọc nói rõ về sở thích, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_JOB_Q003",
+        "displayOrder": 5,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_JOB_Q003_OPT_A",
+        "correctValue": "직업",
+        "explanationVi": "Bài đọc nói rõ về nghề nghiệp, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T2_CARD_Q003",
+        "displayOrder": 6,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_CARD_Q003_OPT_A",
+        "correctValue": "어머니가 가방을 준비했습니다.",
+        "explanationVi": "Món quà được chuẩn bị là bút, không phải cặp/túi."
+      },
+      {
+        "questionId": "P2_T2_SCHEDULE_Q001",
+        "displayOrder": 7,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_SCHEDULE_Q001_OPT_A",
+        "correctValue": "파티는 도서관에서 합니다.",
+        "explanationVi": "Địa điểm tổ chức tiệc là nhà hàng, không phải thư viện."
+      },
+      {
+        "questionId": "P2_T3_GIFT_PLAN_Q002",
+        "displayOrder": 8,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_GIFT_PLAN_Q002_OPT_A",
+        "correctValue": "저는 펜을 준비했습니다.",
+        "explanationVi": "Món quà được chuẩn bị là bút."
+      },
+      {
+        "questionId": "P2_T3_PROFILE_LANGUAGE_Q001",
+        "displayOrder": 9,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_PROFILE_LANGUAGE_Q001_OPT_A",
+        "correctValue": "제인 씨는 한국어를 할 수 있습니다.",
+        "explanationVi": "Đoạn nói Jane học và dùng tiếng Hàn."
+      }
+    ]
+  },
+  {
+    "examId": "PART2_EXAM_005",
+    "answers": [
+      {
+        "questionId": "P2_T1_TOPIC_DAILY_LIFE_Q001",
+        "displayOrder": 1,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_DAILY_LIFE_Q001_OPT_A",
+        "correctValue": "일상생활",
+        "explanationVi": "Bài đọc nói rõ về sinh hoạt hằng ngày, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DATE_DAY_Q002",
+        "displayOrder": 2,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_DATE_DAY_Q002_OPT_A",
+        "correctValue": "날짜와 요일",
+        "explanationVi": "Bài đọc nói rõ về ngày tháng và thứ, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_OBJECT_Q002",
+        "displayOrder": 3,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_OBJECT_Q002_OPT_A",
+        "correctValue": "물건",
+        "explanationVi": "Bài đọc nói rõ về đồ vật, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_NATIONALITY_Q002",
+        "displayOrder": 4,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_NATIONALITY_Q002_OPT_A",
+        "correctValue": "국적",
+        "explanationVi": "Bài đọc nói rõ về quốc tịch, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_FOOD_Q002",
+        "displayOrder": 5,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_FOOD_Q002_OPT_A",
+        "correctValue": "음식",
+        "explanationVi": "Bài đọc nói rõ về món ăn, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T2_MENU_Q002",
+        "displayOrder": 6,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_MENU_Q002_OPT_A",
+        "correctValue": "주스는 5,500원입니다.",
+        "explanationVi": "Giá nước ép là 1.500 won, không phải 5.500 won."
+      },
+      {
+        "questionId": "P2_T2_NOTICE_Q001",
+        "displayOrder": 7,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_NOTICE_Q001_OPT_A",
+        "correctValue": "파티는 식당에서 합니다.",
+        "explanationVi": "Địa điểm bữa tiệc là phòng học, không phải nhà hàng."
+      },
+      {
+        "questionId": "P2_T3_WEEKEND_ACTIVITY_Q003",
+        "displayOrder": 8,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_WEEKEND_ACTIVITY_Q003_OPT_A",
+        "correctValue": "저는 공원에서 산책했습니다.",
+        "explanationVi": "Người nói đi dạo ở công viên."
+      },
+      {
+        "questionId": "P2_T3_DAILY_SCHEDULE_Q002",
+        "displayOrder": 9,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_DAILY_SCHEDULE_Q002_OPT_A",
+        "correctValue": "민수 씨는 오후에 회의합니다.",
+        "explanationVi": "Hoạt động buổi chiều là họp."
+      }
+    ]
+  },
+  {
+    "examId": "PART2_EXAM_006",
+    "answers": [
+      {
+        "questionId": "P2_T1_TOPIC_FOOD_Q003",
+        "displayOrder": 1,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_FOOD_Q003_OPT_A",
+        "correctValue": "음식",
+        "explanationVi": "Bài đọc nói rõ về món ăn, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_TIME_Q002",
+        "displayOrder": 2,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_TIME_Q002_OPT_A",
+        "correctValue": "시간",
+        "explanationVi": "Bài đọc nói rõ về thời gian, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_PLACE_Q003",
+        "displayOrder": 3,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_PLACE_Q003_OPT_A",
+        "correctValue": "장소",
+        "explanationVi": "Bài đọc nói rõ về địa điểm, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_SCHOOL_Q003",
+        "displayOrder": 4,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_SCHOOL_Q003_OPT_A",
+        "correctValue": "학교",
+        "explanationVi": "Bài đọc nói rõ về trường học, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_SHOPPING_Q002",
+        "displayOrder": 5,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_SHOPPING_Q002_OPT_A",
+        "correctValue": "물건 사기",
+        "explanationVi": "Bài đọc nói rõ về mua đồ, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T2_CARD_Q002",
+        "displayOrder": 6,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_CARD_Q002_OPT_A",
+        "correctValue": "카드를 받은 사람은 남 씨입니다.",
+        "explanationVi": "Người nhận thiệp là bạn, không phải Nam."
+      },
+      {
+        "questionId": "P2_T2_RECEIPT_Q002",
+        "displayOrder": 7,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_RECEIPT_Q002_OPT_A",
+        "correctValue": "합계는 3,000원입니다.",
+        "explanationVi": "Tổng tiền là 5.000 won, không phải 3.000 won."
+      },
+      {
+        "questionId": "P2_T3_SHOPPING_FOOD_Q003",
+        "displayOrder": 8,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_SHOPPING_FOOD_Q003_OPT_A",
+        "correctValue": "친구는 콜라 두 개를 샀습니다.",
+        "explanationVi": "Thông tin đúng là bạn mua hai cola."
+      },
+      {
+        "questionId": "P2_T3_CLASS_ACTIVITY_Q001",
+        "displayOrder": 9,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_CLASS_ACTIVITY_Q001_OPT_A",
+        "correctValue": "한국어 수업은 오후 5시에 끝납니다.",
+        "explanationVi": "Đoạn văn cho biết lớp tiếng Hàn kết thúc lúc 5 giờ chiều."
+      }
+    ]
+  },
+  {
+    "examId": "PART2_EXAM_007",
+    "answers": [
+      {
+        "questionId": "P2_T1_TOPIC_PLACE_Q002",
+        "displayOrder": 1,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_PLACE_Q002_OPT_A",
+        "correctValue": "장소",
+        "explanationVi": "Bài đọc nói rõ về địa điểm, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_SCHOOL_Q002",
+        "displayOrder": 2,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_SCHOOL_Q002_OPT_A",
+        "correctValue": "학교",
+        "explanationVi": "Bài đọc nói rõ về trường học, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_SHOPPING_Q001",
+        "displayOrder": 3,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_SHOPPING_Q001_OPT_A",
+        "correctValue": "물건 사기",
+        "explanationVi": "Bài đọc nói rõ về mua đồ, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_WEEKEND_Q001",
+        "displayOrder": 4,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_WEEKEND_Q001_OPT_A",
+        "correctValue": "주말",
+        "explanationVi": "Bài đọc nói rõ về cuối tuần, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DAILY_LIFE_Q002",
+        "displayOrder": 5,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_DAILY_LIFE_Q002_OPT_A",
+        "correctValue": "일상생활",
+        "explanationVi": "Bài đọc nói rõ về sinh hoạt hằng ngày, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T2_MENU_Q001",
+        "displayOrder": 6,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_MENU_Q001_OPT_A",
+        "correctValue": "비빔밥은 6,000원입니다.",
+        "explanationVi": "Giá cơm trộn là 7.000 won, không phải 6.000 won."
+      },
+      {
+        "questionId": "P2_T2_SCHEDULE_Q003",
+        "displayOrder": 7,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_SCHEDULE_Q003_OPT_A",
+        "correctValue": "회의는 병원에서 합니다.",
+        "explanationVi": "Địa điểm họp là thư viện, không phải bệnh viện."
+      },
+      {
+        "questionId": "P2_T3_PROFILE_LANGUAGE_Q002",
+        "displayOrder": 8,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_PROFILE_LANGUAGE_Q002_OPT_A",
+        "correctValue": "남 씨는 한국어를 공부합니다.",
+        "explanationVi": "Thông tin đúng là Nam đang học tiếng Hàn."
+      },
+      {
+        "questionId": "P2_T3_DAILY_SCHEDULE_Q003",
+        "displayOrder": 9,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_DAILY_SCHEDULE_Q003_OPT_A",
+        "correctValue": "저는 저녁에 방을 청소합니다.",
+        "explanationVi": "Hoạt động buổi tối là dọn phòng."
+      }
+    ]
+  },
+  {
+    "examId": "PART2_EXAM_008",
+    "answers": [
+      {
+        "questionId": "P2_T1_TOPIC_HOBBY_Q002",
+        "displayOrder": 1,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_HOBBY_Q002_OPT_A",
+        "correctValue": "취미",
+        "explanationVi": "Bài đọc nói rõ về sở thích, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_TASTE_Q003",
+        "displayOrder": 2,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_TASTE_Q003_OPT_A",
+        "correctValue": "맛",
+        "explanationVi": "Bài đọc nói rõ về vị giác, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DATE_DAY_Q003",
+        "displayOrder": 3,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_DATE_DAY_Q003_OPT_A",
+        "correctValue": "날짜와 요일",
+        "explanationVi": "Bài đọc nói rõ về ngày tháng và thứ, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_JOB_Q001",
+        "displayOrder": 4,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_JOB_Q001_OPT_A",
+        "correctValue": "직업",
+        "explanationVi": "Bài đọc nói rõ về nghề nghiệp, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DAILY_SCHEDULE_Q001",
+        "displayOrder": 5,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_DAILY_SCHEDULE_Q001_OPT_A",
+        "correctValue": "하루 일과",
+        "explanationVi": "Bài đọc nói rõ về lịch trình trong ngày, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T2_RECEIPT_Q003",
+        "displayOrder": 6,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_RECEIPT_Q003_OPT_A",
+        "correctValue": "라면은 한 개 샀습니다.",
+        "explanationVi": "Biên lai ghi mì mua hai gói, nên phát biểu mua một gói mì là sai."
+      },
+      {
+        "questionId": "P2_T2_NOTICE_Q003",
+        "displayOrder": 7,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_NOTICE_Q003_OPT_A",
+        "correctValue": "회의는 월요일에 있습니다.",
+        "explanationVi": "Buổi họp diễn ra vào thứ Ba, không phải thứ Hai."
+      },
+      {
+        "questionId": "P2_T3_CLASS_ACTIVITY_Q003",
+        "displayOrder": 8,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_CLASS_ACTIVITY_Q003_OPT_A",
+        "correctValue": "학생들은 책을 읽습니다.",
+        "explanationVi": "Đoạn nói học sinh đọc sách."
+      },
+      {
+        "questionId": "P2_T3_SHOPPING_FOOD_Q002",
+        "displayOrder": 9,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_SHOPPING_FOOD_Q002_OPT_A",
+        "correctValue": "음식이 맛있었습니다.",
+        "explanationVi": "Đoạn nói món ăn ngon."
+      }
+    ]
+  },
+  {
+    "examId": "PART2_EXAM_009",
+    "answers": [
+      {
+        "questionId": "P2_T1_TOPIC_PLACE_Q001",
+        "displayOrder": 1,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_PLACE_Q001_OPT_A",
+        "correctValue": "장소",
+        "explanationVi": "Bài đọc nói rõ về địa điểm, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_OBJECT_Q003",
+        "displayOrder": 2,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_OBJECT_Q003_OPT_A",
+        "correctValue": "물건",
+        "explanationVi": "Bài đọc nói rõ về đồ vật, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DAILY_LIFE_Q001",
+        "displayOrder": 3,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_DAILY_LIFE_Q001_OPT_A",
+        "correctValue": "일상생활",
+        "explanationVi": "Bài đọc nói rõ về sinh hoạt hằng ngày, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_TIME_Q002",
+        "displayOrder": 4,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_TIME_Q002_OPT_A",
+        "correctValue": "시간",
+        "explanationVi": "Bài đọc nói rõ về thời gian, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_NATIONALITY_Q001",
+        "displayOrder": 5,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_NATIONALITY_Q001_OPT_A",
+        "correctValue": "국적",
+        "explanationVi": "Bài đọc nói rõ về quốc tịch, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T2_SCHEDULE_Q003",
+        "displayOrder": 6,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_SCHEDULE_Q003_OPT_A",
+        "correctValue": "회의는 병원에서 합니다.",
+        "explanationVi": "Địa điểm họp là thư viện, không phải bệnh viện."
+      },
+      {
+        "questionId": "P2_T2_CARD_Q003",
+        "displayOrder": 7,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_CARD_Q003_OPT_A",
+        "correctValue": "어머니가 가방을 준비했습니다.",
+        "explanationVi": "Món quà được chuẩn bị là bút, không phải cặp/túi."
+      },
+      {
+        "questionId": "P2_T3_GIFT_PLAN_Q003",
+        "displayOrder": 8,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_GIFT_PLAN_Q003_OPT_A",
+        "correctValue": "파티는 오후 6시에 있습니다.",
+        "explanationVi": "Thời gian tổ chức tiệc là 6 giờ chiều."
+      },
+      {
+        "questionId": "P2_T3_WEEKEND_ACTIVITY_Q001",
+        "displayOrder": 9,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_WEEKEND_ACTIVITY_Q001_OPT_A",
+        "correctValue": "지난주 주말에 등산했습니다.",
+        "explanationVi": "Hoạt động cuối tuần là leo núi."
+      }
+    ]
+  },
+  {
+    "examId": "PART2_EXAM_010",
+    "answers": [
+      {
+        "questionId": "P2_T1_TOPIC_DAILY_SCHEDULE_Q003",
+        "displayOrder": 1,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_DAILY_SCHEDULE_Q003_OPT_A",
+        "correctValue": "하루 일과",
+        "explanationVi": "Bài đọc nói rõ về lịch trình trong ngày, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_WEEKEND_Q003",
+        "displayOrder": 2,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_WEEKEND_Q003_OPT_A",
+        "correctValue": "주말",
+        "explanationVi": "Bài đọc nói rõ về cuối tuần, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_HOBBY_Q002",
+        "displayOrder": 3,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_HOBBY_Q002_OPT_A",
+        "correctValue": "취미",
+        "explanationVi": "Bài đọc nói rõ về sở thích, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_JOB_Q002",
+        "displayOrder": 4,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_JOB_Q002_OPT_A",
+        "correctValue": "직업",
+        "explanationVi": "Bài đọc nói rõ về nghề nghiệp, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_OBJECT_Q003",
+        "displayOrder": 5,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_OBJECT_Q003_OPT_A",
+        "correctValue": "물건",
+        "explanationVi": "Bài đọc nói rõ về đồ vật, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T2_NOTICE_Q001",
+        "displayOrder": 6,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_NOTICE_Q001_OPT_A",
+        "correctValue": "파티는 식당에서 합니다.",
+        "explanationVi": "Địa điểm bữa tiệc là phòng học, không phải nhà hàng."
+      },
+      {
+        "questionId": "P2_T2_MENU_Q002",
+        "displayOrder": 7,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_MENU_Q002_OPT_A",
+        "correctValue": "주스는 5,500원입니다.",
+        "explanationVi": "Giá nước ép là 1.500 won, không phải 5.500 won."
+      },
+      {
+        "questionId": "P2_T3_WEEKEND_ACTIVITY_Q003",
+        "displayOrder": 8,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_WEEKEND_ACTIVITY_Q003_OPT_A",
+        "correctValue": "저는 공원에서 산책했습니다.",
+        "explanationVi": "Người nói đi dạo ở công viên."
+      },
+      {
+        "questionId": "P2_T3_CLASS_ACTIVITY_Q003",
+        "displayOrder": 9,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_CLASS_ACTIVITY_Q003_OPT_A",
+        "correctValue": "학생들은 책을 읽습니다.",
+        "explanationVi": "Đoạn nói học sinh đọc sách."
+      }
+    ]
+  },
+  {
+    "examId": "PART2_EXAM_011",
+    "answers": [
+      {
+        "questionId": "P2_T1_TOPIC_TASTE_Q003",
+        "displayOrder": 1,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_TASTE_Q003_OPT_A",
+        "correctValue": "맛",
+        "explanationVi": "Bài đọc nói rõ về vị giác, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_FOOD_Q003",
+        "displayOrder": 2,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_FOOD_Q003_OPT_A",
+        "correctValue": "음식",
+        "explanationVi": "Bài đọc nói rõ về món ăn, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_SCHOOL_Q001",
+        "displayOrder": 3,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_SCHOOL_Q001_OPT_A",
+        "correctValue": "학교",
+        "explanationVi": "Bài đọc nói rõ về trường học, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_NATIONALITY_Q001",
+        "displayOrder": 4,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_NATIONALITY_Q001_OPT_A",
+        "correctValue": "국적",
+        "explanationVi": "Bài đọc nói rõ về quốc tịch, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_SHOPPING_Q001",
+        "displayOrder": 5,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_SHOPPING_Q001_OPT_A",
+        "correctValue": "물건 사기",
+        "explanationVi": "Bài đọc nói rõ về mua đồ, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T2_RECEIPT_Q002",
+        "displayOrder": 6,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_RECEIPT_Q002_OPT_A",
+        "correctValue": "합계는 3,000원입니다.",
+        "explanationVi": "Tổng tiền là 5.000 won, không phải 3.000 won."
+      },
+      {
+        "questionId": "P2_T2_SCHEDULE_Q002",
+        "displayOrder": 7,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_SCHEDULE_Q002_OPT_A",
+        "correctValue": "시험은 오후 10시에 있습니다.",
+        "explanationVi": "Thời gian thi là 10 giờ sáng, không phải 10 giờ chiều."
+      },
+      {
+        "questionId": "P2_T3_GIFT_PLAN_Q002",
+        "displayOrder": 8,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_GIFT_PLAN_Q002_OPT_A",
+        "correctValue": "저는 펜을 준비했습니다.",
+        "explanationVi": "Món quà được chuẩn bị là bút."
+      },
+      {
+        "questionId": "P2_T3_SHOPPING_FOOD_Q001",
+        "displayOrder": 9,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_SHOPPING_FOOD_Q001_OPT_A",
+        "correctValue": "저는 주스 한 개를 샀습니다.",
+        "explanationVi": "Đoạn văn cho biết người nói mua một chai nước ép."
+      }
+    ]
+  },
+  {
+    "examId": "PART2_EXAM_012",
+    "answers": [
+      {
+        "questionId": "P2_T1_TOPIC_WEEKEND_Q002",
+        "displayOrder": 1,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_WEEKEND_Q002_OPT_A",
+        "correctValue": "주말",
+        "explanationVi": "Bài đọc nói rõ về cuối tuần, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DATE_DAY_Q002",
+        "displayOrder": 2,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_DATE_DAY_Q002_OPT_A",
+        "correctValue": "날짜와 요일",
+        "explanationVi": "Bài đọc nói rõ về ngày tháng và thứ, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_OBJECT_Q002",
+        "displayOrder": 3,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_OBJECT_Q002_OPT_A",
+        "correctValue": "물건",
+        "explanationVi": "Bài đọc nói rõ về đồ vật, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_SCHOOL_Q002",
+        "displayOrder": 4,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_SCHOOL_Q002_OPT_A",
+        "correctValue": "학교",
+        "explanationVi": "Bài đọc nói rõ về trường học, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_TASTE_Q001",
+        "displayOrder": 5,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_TASTE_Q001_OPT_A",
+        "correctValue": "맛",
+        "explanationVi": "Bài đọc nói rõ về vị giác, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T2_NOTICE_Q002",
+        "displayOrder": 6,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_NOTICE_Q002_OPT_A",
+        "correctValue": "시험은 오후 9시에 있습니다.",
+        "explanationVi": "Thời gian thi là 9 giờ sáng, không phải 9 giờ tối."
+      },
+      {
+        "questionId": "P2_T2_CARD_Q001",
+        "displayOrder": 7,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_CARD_Q001_OPT_A",
+        "correctValue": "선물은 가방입니다.",
+        "explanationVi": "Quà tặng là đồng hồ, nên phát biểu quà là cặp/túi là sai."
+      },
+      {
+        "questionId": "P2_T3_DAILY_SCHEDULE_Q003",
+        "displayOrder": 8,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_DAILY_SCHEDULE_Q003_OPT_A",
+        "correctValue": "저는 저녁에 방을 청소합니다.",
+        "explanationVi": "Hoạt động buổi tối là dọn phòng."
+      },
+      {
+        "questionId": "P2_T3_PROFILE_LANGUAGE_Q003",
+        "displayOrder": 9,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_PROFILE_LANGUAGE_Q003_OPT_A",
+        "correctValue": "흐엉 씨는 베트남 사람입니다.",
+        "explanationVi": "Quốc tịch đúng là Việt Nam."
+      }
+    ]
+  },
+  {
+    "examId": "PART2_EXAM_013",
+    "answers": [
+      {
+        "questionId": "P2_T1_TOPIC_HOBBY_Q001",
+        "displayOrder": 1,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_HOBBY_Q001_OPT_A",
+        "correctValue": "취미",
+        "explanationVi": "Bài đọc nói rõ về sở thích, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_PLACE_Q002",
+        "displayOrder": 2,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_PLACE_Q002_OPT_A",
+        "correctValue": "장소",
+        "explanationVi": "Bài đọc nói rõ về địa điểm, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DAILY_SCHEDULE_Q001",
+        "displayOrder": 3,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_DAILY_SCHEDULE_Q001_OPT_A",
+        "correctValue": "하루 일과",
+        "explanationVi": "Bài đọc nói rõ về lịch trình trong ngày, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_TIME_Q001",
+        "displayOrder": 4,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_TIME_Q001_OPT_A",
+        "correctValue": "시간",
+        "explanationVi": "Bài đọc nói rõ về thời gian, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_SHOPPING_Q003",
+        "displayOrder": 5,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_SHOPPING_Q003_OPT_A",
+        "correctValue": "물건 사기",
+        "explanationVi": "Bài đọc nói rõ về mua đồ, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T2_MENU_Q003",
+        "displayOrder": 6,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_MENU_Q003_OPT_A",
+        "correctValue": "김치찌개는 8,000원입니다.",
+        "explanationVi": "Giá canh kim chi là 7.000 won, không phải 8.000 won."
+      },
+      {
+        "questionId": "P2_T2_SCHEDULE_Q001",
+        "displayOrder": 7,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_SCHEDULE_Q001_OPT_A",
+        "correctValue": "파티는 도서관에서 합니다.",
+        "explanationVi": "Địa điểm tổ chức tiệc là nhà hàng, không phải thư viện."
+      },
+      {
+        "questionId": "P2_T3_WEEKEND_ACTIVITY_Q002",
+        "displayOrder": 8,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_WEEKEND_ACTIVITY_Q002_OPT_A",
+        "correctValue": "토요일에 바다에 갔습니다.",
+        "explanationVi": "Thứ bảy đi biển."
+      },
+      {
+        "questionId": "P2_T3_PROFILE_LANGUAGE_Q001",
+        "displayOrder": 9,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_PROFILE_LANGUAGE_Q001_OPT_A",
+        "correctValue": "제인 씨는 한국어를 할 수 있습니다.",
+        "explanationVi": "Đoạn nói Jane học và dùng tiếng Hàn."
+      }
+    ]
+  },
+  {
+    "examId": "PART2_EXAM_014",
+    "answers": [
+      {
+        "questionId": "P2_T1_TOPIC_FOOD_Q001",
+        "displayOrder": 1,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_FOOD_Q001_OPT_A",
+        "correctValue": "음식",
+        "explanationVi": "Bài đọc nói rõ về món ăn, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_JOB_Q001",
+        "displayOrder": 2,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_JOB_Q001_OPT_A",
+        "correctValue": "직업",
+        "explanationVi": "Bài đọc nói rõ về nghề nghiệp, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_NATIONALITY_Q002",
+        "displayOrder": 3,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_NATIONALITY_Q002_OPT_A",
+        "correctValue": "국적",
+        "explanationVi": "Bài đọc nói rõ về quốc tịch, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DATE_DAY_Q003",
+        "displayOrder": 4,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_DATE_DAY_Q003_OPT_A",
+        "correctValue": "날짜와 요일",
+        "explanationVi": "Bài đọc nói rõ về ngày tháng và thứ, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DAILY_LIFE_Q003",
+        "displayOrder": 5,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_DAILY_LIFE_Q003_OPT_A",
+        "correctValue": "일상생활",
+        "explanationVi": "Bài đọc nói rõ về sinh hoạt hằng ngày, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T2_RECEIPT_Q001",
+        "displayOrder": 6,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_RECEIPT_Q001_OPT_A",
+        "correctValue": "우유는 한 개 샀습니다.",
+        "explanationVi": "Biên lai ghi sữa mua hai hộp, nên phát biểu mua một hộp sữa là sai."
+      },
+      {
+        "questionId": "P2_T2_NOTICE_Q003",
+        "displayOrder": 7,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_NOTICE_Q003_OPT_A",
+        "correctValue": "회의는 월요일에 있습니다.",
+        "explanationVi": "Buổi họp diễn ra vào thứ Ba, không phải thứ Hai."
+      },
+      {
+        "questionId": "P2_T3_DAILY_SCHEDULE_Q002",
+        "displayOrder": 8,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_DAILY_SCHEDULE_Q002_OPT_A",
+        "correctValue": "민수 씨는 오후에 회의합니다.",
+        "explanationVi": "Hoạt động buổi chiều là họp."
+      },
+      {
+        "questionId": "P2_T3_SHOPPING_FOOD_Q003",
+        "displayOrder": 9,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_SHOPPING_FOOD_Q003_OPT_A",
+        "correctValue": "친구는 콜라 두 개를 샀습니다.",
+        "explanationVi": "Thông tin đúng là bạn mua hai cola."
+      }
+    ]
+  },
+  {
+    "examId": "PART2_EXAM_015",
+    "answers": [
+      {
+        "questionId": "P2_T1_TOPIC_JOB_Q003",
+        "displayOrder": 1,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_JOB_Q003_OPT_A",
+        "correctValue": "직업",
+        "explanationVi": "Bài đọc nói rõ về nghề nghiệp, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_PLACE_Q003",
+        "displayOrder": 2,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_PLACE_Q003_OPT_A",
+        "correctValue": "장소",
+        "explanationVi": "Bài đọc nói rõ về địa điểm, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DAILY_LIFE_Q002",
+        "displayOrder": 3,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_DAILY_LIFE_Q002_OPT_A",
+        "correctValue": "일상생활",
+        "explanationVi": "Bài đọc nói rõ về sinh hoạt hằng ngày, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_HOBBY_Q003",
+        "displayOrder": 4,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_HOBBY_Q003_OPT_A",
+        "correctValue": "취미",
+        "explanationVi": "Bài đọc nói rõ về sở thích, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_FOOD_Q002",
+        "displayOrder": 5,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_FOOD_Q002_OPT_A",
+        "correctValue": "음식",
+        "explanationVi": "Bài đọc nói rõ về món ăn, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T2_MENU_Q001",
+        "displayOrder": 6,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_MENU_Q001_OPT_A",
+        "correctValue": "비빔밥은 6,000원입니다.",
+        "explanationVi": "Giá cơm trộn là 7.000 won, không phải 6.000 won."
+      },
+      {
+        "questionId": "P2_T2_CARD_Q002",
+        "displayOrder": 7,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_CARD_Q002_OPT_A",
+        "correctValue": "카드를 받은 사람은 남 씨입니다.",
+        "explanationVi": "Người nhận thiệp là bạn, không phải Nam."
+      },
+      {
+        "questionId": "P2_T3_CLASS_ACTIVITY_Q001",
+        "displayOrder": 8,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_CLASS_ACTIVITY_Q001_OPT_A",
+        "correctValue": "한국어 수업은 오후 5시에 끝납니다.",
+        "explanationVi": "Đoạn văn cho biết lớp tiếng Hàn kết thúc lúc 5 giờ chiều."
+      },
+      {
+        "questionId": "P2_T3_GIFT_PLAN_Q003",
+        "displayOrder": 9,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_GIFT_PLAN_Q003_OPT_A",
+        "correctValue": "파티는 오후 6시에 있습니다.",
+        "explanationVi": "Thời gian tổ chức tiệc là 6 giờ chiều."
+      }
+    ]
+  },
+  {
+    "examId": "PART2_EXAM_016",
+    "answers": [
+      {
+        "questionId": "P2_T1_TOPIC_WEEKEND_Q001",
+        "displayOrder": 1,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_WEEKEND_Q001_OPT_A",
+        "correctValue": "주말",
+        "explanationVi": "Bài đọc nói rõ về cuối tuần, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_TASTE_Q002",
+        "displayOrder": 2,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_TASTE_Q002_OPT_A",
+        "correctValue": "맛",
+        "explanationVi": "Bài đọc nói rõ về vị giác, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DAILY_SCHEDULE_Q002",
+        "displayOrder": 3,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_DAILY_SCHEDULE_Q002_OPT_A",
+        "correctValue": "하루 일과",
+        "explanationVi": "Bài đọc nói rõ về lịch trình trong ngày, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_NATIONALITY_Q003",
+        "displayOrder": 4,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_NATIONALITY_Q003_OPT_A",
+        "correctValue": "국적",
+        "explanationVi": "Bài đọc nói rõ về quốc tịch, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_SHOPPING_Q002",
+        "displayOrder": 5,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_SHOPPING_Q002_OPT_A",
+        "correctValue": "물건 사기",
+        "explanationVi": "Bài đọc nói rõ về mua đồ, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T2_SCHEDULE_Q002",
+        "displayOrder": 6,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_SCHEDULE_Q002_OPT_A",
+        "correctValue": "시험은 오후 10시에 있습니다.",
+        "explanationVi": "Thời gian thi là 10 giờ sáng, không phải 10 giờ chiều."
+      },
+      {
+        "questionId": "P2_T2_NOTICE_Q002",
+        "displayOrder": 7,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_NOTICE_Q002_OPT_A",
+        "correctValue": "시험은 오후 9시에 있습니다.",
+        "explanationVi": "Thời gian thi là 9 giờ sáng, không phải 9 giờ tối."
+      },
+      {
+        "questionId": "P2_T3_PROFILE_LANGUAGE_Q002",
+        "displayOrder": 8,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_PROFILE_LANGUAGE_Q002_OPT_A",
+        "correctValue": "남 씨는 한국어를 공부합니다.",
+        "explanationVi": "Thông tin đúng là Nam đang học tiếng Hàn."
+      },
+      {
+        "questionId": "P2_T3_SHOPPING_FOOD_Q002",
+        "displayOrder": 9,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_SHOPPING_FOOD_Q002_OPT_A",
+        "correctValue": "음식이 맛있었습니다.",
+        "explanationVi": "Đoạn nói món ăn ngon."
+      }
+    ]
+  },
+  {
+    "examId": "PART2_EXAM_017",
+    "answers": [
+      {
+        "questionId": "P2_T1_TOPIC_OBJECT_Q001",
+        "displayOrder": 1,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_OBJECT_Q001_OPT_A",
+        "correctValue": "물건",
+        "explanationVi": "Bài đọc nói rõ về đồ vật, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_TIME_Q003",
+        "displayOrder": 2,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_TIME_Q003_OPT_A",
+        "correctValue": "시간",
+        "explanationVi": "Bài đọc nói rõ về thời gian, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_WEEKEND_Q001",
+        "displayOrder": 3,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_WEEKEND_Q001_OPT_A",
+        "correctValue": "주말",
+        "explanationVi": "Bài đọc nói rõ về cuối tuần, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_SCHOOL_Q003",
+        "displayOrder": 4,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_SCHOOL_Q003_OPT_A",
+        "correctValue": "학교",
+        "explanationVi": "Bài đọc nói rõ về trường học, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DATE_DAY_Q001",
+        "displayOrder": 5,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_DATE_DAY_Q001_OPT_A",
+        "correctValue": "날짜와 요일",
+        "explanationVi": "Bài đọc nói rõ về ngày tháng và thứ, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T2_MENU_Q001",
+        "displayOrder": 6,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_MENU_Q001_OPT_A",
+        "correctValue": "비빔밥은 6,000원입니다.",
+        "explanationVi": "Giá cơm trộn là 7.000 won, không phải 6.000 won."
+      },
+      {
+        "questionId": "P2_T2_CARD_Q002",
+        "displayOrder": 7,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_CARD_Q002_OPT_A",
+        "correctValue": "카드를 받은 사람은 남 씨입니다.",
+        "explanationVi": "Người nhận thiệp là bạn, không phải Nam."
+      },
+      {
+        "questionId": "P2_T3_CLASS_ACTIVITY_Q002",
+        "displayOrder": 8,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_CLASS_ACTIVITY_Q002_OPT_A",
+        "correctValue": "학생들은 교실에서 공부합니다.",
+        "explanationVi": "Địa điểm học là phòng học."
+      },
+      {
+        "questionId": "P2_T3_DAILY_SCHEDULE_Q001",
+        "displayOrder": 9,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_DAILY_SCHEDULE_Q001_OPT_A",
+        "correctValue": "저는 아침 7시에 일어납니다.",
+        "explanationVi": "Đoạn ghi thức dậy lúc 7 giờ."
+      }
+    ]
+  },
+  {
+    "examId": "PART2_EXAM_018",
+    "answers": [
+      {
+        "questionId": "P2_T1_TOPIC_DAILY_LIFE_Q001",
+        "displayOrder": 1,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_DAILY_LIFE_Q001_OPT_A",
+        "correctValue": "일상생활",
+        "explanationVi": "Bài đọc nói rõ về sinh hoạt hằng ngày, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_HOBBY_Q002",
+        "displayOrder": 2,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_HOBBY_Q002_OPT_A",
+        "correctValue": "취미",
+        "explanationVi": "Bài đọc nói rõ về sở thích, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DAILY_SCHEDULE_Q002",
+        "displayOrder": 3,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_DAILY_SCHEDULE_Q002_OPT_A",
+        "correctValue": "하루 일과",
+        "explanationVi": "Bài đọc nói rõ về lịch trình trong ngày, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_JOB_Q002",
+        "displayOrder": 4,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_JOB_Q002_OPT_A",
+        "correctValue": "직업",
+        "explanationVi": "Bài đọc nói rõ về nghề nghiệp, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_SCHOOL_Q003",
+        "displayOrder": 5,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_SCHOOL_Q003_OPT_A",
+        "correctValue": "학교",
+        "explanationVi": "Bài đọc nói rõ về trường học, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T2_RECEIPT_Q001",
+        "displayOrder": 6,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_RECEIPT_Q001_OPT_A",
+        "correctValue": "우유는 한 개 샀습니다.",
+        "explanationVi": "Biên lai ghi sữa mua hai hộp, nên phát biểu mua một hộp sữa là sai."
+      },
+      {
+        "questionId": "P2_T2_NOTICE_Q001",
+        "displayOrder": 7,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_NOTICE_Q001_OPT_A",
+        "correctValue": "파티는 식당에서 합니다.",
+        "explanationVi": "Địa điểm bữa tiệc là phòng học, không phải nhà hàng."
+      },
+      {
+        "questionId": "P2_T3_GIFT_PLAN_Q001",
+        "displayOrder": 8,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_GIFT_PLAN_Q001_OPT_A",
+        "correctValue": "생일 파티는 식당에서 합니다.",
+        "explanationVi": "Địa điểm tổ chức tiệc sinh nhật là nhà hàng."
+      },
+      {
+        "questionId": "P2_T3_WEEKEND_ACTIVITY_Q001",
+        "displayOrder": 9,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_WEEKEND_ACTIVITY_Q001_OPT_A",
+        "correctValue": "지난주 주말에 등산했습니다.",
+        "explanationVi": "Hoạt động cuối tuần là leo núi."
+      }
+    ]
+  },
+  {
+    "examId": "PART2_EXAM_019",
+    "answers": [
+      {
+        "questionId": "P2_T1_TOPIC_PLACE_Q001",
+        "displayOrder": 1,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_PLACE_Q001_OPT_A",
+        "correctValue": "장소",
+        "explanationVi": "Bài đọc nói rõ về địa điểm, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_TIME_Q002",
+        "displayOrder": 2,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_TIME_Q002_OPT_A",
+        "correctValue": "시간",
+        "explanationVi": "Bài đọc nói rõ về thời gian, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DATE_DAY_Q003",
+        "displayOrder": 3,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_DATE_DAY_Q003_OPT_A",
+        "correctValue": "날짜와 요일",
+        "explanationVi": "Bài đọc nói rõ về ngày tháng và thứ, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_FOOD_Q003",
+        "displayOrder": 4,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_FOOD_Q003_OPT_A",
+        "correctValue": "음식",
+        "explanationVi": "Bài đọc nói rõ về món ăn, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_NATIONALITY_Q002",
+        "displayOrder": 5,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_NATIONALITY_Q002_OPT_A",
+        "correctValue": "국적",
+        "explanationVi": "Bài đọc nói rõ về quốc tịch, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T2_CARD_Q001",
+        "displayOrder": 6,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_CARD_Q001_OPT_A",
+        "correctValue": "선물은 가방입니다.",
+        "explanationVi": "Quà tặng là đồng hồ, nên phát biểu quà là cặp/túi là sai."
+      },
+      {
+        "questionId": "P2_T2_MENU_Q003",
+        "displayOrder": 7,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_MENU_Q003_OPT_A",
+        "correctValue": "김치찌개는 8,000원입니다.",
+        "explanationVi": "Giá canh kim chi là 7.000 won, không phải 8.000 won."
+      },
+      {
+        "questionId": "P2_T3_DAILY_SCHEDULE_Q002",
+        "displayOrder": 8,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_DAILY_SCHEDULE_Q002_OPT_A",
+        "correctValue": "민수 씨는 오후에 회의합니다.",
+        "explanationVi": "Hoạt động buổi chiều là họp."
+      },
+      {
+        "questionId": "P2_T3_SHOPPING_FOOD_Q001",
+        "displayOrder": 9,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_SHOPPING_FOOD_Q001_OPT_A",
+        "correctValue": "저는 주스 한 개를 샀습니다.",
+        "explanationVi": "Đoạn văn cho biết người nói mua một chai nước ép."
+      }
+    ]
+  },
+  {
+    "examId": "PART2_EXAM_020",
+    "answers": [
+      {
+        "questionId": "P2_T1_TOPIC_SHOPPING_Q003",
+        "displayOrder": 1,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_SHOPPING_Q003_OPT_A",
+        "correctValue": "물건 사기",
+        "explanationVi": "Bài đọc nói rõ về mua đồ, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_TASTE_Q002",
+        "displayOrder": 2,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_TASTE_Q002_OPT_A",
+        "correctValue": "맛",
+        "explanationVi": "Bài đọc nói rõ về vị giác, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_FOOD_Q001",
+        "displayOrder": 3,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_FOOD_Q001_OPT_A",
+        "correctValue": "음식",
+        "explanationVi": "Bài đọc nói rõ về món ăn, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_SCHOOL_Q002",
+        "displayOrder": 4,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_SCHOOL_Q002_OPT_A",
+        "correctValue": "학교",
+        "explanationVi": "Bài đọc nói rõ về trường học, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T1_TOPIC_OBJECT_Q003",
+        "displayOrder": 5,
+        "section": "topic_identification",
+        "correctOptionId": "P2_T1_TOPIC_OBJECT_Q003_OPT_A",
+        "correctValue": "물건",
+        "explanationVi": "Bài đọc nói rõ về đồ vật, nên chọn chủ đề này."
+      },
+      {
+        "questionId": "P2_T2_SCHEDULE_Q001",
+        "displayOrder": 6,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_SCHEDULE_Q001_OPT_A",
+        "correctValue": "파티는 도서관에서 합니다.",
+        "explanationVi": "Địa điểm tổ chức tiệc là nhà hàng, không phải thư viện."
+      },
+      {
+        "questionId": "P2_T2_RECEIPT_Q003",
+        "displayOrder": 7,
+        "section": "visual_incorrect_statement",
+        "correctOptionId": "P2_T2_RECEIPT_Q003_OPT_A",
+        "correctValue": "라면은 한 개 샀습니다.",
+        "explanationVi": "Biên lai ghi mì mua hai gói, nên phát biểu mua một gói mì là sai."
+      },
+      {
+        "questionId": "P2_T3_GIFT_PLAN_Q003",
+        "displayOrder": 8,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_GIFT_PLAN_Q003_OPT_A",
+        "correctValue": "파티는 오후 6시에 있습니다.",
+        "explanationVi": "Thời gian tổ chức tiệc là 6 giờ chiều."
+      },
+      {
+        "questionId": "P2_T3_CLASS_ACTIVITY_Q001",
+        "displayOrder": 9,
+        "section": "passage_correct_statement",
+        "correctOptionId": "P2_T3_CLASS_ACTIVITY_Q001_OPT_A",
+        "correctValue": "한국어 수업은 오후 5시에 끝납니다.",
+        "explanationVi": "Đoạn văn cho biết lớp tiếng Hàn kết thúc lúc 5 giờ chiều."
+      }
+    ]
+  }
+]

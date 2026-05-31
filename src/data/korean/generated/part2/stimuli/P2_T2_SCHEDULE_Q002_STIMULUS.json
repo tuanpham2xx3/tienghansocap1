@@ -1,0 +1,13 @@
+{
+  "id": "P2_T2_SCHEDULE_Q002_STIMULUS",
+  "type": "schedule",
+  "title": "일정",
+  "structuredData": {
+    "date": "6월 2일",
+    "day": "월요일",
+    "time": "오전 10시",
+    "activity": "시험",
+    "place": "교실"
+  },
+  "fallbackText": "일정\n6월 2일 월요일 오전 10시\n시험 / 교실"
+}

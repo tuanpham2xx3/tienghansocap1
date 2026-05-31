@@ -1,0 +1,13 @@
+{
+  "id": "P2_T2_SCHEDULE_Q003_STIMULUS",
+  "type": "schedule",
+  "title": "일정",
+  "structuredData": {
+    "date": "7월 1일",
+    "day": "화요일",
+    "time": "오후 2시",
+    "activity": "회의",
+    "place": "도서관"
+  },
+  "fallbackText": "일정\n7월 1일 화요일 오후 2시\n회의 / 도서관"
+}

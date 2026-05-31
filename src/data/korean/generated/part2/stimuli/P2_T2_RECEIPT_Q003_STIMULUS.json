@@ -1,0 +1,26 @@
+{
+  "id": "P2_T2_RECEIPT_Q003_STIMULUS",
+  "type": "receipt",
+  "title": "영수증",
+  "structuredData": {
+    "date": "2011/07/03",
+    "time": "18:10",
+    "items": [
+      {
+        "name": "콜라",
+        "quantity": 1,
+        "unit": "개",
+        "lineTotal": 1000
+      },
+      {
+        "name": "라면",
+        "quantity": 2,
+        "unit": "개",
+        "lineTotal": 2400
+      }
+    ],
+    "grandTotal": 3400,
+    "currency": "원"
+  },
+  "fallbackText": "영수증\n2011/07/03 18:10\n콜라 x 1 1,000원\n라면 x 2 2,400원\n합계 3,400원"
+}

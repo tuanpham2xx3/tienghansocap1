@@ -1,0 +1,13 @@
+{
+  "id": "P2_T2_NOTICE_Q003_STIMULUS",
+  "type": "notice",
+  "title": "공지",
+  "structuredData": {
+    "event": "회의",
+    "date": "화요일",
+    "time": "오후 4시",
+    "place": "도서관",
+    "note": "책을 가져오세요."
+  },
+  "fallbackText": "공지\n회의\n화요일 오후 4시 / 도서관\n책을 가져오세요."
+}

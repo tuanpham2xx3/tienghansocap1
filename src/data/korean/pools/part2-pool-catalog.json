@@ -1,0 +1,202 @@
+[
+  {
+    "id": "P2_T1_TOPIC_NATIONALITY",
+    "part": 2,
+    "section": "topic_identification",
+    "knowledgeTarget": "Chọn chủ đề 국적",
+    "quantity": 3,
+    "targetTopic": "NATIONALITY"
+  },
+  {
+    "id": "P2_T1_TOPIC_JOB",
+    "part": 2,
+    "section": "topic_identification",
+    "knowledgeTarget": "Chọn chủ đề 직업",
+    "quantity": 3,
+    "targetTopic": "JOB"
+  },
+  {
+    "id": "P2_T1_TOPIC_SCHOOL",
+    "part": 2,
+    "section": "topic_identification",
+    "knowledgeTarget": "Chọn chủ đề 학교",
+    "quantity": 3,
+    "targetTopic": "SCHOOL"
+  },
+  {
+    "id": "P2_T1_TOPIC_OBJECT",
+    "part": 2,
+    "section": "topic_identification",
+    "knowledgeTarget": "Chọn chủ đề 물건",
+    "quantity": 3,
+    "targetTopic": "OBJECT"
+  },
+  {
+    "id": "P2_T1_TOPIC_PLACE",
+    "part": 2,
+    "section": "topic_identification",
+    "knowledgeTarget": "Chọn chủ đề 장소",
+    "quantity": 3,
+    "targetTopic": "PLACE"
+  },
+  {
+    "id": "P2_T1_TOPIC_DAILY_LIFE",
+    "part": 2,
+    "section": "topic_identification",
+    "knowledgeTarget": "Chọn chủ đề 일상생활",
+    "quantity": 3,
+    "targetTopic": "DAILY_LIFE"
+  },
+  {
+    "id": "P2_T1_TOPIC_HOBBY",
+    "part": 2,
+    "section": "topic_identification",
+    "knowledgeTarget": "Chọn chủ đề 취미",
+    "quantity": 3,
+    "targetTopic": "HOBBY"
+  },
+  {
+    "id": "P2_T1_TOPIC_DATE_DAY",
+    "part": 2,
+    "section": "topic_identification",
+    "knowledgeTarget": "Chọn chủ đề 날짜와 요일",
+    "quantity": 3,
+    "targetTopic": "DATE_DAY"
+  },
+  {
+    "id": "P2_T1_TOPIC_DAILY_SCHEDULE",
+    "part": 2,
+    "section": "topic_identification",
+    "knowledgeTarget": "Chọn chủ đề 하루 일과",
+    "quantity": 3,
+    "targetTopic": "DAILY_SCHEDULE"
+  },
+  {
+    "id": "P2_T1_TOPIC_WEEKEND",
+    "part": 2,
+    "section": "topic_identification",
+    "knowledgeTarget": "Chọn chủ đề 주말",
+    "quantity": 3,
+    "targetTopic": "WEEKEND"
+  },
+  {
+    "id": "P2_T1_TOPIC_SHOPPING",
+    "part": 2,
+    "section": "topic_identification",
+    "knowledgeTarget": "Chọn chủ đề 물건 사기",
+    "quantity": 3,
+    "targetTopic": "SHOPPING"
+  },
+  {
+    "id": "P2_T1_TOPIC_FOOD",
+    "part": 2,
+    "section": "topic_identification",
+    "knowledgeTarget": "Chọn chủ đề 음식",
+    "quantity": 3,
+    "targetTopic": "FOOD"
+  },
+  {
+    "id": "P2_T1_TOPIC_TASTE",
+    "part": 2,
+    "section": "topic_identification",
+    "knowledgeTarget": "Chọn chủ đề 맛",
+    "quantity": 3,
+    "targetTopic": "TASTE"
+  },
+  {
+    "id": "P2_T1_TOPIC_TIME",
+    "part": 2,
+    "section": "topic_identification",
+    "knowledgeTarget": "Chọn chủ đề 시간",
+    "quantity": 3,
+    "targetTopic": "TIME"
+  },
+  {
+    "id": "P2_T2_RECEIPT",
+    "part": 2,
+    "section": "visual_incorrect_statement",
+    "knowledgeTarget": "Ngày mua, món đồ, số lượng, giá, tổng tiền",
+    "quantity": 3,
+    "stimulusType": "receipt"
+  },
+  {
+    "id": "P2_T2_CARD",
+    "part": 2,
+    "section": "visual_incorrect_statement",
+    "knowledgeTarget": "Người gửi/nhận, dịp, quà tặng, lời nhắn",
+    "quantity": 3,
+    "stimulusType": "card"
+  },
+  {
+    "id": "P2_T2_MENU",
+    "part": 2,
+    "section": "visual_incorrect_statement",
+    "knowledgeTarget": "Tên món, giá, số lượng/gọi món",
+    "quantity": 3,
+    "stimulusType": "menu"
+  },
+  {
+    "id": "P2_T2_SCHEDULE",
+    "part": 2,
+    "section": "visual_incorrect_statement",
+    "knowledgeTarget": "Thứ, ngày, giờ, hoạt động, địa điểm",
+    "quantity": 3,
+    "stimulusType": "schedule"
+  },
+  {
+    "id": "P2_T2_NOTICE",
+    "part": 2,
+    "section": "visual_incorrect_statement",
+    "knowledgeTarget": "Sự kiện, thời gian, nơi diễn ra",
+    "quantity": 3,
+    "stimulusType": "notice"
+  },
+  {
+    "id": "P2_T3_PROFILE_LANGUAGE",
+    "part": 2,
+    "section": "passage_correct_statement",
+    "knowledgeTarget": "Cá nhân, nơi sống, ngôn ngữ/giao tiếp",
+    "quantity": 3,
+    "readingFocus": "profile_language"
+  },
+  {
+    "id": "P2_T3_CLASS_ACTIVITY",
+    "part": 2,
+    "section": "passage_correct_statement",
+    "knowledgeTarget": "Lớp học, hoạt động, cảm nhận",
+    "quantity": 3,
+    "readingFocus": "class_activity"
+  },
+  {
+    "id": "P2_T3_GIFT_PLAN",
+    "part": 2,
+    "section": "passage_correct_statement",
+    "knowledgeTarget": "Sinh nhật, chuẩn bị quà, kế hoạch tặng",
+    "quantity": 3,
+    "readingFocus": "gift_plan"
+  },
+  {
+    "id": "P2_T3_DAILY_SCHEDULE",
+    "part": 2,
+    "section": "passage_correct_statement",
+    "knowledgeTarget": "Lịch trình hằng ngày",
+    "quantity": 3,
+    "readingFocus": "daily_schedule"
+  },
+  {
+    "id": "P2_T3_WEEKEND_ACTIVITY",
+    "part": 2,
+    "section": "passage_correct_statement",
+    "knowledgeTarget": "Hoạt động cuối tuần/quá khứ",
+    "quantity": 3,
+    "readingFocus": "weekend_activity"
+  },
+  {
+    "id": "P2_T3_SHOPPING_FOOD",
+    "part": 2,
+    "section": "passage_correct_statement",
+    "knowledgeTarget": "Mua hàng/đồ ăn/số lượng",
+    "quantity": 3,
+    "readingFocus": "shopping_food"
+  }
+]

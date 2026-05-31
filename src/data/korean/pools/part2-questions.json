@@ -1,0 +1,3987 @@
+[
+  {
+    "id": "P2_T1_TOPIC_NATIONALITY_Q001",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_NATIONALITY",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "NATIONALITY",
+    "readingText": "저는 베트남 사람입니다. 민수 씨는 한국 사람입니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_NATIONALITY_Q001_OPT_A",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_NATIONALITY_Q001_OPT_B",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_NATIONALITY_Q001_OPT_C",
+        "text": "학교"
+      },
+      {
+        "id": "P2_T1_TOPIC_NATIONALITY_Q001_OPT_D",
+        "text": "물건"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_NATIONALITY_Q001_OPT_A",
+    "correctValue": "국적",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "국적",
+      "베트남",
+      "한국",
+      "미국",
+      "일본",
+      "중국"
+    ],
+    "explanationVi": "Bài đọc nói rõ về quốc tịch, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_NATIONALITY_Q002",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_NATIONALITY",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "NATIONALITY",
+    "readingText": "마리아 씨는 미국 사람입니다. 왕 씨는 중국 사람입니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_NATIONALITY_Q002_OPT_A",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_NATIONALITY_Q002_OPT_B",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_NATIONALITY_Q002_OPT_C",
+        "text": "학교"
+      },
+      {
+        "id": "P2_T1_TOPIC_NATIONALITY_Q002_OPT_D",
+        "text": "물건"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_NATIONALITY_Q002_OPT_A",
+    "correctValue": "국적",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "국적",
+      "베트남",
+      "한국",
+      "미국",
+      "일본",
+      "중국"
+    ],
+    "explanationVi": "Bài đọc nói rõ về quốc tịch, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_NATIONALITY_Q003",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_NATIONALITY",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "NATIONALITY",
+    "readingText": "저는 일본 사람이 아닙니다. 저는 베트남 사람입니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_NATIONALITY_Q003_OPT_A",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_NATIONALITY_Q003_OPT_B",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_NATIONALITY_Q003_OPT_C",
+        "text": "학교"
+      },
+      {
+        "id": "P2_T1_TOPIC_NATIONALITY_Q003_OPT_D",
+        "text": "물건"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_NATIONALITY_Q003_OPT_A",
+    "correctValue": "국적",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "국적",
+      "베트남",
+      "한국",
+      "미국",
+      "일본",
+      "중국"
+    ],
+    "explanationVi": "Bài đọc nói rõ về quốc tịch, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_JOB_Q001",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_JOB",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "JOB",
+    "readingText": "제 아버지는 선생님입니다. 어머니는 약사입니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_JOB_Q001_OPT_A",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_JOB_Q001_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_JOB_Q001_OPT_C",
+        "text": "학교"
+      },
+      {
+        "id": "P2_T1_TOPIC_JOB_Q001_OPT_D",
+        "text": "물건"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_JOB_Q001_OPT_A",
+    "correctValue": "직업",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "직업",
+      "선생님",
+      "학생",
+      "약사",
+      "회사원"
+    ],
+    "explanationVi": "Bài đọc nói rõ về nghề nghiệp, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_JOB_Q002",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_JOB",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "JOB",
+    "readingText": "저는 학생입니다. 형은 회사원입니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_JOB_Q002_OPT_A",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_JOB_Q002_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_JOB_Q002_OPT_C",
+        "text": "학교"
+      },
+      {
+        "id": "P2_T1_TOPIC_JOB_Q002_OPT_D",
+        "text": "물건"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_JOB_Q002_OPT_A",
+    "correctValue": "직업",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "직업",
+      "선생님",
+      "학생",
+      "약사",
+      "회사원"
+    ],
+    "explanationVi": "Bài đọc nói rõ về nghề nghiệp, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_JOB_Q003",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_JOB",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "JOB",
+    "readingText": "민수 씨는 은행원입니다. 흐엉 씨는 학생입니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_JOB_Q003_OPT_A",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_JOB_Q003_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_JOB_Q003_OPT_C",
+        "text": "학교"
+      },
+      {
+        "id": "P2_T1_TOPIC_JOB_Q003_OPT_D",
+        "text": "물건"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_JOB_Q003_OPT_A",
+    "correctValue": "직업",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "직업",
+      "선생님",
+      "학생",
+      "약사",
+      "회사원"
+    ],
+    "explanationVi": "Bài đọc nói rõ về nghề nghiệp, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_SCHOOL_Q001",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_SCHOOL",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "SCHOOL",
+    "readingText": "학교에 도서관이 있습니다. 교실도 많습니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_SCHOOL_Q001_OPT_A",
+        "text": "학교"
+      },
+      {
+        "id": "P2_T1_TOPIC_SCHOOL_Q001_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_SCHOOL_Q001_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_SCHOOL_Q001_OPT_D",
+        "text": "물건"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_SCHOOL_Q001_OPT_A",
+    "correctValue": "학교",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "학교",
+      "학교",
+      "교실",
+      "도서관",
+      "강의실"
+    ],
+    "explanationVi": "Bài đọc nói rõ về trường học, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_SCHOOL_Q002",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_SCHOOL",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "SCHOOL",
+    "readingText": "강의실은 3층에 있습니다. 학생 식당은 1층에 있습니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_SCHOOL_Q002_OPT_A",
+        "text": "학교"
+      },
+      {
+        "id": "P2_T1_TOPIC_SCHOOL_Q002_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_SCHOOL_Q002_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_SCHOOL_Q002_OPT_D",
+        "text": "물건"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_SCHOOL_Q002_OPT_A",
+    "correctValue": "학교",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "학교",
+      "학교",
+      "교실",
+      "도서관",
+      "강의실"
+    ],
+    "explanationVi": "Bài đọc nói rõ về trường học, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_SCHOOL_Q003",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_SCHOOL",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "SCHOOL",
+    "readingText": "저는 학교에서 한국어를 공부합니다. 도서관에서 책을 읽습니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_SCHOOL_Q003_OPT_A",
+        "text": "학교"
+      },
+      {
+        "id": "P2_T1_TOPIC_SCHOOL_Q003_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_SCHOOL_Q003_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_SCHOOL_Q003_OPT_D",
+        "text": "물건"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_SCHOOL_Q003_OPT_A",
+    "correctValue": "학교",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "학교",
+      "학교",
+      "교실",
+      "도서관",
+      "강의실"
+    ],
+    "explanationVi": "Bài đọc nói rõ về trường học, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_OBJECT_Q001",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_OBJECT",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "OBJECT",
+    "readingText": "책상 위에 사전이 있습니다. 가방 안에 펜이 있습니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_OBJECT_Q001_OPT_A",
+        "text": "물건"
+      },
+      {
+        "id": "P2_T1_TOPIC_OBJECT_Q001_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_OBJECT_Q001_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_OBJECT_Q001_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_OBJECT_Q001_OPT_A",
+    "correctValue": "물건",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "물건",
+      "책",
+      "사전",
+      "가방",
+      "펜",
+      "시계"
+    ],
+    "explanationVi": "Bài đọc nói rõ về đồ vật, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_OBJECT_Q002",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_OBJECT",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "OBJECT",
+    "readingText": "이것은 시계입니다. 저것은 책입니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_OBJECT_Q002_OPT_A",
+        "text": "물건"
+      },
+      {
+        "id": "P2_T1_TOPIC_OBJECT_Q002_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_OBJECT_Q002_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_OBJECT_Q002_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_OBJECT_Q002_OPT_A",
+    "correctValue": "물건",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "물건",
+      "책",
+      "사전",
+      "가방",
+      "펜",
+      "시계"
+    ],
+    "explanationVi": "Bài đọc nói rõ về đồ vật, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_OBJECT_Q003",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_OBJECT",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "OBJECT",
+    "readingText": "가방이 큽니다. 펜하고 사전이 가방 안에 있습니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_OBJECT_Q003_OPT_A",
+        "text": "물건"
+      },
+      {
+        "id": "P2_T1_TOPIC_OBJECT_Q003_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_OBJECT_Q003_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_OBJECT_Q003_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_OBJECT_Q003_OPT_A",
+    "correctValue": "물건",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "물건",
+      "책",
+      "사전",
+      "가방",
+      "펜",
+      "시계"
+    ],
+    "explanationVi": "Bài đọc nói rõ về đồ vật, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_PLACE_Q001",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_PLACE",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "PLACE",
+    "readingText": "은행은 우체국 옆에 있습니다. 병원은 식당 뒤에 있습니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_PLACE_Q001_OPT_A",
+        "text": "장소"
+      },
+      {
+        "id": "P2_T1_TOPIC_PLACE_Q001_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_PLACE_Q001_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_PLACE_Q001_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_PLACE_Q001_OPT_A",
+    "correctValue": "장소",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "장소",
+      "은행",
+      "우체국",
+      "식당",
+      "병원",
+      "공원"
+    ],
+    "explanationVi": "Bài đọc nói rõ về địa điểm, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_PLACE_Q002",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_PLACE",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "PLACE",
+    "readingText": "공원에서 산책합니다. 식당에서 밥을 먹습니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_PLACE_Q002_OPT_A",
+        "text": "장소"
+      },
+      {
+        "id": "P2_T1_TOPIC_PLACE_Q002_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_PLACE_Q002_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_PLACE_Q002_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_PLACE_Q002_OPT_A",
+    "correctValue": "장소",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "장소",
+      "은행",
+      "우체국",
+      "식당",
+      "병원",
+      "공원"
+    ],
+    "explanationVi": "Bài đọc nói rõ về địa điểm, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_PLACE_Q003",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_PLACE",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "PLACE",
+    "readingText": "여기는 병원입니다. 저기는 은행입니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_PLACE_Q003_OPT_A",
+        "text": "장소"
+      },
+      {
+        "id": "P2_T1_TOPIC_PLACE_Q003_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_PLACE_Q003_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_PLACE_Q003_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_PLACE_Q003_OPT_A",
+    "correctValue": "장소",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "장소",
+      "은행",
+      "우체국",
+      "식당",
+      "병원",
+      "공원"
+    ],
+    "explanationVi": "Bài đọc nói rõ về địa điểm, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_DAILY_LIFE_Q001",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_DAILY_LIFE",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "DAILY_LIFE",
+    "readingText": "저는 아침에 밥을 먹습니다. 커피도 마십니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_DAILY_LIFE_Q001_OPT_A",
+        "text": "일상생활"
+      },
+      {
+        "id": "P2_T1_TOPIC_DAILY_LIFE_Q001_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_DAILY_LIFE_Q001_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_DAILY_LIFE_Q001_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_DAILY_LIFE_Q001_OPT_A",
+    "correctValue": "일상생활",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "일상생활",
+      "먹다",
+      "마시다",
+      "읽다",
+      "자다",
+      "청소하다"
+    ],
+    "explanationVi": "Bài đọc nói rõ về sinh hoạt hằng ngày, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_DAILY_LIFE_Q002",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_DAILY_LIFE",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "DAILY_LIFE",
+    "readingText": "동생은 신문을 읽습니다. 밤에는 일찍 잡니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_DAILY_LIFE_Q002_OPT_A",
+        "text": "일상생활"
+      },
+      {
+        "id": "P2_T1_TOPIC_DAILY_LIFE_Q002_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_DAILY_LIFE_Q002_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_DAILY_LIFE_Q002_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_DAILY_LIFE_Q002_OPT_A",
+    "correctValue": "일상생활",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "일상생활",
+      "먹다",
+      "마시다",
+      "읽다",
+      "자다",
+      "청소하다"
+    ],
+    "explanationVi": "Bài đọc nói rõ về sinh hoạt hằng ngày, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_DAILY_LIFE_Q003",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_DAILY_LIFE",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "DAILY_LIFE",
+    "readingText": "저는 방을 청소합니다. 그리고 책을 읽습니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_DAILY_LIFE_Q003_OPT_A",
+        "text": "일상생활"
+      },
+      {
+        "id": "P2_T1_TOPIC_DAILY_LIFE_Q003_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_DAILY_LIFE_Q003_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_DAILY_LIFE_Q003_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_DAILY_LIFE_Q003_OPT_A",
+    "correctValue": "일상생활",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "일상생활",
+      "먹다",
+      "마시다",
+      "읽다",
+      "자다",
+      "청소하다"
+    ],
+    "explanationVi": "Bài đọc nói rõ về sinh hoạt hằng ngày, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_HOBBY_Q001",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_HOBBY",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "HOBBY",
+    "readingText": "저는 영화를 좋아해요. 동생은 축구를 좋아해요.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_HOBBY_Q001_OPT_A",
+        "text": "취미"
+      },
+      {
+        "id": "P2_T1_TOPIC_HOBBY_Q001_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_HOBBY_Q001_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_HOBBY_Q001_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_HOBBY_Q001_OPT_A",
+    "correctValue": "취미",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "취미",
+      "영화",
+      "음악",
+      "축구",
+      "낚시",
+      "배구"
+    ],
+    "explanationVi": "Bài đọc nói rõ về sở thích, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_HOBBY_Q002",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_HOBBY",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "HOBBY",
+    "readingText": "친구는 음악을 자주 들어요. 저는 낚시를 좋아해요.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_HOBBY_Q002_OPT_A",
+        "text": "취미"
+      },
+      {
+        "id": "P2_T1_TOPIC_HOBBY_Q002_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_HOBBY_Q002_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_HOBBY_Q002_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_HOBBY_Q002_OPT_A",
+    "correctValue": "취미",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "취미",
+      "영화",
+      "음악",
+      "축구",
+      "낚시",
+      "배구"
+    ],
+    "explanationVi": "Bài đọc nói rõ về sở thích, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_HOBBY_Q003",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_HOBBY",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "HOBBY",
+    "readingText": "주말에 배구를 해요. 영화도 자주 봐요.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_HOBBY_Q003_OPT_A",
+        "text": "취미"
+      },
+      {
+        "id": "P2_T1_TOPIC_HOBBY_Q003_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_HOBBY_Q003_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_HOBBY_Q003_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_HOBBY_Q003_OPT_A",
+    "correctValue": "취미",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "취미",
+      "영화",
+      "음악",
+      "축구",
+      "낚시",
+      "배구"
+    ],
+    "explanationVi": "Bài đọc nói rõ về sở thích, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_DATE_DAY_Q001",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_DATE_DAY",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "DATE_DAY",
+    "readingText": "오늘은 월요일입니다. 내일은 화요일입니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_DATE_DAY_Q001_OPT_A",
+        "text": "날짜와 요일"
+      },
+      {
+        "id": "P2_T1_TOPIC_DATE_DAY_Q001_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_DATE_DAY_Q001_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_DATE_DAY_Q001_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_DATE_DAY_Q001_OPT_A",
+    "correctValue": "날짜와 요일",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "날짜와 요일",
+      "월요일",
+      "화요일",
+      "토요일",
+      "일요일",
+      "오월"
+    ],
+    "explanationVi": "Bài đọc nói rõ về ngày tháng và thứ, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_DATE_DAY_Q002",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_DATE_DAY",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "DATE_DAY",
+    "readingText": "생일 파티는 오월 오일입니다. 그날은 토요일입니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_DATE_DAY_Q002_OPT_A",
+        "text": "날짜와 요일"
+      },
+      {
+        "id": "P2_T1_TOPIC_DATE_DAY_Q002_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_DATE_DAY_Q002_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_DATE_DAY_Q002_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_DATE_DAY_Q002_OPT_A",
+    "correctValue": "날짜와 요일",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "날짜와 요일",
+      "월요일",
+      "화요일",
+      "토요일",
+      "일요일",
+      "오월"
+    ],
+    "explanationVi": "Bài đọc nói rõ về ngày tháng và thứ, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_DATE_DAY_Q003",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_DATE_DAY",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "DATE_DAY",
+    "readingText": "시험은 일요일에 있습니다. 회의는 월요일에 있습니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_DATE_DAY_Q003_OPT_A",
+        "text": "날짜와 요일"
+      },
+      {
+        "id": "P2_T1_TOPIC_DATE_DAY_Q003_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_DATE_DAY_Q003_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_DATE_DAY_Q003_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_DATE_DAY_Q003_OPT_A",
+    "correctValue": "날짜와 요일",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "날짜와 요일",
+      "월요일",
+      "화요일",
+      "토요일",
+      "일요일",
+      "오월"
+    ],
+    "explanationVi": "Bài đọc nói rõ về ngày tháng và thứ, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_DAILY_SCHEDULE_Q001",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_DAILY_SCHEDULE",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "DAILY_SCHEDULE",
+    "readingText": "저는 아침 7시에 일어납니다. 8시에 회사에 갑니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_DAILY_SCHEDULE_Q001_OPT_A",
+        "text": "하루 일과"
+      },
+      {
+        "id": "P2_T1_TOPIC_DAILY_SCHEDULE_Q001_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_DAILY_SCHEDULE_Q001_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_DAILY_SCHEDULE_Q001_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_DAILY_SCHEDULE_Q001_OPT_A",
+    "correctValue": "하루 일과",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "하루 일과",
+      "아침",
+      "오후",
+      "출근하다",
+      "퇴근하다",
+      "일어나다"
+    ],
+    "explanationVi": "Bài đọc nói rõ về lịch trình trong ngày, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_DAILY_SCHEDULE_Q002",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_DAILY_SCHEDULE",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "DAILY_SCHEDULE",
+    "readingText": "오후 6시에 퇴근합니다. 저녁에 방을 청소합니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_DAILY_SCHEDULE_Q002_OPT_A",
+        "text": "하루 일과"
+      },
+      {
+        "id": "P2_T1_TOPIC_DAILY_SCHEDULE_Q002_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_DAILY_SCHEDULE_Q002_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_DAILY_SCHEDULE_Q002_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_DAILY_SCHEDULE_Q002_OPT_A",
+    "correctValue": "하루 일과",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "하루 일과",
+      "아침",
+      "오후",
+      "출근하다",
+      "퇴근하다",
+      "일어나다"
+    ],
+    "explanationVi": "Bài đọc nói rõ về lịch trình trong ngày, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_DAILY_SCHEDULE_Q003",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_DAILY_SCHEDULE",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "DAILY_SCHEDULE",
+    "readingText": "아침에 출근합니다. 오후에 회의합니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_DAILY_SCHEDULE_Q003_OPT_A",
+        "text": "하루 일과"
+      },
+      {
+        "id": "P2_T1_TOPIC_DAILY_SCHEDULE_Q003_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_DAILY_SCHEDULE_Q003_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_DAILY_SCHEDULE_Q003_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_DAILY_SCHEDULE_Q003_OPT_A",
+    "correctValue": "하루 일과",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "하루 일과",
+      "아침",
+      "오후",
+      "출근하다",
+      "퇴근하다",
+      "일어나다"
+    ],
+    "explanationVi": "Bài đọc nói rõ về lịch trình trong ngày, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_WEEKEND_Q001",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_WEEKEND",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "WEEKEND",
+    "readingText": "주말에 친구하고 여행합니다. 바다에서 쉽니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_WEEKEND_Q001_OPT_A",
+        "text": "주말"
+      },
+      {
+        "id": "P2_T1_TOPIC_WEEKEND_Q001_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_WEEKEND_Q001_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_WEEKEND_Q001_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_WEEKEND_Q001_OPT_A",
+    "correctValue": "주말",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "주말",
+      "주말",
+      "여행하다",
+      "등산하다",
+      "수영하다",
+      "산책하다"
+    ],
+    "explanationVi": "Bài đọc nói rõ về cuối tuần, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_WEEKEND_Q002",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_WEEKEND",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "WEEKEND",
+    "readingText": "토요일에 등산합니다. 일요일에는 수영합니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_WEEKEND_Q002_OPT_A",
+        "text": "주말"
+      },
+      {
+        "id": "P2_T1_TOPIC_WEEKEND_Q002_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_WEEKEND_Q002_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_WEEKEND_Q002_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_WEEKEND_Q002_OPT_A",
+    "correctValue": "주말",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "주말",
+      "주말",
+      "여행하다",
+      "등산하다",
+      "수영하다",
+      "산책하다"
+    ],
+    "explanationVi": "Bài đọc nói rõ về cuối tuần, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_WEEKEND_Q003",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_WEEKEND",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "WEEKEND",
+    "readingText": "주말에 공원에서 산책합니다. 친구도 만납니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_WEEKEND_Q003_OPT_A",
+        "text": "주말"
+      },
+      {
+        "id": "P2_T1_TOPIC_WEEKEND_Q003_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_WEEKEND_Q003_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_WEEKEND_Q003_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_WEEKEND_Q003_OPT_A",
+    "correctValue": "주말",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "주말",
+      "주말",
+      "여행하다",
+      "등산하다",
+      "수영하다",
+      "산책하다"
+    ],
+    "explanationVi": "Bài đọc nói rõ về cuối tuần, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_SHOPPING_Q001",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_SHOPPING",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "SHOPPING",
+    "readingText": "마트에서 과자를 삽니다. 주스도 두 개 삽니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_SHOPPING_Q001_OPT_A",
+        "text": "물건 사기"
+      },
+      {
+        "id": "P2_T1_TOPIC_SHOPPING_Q001_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_SHOPPING_Q001_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_SHOPPING_Q001_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_SHOPPING_Q001_OPT_A",
+    "correctValue": "물건 사기",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "물건 사기",
+      "마트",
+      "과자",
+      "주스",
+      "소설책",
+      "원"
+    ],
+    "explanationVi": "Bài đọc nói rõ về mua đồ, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_SHOPPING_Q002",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_SHOPPING",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "SHOPPING",
+    "readingText": "소설책 한 권 주세요. 모두 만 원입니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_SHOPPING_Q002_OPT_A",
+        "text": "물건 사기"
+      },
+      {
+        "id": "P2_T1_TOPIC_SHOPPING_Q002_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_SHOPPING_Q002_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_SHOPPING_Q002_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_SHOPPING_Q002_OPT_A",
+    "correctValue": "물건 사기",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "물건 사기",
+      "마트",
+      "과자",
+      "주스",
+      "소설책",
+      "원"
+    ],
+    "explanationVi": "Bài đọc nói rõ về mua đồ, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_SHOPPING_Q003",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_SHOPPING",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "SHOPPING",
+    "readingText": "이거 얼마예요? 너무 비싸요. 깎아 주세요.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_SHOPPING_Q003_OPT_A",
+        "text": "물건 사기"
+      },
+      {
+        "id": "P2_T1_TOPIC_SHOPPING_Q003_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_SHOPPING_Q003_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_SHOPPING_Q003_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_SHOPPING_Q003_OPT_A",
+    "correctValue": "물건 사기",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "물건 사기",
+      "마트",
+      "과자",
+      "주스",
+      "소설책",
+      "원"
+    ],
+    "explanationVi": "Bài đọc nói rõ về mua đồ, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_FOOD_Q001",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_FOOD",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "FOOD",
+    "readingText": "식당에서 김치찌개를 먹습니다. 비빔밥도 주문합니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_FOOD_Q001_OPT_A",
+        "text": "음식"
+      },
+      {
+        "id": "P2_T1_TOPIC_FOOD_Q001_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_FOOD_Q001_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_FOOD_Q001_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_FOOD_Q001_OPT_A",
+    "correctValue": "음식",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "음식",
+      "김치찌개",
+      "비빔밥",
+      "냉면",
+      "라면",
+      "콜라"
+    ],
+    "explanationVi": "Bài đọc nói rõ về món ăn, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_FOOD_Q002",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_FOOD",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "FOOD",
+    "readingText": "냉면하고 라면이 있습니다. 콜라도 있습니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_FOOD_Q002_OPT_A",
+        "text": "음식"
+      },
+      {
+        "id": "P2_T1_TOPIC_FOOD_Q002_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_FOOD_Q002_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_FOOD_Q002_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_FOOD_Q002_OPT_A",
+    "correctValue": "음식",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "음식",
+      "김치찌개",
+      "비빔밥",
+      "냉면",
+      "라면",
+      "콜라"
+    ],
+    "explanationVi": "Bài đọc nói rõ về món ăn, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_FOOD_Q003",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_FOOD",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "FOOD",
+    "readingText": "저는 한국 음식을 좋아합니다. 오늘은 비빔밥을 먹습니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_FOOD_Q003_OPT_A",
+        "text": "음식"
+      },
+      {
+        "id": "P2_T1_TOPIC_FOOD_Q003_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_FOOD_Q003_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_FOOD_Q003_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_FOOD_Q003_OPT_A",
+    "correctValue": "음식",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "음식",
+      "김치찌개",
+      "비빔밥",
+      "냉면",
+      "라면",
+      "콜라"
+    ],
+    "explanationVi": "Bài đọc nói rõ về món ăn, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_TASTE_Q001",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_TASTE",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "TASTE",
+    "readingText": "김치찌개가 맛있지만 매워요. 콜라는 달아요.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_TASTE_Q001_OPT_A",
+        "text": "맛"
+      },
+      {
+        "id": "P2_T1_TOPIC_TASTE_Q001_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_TASTE_Q001_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_TASTE_Q001_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_TASTE_Q001_OPT_A",
+    "correctValue": "맛",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "맛",
+      "맛있다",
+      "맵다",
+      "달다",
+      "짜다",
+      "싱겁다"
+    ],
+    "explanationVi": "Bài đọc nói rõ về vị giác, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_TASTE_Q002",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_TASTE",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "TASTE",
+    "readingText": "라면이 짜요. 김치는 매워요.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_TASTE_Q002_OPT_A",
+        "text": "맛"
+      },
+      {
+        "id": "P2_T1_TOPIC_TASTE_Q002_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_TASTE_Q002_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_TASTE_Q002_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_TASTE_Q002_OPT_A",
+    "correctValue": "맛",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "맛",
+      "맛있다",
+      "맵다",
+      "달다",
+      "짜다",
+      "싱겁다"
+    ],
+    "explanationVi": "Bài đọc nói rõ về vị giác, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_TASTE_Q003",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_TASTE",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "TASTE",
+    "readingText": "이 음식은 싱거워요. 저 음식은 맛있어요.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_TASTE_Q003_OPT_A",
+        "text": "맛"
+      },
+      {
+        "id": "P2_T1_TOPIC_TASTE_Q003_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_TASTE_Q003_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_TASTE_Q003_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_TASTE_Q003_OPT_A",
+    "correctValue": "맛",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "맛",
+      "맛있다",
+      "맵다",
+      "달다",
+      "짜다",
+      "싱겁다"
+    ],
+    "explanationVi": "Bài đọc nói rõ về vị giác, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_TIME_Q001",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_TIME",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "TIME",
+    "readingText": "수업은 오전 9시에 시작합니다. 오후 5시에 끝납니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_TIME_Q001_OPT_A",
+        "text": "시간"
+      },
+      {
+        "id": "P2_T1_TOPIC_TIME_Q001_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_TIME_Q001_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_TIME_Q001_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_TIME_Q001_OPT_A",
+    "correctValue": "시간",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "시간",
+      "시",
+      "분",
+      "오전",
+      "오후",
+      "저녁"
+    ],
+    "explanationVi": "Bài đọc nói rõ về thời gian, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_TIME_Q002",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_TIME",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "TIME",
+    "readingText": "지금은 저녁 8시 30분입니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_TIME_Q002_OPT_A",
+        "text": "시간"
+      },
+      {
+        "id": "P2_T1_TOPIC_TIME_Q002_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_TIME_Q002_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_TIME_Q002_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_TIME_Q002_OPT_A",
+    "correctValue": "시간",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "시간",
+      "시",
+      "분",
+      "오전",
+      "오후",
+      "저녁"
+    ],
+    "explanationVi": "Bài đọc nói rõ về thời gian, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T1_TOPIC_TIME_Q003",
+    "part": 2,
+    "section": "topic_identification",
+    "poolId": "P2_T1_TOPIC_TIME",
+    "questionType": "choose_topic",
+    "difficulty": "easy",
+    "targetTopic": "TIME",
+    "readingText": "회의는 오후 2시에 있습니다. 시험은 오전 10시에 있습니다.",
+    "options": [
+      {
+        "id": "P2_T1_TOPIC_TIME_Q003_OPT_A",
+        "text": "시간"
+      },
+      {
+        "id": "P2_T1_TOPIC_TIME_Q003_OPT_B",
+        "text": "국적"
+      },
+      {
+        "id": "P2_T1_TOPIC_TIME_Q003_OPT_C",
+        "text": "직업"
+      },
+      {
+        "id": "P2_T1_TOPIC_TIME_Q003_OPT_D",
+        "text": "학교"
+      }
+    ],
+    "correctOptionId": "P2_T1_TOPIC_TIME_Q003_OPT_A",
+    "correctValue": "시간",
+    "grammarUsed": [
+      "TOPIC_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "시간",
+      "시",
+      "분",
+      "오전",
+      "오후",
+      "저녁"
+    ],
+    "explanationVi": "Bài đọc nói rõ về thời gian, nên chọn chủ đề này.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "topicUnambiguous": true
+    }
+  },
+  {
+    "id": "P2_T2_RECEIPT_Q001",
+    "part": 2,
+    "section": "visual_incorrect_statement",
+    "poolId": "P2_T2_RECEIPT",
+    "questionType": "choose_incorrect_statement",
+    "difficulty": "medium",
+    "stimulusType": "receipt",
+    "stimulusId": "P2_T2_RECEIPT_Q001_STIMULUS",
+    "stimulus": {
+      "id": "P2_T2_RECEIPT_Q001_STIMULUS",
+      "type": "receipt",
+      "title": "영수증",
+      "structuredData": {
+        "date": "2009/08/02",
+        "time": "09:30",
+        "items": [
+          {
+            "name": "우유",
+            "quantity": 2,
+            "unit": "개",
+            "lineTotal": 1800
+          },
+          {
+            "name": "과자",
+            "quantity": 1,
+            "unit": "개",
+            "lineTotal": 1200
+          }
+        ],
+        "grandTotal": 3000,
+        "currency": "원"
+      },
+      "fallbackText": "영수증\n2009/08/02 09:30\n우유 x 2 1,800원\n과자 x 1 1,200원\n합계 3,000원"
+    },
+    "prompt": "다음 자료를 보고 맞지 않는 것을 고르세요.",
+    "options": [
+      {
+        "id": "P2_T2_RECEIPT_Q001_OPT_A",
+        "text": "우유는 한 개 샀습니다."
+      },
+      {
+        "id": "P2_T2_RECEIPT_Q001_OPT_B",
+        "text": "과자는 한 개 샀습니다."
+      },
+      {
+        "id": "P2_T2_RECEIPT_Q001_OPT_C",
+        "text": "합계는 3,000원입니다."
+      },
+      {
+        "id": "P2_T2_RECEIPT_Q001_OPT_D",
+        "text": "시간은 09:30입니다."
+      }
+    ],
+    "correctOptionId": "P2_T2_RECEIPT_Q001_OPT_A",
+    "correctValue": "우유는 한 개 샀습니다.",
+    "grammarUsed": [
+      "VISUAL_READING",
+      "COUNTER_NUMBER"
+    ],
+    "vocabularyUsed": [
+      "영수증",
+      "과자",
+      "원",
+      "합계"
+    ],
+    "explanationVi": "Biên lai ghi sữa mua hai hộp, nên phát biểu mua một hộp sữa là sai.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "stimulusConsistent": true
+    }
+  },
+  {
+    "id": "P2_T2_RECEIPT_Q002",
+    "part": 2,
+    "section": "visual_incorrect_statement",
+    "poolId": "P2_T2_RECEIPT",
+    "questionType": "choose_incorrect_statement",
+    "difficulty": "medium",
+    "stimulusType": "receipt",
+    "stimulusId": "P2_T2_RECEIPT_Q002_STIMULUS",
+    "stimulus": {
+      "id": "P2_T2_RECEIPT_Q002_STIMULUS",
+      "type": "receipt",
+      "title": "영수증",
+      "structuredData": {
+        "date": "2010/05/10",
+        "time": "14:20",
+        "items": [
+          {
+            "name": "주스",
+            "quantity": 2,
+            "unit": "개",
+            "lineTotal": 2000
+          },
+          {
+            "name": "과자",
+            "quantity": 2,
+            "unit": "개",
+            "lineTotal": 3000
+          }
+        ],
+        "grandTotal": 5000,
+        "currency": "원"
+      },
+      "fallbackText": "영수증\n2010/05/10 14:20\n주스 x 2 2,000원\n과자 x 2 3,000원\n합계 5,000원"
+    },
+    "prompt": "다음 자료를 보고 맞지 않는 것을 고르세요.",
+    "options": [
+      {
+        "id": "P2_T2_RECEIPT_Q002_OPT_A",
+        "text": "합계는 3,000원입니다."
+      },
+      {
+        "id": "P2_T2_RECEIPT_Q002_OPT_B",
+        "text": "주스는 두 개 샀습니다."
+      },
+      {
+        "id": "P2_T2_RECEIPT_Q002_OPT_C",
+        "text": "과자는 두 개 샀습니다."
+      },
+      {
+        "id": "P2_T2_RECEIPT_Q002_OPT_D",
+        "text": "시간은 14:20입니다."
+      }
+    ],
+    "correctOptionId": "P2_T2_RECEIPT_Q002_OPT_A",
+    "correctValue": "합계는 3,000원입니다.",
+    "grammarUsed": [
+      "VISUAL_READING",
+      "COUNTER_NUMBER"
+    ],
+    "vocabularyUsed": [
+      "영수증",
+      "주스",
+      "과자",
+      "원",
+      "합계"
+    ],
+    "explanationVi": "Tổng tiền là 5.000 won, không phải 3.000 won.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "stimulusConsistent": true
+    }
+  },
+  {
+    "id": "P2_T2_RECEIPT_Q003",
+    "part": 2,
+    "section": "visual_incorrect_statement",
+    "poolId": "P2_T2_RECEIPT",
+    "questionType": "choose_incorrect_statement",
+    "difficulty": "medium",
+    "stimulusType": "receipt",
+    "stimulusId": "P2_T2_RECEIPT_Q003_STIMULUS",
+    "stimulus": {
+      "id": "P2_T2_RECEIPT_Q003_STIMULUS",
+      "type": "receipt",
+      "title": "영수증",
+      "structuredData": {
+        "date": "2011/07/03",
+        "time": "18:10",
+        "items": [
+          {
+            "name": "콜라",
+            "quantity": 1,
+            "unit": "개",
+            "lineTotal": 1000
+          },
+          {
+            "name": "라면",
+            "quantity": 2,
+            "unit": "개",
+            "lineTotal": 2400
+          }
+        ],
+        "grandTotal": 3400,
+        "currency": "원"
+      },
+      "fallbackText": "영수증\n2011/07/03 18:10\n콜라 x 1 1,000원\n라면 x 2 2,400원\n합계 3,400원"
+    },
+    "prompt": "다음 자료를 보고 맞지 않는 것을 고르세요.",
+    "options": [
+      {
+        "id": "P2_T2_RECEIPT_Q003_OPT_A",
+        "text": "라면은 한 개 샀습니다."
+      },
+      {
+        "id": "P2_T2_RECEIPT_Q003_OPT_B",
+        "text": "콜라는 한 개 샀습니다."
+      },
+      {
+        "id": "P2_T2_RECEIPT_Q003_OPT_C",
+        "text": "합계는 3,400원입니다."
+      },
+      {
+        "id": "P2_T2_RECEIPT_Q003_OPT_D",
+        "text": "시간은 18:10입니다."
+      }
+    ],
+    "correctOptionId": "P2_T2_RECEIPT_Q003_OPT_A",
+    "correctValue": "라면은 한 개 샀습니다.",
+    "grammarUsed": [
+      "VISUAL_READING",
+      "COUNTER_NUMBER"
+    ],
+    "vocabularyUsed": [
+      "영수증",
+      "콜라",
+      "라면",
+      "원",
+      "합계"
+    ],
+    "explanationVi": "Biên lai ghi mì mua hai gói, nên phát biểu mua một gói mì là sai.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "stimulusConsistent": true
+    }
+  },
+  {
+    "id": "P2_T2_CARD_Q001",
+    "part": 2,
+    "section": "visual_incorrect_statement",
+    "poolId": "P2_T2_CARD",
+    "questionType": "choose_incorrect_statement",
+    "difficulty": "medium",
+    "stimulusType": "card",
+    "stimulusId": "P2_T2_CARD_Q001_STIMULUS",
+    "stimulus": {
+      "id": "P2_T2_CARD_Q001_STIMULUS",
+      "type": "card",
+      "title": "생일 카드",
+      "structuredData": {
+        "sender": "민수",
+        "receiver": "흐엉",
+        "occasion": "생일",
+        "gift": "시계",
+        "message": "생일 축하해요."
+      },
+      "fallbackText": "흐엉 씨에게\n생일 축하해요. 시계를 준비했어요.\n민수"
+    },
+    "prompt": "다음 자료를 보고 맞지 않는 것을 고르세요.",
+    "options": [
+      {
+        "id": "P2_T2_CARD_Q001_OPT_A",
+        "text": "선물은 가방입니다."
+      },
+      {
+        "id": "P2_T2_CARD_Q001_OPT_B",
+        "text": "민수가 카드를 썼습니다."
+      },
+      {
+        "id": "P2_T2_CARD_Q001_OPT_C",
+        "text": "흐엉 씨 생일 카드입니다."
+      },
+      {
+        "id": "P2_T2_CARD_Q001_OPT_D",
+        "text": "선물은 시계입니다."
+      }
+    ],
+    "correctOptionId": "P2_T2_CARD_Q001_OPT_A",
+    "correctValue": "선물은 가방입니다.",
+    "grammarUsed": [
+      "VISUAL_READING",
+      "COUNTER_NUMBER"
+    ],
+    "vocabularyUsed": [
+      "카드",
+      "생일",
+      "시계"
+    ],
+    "explanationVi": "Quà tặng là đồng hồ, nên phát biểu quà là cặp/túi là sai.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "stimulusConsistent": true
+    }
+  },
+  {
+    "id": "P2_T2_CARD_Q002",
+    "part": 2,
+    "section": "visual_incorrect_statement",
+    "poolId": "P2_T2_CARD",
+    "questionType": "choose_incorrect_statement",
+    "difficulty": "medium",
+    "stimulusType": "card",
+    "stimulusId": "P2_T2_CARD_Q002_STIMULUS",
+    "stimulus": {
+      "id": "P2_T2_CARD_Q002_STIMULUS",
+      "type": "card",
+      "title": "카드",
+      "structuredData": {
+        "sender": "남",
+        "receiver": "친구",
+        "occasion": "생일",
+        "gift": "책",
+        "message": "생일 축하합니다."
+      },
+      "fallbackText": "친구에게\n생일 축하합니다. 책을 샀어요.\n남"
+    },
+    "prompt": "다음 자료를 보고 맞지 않는 것을 고르세요.",
+    "options": [
+      {
+        "id": "P2_T2_CARD_Q002_OPT_A",
+        "text": "카드를 받은 사람은 남 씨입니다."
+      },
+      {
+        "id": "P2_T2_CARD_Q002_OPT_B",
+        "text": "남 씨가 카드를 썼습니다."
+      },
+      {
+        "id": "P2_T2_CARD_Q002_OPT_C",
+        "text": "친구에게 쓴 카드입니다."
+      },
+      {
+        "id": "P2_T2_CARD_Q002_OPT_D",
+        "text": "선물은 책입니다."
+      }
+    ],
+    "correctOptionId": "P2_T2_CARD_Q002_OPT_A",
+    "correctValue": "카드를 받은 사람은 남 씨입니다.",
+    "grammarUsed": [
+      "VISUAL_READING",
+      "COUNTER_NUMBER"
+    ],
+    "vocabularyUsed": [
+      "카드",
+      "생일",
+      "책",
+      "친구"
+    ],
+    "explanationVi": "Người nhận thiệp là bạn, không phải Nam.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "stimulusConsistent": true
+    }
+  },
+  {
+    "id": "P2_T2_CARD_Q003",
+    "part": 2,
+    "section": "visual_incorrect_statement",
+    "poolId": "P2_T2_CARD",
+    "questionType": "choose_incorrect_statement",
+    "difficulty": "medium",
+    "stimulusType": "card",
+    "stimulusId": "P2_T2_CARD_Q003_STIMULUS",
+    "stimulus": {
+      "id": "P2_T2_CARD_Q003_STIMULUS",
+      "type": "card",
+      "title": "생일 카드",
+      "structuredData": {
+        "sender": "어머니",
+        "receiver": "아버지",
+        "occasion": "생일",
+        "gift": "펜",
+        "message": "생일 축하해요."
+      },
+      "fallbackText": "아버지에게\n생일 축하해요. 펜을 준비했어요.\n어머니"
+    },
+    "prompt": "다음 자료를 보고 맞지 않는 것을 고르세요.",
+    "options": [
+      {
+        "id": "P2_T2_CARD_Q003_OPT_A",
+        "text": "어머니가 가방을 준비했습니다."
+      },
+      {
+        "id": "P2_T2_CARD_Q003_OPT_B",
+        "text": "아버지에게 쓴 카드입니다."
+      },
+      {
+        "id": "P2_T2_CARD_Q003_OPT_C",
+        "text": "생일 카드입니다."
+      },
+      {
+        "id": "P2_T2_CARD_Q003_OPT_D",
+        "text": "선물은 펜입니다."
+      }
+    ],
+    "correctOptionId": "P2_T2_CARD_Q003_OPT_A",
+    "correctValue": "어머니가 가방을 준비했습니다.",
+    "grammarUsed": [
+      "VISUAL_READING",
+      "COUNTER_NUMBER"
+    ],
+    "vocabularyUsed": [
+      "카드",
+      "생일",
+      "펜"
+    ],
+    "explanationVi": "Món quà được chuẩn bị là bút, không phải cặp/túi.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "stimulusConsistent": true
+    }
+  },
+  {
+    "id": "P2_T2_MENU_Q001",
+    "part": 2,
+    "section": "visual_incorrect_statement",
+    "poolId": "P2_T2_MENU",
+    "questionType": "choose_incorrect_statement",
+    "difficulty": "medium",
+    "stimulusType": "menu",
+    "stimulusId": "P2_T2_MENU_Q001_STIMULUS",
+    "stimulus": {
+      "id": "P2_T2_MENU_Q001_STIMULUS",
+      "type": "menu",
+      "title": "메뉴",
+      "structuredData": {
+        "restaurantName": "한국 식당",
+        "items": [
+          {
+            "name": "김치찌개",
+            "price": 6000
+          },
+          {
+            "name": "비빔밥",
+            "price": 7000
+          },
+          {
+            "name": "콜라",
+            "price": 1000
+          }
+        ],
+        "currency": "원"
+      },
+      "fallbackText": "메뉴\n김치찌개 6,000원\n비빔밥 7,000원\n콜라 1,000원"
+    },
+    "prompt": "다음 자료를 보고 맞지 않는 것을 고르세요.",
+    "options": [
+      {
+        "id": "P2_T2_MENU_Q001_OPT_A",
+        "text": "비빔밥은 6,000원입니다."
+      },
+      {
+        "id": "P2_T2_MENU_Q001_OPT_B",
+        "text": "김치찌개는 6,000원입니다."
+      },
+      {
+        "id": "P2_T2_MENU_Q001_OPT_C",
+        "text": "콜라는 1,000원입니다."
+      },
+      {
+        "id": "P2_T2_MENU_Q001_OPT_D",
+        "text": "비빔밥이 제일 비쌉니다."
+      }
+    ],
+    "correctOptionId": "P2_T2_MENU_Q001_OPT_A",
+    "correctValue": "비빔밥은 6,000원입니다.",
+    "grammarUsed": [
+      "VISUAL_READING",
+      "COUNTER_NUMBER"
+    ],
+    "vocabularyUsed": [
+      "메뉴",
+      "김치찌개",
+      "비빔밥",
+      "콜라",
+      "원"
+    ],
+    "explanationVi": "Giá cơm trộn là 7.000 won, không phải 6.000 won.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "stimulusConsistent": true
+    }
+  },
+  {
+    "id": "P2_T2_MENU_Q002",
+    "part": 2,
+    "section": "visual_incorrect_statement",
+    "poolId": "P2_T2_MENU",
+    "questionType": "choose_incorrect_statement",
+    "difficulty": "medium",
+    "stimulusType": "menu",
+    "stimulusId": "P2_T2_MENU_Q002_STIMULUS",
+    "stimulus": {
+      "id": "P2_T2_MENU_Q002_STIMULUS",
+      "type": "menu",
+      "title": "메뉴",
+      "structuredData": {
+        "restaurantName": "분식집",
+        "items": [
+          {
+            "name": "라면",
+            "price": 4000
+          },
+          {
+            "name": "냉면",
+            "price": 5500
+          },
+          {
+            "name": "주스",
+            "price": 1500
+          }
+        ],
+        "currency": "원"
+      },
+      "fallbackText": "메뉴\n라면 4,000원\n냉면 5,500원\n주스 1,500원"
+    },
+    "prompt": "다음 자료를 보고 맞지 않는 것을 고르세요.",
+    "options": [
+      {
+        "id": "P2_T2_MENU_Q002_OPT_A",
+        "text": "주스는 5,500원입니다."
+      },
+      {
+        "id": "P2_T2_MENU_Q002_OPT_B",
+        "text": "라면은 4,000원입니다."
+      },
+      {
+        "id": "P2_T2_MENU_Q002_OPT_C",
+        "text": "냉면은 5,500원입니다."
+      },
+      {
+        "id": "P2_T2_MENU_Q002_OPT_D",
+        "text": "주스가 제일 쌉니다."
+      }
+    ],
+    "correctOptionId": "P2_T2_MENU_Q002_OPT_A",
+    "correctValue": "주스는 5,500원입니다.",
+    "grammarUsed": [
+      "VISUAL_READING",
+      "COUNTER_NUMBER"
+    ],
+    "vocabularyUsed": [
+      "메뉴",
+      "라면",
+      "냉면",
+      "주스",
+      "원"
+    ],
+    "explanationVi": "Giá nước ép là 1.500 won, không phải 5.500 won.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "stimulusConsistent": true
+    }
+  },
+  {
+    "id": "P2_T2_MENU_Q003",
+    "part": 2,
+    "section": "visual_incorrect_statement",
+    "poolId": "P2_T2_MENU",
+    "questionType": "choose_incorrect_statement",
+    "difficulty": "medium",
+    "stimulusType": "menu",
+    "stimulusId": "P2_T2_MENU_Q003_STIMULUS",
+    "stimulus": {
+      "id": "P2_T2_MENU_Q003_STIMULUS",
+      "type": "menu",
+      "title": "메뉴",
+      "structuredData": {
+        "restaurantName": "식당",
+        "items": [
+          {
+            "name": "비빔밥",
+            "price": 8000
+          },
+          {
+            "name": "김치찌개",
+            "price": 7000
+          },
+          {
+            "name": "콜라",
+            "price": 1200
+          }
+        ],
+        "currency": "원"
+      },
+      "fallbackText": "메뉴\n비빔밥 8,000원\n김치찌개 7,000원\n콜라 1,200원"
+    },
+    "prompt": "다음 자료를 보고 맞지 않는 것을 고르세요.",
+    "options": [
+      {
+        "id": "P2_T2_MENU_Q003_OPT_A",
+        "text": "김치찌개는 8,000원입니다."
+      },
+      {
+        "id": "P2_T2_MENU_Q003_OPT_B",
+        "text": "비빔밥은 8,000원입니다."
+      },
+      {
+        "id": "P2_T2_MENU_Q003_OPT_C",
+        "text": "콜라는 1,200원입니다."
+      },
+      {
+        "id": "P2_T2_MENU_Q003_OPT_D",
+        "text": "김치찌개는 7,000원입니다."
+      }
+    ],
+    "correctOptionId": "P2_T2_MENU_Q003_OPT_A",
+    "correctValue": "김치찌개는 8,000원입니다.",
+    "grammarUsed": [
+      "VISUAL_READING",
+      "COUNTER_NUMBER"
+    ],
+    "vocabularyUsed": [
+      "메뉴",
+      "비빔밥",
+      "김치찌개",
+      "콜라",
+      "원"
+    ],
+    "explanationVi": "Giá canh kim chi là 7.000 won, không phải 8.000 won.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "stimulusConsistent": true
+    }
+  },
+  {
+    "id": "P2_T2_SCHEDULE_Q001",
+    "part": 2,
+    "section": "visual_incorrect_statement",
+    "poolId": "P2_T2_SCHEDULE",
+    "questionType": "choose_incorrect_statement",
+    "difficulty": "medium",
+    "stimulusType": "schedule",
+    "stimulusId": "P2_T2_SCHEDULE_Q001_STIMULUS",
+    "stimulus": {
+      "id": "P2_T2_SCHEDULE_Q001_STIMULUS",
+      "type": "schedule",
+      "title": "일정",
+      "structuredData": {
+        "date": "5월 5일",
+        "day": "토요일",
+        "time": "오후 3시",
+        "activity": "생일 파티",
+        "place": "식당"
+      },
+      "fallbackText": "일정\n5월 5일 토요일 오후 3시\n생일 파티 / 식당"
+    },
+    "prompt": "다음 자료를 보고 맞지 않는 것을 고르세요.",
+    "options": [
+      {
+        "id": "P2_T2_SCHEDULE_Q001_OPT_A",
+        "text": "파티는 도서관에서 합니다."
+      },
+      {
+        "id": "P2_T2_SCHEDULE_Q001_OPT_B",
+        "text": "파티는 토요일에 합니다."
+      },
+      {
+        "id": "P2_T2_SCHEDULE_Q001_OPT_C",
+        "text": "시간은 오후 3시입니다."
+      },
+      {
+        "id": "P2_T2_SCHEDULE_Q001_OPT_D",
+        "text": "장소는 식당입니다."
+      }
+    ],
+    "correctOptionId": "P2_T2_SCHEDULE_Q001_OPT_A",
+    "correctValue": "파티는 도서관에서 합니다.",
+    "grammarUsed": [
+      "VISUAL_READING",
+      "COUNTER_NUMBER"
+    ],
+    "vocabularyUsed": [
+      "일정",
+      "생일",
+      "파티",
+      "식당",
+      "오후",
+      "시"
+    ],
+    "explanationVi": "Địa điểm tổ chức tiệc là nhà hàng, không phải thư viện.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "stimulusConsistent": true
+    }
+  },
+  {
+    "id": "P2_T2_SCHEDULE_Q002",
+    "part": 2,
+    "section": "visual_incorrect_statement",
+    "poolId": "P2_T2_SCHEDULE",
+    "questionType": "choose_incorrect_statement",
+    "difficulty": "medium",
+    "stimulusType": "schedule",
+    "stimulusId": "P2_T2_SCHEDULE_Q002_STIMULUS",
+    "stimulus": {
+      "id": "P2_T2_SCHEDULE_Q002_STIMULUS",
+      "type": "schedule",
+      "title": "일정",
+      "structuredData": {
+        "date": "6월 2일",
+        "day": "월요일",
+        "time": "오전 10시",
+        "activity": "시험",
+        "place": "교실"
+      },
+      "fallbackText": "일정\n6월 2일 월요일 오전 10시\n시험 / 교실"
+    },
+    "prompt": "다음 자료를 보고 맞지 않는 것을 고르세요.",
+    "options": [
+      {
+        "id": "P2_T2_SCHEDULE_Q002_OPT_A",
+        "text": "시험은 오후 10시에 있습니다."
+      },
+      {
+        "id": "P2_T2_SCHEDULE_Q002_OPT_B",
+        "text": "시험은 월요일에 있습니다."
+      },
+      {
+        "id": "P2_T2_SCHEDULE_Q002_OPT_C",
+        "text": "장소는 교실입니다."
+      },
+      {
+        "id": "P2_T2_SCHEDULE_Q002_OPT_D",
+        "text": "시간은 오전 10시입니다."
+      }
+    ],
+    "correctOptionId": "P2_T2_SCHEDULE_Q002_OPT_A",
+    "correctValue": "시험은 오후 10시에 있습니다.",
+    "grammarUsed": [
+      "VISUAL_READING",
+      "COUNTER_NUMBER"
+    ],
+    "vocabularyUsed": [
+      "일정",
+      "시험",
+      "교실",
+      "오전",
+      "시"
+    ],
+    "explanationVi": "Thời gian thi là 10 giờ sáng, không phải 10 giờ chiều.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "stimulusConsistent": true
+    }
+  },
+  {
+    "id": "P2_T2_SCHEDULE_Q003",
+    "part": 2,
+    "section": "visual_incorrect_statement",
+    "poolId": "P2_T2_SCHEDULE",
+    "questionType": "choose_incorrect_statement",
+    "difficulty": "medium",
+    "stimulusType": "schedule",
+    "stimulusId": "P2_T2_SCHEDULE_Q003_STIMULUS",
+    "stimulus": {
+      "id": "P2_T2_SCHEDULE_Q003_STIMULUS",
+      "type": "schedule",
+      "title": "일정",
+      "structuredData": {
+        "date": "7월 1일",
+        "day": "화요일",
+        "time": "오후 2시",
+        "activity": "회의",
+        "place": "도서관"
+      },
+      "fallbackText": "일정\n7월 1일 화요일 오후 2시\n회의 / 도서관"
+    },
+    "prompt": "다음 자료를 보고 맞지 않는 것을 고르세요.",
+    "options": [
+      {
+        "id": "P2_T2_SCHEDULE_Q003_OPT_A",
+        "text": "회의는 병원에서 합니다."
+      },
+      {
+        "id": "P2_T2_SCHEDULE_Q003_OPT_B",
+        "text": "회의는 화요일에 합니다."
+      },
+      {
+        "id": "P2_T2_SCHEDULE_Q003_OPT_C",
+        "text": "시간은 오후 2시입니다."
+      },
+      {
+        "id": "P2_T2_SCHEDULE_Q003_OPT_D",
+        "text": "장소는 도서관입니다."
+      }
+    ],
+    "correctOptionId": "P2_T2_SCHEDULE_Q003_OPT_A",
+    "correctValue": "회의는 병원에서 합니다.",
+    "grammarUsed": [
+      "VISUAL_READING",
+      "COUNTER_NUMBER"
+    ],
+    "vocabularyUsed": [
+      "일정",
+      "회의",
+      "도서관",
+      "오후",
+      "시"
+    ],
+    "explanationVi": "Địa điểm họp là thư viện, không phải bệnh viện.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "stimulusConsistent": true
+    }
+  },
+  {
+    "id": "P2_T2_NOTICE_Q001",
+    "part": 2,
+    "section": "visual_incorrect_statement",
+    "poolId": "P2_T2_NOTICE",
+    "questionType": "choose_incorrect_statement",
+    "difficulty": "medium",
+    "stimulusType": "notice",
+    "stimulusId": "P2_T2_NOTICE_Q001_STIMULUS",
+    "stimulus": {
+      "id": "P2_T2_NOTICE_Q001_STIMULUS",
+      "type": "notice",
+      "title": "공지",
+      "structuredData": {
+        "event": "한국어 파티",
+        "date": "금요일",
+        "time": "오후 6시",
+        "place": "교실",
+        "note": "친구와 같이 오세요."
+      },
+      "fallbackText": "공지\n한국어 파티\n금요일 오후 6시 / 교실\n친구와 같이 오세요."
+    },
+    "prompt": "다음 자료를 보고 맞지 않는 것을 고르세요.",
+    "options": [
+      {
+        "id": "P2_T2_NOTICE_Q001_OPT_A",
+        "text": "파티는 식당에서 합니다."
+      },
+      {
+        "id": "P2_T2_NOTICE_Q001_OPT_B",
+        "text": "파티는 금요일에 합니다."
+      },
+      {
+        "id": "P2_T2_NOTICE_Q001_OPT_C",
+        "text": "시간은 오후 6시입니다."
+      },
+      {
+        "id": "P2_T2_NOTICE_Q001_OPT_D",
+        "text": "장소는 교실입니다."
+      }
+    ],
+    "correctOptionId": "P2_T2_NOTICE_Q001_OPT_A",
+    "correctValue": "파티는 식당에서 합니다.",
+    "grammarUsed": [
+      "VISUAL_READING",
+      "COUNTER_NUMBER"
+    ],
+    "vocabularyUsed": [
+      "공지",
+      "한국어",
+      "파티",
+      "오후",
+      "시",
+      "교실"
+    ],
+    "explanationVi": "Địa điểm bữa tiệc là phòng học, không phải nhà hàng.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "stimulusConsistent": true
+    }
+  },
+  {
+    "id": "P2_T2_NOTICE_Q002",
+    "part": 2,
+    "section": "visual_incorrect_statement",
+    "poolId": "P2_T2_NOTICE",
+    "questionType": "choose_incorrect_statement",
+    "difficulty": "medium",
+    "stimulusType": "notice",
+    "stimulusId": "P2_T2_NOTICE_Q002_STIMULUS",
+    "stimulus": {
+      "id": "P2_T2_NOTICE_Q002_STIMULUS",
+      "type": "notice",
+      "title": "공지",
+      "structuredData": {
+        "event": "시험",
+        "date": "월요일",
+        "time": "오전 9시",
+        "place": "강의실",
+        "note": "펜을 가져오세요."
+      },
+      "fallbackText": "공지\n시험\n월요일 오전 9시 / 강의실\n펜을 가져오세요."
+    },
+    "prompt": "다음 자료를 보고 맞지 않는 것을 고르세요.",
+    "options": [
+      {
+        "id": "P2_T2_NOTICE_Q002_OPT_A",
+        "text": "시험은 오후 9시에 있습니다."
+      },
+      {
+        "id": "P2_T2_NOTICE_Q002_OPT_B",
+        "text": "시험은 월요일에 있습니다."
+      },
+      {
+        "id": "P2_T2_NOTICE_Q002_OPT_C",
+        "text": "장소는 강의실입니다."
+      },
+      {
+        "id": "P2_T2_NOTICE_Q002_OPT_D",
+        "text": "펜이 필요합니다."
+      }
+    ],
+    "correctOptionId": "P2_T2_NOTICE_Q002_OPT_A",
+    "correctValue": "시험은 오후 9시에 있습니다.",
+    "grammarUsed": [
+      "VISUAL_READING",
+      "COUNTER_NUMBER"
+    ],
+    "vocabularyUsed": [
+      "공지",
+      "시험",
+      "강의실",
+      "펜",
+      "오전",
+      "시"
+    ],
+    "explanationVi": "Thời gian thi là 9 giờ sáng, không phải 9 giờ tối.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "stimulusConsistent": true
+    }
+  },
+  {
+    "id": "P2_T2_NOTICE_Q003",
+    "part": 2,
+    "section": "visual_incorrect_statement",
+    "poolId": "P2_T2_NOTICE",
+    "questionType": "choose_incorrect_statement",
+    "difficulty": "medium",
+    "stimulusType": "notice",
+    "stimulusId": "P2_T2_NOTICE_Q003_STIMULUS",
+    "stimulus": {
+      "id": "P2_T2_NOTICE_Q003_STIMULUS",
+      "type": "notice",
+      "title": "공지",
+      "structuredData": {
+        "event": "회의",
+        "date": "화요일",
+        "time": "오후 4시",
+        "place": "도서관",
+        "note": "책을 가져오세요."
+      },
+      "fallbackText": "공지\n회의\n화요일 오후 4시 / 도서관\n책을 가져오세요."
+    },
+    "prompt": "다음 자료를 보고 맞지 않는 것을 고르세요.",
+    "options": [
+      {
+        "id": "P2_T2_NOTICE_Q003_OPT_A",
+        "text": "회의는 월요일에 있습니다."
+      },
+      {
+        "id": "P2_T2_NOTICE_Q003_OPT_B",
+        "text": "회의는 화요일에 있습니다."
+      },
+      {
+        "id": "P2_T2_NOTICE_Q003_OPT_C",
+        "text": "시간은 오후 4시입니다."
+      },
+      {
+        "id": "P2_T2_NOTICE_Q003_OPT_D",
+        "text": "장소는 도서관입니다."
+      }
+    ],
+    "correctOptionId": "P2_T2_NOTICE_Q003_OPT_A",
+    "correctValue": "회의는 월요일에 있습니다.",
+    "grammarUsed": [
+      "VISUAL_READING",
+      "COUNTER_NUMBER"
+    ],
+    "vocabularyUsed": [
+      "공지",
+      "회의",
+      "도서관",
+      "책",
+      "오후",
+      "시"
+    ],
+    "explanationVi": "Buổi họp diễn ra vào thứ Ba, không phải thứ Hai.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "stimulusConsistent": true
+    }
+  },
+  {
+    "id": "P2_T3_PROFILE_LANGUAGE_Q001",
+    "part": 2,
+    "section": "passage_correct_statement",
+    "poolId": "P2_T3_PROFILE_LANGUAGE",
+    "questionType": "choose_correct_statement",
+    "difficulty": "medium",
+    "readingFocus": "profile_language",
+    "readingText": "제인 씨는 지금 한국에 삽니다. 작년까지 영국의 대학교에서 한국어를 공부했습니다. 제인 씨는 한국 사람들하고 한국어로 이야기합니다.",
+    "options": [
+      {
+        "id": "P2_T3_PROFILE_LANGUAGE_Q001_OPT_A",
+        "text": "제인 씨는 한국어를 할 수 있습니다."
+      },
+      {
+        "id": "P2_T3_PROFILE_LANGUAGE_Q001_OPT_B",
+        "text": "제인 씨는 지금 영국에 있습니다."
+      },
+      {
+        "id": "P2_T3_PROFILE_LANGUAGE_Q001_OPT_C",
+        "text": "제인 씨는 작년까지 한국에 살았습니다."
+      },
+      {
+        "id": "P2_T3_PROFILE_LANGUAGE_Q001_OPT_D",
+        "text": "제인 씨는 한국에서 대학교에 다녔습니다."
+      }
+    ],
+    "correctOptionId": "P2_T3_PROFILE_LANGUAGE_Q001_OPT_A",
+    "correctValue": "제인 씨는 한국어를 할 수 있습니다.",
+    "grammarUsed": [
+      "PASSAGE_READING",
+      "PAST_TENSE"
+    ],
+    "vocabularyUsed": [
+      "한국",
+      "한국어"
+    ],
+    "explanationVi": "Đoạn nói Jane học và dùng tiếng Hàn.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "passageConsistent": true
+    }
+  },
+  {
+    "id": "P2_T3_PROFILE_LANGUAGE_Q002",
+    "part": 2,
+    "section": "passage_correct_statement",
+    "poolId": "P2_T3_PROFILE_LANGUAGE",
+    "questionType": "choose_correct_statement",
+    "difficulty": "medium",
+    "readingFocus": "profile_language",
+    "readingText": "남 씨는 베트남 사람입니다. 지금 한국에서 한국어를 공부합니다. 친구하고 한국어로 이야기합니다.",
+    "options": [
+      {
+        "id": "P2_T3_PROFILE_LANGUAGE_Q002_OPT_A",
+        "text": "남 씨는 한국어를 공부합니다."
+      },
+      {
+        "id": "P2_T3_PROFILE_LANGUAGE_Q002_OPT_B",
+        "text": "남 씨는 중국 사람입니다."
+      },
+      {
+        "id": "P2_T3_PROFILE_LANGUAGE_Q002_OPT_C",
+        "text": "남 씨는 지금 베트남에 있습니다."
+      },
+      {
+        "id": "P2_T3_PROFILE_LANGUAGE_Q002_OPT_D",
+        "text": "남 씨는 한국어를 좋아하지 않습니다."
+      }
+    ],
+    "correctOptionId": "P2_T3_PROFILE_LANGUAGE_Q002_OPT_A",
+    "correctValue": "남 씨는 한국어를 공부합니다.",
+    "grammarUsed": [
+      "PASSAGE_READING",
+      "PRESENT_POLITE"
+    ],
+    "vocabularyUsed": [
+      "베트남",
+      "한국",
+      "한국어",
+      "친구"
+    ],
+    "explanationVi": "Thông tin đúng là Nam đang học tiếng Hàn.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "passageConsistent": true
+    }
+  },
+  {
+    "id": "P2_T3_PROFILE_LANGUAGE_Q003",
+    "part": 2,
+    "section": "passage_correct_statement",
+    "poolId": "P2_T3_PROFILE_LANGUAGE",
+    "questionType": "choose_correct_statement",
+    "difficulty": "medium",
+    "readingFocus": "profile_language",
+    "readingText": "흐엉 씨는 미국 사람이 아닙니다. 베트남 사람입니다. 한국어와 베트남어를 좋아합니다.",
+    "options": [
+      {
+        "id": "P2_T3_PROFILE_LANGUAGE_Q003_OPT_A",
+        "text": "흐엉 씨는 베트남 사람입니다."
+      },
+      {
+        "id": "P2_T3_PROFILE_LANGUAGE_Q003_OPT_B",
+        "text": "흐엉 씨는 미국 사람입니다."
+      },
+      {
+        "id": "P2_T3_PROFILE_LANGUAGE_Q003_OPT_C",
+        "text": "흐엉 씨는 일본어를 좋아합니다."
+      },
+      {
+        "id": "P2_T3_PROFILE_LANGUAGE_Q003_OPT_D",
+        "text": "흐엉 씨는 한국어를 싫어합니다."
+      }
+    ],
+    "correctOptionId": "P2_T3_PROFILE_LANGUAGE_Q003_OPT_A",
+    "correctValue": "흐엉 씨는 베트남 사람입니다.",
+    "grammarUsed": [
+      "PASSAGE_READING",
+      "NEGATION"
+    ],
+    "vocabularyUsed": [
+      "미국",
+      "베트남",
+      "한국어"
+    ],
+    "explanationVi": "Quốc tịch đúng là Việt Nam.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "passageConsistent": true
+    }
+  },
+  {
+    "id": "P2_T3_CLASS_ACTIVITY_Q001",
+    "part": 2,
+    "section": "passage_correct_statement",
+    "poolId": "P2_T3_CLASS_ACTIVITY",
+    "questionType": "choose_correct_statement",
+    "difficulty": "medium",
+    "readingFocus": "class_activity",
+    "readingText": "저는 월요일에 한국어 수업이 있습니다. 수업은 오후 5시에 끝납니다. 한국어 수업은 재미있습니다.",
+    "options": [
+      {
+        "id": "P2_T3_CLASS_ACTIVITY_Q001_OPT_A",
+        "text": "한국어 수업은 오후 5시에 끝납니다."
+      },
+      {
+        "id": "P2_T3_CLASS_ACTIVITY_Q001_OPT_B",
+        "text": "수업은 오전 5시에 시작합니다."
+      },
+      {
+        "id": "P2_T3_CLASS_ACTIVITY_Q001_OPT_C",
+        "text": "수업은 화요일에 있습니다."
+      },
+      {
+        "id": "P2_T3_CLASS_ACTIVITY_Q001_OPT_D",
+        "text": "한국어 수업은 재미없습니다."
+      }
+    ],
+    "correctOptionId": "P2_T3_CLASS_ACTIVITY_Q001_OPT_A",
+    "correctValue": "한국어 수업은 오후 5시에 끝납니다.",
+    "grammarUsed": [
+      "PASSAGE_READING",
+      "TIME_EXPRESSION"
+    ],
+    "vocabularyUsed": [
+      "월요일",
+      "한국어",
+      "수업",
+      "오후",
+      "시"
+    ],
+    "explanationVi": "Đoạn văn cho biết lớp tiếng Hàn kết thúc lúc 5 giờ chiều.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "passageConsistent": true
+    }
+  },
+  {
+    "id": "P2_T3_CLASS_ACTIVITY_Q002",
+    "part": 2,
+    "section": "passage_correct_statement",
+    "poolId": "P2_T3_CLASS_ACTIVITY",
+    "questionType": "choose_correct_statement",
+    "difficulty": "medium",
+    "readingFocus": "class_activity",
+    "readingText": "학생들은 교실에서 한국어를 공부합니다. 선생님은 질문합니다. 학생들은 대답합니다.",
+    "options": [
+      {
+        "id": "P2_T3_CLASS_ACTIVITY_Q002_OPT_A",
+        "text": "학생들은 교실에서 공부합니다."
+      },
+      {
+        "id": "P2_T3_CLASS_ACTIVITY_Q002_OPT_B",
+        "text": "학생들은 식당에서 공부합니다."
+      },
+      {
+        "id": "P2_T3_CLASS_ACTIVITY_Q002_OPT_C",
+        "text": "선생님은 영화를 봅니다."
+      },
+      {
+        "id": "P2_T3_CLASS_ACTIVITY_Q002_OPT_D",
+        "text": "학생들은 대답하지 않습니다."
+      }
+    ],
+    "correctOptionId": "P2_T3_CLASS_ACTIVITY_Q002_OPT_A",
+    "correctValue": "학생들은 교실에서 공부합니다.",
+    "grammarUsed": [
+      "PASSAGE_READING",
+      "ACTION_LOCATION"
+    ],
+    "vocabularyUsed": [
+      "학생",
+      "교실",
+      "한국어",
+      "선생님"
+    ],
+    "explanationVi": "Địa điểm học là phòng học.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "passageConsistent": true
+    }
+  },
+  {
+    "id": "P2_T3_CLASS_ACTIVITY_Q003",
+    "part": 2,
+    "section": "passage_correct_statement",
+    "poolId": "P2_T3_CLASS_ACTIVITY",
+    "questionType": "choose_correct_statement",
+    "difficulty": "medium",
+    "readingFocus": "class_activity",
+    "readingText": "오늘 수업은 쉽습니다. 학생들은 책을 읽고 한국어를 씁니다. 수업 후에 도서관에 갑니다.",
+    "options": [
+      {
+        "id": "P2_T3_CLASS_ACTIVITY_Q003_OPT_A",
+        "text": "학생들은 책을 읽습니다."
+      },
+      {
+        "id": "P2_T3_CLASS_ACTIVITY_Q003_OPT_B",
+        "text": "오늘 수업은 어렵습니다."
+      },
+      {
+        "id": "P2_T3_CLASS_ACTIVITY_Q003_OPT_C",
+        "text": "학생들은 병원에 갑니다."
+      },
+      {
+        "id": "P2_T3_CLASS_ACTIVITY_Q003_OPT_D",
+        "text": "학생들은 축구를 합니다."
+      }
+    ],
+    "correctOptionId": "P2_T3_CLASS_ACTIVITY_Q003_OPT_A",
+    "correctValue": "학생들은 책을 읽습니다.",
+    "grammarUsed": [
+      "PASSAGE_READING",
+      "CONNECTOR"
+    ],
+    "vocabularyUsed": [
+      "오늘",
+      "수업",
+      "학생",
+      "책",
+      "도서관"
+    ],
+    "explanationVi": "Đoạn nói học sinh đọc sách.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "passageConsistent": true
+    }
+  },
+  {
+    "id": "P2_T3_GIFT_PLAN_Q001",
+    "part": 2,
+    "section": "passage_correct_statement",
+    "poolId": "P2_T3_GIFT_PLAN",
+    "questionType": "choose_correct_statement",
+    "difficulty": "medium",
+    "readingFocus": "gift_plan",
+    "readingText": "이번 주 토요일은 친구 생일입니다. 저는 시계를 샀습니다. 생일 파티는 식당에서 합니다.",
+    "options": [
+      {
+        "id": "P2_T3_GIFT_PLAN_Q001_OPT_A",
+        "text": "생일 파티는 식당에서 합니다."
+      },
+      {
+        "id": "P2_T3_GIFT_PLAN_Q001_OPT_B",
+        "text": "생일 파티는 병원에서 합니다."
+      },
+      {
+        "id": "P2_T3_GIFT_PLAN_Q001_OPT_C",
+        "text": "저는 가방을 샀습니다."
+      },
+      {
+        "id": "P2_T3_GIFT_PLAN_Q001_OPT_D",
+        "text": "파티는 월요일입니다."
+      }
+    ],
+    "correctOptionId": "P2_T3_GIFT_PLAN_Q001_OPT_A",
+    "correctValue": "생일 파티는 식당에서 합니다.",
+    "grammarUsed": [
+      "PASSAGE_READING",
+      "PAST_TENSE"
+    ],
+    "vocabularyUsed": [
+      "토요일",
+      "친구",
+      "생일",
+      "시계",
+      "식당"
+    ],
+    "explanationVi": "Địa điểm tổ chức tiệc sinh nhật là nhà hàng.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "passageConsistent": true
+    }
+  },
+  {
+    "id": "P2_T3_GIFT_PLAN_Q002",
+    "part": 2,
+    "section": "passage_correct_statement",
+    "poolId": "P2_T3_GIFT_PLAN",
+    "questionType": "choose_correct_statement",
+    "difficulty": "medium",
+    "readingFocus": "gift_plan",
+    "readingText": "내일은 어머니 생일입니다. 저는 펜을 준비했습니다. 저녁에 집에서 드립니다.",
+    "options": [
+      {
+        "id": "P2_T3_GIFT_PLAN_Q002_OPT_A",
+        "text": "저는 펜을 준비했습니다."
+      },
+      {
+        "id": "P2_T3_GIFT_PLAN_Q002_OPT_B",
+        "text": "저는 과자를 준비했습니다."
+      },
+      {
+        "id": "P2_T3_GIFT_PLAN_Q002_OPT_C",
+        "text": "생일은 오늘입니다."
+      },
+      {
+        "id": "P2_T3_GIFT_PLAN_Q002_OPT_D",
+        "text": "저녁에 학교에서 드립니다."
+      }
+    ],
+    "correctOptionId": "P2_T3_GIFT_PLAN_Q002_OPT_A",
+    "correctValue": "저는 펜을 준비했습니다.",
+    "grammarUsed": [
+      "PASSAGE_READING",
+      "PAST_TENSE",
+      "TIME_EXPRESSION"
+    ],
+    "vocabularyUsed": [
+      "어머니",
+      "생일",
+      "펜",
+      "저녁",
+      "집"
+    ],
+    "explanationVi": "Món quà được chuẩn bị là bút.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "passageConsistent": true
+    }
+  },
+  {
+    "id": "P2_T3_GIFT_PLAN_Q003",
+    "part": 2,
+    "section": "passage_correct_statement",
+    "poolId": "P2_T3_GIFT_PLAN",
+    "questionType": "choose_correct_statement",
+    "difficulty": "medium",
+    "readingFocus": "gift_plan",
+    "readingText": "민수 씨 생일은 오월 오일입니다. 친구들은 책을 샀습니다. 파티는 오후 6시에 있습니다.",
+    "options": [
+      {
+        "id": "P2_T3_GIFT_PLAN_Q003_OPT_A",
+        "text": "파티는 오후 6시에 있습니다."
+      },
+      {
+        "id": "P2_T3_GIFT_PLAN_Q003_OPT_B",
+        "text": "파티는 오전 6시에 있습니다."
+      },
+      {
+        "id": "P2_T3_GIFT_PLAN_Q003_OPT_C",
+        "text": "친구들은 시계를 샀습니다."
+      },
+      {
+        "id": "P2_T3_GIFT_PLAN_Q003_OPT_D",
+        "text": "생일은 칠월 칠일입니다."
+      }
+    ],
+    "correctOptionId": "P2_T3_GIFT_PLAN_Q003_OPT_A",
+    "correctValue": "파티는 오후 6시에 있습니다.",
+    "grammarUsed": [
+      "PASSAGE_READING",
+      "TIME_EXPRESSION"
+    ],
+    "vocabularyUsed": [
+      "생일",
+      "오월",
+      "친구",
+      "책",
+      "오후",
+      "시"
+    ],
+    "explanationVi": "Thời gian tổ chức tiệc là 6 giờ chiều.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "passageConsistent": true
+    }
+  },
+  {
+    "id": "P2_T3_DAILY_SCHEDULE_Q001",
+    "part": 2,
+    "section": "passage_correct_statement",
+    "poolId": "P2_T3_DAILY_SCHEDULE",
+    "questionType": "choose_correct_statement",
+    "difficulty": "medium",
+    "readingFocus": "daily_schedule",
+    "readingText": "저는 아침 7시에 일어납니다. 8시에 회사에 갑니다. 저녁 6시에 집에 옵니다.",
+    "options": [
+      {
+        "id": "P2_T3_DAILY_SCHEDULE_Q001_OPT_A",
+        "text": "저는 아침 7시에 일어납니다."
+      },
+      {
+        "id": "P2_T3_DAILY_SCHEDULE_Q001_OPT_B",
+        "text": "저는 아침 8시에 일어납니다."
+      },
+      {
+        "id": "P2_T3_DAILY_SCHEDULE_Q001_OPT_C",
+        "text": "저는 병원에 갑니다."
+      },
+      {
+        "id": "P2_T3_DAILY_SCHEDULE_Q001_OPT_D",
+        "text": "저는 저녁 6시에 회사에 갑니다."
+      }
+    ],
+    "correctOptionId": "P2_T3_DAILY_SCHEDULE_Q001_OPT_A",
+    "correctValue": "저는 아침 7시에 일어납니다.",
+    "grammarUsed": [
+      "PASSAGE_READING",
+      "TIME_EXPRESSION"
+    ],
+    "vocabularyUsed": [
+      "아침",
+      "시",
+      "회사",
+      "저녁"
+    ],
+    "explanationVi": "Đoạn ghi thức dậy lúc 7 giờ.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "passageConsistent": true
+    }
+  },
+  {
+    "id": "P2_T3_DAILY_SCHEDULE_Q002",
+    "part": 2,
+    "section": "passage_correct_statement",
+    "poolId": "P2_T3_DAILY_SCHEDULE",
+    "questionType": "choose_correct_statement",
+    "difficulty": "medium",
+    "readingFocus": "daily_schedule",
+    "readingText": "민수 씨는 오전에 출근합니다. 오후에 회의합니다. 밤에는 책을 읽습니다.",
+    "options": [
+      {
+        "id": "P2_T3_DAILY_SCHEDULE_Q002_OPT_A",
+        "text": "민수 씨는 오후에 회의합니다."
+      },
+      {
+        "id": "P2_T3_DAILY_SCHEDULE_Q002_OPT_B",
+        "text": "민수 씨는 밤에 출근합니다."
+      },
+      {
+        "id": "P2_T3_DAILY_SCHEDULE_Q002_OPT_C",
+        "text": "민수 씨는 오전에 책을 읽습니다."
+      },
+      {
+        "id": "P2_T3_DAILY_SCHEDULE_Q002_OPT_D",
+        "text": "민수 씨는 오후에 운동합니다."
+      }
+    ],
+    "correctOptionId": "P2_T3_DAILY_SCHEDULE_Q002_OPT_A",
+    "correctValue": "민수 씨는 오후에 회의합니다.",
+    "grammarUsed": [
+      "PASSAGE_READING",
+      "TIME_EXPRESSION"
+    ],
+    "vocabularyUsed": [
+      "오전",
+      "출근하다",
+      "오후",
+      "회의",
+      "책"
+    ],
+    "explanationVi": "Hoạt động buổi chiều là họp.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "passageConsistent": true
+    }
+  },
+  {
+    "id": "P2_T3_DAILY_SCHEDULE_Q003",
+    "part": 2,
+    "section": "passage_correct_statement",
+    "poolId": "P2_T3_DAILY_SCHEDULE",
+    "questionType": "choose_correct_statement",
+    "difficulty": "medium",
+    "readingFocus": "daily_schedule",
+    "readingText": "저는 점심에 밥을 먹습니다. 오후에는 커피를 마십니다. 저녁에는 방을 청소합니다.",
+    "options": [
+      {
+        "id": "P2_T3_DAILY_SCHEDULE_Q003_OPT_A",
+        "text": "저는 저녁에 방을 청소합니다."
+      },
+      {
+        "id": "P2_T3_DAILY_SCHEDULE_Q003_OPT_B",
+        "text": "저는 아침에 방을 청소합니다."
+      },
+      {
+        "id": "P2_T3_DAILY_SCHEDULE_Q003_OPT_C",
+        "text": "저는 오후에 밥을 먹습니다."
+      },
+      {
+        "id": "P2_T3_DAILY_SCHEDULE_Q003_OPT_D",
+        "text": "저는 저녁에 커피를 마십니다."
+      }
+    ],
+    "correctOptionId": "P2_T3_DAILY_SCHEDULE_Q003_OPT_A",
+    "correctValue": "저는 저녁에 방을 청소합니다.",
+    "grammarUsed": [
+      "PASSAGE_READING",
+      "TIME_EXPRESSION"
+    ],
+    "vocabularyUsed": [
+      "밥",
+      "오후",
+      "저녁",
+      "청소하다"
+    ],
+    "explanationVi": "Hoạt động buổi tối là dọn phòng.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "passageConsistent": true
+    }
+  },
+  {
+    "id": "P2_T3_WEEKEND_ACTIVITY_Q001",
+    "part": 2,
+    "section": "passage_correct_statement",
+    "poolId": "P2_T3_WEEKEND_ACTIVITY",
+    "questionType": "choose_correct_statement",
+    "difficulty": "medium",
+    "readingFocus": "weekend_activity",
+    "readingText": "지난주 주말에 친구하고 등산했습니다. 날씨가 좋았습니다. 저녁에는 김밥을 먹었습니다.",
+    "options": [
+      {
+        "id": "P2_T3_WEEKEND_ACTIVITY_Q001_OPT_A",
+        "text": "지난주 주말에 등산했습니다."
+      },
+      {
+        "id": "P2_T3_WEEKEND_ACTIVITY_Q001_OPT_B",
+        "text": "지난주 주말에 수영했습니다."
+      },
+      {
+        "id": "P2_T3_WEEKEND_ACTIVITY_Q001_OPT_C",
+        "text": "날씨가 나빴습니다."
+      },
+      {
+        "id": "P2_T3_WEEKEND_ACTIVITY_Q001_OPT_D",
+        "text": "아침에 김밥을 먹었습니다."
+      }
+    ],
+    "correctOptionId": "P2_T3_WEEKEND_ACTIVITY_Q001_OPT_A",
+    "correctValue": "지난주 주말에 등산했습니다.",
+    "grammarUsed": [
+      "PASSAGE_READING",
+      "PAST_TENSE"
+    ],
+    "vocabularyUsed": [
+      "지난주",
+      "주말",
+      "친구",
+      "등산하다",
+      "저녁"
+    ],
+    "explanationVi": "Hoạt động cuối tuần là leo núi.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "passageConsistent": true
+    }
+  },
+  {
+    "id": "P2_T3_WEEKEND_ACTIVITY_Q002",
+    "part": 2,
+    "section": "passage_correct_statement",
+    "poolId": "P2_T3_WEEKEND_ACTIVITY",
+    "questionType": "choose_correct_statement",
+    "difficulty": "medium",
+    "readingFocus": "weekend_activity",
+    "readingText": "토요일에 가족하고 바다에 갔습니다. 바다에서 쉬었습니다. 일요일에는 집에 있었습니다.",
+    "options": [
+      {
+        "id": "P2_T3_WEEKEND_ACTIVITY_Q002_OPT_A",
+        "text": "토요일에 바다에 갔습니다."
+      },
+      {
+        "id": "P2_T3_WEEKEND_ACTIVITY_Q002_OPT_B",
+        "text": "일요일에 바다에 갔습니다."
+      },
+      {
+        "id": "P2_T3_WEEKEND_ACTIVITY_Q002_OPT_C",
+        "text": "토요일에 병원에 갔습니다."
+      },
+      {
+        "id": "P2_T3_WEEKEND_ACTIVITY_Q002_OPT_D",
+        "text": "일요일에는 학교에 있었습니다."
+      }
+    ],
+    "correctOptionId": "P2_T3_WEEKEND_ACTIVITY_Q002_OPT_A",
+    "correctValue": "토요일에 바다에 갔습니다.",
+    "grammarUsed": [
+      "PASSAGE_READING",
+      "PAST_TENSE"
+    ],
+    "vocabularyUsed": [
+      "토요일",
+      "가족",
+      "일요일",
+      "집"
+    ],
+    "explanationVi": "Thứ bảy đi biển.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "passageConsistent": true
+    }
+  },
+  {
+    "id": "P2_T3_WEEKEND_ACTIVITY_Q003",
+    "part": 2,
+    "section": "passage_correct_statement",
+    "poolId": "P2_T3_WEEKEND_ACTIVITY",
+    "questionType": "choose_correct_statement",
+    "difficulty": "medium",
+    "readingFocus": "weekend_activity",
+    "readingText": "주말에 저는 공원에서 산책했습니다. 친구는 축구를 했습니다. 우리는 저녁에 만났습니다.",
+    "options": [
+      {
+        "id": "P2_T3_WEEKEND_ACTIVITY_Q003_OPT_A",
+        "text": "저는 공원에서 산책했습니다."
+      },
+      {
+        "id": "P2_T3_WEEKEND_ACTIVITY_Q003_OPT_B",
+        "text": "저는 도서관에서 공부했습니다."
+      },
+      {
+        "id": "P2_T3_WEEKEND_ACTIVITY_Q003_OPT_C",
+        "text": "친구는 배구를 했습니다."
+      },
+      {
+        "id": "P2_T3_WEEKEND_ACTIVITY_Q003_OPT_D",
+        "text": "우리는 아침에 만났습니다."
+      }
+    ],
+    "correctOptionId": "P2_T3_WEEKEND_ACTIVITY_Q003_OPT_A",
+    "correctValue": "저는 공원에서 산책했습니다.",
+    "grammarUsed": [
+      "PASSAGE_READING",
+      "PAST_TENSE",
+      "ACTION_LOCATION"
+    ],
+    "vocabularyUsed": [
+      "주말",
+      "공원",
+      "산책하다",
+      "친구",
+      "축구",
+      "저녁"
+    ],
+    "explanationVi": "Người nói đi dạo ở công viên.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "passageConsistent": true
+    }
+  },
+  {
+    "id": "P2_T3_SHOPPING_FOOD_Q001",
+    "part": 2,
+    "section": "passage_correct_statement",
+    "poolId": "P2_T3_SHOPPING_FOOD",
+    "questionType": "choose_correct_statement",
+    "difficulty": "medium",
+    "readingFocus": "shopping_food",
+    "readingText": "저는 마트에서 과자 두 개와 주스 한 개를 샀습니다. 모두 5,000원입니다.",
+    "options": [
+      {
+        "id": "P2_T3_SHOPPING_FOOD_Q001_OPT_A",
+        "text": "저는 주스 한 개를 샀습니다."
+      },
+      {
+        "id": "P2_T3_SHOPPING_FOOD_Q001_OPT_B",
+        "text": "저는 과자 한 개를 샀습니다."
+      },
+      {
+        "id": "P2_T3_SHOPPING_FOOD_Q001_OPT_C",
+        "text": "모두 3,000원입니다."
+      },
+      {
+        "id": "P2_T3_SHOPPING_FOOD_Q001_OPT_D",
+        "text": "저는 식당에서 샀습니다."
+      }
+    ],
+    "correctOptionId": "P2_T3_SHOPPING_FOOD_Q001_OPT_A",
+    "correctValue": "저는 주스 한 개를 샀습니다.",
+    "grammarUsed": [
+      "PASSAGE_READING",
+      "COUNTER_NUMBER"
+    ],
+    "vocabularyUsed": [
+      "마트",
+      "과자",
+      "주스",
+      "개",
+      "원"
+    ],
+    "explanationVi": "Đoạn văn cho biết người nói mua một chai nước ép.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "passageConsistent": true
+    }
+  },
+  {
+    "id": "P2_T3_SHOPPING_FOOD_Q002",
+    "part": 2,
+    "section": "passage_correct_statement",
+    "poolId": "P2_T3_SHOPPING_FOOD",
+    "questionType": "choose_correct_statement",
+    "difficulty": "medium",
+    "readingFocus": "shopping_food",
+    "readingText": "식당에서 비빔밥을 먹었습니다. 김치찌개도 주문했습니다. 음식이 맛있었습니다.",
+    "options": [
+      {
+        "id": "P2_T3_SHOPPING_FOOD_Q002_OPT_A",
+        "text": "음식이 맛있었습니다."
+      },
+      {
+        "id": "P2_T3_SHOPPING_FOOD_Q002_OPT_B",
+        "text": "음식이 매웠습니다."
+      },
+      {
+        "id": "P2_T3_SHOPPING_FOOD_Q002_OPT_C",
+        "text": "냉면을 주문했습니다."
+      },
+      {
+        "id": "P2_T3_SHOPPING_FOOD_Q002_OPT_D",
+        "text": "집에서 먹었습니다."
+      }
+    ],
+    "correctOptionId": "P2_T3_SHOPPING_FOOD_Q002_OPT_A",
+    "correctValue": "음식이 맛있었습니다.",
+    "grammarUsed": [
+      "PASSAGE_READING",
+      "PAST_TENSE"
+    ],
+    "vocabularyUsed": [
+      "식당",
+      "비빔밥",
+      "김치찌개",
+      "음식",
+      "맛있다"
+    ],
+    "explanationVi": "Đoạn nói món ăn ngon.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "passageConsistent": true
+    }
+  },
+  {
+    "id": "P2_T3_SHOPPING_FOOD_Q003",
+    "part": 2,
+    "section": "passage_correct_statement",
+    "poolId": "P2_T3_SHOPPING_FOOD",
+    "questionType": "choose_correct_statement",
+    "difficulty": "medium",
+    "readingFocus": "shopping_food",
+    "readingText": "저는 소설책 한 권을 샀습니다. 친구는 콜라 두 개를 샀습니다. 모두 만 원입니다.",
+    "options": [
+      {
+        "id": "P2_T3_SHOPPING_FOOD_Q003_OPT_A",
+        "text": "친구는 콜라 두 개를 샀습니다."
+      },
+      {
+        "id": "P2_T3_SHOPPING_FOOD_Q003_OPT_B",
+        "text": "저는 콜라 두 개를 샀습니다."
+      },
+      {
+        "id": "P2_T3_SHOPPING_FOOD_Q003_OPT_C",
+        "text": "친구는 책 한 권을 샀습니다."
+      },
+      {
+        "id": "P2_T3_SHOPPING_FOOD_Q003_OPT_D",
+        "text": "모두 천 원입니다."
+      }
+    ],
+    "correctOptionId": "P2_T3_SHOPPING_FOOD_Q003_OPT_A",
+    "correctValue": "친구는 콜라 두 개를 샀습니다.",
+    "grammarUsed": [
+      "PASSAGE_READING",
+      "COUNTER_NUMBER"
+    ],
+    "vocabularyUsed": [
+      "소설책",
+      "콜라",
+      "개",
+      "원",
+      "친구"
+    ],
+    "explanationVi": "Thông tin đúng là bạn mua hai cola.",
+    "validation": {
+      "grammarInScope": true,
+      "vocabularyInScope": true,
+      "singleCorrectAnswer": true,
+      "reviewed": false,
+      "passageConsistent": true
+    }
+  }
+]

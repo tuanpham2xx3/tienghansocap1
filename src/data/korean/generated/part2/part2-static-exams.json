@@ -1,0 +1,2382 @@
+[
+  {
+    "id": "PART2_EXAM_001",
+    "part": 2,
+    "questionCount": 9,
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part2-v1",
+    "questions": [
+      {
+        "questionId": "P2_T1_TOPIC_DAILY_SCHEDULE_Q003",
+        "poolId": "P2_T1_TOPIC_DAILY_SCHEDULE",
+        "section": "topic_identification",
+        "displayOrder": 1,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_DAILY_SCHEDULE_Q003_OPT_A",
+          "P2_T1_TOPIC_DAILY_SCHEDULE_Q003_OPT_B",
+          "P2_T1_TOPIC_DAILY_SCHEDULE_Q003_OPT_D",
+          "P2_T1_TOPIC_DAILY_SCHEDULE_Q003_OPT_C"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_SHOPPING_Q003",
+        "poolId": "P2_T1_TOPIC_SHOPPING",
+        "section": "topic_identification",
+        "displayOrder": 2,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_SHOPPING_Q003_OPT_B",
+          "P2_T1_TOPIC_SHOPPING_Q003_OPT_C",
+          "P2_T1_TOPIC_SHOPPING_Q003_OPT_D",
+          "P2_T1_TOPIC_SHOPPING_Q003_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_PLACE_Q001",
+        "poolId": "P2_T1_TOPIC_PLACE",
+        "section": "topic_identification",
+        "displayOrder": 3,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_PLACE_Q001_OPT_A",
+          "P2_T1_TOPIC_PLACE_Q001_OPT_C",
+          "P2_T1_TOPIC_PLACE_Q001_OPT_B",
+          "P2_T1_TOPIC_PLACE_Q001_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_HOBBY_Q001",
+        "poolId": "P2_T1_TOPIC_HOBBY",
+        "section": "topic_identification",
+        "displayOrder": 4,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_HOBBY_Q001_OPT_B",
+          "P2_T1_TOPIC_HOBBY_Q001_OPT_D",
+          "P2_T1_TOPIC_HOBBY_Q001_OPT_C",
+          "P2_T1_TOPIC_HOBBY_Q001_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_FOOD_Q001",
+        "poolId": "P2_T1_TOPIC_FOOD",
+        "section": "topic_identification",
+        "displayOrder": 5,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_FOOD_Q001_OPT_A",
+          "P2_T1_TOPIC_FOOD_Q001_OPT_B",
+          "P2_T1_TOPIC_FOOD_Q001_OPT_C",
+          "P2_T1_TOPIC_FOOD_Q001_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T2_RECEIPT_Q003",
+        "poolId": "P2_T2_RECEIPT",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 6,
+        "shuffledOptionIds": [
+          "P2_T2_RECEIPT_Q003_OPT_B",
+          "P2_T2_RECEIPT_Q003_OPT_A",
+          "P2_T2_RECEIPT_Q003_OPT_C",
+          "P2_T2_RECEIPT_Q003_OPT_D"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_RECEIPT_Q003_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T2_CARD_Q001",
+        "poolId": "P2_T2_CARD",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 7,
+        "shuffledOptionIds": [
+          "P2_T2_CARD_Q001_OPT_A",
+          "P2_T2_CARD_Q001_OPT_C",
+          "P2_T2_CARD_Q001_OPT_B",
+          "P2_T2_CARD_Q001_OPT_D"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_CARD_Q001_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T3_SHOPPING_FOOD_Q001",
+        "poolId": "P2_T3_SHOPPING_FOOD",
+        "section": "passage_correct_statement",
+        "displayOrder": 8,
+        "shuffledOptionIds": [
+          "P2_T3_SHOPPING_FOOD_Q001_OPT_A",
+          "P2_T3_SHOPPING_FOOD_Q001_OPT_C",
+          "P2_T3_SHOPPING_FOOD_Q001_OPT_D",
+          "P2_T3_SHOPPING_FOOD_Q001_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T3_DAILY_SCHEDULE_Q001",
+        "poolId": "P2_T3_DAILY_SCHEDULE",
+        "section": "passage_correct_statement",
+        "displayOrder": 9,
+        "shuffledOptionIds": [
+          "P2_T3_DAILY_SCHEDULE_Q001_OPT_C",
+          "P2_T3_DAILY_SCHEDULE_Q001_OPT_D",
+          "P2_T3_DAILY_SCHEDULE_Q001_OPT_B",
+          "P2_T3_DAILY_SCHEDULE_Q001_OPT_A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PART2_EXAM_002",
+    "part": 2,
+    "questionCount": 9,
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part2-v1",
+    "questions": [
+      {
+        "questionId": "P2_T1_TOPIC_TASTE_Q002",
+        "poolId": "P2_T1_TOPIC_TASTE",
+        "section": "topic_identification",
+        "displayOrder": 1,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_TASTE_Q002_OPT_A",
+          "P2_T1_TOPIC_TASTE_Q002_OPT_D",
+          "P2_T1_TOPIC_TASTE_Q002_OPT_C",
+          "P2_T1_TOPIC_TASTE_Q002_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_SCHOOL_Q001",
+        "poolId": "P2_T1_TOPIC_SCHOOL",
+        "section": "topic_identification",
+        "displayOrder": 2,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_SCHOOL_Q001_OPT_A",
+          "P2_T1_TOPIC_SCHOOL_Q001_OPT_C",
+          "P2_T1_TOPIC_SCHOOL_Q001_OPT_B",
+          "P2_T1_TOPIC_SCHOOL_Q001_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_OBJECT_Q001",
+        "poolId": "P2_T1_TOPIC_OBJECT",
+        "section": "topic_identification",
+        "displayOrder": 3,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_OBJECT_Q001_OPT_D",
+          "P2_T1_TOPIC_OBJECT_Q001_OPT_B",
+          "P2_T1_TOPIC_OBJECT_Q001_OPT_C",
+          "P2_T1_TOPIC_OBJECT_Q001_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DATE_DAY_Q001",
+        "poolId": "P2_T1_TOPIC_DATE_DAY",
+        "section": "topic_identification",
+        "displayOrder": 4,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_DATE_DAY_Q001_OPT_C",
+          "P2_T1_TOPIC_DATE_DAY_Q001_OPT_D",
+          "P2_T1_TOPIC_DATE_DAY_Q001_OPT_B",
+          "P2_T1_TOPIC_DATE_DAY_Q001_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_TIME_Q001",
+        "poolId": "P2_T1_TOPIC_TIME",
+        "section": "topic_identification",
+        "displayOrder": 5,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_TIME_Q001_OPT_D",
+          "P2_T1_TOPIC_TIME_Q001_OPT_B",
+          "P2_T1_TOPIC_TIME_Q001_OPT_C",
+          "P2_T1_TOPIC_TIME_Q001_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T2_NOTICE_Q002",
+        "poolId": "P2_T2_NOTICE",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 6,
+        "shuffledOptionIds": [
+          "P2_T2_NOTICE_Q002_OPT_A",
+          "P2_T2_NOTICE_Q002_OPT_D",
+          "P2_T2_NOTICE_Q002_OPT_C",
+          "P2_T2_NOTICE_Q002_OPT_B"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_NOTICE_Q002_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T2_MENU_Q003",
+        "poolId": "P2_T2_MENU",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 7,
+        "shuffledOptionIds": [
+          "P2_T2_MENU_Q003_OPT_C",
+          "P2_T2_MENU_Q003_OPT_B",
+          "P2_T2_MENU_Q003_OPT_D",
+          "P2_T2_MENU_Q003_OPT_A"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_MENU_Q003_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T3_GIFT_PLAN_Q001",
+        "poolId": "P2_T3_GIFT_PLAN",
+        "section": "passage_correct_statement",
+        "displayOrder": 8,
+        "shuffledOptionIds": [
+          "P2_T3_GIFT_PLAN_Q001_OPT_D",
+          "P2_T3_GIFT_PLAN_Q001_OPT_A",
+          "P2_T3_GIFT_PLAN_Q001_OPT_B",
+          "P2_T3_GIFT_PLAN_Q001_OPT_C"
+        ]
+      },
+      {
+        "questionId": "P2_T3_CLASS_ACTIVITY_Q002",
+        "poolId": "P2_T3_CLASS_ACTIVITY",
+        "section": "passage_correct_statement",
+        "displayOrder": 9,
+        "shuffledOptionIds": [
+          "P2_T3_CLASS_ACTIVITY_Q002_OPT_A",
+          "P2_T3_CLASS_ACTIVITY_Q002_OPT_B",
+          "P2_T3_CLASS_ACTIVITY_Q002_OPT_C",
+          "P2_T3_CLASS_ACTIVITY_Q002_OPT_D"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PART2_EXAM_003",
+    "part": 2,
+    "questionCount": 9,
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part2-v1",
+    "questions": [
+      {
+        "questionId": "P2_T1_TOPIC_WEEKEND_Q003",
+        "poolId": "P2_T1_TOPIC_WEEKEND",
+        "section": "topic_identification",
+        "displayOrder": 1,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_WEEKEND_Q003_OPT_C",
+          "P2_T1_TOPIC_WEEKEND_Q003_OPT_D",
+          "P2_T1_TOPIC_WEEKEND_Q003_OPT_B",
+          "P2_T1_TOPIC_WEEKEND_Q003_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_TASTE_Q001",
+        "poolId": "P2_T1_TOPIC_TASTE",
+        "section": "topic_identification",
+        "displayOrder": 2,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_TASTE_Q001_OPT_A",
+          "P2_T1_TOPIC_TASTE_Q001_OPT_D",
+          "P2_T1_TOPIC_TASTE_Q001_OPT_C",
+          "P2_T1_TOPIC_TASTE_Q001_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_JOB_Q002",
+        "poolId": "P2_T1_TOPIC_JOB",
+        "section": "topic_identification",
+        "displayOrder": 3,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_JOB_Q002_OPT_A",
+          "P2_T1_TOPIC_JOB_Q002_OPT_C",
+          "P2_T1_TOPIC_JOB_Q002_OPT_D",
+          "P2_T1_TOPIC_JOB_Q002_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DAILY_LIFE_Q003",
+        "poolId": "P2_T1_TOPIC_DAILY_LIFE",
+        "section": "topic_identification",
+        "displayOrder": 4,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_DAILY_LIFE_Q003_OPT_D",
+          "P2_T1_TOPIC_DAILY_LIFE_Q003_OPT_B",
+          "P2_T1_TOPIC_DAILY_LIFE_Q003_OPT_C",
+          "P2_T1_TOPIC_DAILY_LIFE_Q003_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_NATIONALITY_Q003",
+        "poolId": "P2_T1_TOPIC_NATIONALITY",
+        "section": "topic_identification",
+        "displayOrder": 5,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_NATIONALITY_Q003_OPT_B",
+          "P2_T1_TOPIC_NATIONALITY_Q003_OPT_A",
+          "P2_T1_TOPIC_NATIONALITY_Q003_OPT_D",
+          "P2_T1_TOPIC_NATIONALITY_Q003_OPT_C"
+        ]
+      },
+      {
+        "questionId": "P2_T2_SCHEDULE_Q002",
+        "poolId": "P2_T2_SCHEDULE",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 6,
+        "shuffledOptionIds": [
+          "P2_T2_SCHEDULE_Q002_OPT_A",
+          "P2_T2_SCHEDULE_Q002_OPT_D",
+          "P2_T2_SCHEDULE_Q002_OPT_B",
+          "P2_T2_SCHEDULE_Q002_OPT_C"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_SCHEDULE_Q002_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T2_RECEIPT_Q001",
+        "poolId": "P2_T2_RECEIPT",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 7,
+        "shuffledOptionIds": [
+          "P2_T2_RECEIPT_Q001_OPT_B",
+          "P2_T2_RECEIPT_Q001_OPT_D",
+          "P2_T2_RECEIPT_Q001_OPT_C",
+          "P2_T2_RECEIPT_Q001_OPT_A"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_RECEIPT_Q001_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T3_WEEKEND_ACTIVITY_Q002",
+        "poolId": "P2_T3_WEEKEND_ACTIVITY",
+        "section": "passage_correct_statement",
+        "displayOrder": 8,
+        "shuffledOptionIds": [
+          "P2_T3_WEEKEND_ACTIVITY_Q002_OPT_D",
+          "P2_T3_WEEKEND_ACTIVITY_Q002_OPT_B",
+          "P2_T3_WEEKEND_ACTIVITY_Q002_OPT_A",
+          "P2_T3_WEEKEND_ACTIVITY_Q002_OPT_C"
+        ]
+      },
+      {
+        "questionId": "P2_T3_PROFILE_LANGUAGE_Q003",
+        "poolId": "P2_T3_PROFILE_LANGUAGE",
+        "section": "passage_correct_statement",
+        "displayOrder": 9,
+        "shuffledOptionIds": [
+          "P2_T3_PROFILE_LANGUAGE_Q003_OPT_C",
+          "P2_T3_PROFILE_LANGUAGE_Q003_OPT_B",
+          "P2_T3_PROFILE_LANGUAGE_Q003_OPT_D",
+          "P2_T3_PROFILE_LANGUAGE_Q003_OPT_A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PART2_EXAM_004",
+    "part": 2,
+    "questionCount": 9,
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part2-v1",
+    "questions": [
+      {
+        "questionId": "P2_T1_TOPIC_TIME_Q003",
+        "poolId": "P2_T1_TOPIC_TIME",
+        "section": "topic_identification",
+        "displayOrder": 1,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_TIME_Q003_OPT_C",
+          "P2_T1_TOPIC_TIME_Q003_OPT_D",
+          "P2_T1_TOPIC_TIME_Q003_OPT_A",
+          "P2_T1_TOPIC_TIME_Q003_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DAILY_SCHEDULE_Q002",
+        "poolId": "P2_T1_TOPIC_DAILY_SCHEDULE",
+        "section": "topic_identification",
+        "displayOrder": 2,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_DAILY_SCHEDULE_Q002_OPT_A",
+          "P2_T1_TOPIC_DAILY_SCHEDULE_Q002_OPT_B",
+          "P2_T1_TOPIC_DAILY_SCHEDULE_Q002_OPT_C",
+          "P2_T1_TOPIC_DAILY_SCHEDULE_Q002_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_WEEKEND_Q002",
+        "poolId": "P2_T1_TOPIC_WEEKEND",
+        "section": "topic_identification",
+        "displayOrder": 3,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_WEEKEND_Q002_OPT_C",
+          "P2_T1_TOPIC_WEEKEND_Q002_OPT_D",
+          "P2_T1_TOPIC_WEEKEND_Q002_OPT_A",
+          "P2_T1_TOPIC_WEEKEND_Q002_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_HOBBY_Q003",
+        "poolId": "P2_T1_TOPIC_HOBBY",
+        "section": "topic_identification",
+        "displayOrder": 4,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_HOBBY_Q003_OPT_A",
+          "P2_T1_TOPIC_HOBBY_Q003_OPT_C",
+          "P2_T1_TOPIC_HOBBY_Q003_OPT_B",
+          "P2_T1_TOPIC_HOBBY_Q003_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_JOB_Q003",
+        "poolId": "P2_T1_TOPIC_JOB",
+        "section": "topic_identification",
+        "displayOrder": 5,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_JOB_Q003_OPT_D",
+          "P2_T1_TOPIC_JOB_Q003_OPT_B",
+          "P2_T1_TOPIC_JOB_Q003_OPT_A",
+          "P2_T1_TOPIC_JOB_Q003_OPT_C"
+        ]
+      },
+      {
+        "questionId": "P2_T2_CARD_Q003",
+        "poolId": "P2_T2_CARD",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 6,
+        "shuffledOptionIds": [
+          "P2_T2_CARD_Q003_OPT_A",
+          "P2_T2_CARD_Q003_OPT_D",
+          "P2_T2_CARD_Q003_OPT_C",
+          "P2_T2_CARD_Q003_OPT_B"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_CARD_Q003_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T2_SCHEDULE_Q001",
+        "poolId": "P2_T2_SCHEDULE",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 7,
+        "shuffledOptionIds": [
+          "P2_T2_SCHEDULE_Q001_OPT_C",
+          "P2_T2_SCHEDULE_Q001_OPT_D",
+          "P2_T2_SCHEDULE_Q001_OPT_B",
+          "P2_T2_SCHEDULE_Q001_OPT_A"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_SCHEDULE_Q001_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T3_GIFT_PLAN_Q002",
+        "poolId": "P2_T3_GIFT_PLAN",
+        "section": "passage_correct_statement",
+        "displayOrder": 8,
+        "shuffledOptionIds": [
+          "P2_T3_GIFT_PLAN_Q002_OPT_A",
+          "P2_T3_GIFT_PLAN_Q002_OPT_C",
+          "P2_T3_GIFT_PLAN_Q002_OPT_B",
+          "P2_T3_GIFT_PLAN_Q002_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T3_PROFILE_LANGUAGE_Q001",
+        "poolId": "P2_T3_PROFILE_LANGUAGE",
+        "section": "passage_correct_statement",
+        "displayOrder": 9,
+        "shuffledOptionIds": [
+          "P2_T3_PROFILE_LANGUAGE_Q001_OPT_D",
+          "P2_T3_PROFILE_LANGUAGE_Q001_OPT_C",
+          "P2_T3_PROFILE_LANGUAGE_Q001_OPT_A",
+          "P2_T3_PROFILE_LANGUAGE_Q001_OPT_B"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PART2_EXAM_005",
+    "part": 2,
+    "questionCount": 9,
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part2-v1",
+    "questions": [
+      {
+        "questionId": "P2_T1_TOPIC_DAILY_LIFE_Q001",
+        "poolId": "P2_T1_TOPIC_DAILY_LIFE",
+        "section": "topic_identification",
+        "displayOrder": 1,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_DAILY_LIFE_Q001_OPT_D",
+          "P2_T1_TOPIC_DAILY_LIFE_Q001_OPT_C",
+          "P2_T1_TOPIC_DAILY_LIFE_Q001_OPT_B",
+          "P2_T1_TOPIC_DAILY_LIFE_Q001_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DATE_DAY_Q002",
+        "poolId": "P2_T1_TOPIC_DATE_DAY",
+        "section": "topic_identification",
+        "displayOrder": 2,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_DATE_DAY_Q002_OPT_D",
+          "P2_T1_TOPIC_DATE_DAY_Q002_OPT_B",
+          "P2_T1_TOPIC_DATE_DAY_Q002_OPT_A",
+          "P2_T1_TOPIC_DATE_DAY_Q002_OPT_C"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_OBJECT_Q002",
+        "poolId": "P2_T1_TOPIC_OBJECT",
+        "section": "topic_identification",
+        "displayOrder": 3,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_OBJECT_Q002_OPT_D",
+          "P2_T1_TOPIC_OBJECT_Q002_OPT_A",
+          "P2_T1_TOPIC_OBJECT_Q002_OPT_B",
+          "P2_T1_TOPIC_OBJECT_Q002_OPT_C"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_NATIONALITY_Q002",
+        "poolId": "P2_T1_TOPIC_NATIONALITY",
+        "section": "topic_identification",
+        "displayOrder": 4,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_NATIONALITY_Q002_OPT_C",
+          "P2_T1_TOPIC_NATIONALITY_Q002_OPT_A",
+          "P2_T1_TOPIC_NATIONALITY_Q002_OPT_D",
+          "P2_T1_TOPIC_NATIONALITY_Q002_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_FOOD_Q002",
+        "poolId": "P2_T1_TOPIC_FOOD",
+        "section": "topic_identification",
+        "displayOrder": 5,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_FOOD_Q002_OPT_B",
+          "P2_T1_TOPIC_FOOD_Q002_OPT_A",
+          "P2_T1_TOPIC_FOOD_Q002_OPT_C",
+          "P2_T1_TOPIC_FOOD_Q002_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T2_MENU_Q002",
+        "poolId": "P2_T2_MENU",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 6,
+        "shuffledOptionIds": [
+          "P2_T2_MENU_Q002_OPT_C",
+          "P2_T2_MENU_Q002_OPT_B",
+          "P2_T2_MENU_Q002_OPT_A",
+          "P2_T2_MENU_Q002_OPT_D"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_MENU_Q002_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T2_NOTICE_Q001",
+        "poolId": "P2_T2_NOTICE",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 7,
+        "shuffledOptionIds": [
+          "P2_T2_NOTICE_Q001_OPT_A",
+          "P2_T2_NOTICE_Q001_OPT_C",
+          "P2_T2_NOTICE_Q001_OPT_D",
+          "P2_T2_NOTICE_Q001_OPT_B"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_NOTICE_Q001_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T3_WEEKEND_ACTIVITY_Q003",
+        "poolId": "P2_T3_WEEKEND_ACTIVITY",
+        "section": "passage_correct_statement",
+        "displayOrder": 8,
+        "shuffledOptionIds": [
+          "P2_T3_WEEKEND_ACTIVITY_Q003_OPT_D",
+          "P2_T3_WEEKEND_ACTIVITY_Q003_OPT_A",
+          "P2_T3_WEEKEND_ACTIVITY_Q003_OPT_C",
+          "P2_T3_WEEKEND_ACTIVITY_Q003_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T3_DAILY_SCHEDULE_Q002",
+        "poolId": "P2_T3_DAILY_SCHEDULE",
+        "section": "passage_correct_statement",
+        "displayOrder": 9,
+        "shuffledOptionIds": [
+          "P2_T3_DAILY_SCHEDULE_Q002_OPT_D",
+          "P2_T3_DAILY_SCHEDULE_Q002_OPT_A",
+          "P2_T3_DAILY_SCHEDULE_Q002_OPT_B",
+          "P2_T3_DAILY_SCHEDULE_Q002_OPT_C"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PART2_EXAM_006",
+    "part": 2,
+    "questionCount": 9,
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part2-v1",
+    "questions": [
+      {
+        "questionId": "P2_T1_TOPIC_FOOD_Q003",
+        "poolId": "P2_T1_TOPIC_FOOD",
+        "section": "topic_identification",
+        "displayOrder": 1,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_FOOD_Q003_OPT_B",
+          "P2_T1_TOPIC_FOOD_Q003_OPT_D",
+          "P2_T1_TOPIC_FOOD_Q003_OPT_C",
+          "P2_T1_TOPIC_FOOD_Q003_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_TIME_Q002",
+        "poolId": "P2_T1_TOPIC_TIME",
+        "section": "topic_identification",
+        "displayOrder": 2,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_TIME_Q002_OPT_A",
+          "P2_T1_TOPIC_TIME_Q002_OPT_C",
+          "P2_T1_TOPIC_TIME_Q002_OPT_B",
+          "P2_T1_TOPIC_TIME_Q002_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_PLACE_Q003",
+        "poolId": "P2_T1_TOPIC_PLACE",
+        "section": "topic_identification",
+        "displayOrder": 3,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_PLACE_Q003_OPT_D",
+          "P2_T1_TOPIC_PLACE_Q003_OPT_B",
+          "P2_T1_TOPIC_PLACE_Q003_OPT_A",
+          "P2_T1_TOPIC_PLACE_Q003_OPT_C"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_SCHOOL_Q003",
+        "poolId": "P2_T1_TOPIC_SCHOOL",
+        "section": "topic_identification",
+        "displayOrder": 4,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_SCHOOL_Q003_OPT_D",
+          "P2_T1_TOPIC_SCHOOL_Q003_OPT_B",
+          "P2_T1_TOPIC_SCHOOL_Q003_OPT_A",
+          "P2_T1_TOPIC_SCHOOL_Q003_OPT_C"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_SHOPPING_Q002",
+        "poolId": "P2_T1_TOPIC_SHOPPING",
+        "section": "topic_identification",
+        "displayOrder": 5,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_SHOPPING_Q002_OPT_C",
+          "P2_T1_TOPIC_SHOPPING_Q002_OPT_A",
+          "P2_T1_TOPIC_SHOPPING_Q002_OPT_D",
+          "P2_T1_TOPIC_SHOPPING_Q002_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T2_CARD_Q002",
+        "poolId": "P2_T2_CARD",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 6,
+        "shuffledOptionIds": [
+          "P2_T2_CARD_Q002_OPT_B",
+          "P2_T2_CARD_Q002_OPT_A",
+          "P2_T2_CARD_Q002_OPT_C",
+          "P2_T2_CARD_Q002_OPT_D"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_CARD_Q002_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T2_RECEIPT_Q002",
+        "poolId": "P2_T2_RECEIPT",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 7,
+        "shuffledOptionIds": [
+          "P2_T2_RECEIPT_Q002_OPT_C",
+          "P2_T2_RECEIPT_Q002_OPT_D",
+          "P2_T2_RECEIPT_Q002_OPT_B",
+          "P2_T2_RECEIPT_Q002_OPT_A"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_RECEIPT_Q002_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T3_SHOPPING_FOOD_Q003",
+        "poolId": "P2_T3_SHOPPING_FOOD",
+        "section": "passage_correct_statement",
+        "displayOrder": 8,
+        "shuffledOptionIds": [
+          "P2_T3_SHOPPING_FOOD_Q003_OPT_A",
+          "P2_T3_SHOPPING_FOOD_Q003_OPT_C",
+          "P2_T3_SHOPPING_FOOD_Q003_OPT_D",
+          "P2_T3_SHOPPING_FOOD_Q003_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T3_CLASS_ACTIVITY_Q001",
+        "poolId": "P2_T3_CLASS_ACTIVITY",
+        "section": "passage_correct_statement",
+        "displayOrder": 9,
+        "shuffledOptionIds": [
+          "P2_T3_CLASS_ACTIVITY_Q001_OPT_C",
+          "P2_T3_CLASS_ACTIVITY_Q001_OPT_B",
+          "P2_T3_CLASS_ACTIVITY_Q001_OPT_D",
+          "P2_T3_CLASS_ACTIVITY_Q001_OPT_A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PART2_EXAM_007",
+    "part": 2,
+    "questionCount": 9,
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part2-v1",
+    "questions": [
+      {
+        "questionId": "P2_T1_TOPIC_PLACE_Q002",
+        "poolId": "P2_T1_TOPIC_PLACE",
+        "section": "topic_identification",
+        "displayOrder": 1,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_PLACE_Q002_OPT_D",
+          "P2_T1_TOPIC_PLACE_Q002_OPT_A",
+          "P2_T1_TOPIC_PLACE_Q002_OPT_C",
+          "P2_T1_TOPIC_PLACE_Q002_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_SCHOOL_Q002",
+        "poolId": "P2_T1_TOPIC_SCHOOL",
+        "section": "topic_identification",
+        "displayOrder": 2,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_SCHOOL_Q002_OPT_A",
+          "P2_T1_TOPIC_SCHOOL_Q002_OPT_C",
+          "P2_T1_TOPIC_SCHOOL_Q002_OPT_D",
+          "P2_T1_TOPIC_SCHOOL_Q002_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_SHOPPING_Q001",
+        "poolId": "P2_T1_TOPIC_SHOPPING",
+        "section": "topic_identification",
+        "displayOrder": 3,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_SHOPPING_Q001_OPT_A",
+          "P2_T1_TOPIC_SHOPPING_Q001_OPT_B",
+          "P2_T1_TOPIC_SHOPPING_Q001_OPT_C",
+          "P2_T1_TOPIC_SHOPPING_Q001_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_WEEKEND_Q001",
+        "poolId": "P2_T1_TOPIC_WEEKEND",
+        "section": "topic_identification",
+        "displayOrder": 4,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_WEEKEND_Q001_OPT_A",
+          "P2_T1_TOPIC_WEEKEND_Q001_OPT_C",
+          "P2_T1_TOPIC_WEEKEND_Q001_OPT_B",
+          "P2_T1_TOPIC_WEEKEND_Q001_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DAILY_LIFE_Q002",
+        "poolId": "P2_T1_TOPIC_DAILY_LIFE",
+        "section": "topic_identification",
+        "displayOrder": 5,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_DAILY_LIFE_Q002_OPT_A",
+          "P2_T1_TOPIC_DAILY_LIFE_Q002_OPT_C",
+          "P2_T1_TOPIC_DAILY_LIFE_Q002_OPT_D",
+          "P2_T1_TOPIC_DAILY_LIFE_Q002_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T2_MENU_Q001",
+        "poolId": "P2_T2_MENU",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 6,
+        "shuffledOptionIds": [
+          "P2_T2_MENU_Q001_OPT_D",
+          "P2_T2_MENU_Q001_OPT_C",
+          "P2_T2_MENU_Q001_OPT_B",
+          "P2_T2_MENU_Q001_OPT_A"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_MENU_Q001_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T2_SCHEDULE_Q003",
+        "poolId": "P2_T2_SCHEDULE",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 7,
+        "shuffledOptionIds": [
+          "P2_T2_SCHEDULE_Q003_OPT_B",
+          "P2_T2_SCHEDULE_Q003_OPT_A",
+          "P2_T2_SCHEDULE_Q003_OPT_D",
+          "P2_T2_SCHEDULE_Q003_OPT_C"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_SCHEDULE_Q003_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T3_PROFILE_LANGUAGE_Q002",
+        "poolId": "P2_T3_PROFILE_LANGUAGE",
+        "section": "passage_correct_statement",
+        "displayOrder": 8,
+        "shuffledOptionIds": [
+          "P2_T3_PROFILE_LANGUAGE_Q002_OPT_A",
+          "P2_T3_PROFILE_LANGUAGE_Q002_OPT_B",
+          "P2_T3_PROFILE_LANGUAGE_Q002_OPT_C",
+          "P2_T3_PROFILE_LANGUAGE_Q002_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T3_DAILY_SCHEDULE_Q003",
+        "poolId": "P2_T3_DAILY_SCHEDULE",
+        "section": "passage_correct_statement",
+        "displayOrder": 9,
+        "shuffledOptionIds": [
+          "P2_T3_DAILY_SCHEDULE_Q003_OPT_A",
+          "P2_T3_DAILY_SCHEDULE_Q003_OPT_C",
+          "P2_T3_DAILY_SCHEDULE_Q003_OPT_B",
+          "P2_T3_DAILY_SCHEDULE_Q003_OPT_D"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PART2_EXAM_008",
+    "part": 2,
+    "questionCount": 9,
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part2-v1",
+    "questions": [
+      {
+        "questionId": "P2_T1_TOPIC_HOBBY_Q002",
+        "poolId": "P2_T1_TOPIC_HOBBY",
+        "section": "topic_identification",
+        "displayOrder": 1,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_HOBBY_Q002_OPT_D",
+          "P2_T1_TOPIC_HOBBY_Q002_OPT_B",
+          "P2_T1_TOPIC_HOBBY_Q002_OPT_A",
+          "P2_T1_TOPIC_HOBBY_Q002_OPT_C"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_TASTE_Q003",
+        "poolId": "P2_T1_TOPIC_TASTE",
+        "section": "topic_identification",
+        "displayOrder": 2,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_TASTE_Q003_OPT_A",
+          "P2_T1_TOPIC_TASTE_Q003_OPT_B",
+          "P2_T1_TOPIC_TASTE_Q003_OPT_C",
+          "P2_T1_TOPIC_TASTE_Q003_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DATE_DAY_Q003",
+        "poolId": "P2_T1_TOPIC_DATE_DAY",
+        "section": "topic_identification",
+        "displayOrder": 3,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_DATE_DAY_Q003_OPT_B",
+          "P2_T1_TOPIC_DATE_DAY_Q003_OPT_A",
+          "P2_T1_TOPIC_DATE_DAY_Q003_OPT_C",
+          "P2_T1_TOPIC_DATE_DAY_Q003_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_JOB_Q001",
+        "poolId": "P2_T1_TOPIC_JOB",
+        "section": "topic_identification",
+        "displayOrder": 4,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_JOB_Q001_OPT_B",
+          "P2_T1_TOPIC_JOB_Q001_OPT_D",
+          "P2_T1_TOPIC_JOB_Q001_OPT_A",
+          "P2_T1_TOPIC_JOB_Q001_OPT_C"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DAILY_SCHEDULE_Q001",
+        "poolId": "P2_T1_TOPIC_DAILY_SCHEDULE",
+        "section": "topic_identification",
+        "displayOrder": 5,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_DAILY_SCHEDULE_Q001_OPT_B",
+          "P2_T1_TOPIC_DAILY_SCHEDULE_Q001_OPT_D",
+          "P2_T1_TOPIC_DAILY_SCHEDULE_Q001_OPT_A",
+          "P2_T1_TOPIC_DAILY_SCHEDULE_Q001_OPT_C"
+        ]
+      },
+      {
+        "questionId": "P2_T2_RECEIPT_Q003",
+        "poolId": "P2_T2_RECEIPT",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 6,
+        "shuffledOptionIds": [
+          "P2_T2_RECEIPT_Q003_OPT_A",
+          "P2_T2_RECEIPT_Q003_OPT_C",
+          "P2_T2_RECEIPT_Q003_OPT_B",
+          "P2_T2_RECEIPT_Q003_OPT_D"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_RECEIPT_Q003_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T2_NOTICE_Q003",
+        "poolId": "P2_T2_NOTICE",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 7,
+        "shuffledOptionIds": [
+          "P2_T2_NOTICE_Q003_OPT_D",
+          "P2_T2_NOTICE_Q003_OPT_C",
+          "P2_T2_NOTICE_Q003_OPT_A",
+          "P2_T2_NOTICE_Q003_OPT_B"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_NOTICE_Q003_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T3_CLASS_ACTIVITY_Q003",
+        "poolId": "P2_T3_CLASS_ACTIVITY",
+        "section": "passage_correct_statement",
+        "displayOrder": 8,
+        "shuffledOptionIds": [
+          "P2_T3_CLASS_ACTIVITY_Q003_OPT_D",
+          "P2_T3_CLASS_ACTIVITY_Q003_OPT_B",
+          "P2_T3_CLASS_ACTIVITY_Q003_OPT_A",
+          "P2_T3_CLASS_ACTIVITY_Q003_OPT_C"
+        ]
+      },
+      {
+        "questionId": "P2_T3_SHOPPING_FOOD_Q002",
+        "poolId": "P2_T3_SHOPPING_FOOD",
+        "section": "passage_correct_statement",
+        "displayOrder": 9,
+        "shuffledOptionIds": [
+          "P2_T3_SHOPPING_FOOD_Q002_OPT_A",
+          "P2_T3_SHOPPING_FOOD_Q002_OPT_C",
+          "P2_T3_SHOPPING_FOOD_Q002_OPT_D",
+          "P2_T3_SHOPPING_FOOD_Q002_OPT_B"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PART2_EXAM_009",
+    "part": 2,
+    "questionCount": 9,
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part2-v1",
+    "questions": [
+      {
+        "questionId": "P2_T1_TOPIC_PLACE_Q001",
+        "poolId": "P2_T1_TOPIC_PLACE",
+        "section": "topic_identification",
+        "displayOrder": 1,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_PLACE_Q001_OPT_B",
+          "P2_T1_TOPIC_PLACE_Q001_OPT_A",
+          "P2_T1_TOPIC_PLACE_Q001_OPT_C",
+          "P2_T1_TOPIC_PLACE_Q001_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_OBJECT_Q003",
+        "poolId": "P2_T1_TOPIC_OBJECT",
+        "section": "topic_identification",
+        "displayOrder": 2,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_OBJECT_Q003_OPT_A",
+          "P2_T1_TOPIC_OBJECT_Q003_OPT_D",
+          "P2_T1_TOPIC_OBJECT_Q003_OPT_C",
+          "P2_T1_TOPIC_OBJECT_Q003_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DAILY_LIFE_Q001",
+        "poolId": "P2_T1_TOPIC_DAILY_LIFE",
+        "section": "topic_identification",
+        "displayOrder": 3,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_DAILY_LIFE_Q001_OPT_D",
+          "P2_T1_TOPIC_DAILY_LIFE_Q001_OPT_A",
+          "P2_T1_TOPIC_DAILY_LIFE_Q001_OPT_B",
+          "P2_T1_TOPIC_DAILY_LIFE_Q001_OPT_C"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_TIME_Q002",
+        "poolId": "P2_T1_TOPIC_TIME",
+        "section": "topic_identification",
+        "displayOrder": 4,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_TIME_Q002_OPT_B",
+          "P2_T1_TOPIC_TIME_Q002_OPT_C",
+          "P2_T1_TOPIC_TIME_Q002_OPT_D",
+          "P2_T1_TOPIC_TIME_Q002_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_NATIONALITY_Q001",
+        "poolId": "P2_T1_TOPIC_NATIONALITY",
+        "section": "topic_identification",
+        "displayOrder": 5,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_NATIONALITY_Q001_OPT_C",
+          "P2_T1_TOPIC_NATIONALITY_Q001_OPT_A",
+          "P2_T1_TOPIC_NATIONALITY_Q001_OPT_D",
+          "P2_T1_TOPIC_NATIONALITY_Q001_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T2_SCHEDULE_Q003",
+        "poolId": "P2_T2_SCHEDULE",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 6,
+        "shuffledOptionIds": [
+          "P2_T2_SCHEDULE_Q003_OPT_A",
+          "P2_T2_SCHEDULE_Q003_OPT_B",
+          "P2_T2_SCHEDULE_Q003_OPT_C",
+          "P2_T2_SCHEDULE_Q003_OPT_D"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_SCHEDULE_Q003_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T2_CARD_Q003",
+        "poolId": "P2_T2_CARD",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 7,
+        "shuffledOptionIds": [
+          "P2_T2_CARD_Q003_OPT_C",
+          "P2_T2_CARD_Q003_OPT_D",
+          "P2_T2_CARD_Q003_OPT_B",
+          "P2_T2_CARD_Q003_OPT_A"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_CARD_Q003_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T3_GIFT_PLAN_Q003",
+        "poolId": "P2_T3_GIFT_PLAN",
+        "section": "passage_correct_statement",
+        "displayOrder": 8,
+        "shuffledOptionIds": [
+          "P2_T3_GIFT_PLAN_Q003_OPT_B",
+          "P2_T3_GIFT_PLAN_Q003_OPT_D",
+          "P2_T3_GIFT_PLAN_Q003_OPT_A",
+          "P2_T3_GIFT_PLAN_Q003_OPT_C"
+        ]
+      },
+      {
+        "questionId": "P2_T3_WEEKEND_ACTIVITY_Q001",
+        "poolId": "P2_T3_WEEKEND_ACTIVITY",
+        "section": "passage_correct_statement",
+        "displayOrder": 9,
+        "shuffledOptionIds": [
+          "P2_T3_WEEKEND_ACTIVITY_Q001_OPT_B",
+          "P2_T3_WEEKEND_ACTIVITY_Q001_OPT_C",
+          "P2_T3_WEEKEND_ACTIVITY_Q001_OPT_A",
+          "P2_T3_WEEKEND_ACTIVITY_Q001_OPT_D"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PART2_EXAM_010",
+    "part": 2,
+    "questionCount": 9,
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part2-v1",
+    "questions": [
+      {
+        "questionId": "P2_T1_TOPIC_DAILY_SCHEDULE_Q003",
+        "poolId": "P2_T1_TOPIC_DAILY_SCHEDULE",
+        "section": "topic_identification",
+        "displayOrder": 1,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_DAILY_SCHEDULE_Q003_OPT_B",
+          "P2_T1_TOPIC_DAILY_SCHEDULE_Q003_OPT_A",
+          "P2_T1_TOPIC_DAILY_SCHEDULE_Q003_OPT_D",
+          "P2_T1_TOPIC_DAILY_SCHEDULE_Q003_OPT_C"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_WEEKEND_Q003",
+        "poolId": "P2_T1_TOPIC_WEEKEND",
+        "section": "topic_identification",
+        "displayOrder": 2,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_WEEKEND_Q003_OPT_D",
+          "P2_T1_TOPIC_WEEKEND_Q003_OPT_B",
+          "P2_T1_TOPIC_WEEKEND_Q003_OPT_A",
+          "P2_T1_TOPIC_WEEKEND_Q003_OPT_C"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_HOBBY_Q002",
+        "poolId": "P2_T1_TOPIC_HOBBY",
+        "section": "topic_identification",
+        "displayOrder": 3,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_HOBBY_Q002_OPT_C",
+          "P2_T1_TOPIC_HOBBY_Q002_OPT_B",
+          "P2_T1_TOPIC_HOBBY_Q002_OPT_D",
+          "P2_T1_TOPIC_HOBBY_Q002_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_JOB_Q002",
+        "poolId": "P2_T1_TOPIC_JOB",
+        "section": "topic_identification",
+        "displayOrder": 4,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_JOB_Q002_OPT_A",
+          "P2_T1_TOPIC_JOB_Q002_OPT_D",
+          "P2_T1_TOPIC_JOB_Q002_OPT_C",
+          "P2_T1_TOPIC_JOB_Q002_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_OBJECT_Q003",
+        "poolId": "P2_T1_TOPIC_OBJECT",
+        "section": "topic_identification",
+        "displayOrder": 5,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_OBJECT_Q003_OPT_A",
+          "P2_T1_TOPIC_OBJECT_Q003_OPT_B",
+          "P2_T1_TOPIC_OBJECT_Q003_OPT_D",
+          "P2_T1_TOPIC_OBJECT_Q003_OPT_C"
+        ]
+      },
+      {
+        "questionId": "P2_T2_NOTICE_Q001",
+        "poolId": "P2_T2_NOTICE",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 6,
+        "shuffledOptionIds": [
+          "P2_T2_NOTICE_Q001_OPT_A",
+          "P2_T2_NOTICE_Q001_OPT_C",
+          "P2_T2_NOTICE_Q001_OPT_B",
+          "P2_T2_NOTICE_Q001_OPT_D"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_NOTICE_Q001_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T2_MENU_Q002",
+        "poolId": "P2_T2_MENU",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 7,
+        "shuffledOptionIds": [
+          "P2_T2_MENU_Q002_OPT_C",
+          "P2_T2_MENU_Q002_OPT_A",
+          "P2_T2_MENU_Q002_OPT_D",
+          "P2_T2_MENU_Q002_OPT_B"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_MENU_Q002_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T3_WEEKEND_ACTIVITY_Q003",
+        "poolId": "P2_T3_WEEKEND_ACTIVITY",
+        "section": "passage_correct_statement",
+        "displayOrder": 8,
+        "shuffledOptionIds": [
+          "P2_T3_WEEKEND_ACTIVITY_Q003_OPT_B",
+          "P2_T3_WEEKEND_ACTIVITY_Q003_OPT_C",
+          "P2_T3_WEEKEND_ACTIVITY_Q003_OPT_D",
+          "P2_T3_WEEKEND_ACTIVITY_Q003_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T3_CLASS_ACTIVITY_Q003",
+        "poolId": "P2_T3_CLASS_ACTIVITY",
+        "section": "passage_correct_statement",
+        "displayOrder": 9,
+        "shuffledOptionIds": [
+          "P2_T3_CLASS_ACTIVITY_Q003_OPT_A",
+          "P2_T3_CLASS_ACTIVITY_Q003_OPT_D",
+          "P2_T3_CLASS_ACTIVITY_Q003_OPT_B",
+          "P2_T3_CLASS_ACTIVITY_Q003_OPT_C"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PART2_EXAM_011",
+    "part": 2,
+    "questionCount": 9,
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part2-v1",
+    "questions": [
+      {
+        "questionId": "P2_T1_TOPIC_TASTE_Q003",
+        "poolId": "P2_T1_TOPIC_TASTE",
+        "section": "topic_identification",
+        "displayOrder": 1,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_TASTE_Q003_OPT_B",
+          "P2_T1_TOPIC_TASTE_Q003_OPT_D",
+          "P2_T1_TOPIC_TASTE_Q003_OPT_C",
+          "P2_T1_TOPIC_TASTE_Q003_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_FOOD_Q003",
+        "poolId": "P2_T1_TOPIC_FOOD",
+        "section": "topic_identification",
+        "displayOrder": 2,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_FOOD_Q003_OPT_C",
+          "P2_T1_TOPIC_FOOD_Q003_OPT_D",
+          "P2_T1_TOPIC_FOOD_Q003_OPT_A",
+          "P2_T1_TOPIC_FOOD_Q003_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_SCHOOL_Q001",
+        "poolId": "P2_T1_TOPIC_SCHOOL",
+        "section": "topic_identification",
+        "displayOrder": 3,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_SCHOOL_Q001_OPT_B",
+          "P2_T1_TOPIC_SCHOOL_Q001_OPT_D",
+          "P2_T1_TOPIC_SCHOOL_Q001_OPT_C",
+          "P2_T1_TOPIC_SCHOOL_Q001_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_NATIONALITY_Q001",
+        "poolId": "P2_T1_TOPIC_NATIONALITY",
+        "section": "topic_identification",
+        "displayOrder": 4,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_NATIONALITY_Q001_OPT_A",
+          "P2_T1_TOPIC_NATIONALITY_Q001_OPT_C",
+          "P2_T1_TOPIC_NATIONALITY_Q001_OPT_D",
+          "P2_T1_TOPIC_NATIONALITY_Q001_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_SHOPPING_Q001",
+        "poolId": "P2_T1_TOPIC_SHOPPING",
+        "section": "topic_identification",
+        "displayOrder": 5,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_SHOPPING_Q001_OPT_D",
+          "P2_T1_TOPIC_SHOPPING_Q001_OPT_B",
+          "P2_T1_TOPIC_SHOPPING_Q001_OPT_C",
+          "P2_T1_TOPIC_SHOPPING_Q001_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T2_RECEIPT_Q002",
+        "poolId": "P2_T2_RECEIPT",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 6,
+        "shuffledOptionIds": [
+          "P2_T2_RECEIPT_Q002_OPT_C",
+          "P2_T2_RECEIPT_Q002_OPT_D",
+          "P2_T2_RECEIPT_Q002_OPT_A",
+          "P2_T2_RECEIPT_Q002_OPT_B"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_RECEIPT_Q002_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T2_SCHEDULE_Q002",
+        "poolId": "P2_T2_SCHEDULE",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 7,
+        "shuffledOptionIds": [
+          "P2_T2_SCHEDULE_Q002_OPT_C",
+          "P2_T2_SCHEDULE_Q002_OPT_D",
+          "P2_T2_SCHEDULE_Q002_OPT_B",
+          "P2_T2_SCHEDULE_Q002_OPT_A"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_SCHEDULE_Q002_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T3_GIFT_PLAN_Q002",
+        "poolId": "P2_T3_GIFT_PLAN",
+        "section": "passage_correct_statement",
+        "displayOrder": 8,
+        "shuffledOptionIds": [
+          "P2_T3_GIFT_PLAN_Q002_OPT_A",
+          "P2_T3_GIFT_PLAN_Q002_OPT_D",
+          "P2_T3_GIFT_PLAN_Q002_OPT_B",
+          "P2_T3_GIFT_PLAN_Q002_OPT_C"
+        ]
+      },
+      {
+        "questionId": "P2_T3_SHOPPING_FOOD_Q001",
+        "poolId": "P2_T3_SHOPPING_FOOD",
+        "section": "passage_correct_statement",
+        "displayOrder": 9,
+        "shuffledOptionIds": [
+          "P2_T3_SHOPPING_FOOD_Q001_OPT_A",
+          "P2_T3_SHOPPING_FOOD_Q001_OPT_D",
+          "P2_T3_SHOPPING_FOOD_Q001_OPT_C",
+          "P2_T3_SHOPPING_FOOD_Q001_OPT_B"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PART2_EXAM_012",
+    "part": 2,
+    "questionCount": 9,
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part2-v1",
+    "questions": [
+      {
+        "questionId": "P2_T1_TOPIC_WEEKEND_Q002",
+        "poolId": "P2_T1_TOPIC_WEEKEND",
+        "section": "topic_identification",
+        "displayOrder": 1,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_WEEKEND_Q002_OPT_C",
+          "P2_T1_TOPIC_WEEKEND_Q002_OPT_A",
+          "P2_T1_TOPIC_WEEKEND_Q002_OPT_B",
+          "P2_T1_TOPIC_WEEKEND_Q002_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DATE_DAY_Q002",
+        "poolId": "P2_T1_TOPIC_DATE_DAY",
+        "section": "topic_identification",
+        "displayOrder": 2,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_DATE_DAY_Q002_OPT_B",
+          "P2_T1_TOPIC_DATE_DAY_Q002_OPT_C",
+          "P2_T1_TOPIC_DATE_DAY_Q002_OPT_A",
+          "P2_T1_TOPIC_DATE_DAY_Q002_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_OBJECT_Q002",
+        "poolId": "P2_T1_TOPIC_OBJECT",
+        "section": "topic_identification",
+        "displayOrder": 3,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_OBJECT_Q002_OPT_D",
+          "P2_T1_TOPIC_OBJECT_Q002_OPT_B",
+          "P2_T1_TOPIC_OBJECT_Q002_OPT_C",
+          "P2_T1_TOPIC_OBJECT_Q002_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_SCHOOL_Q002",
+        "poolId": "P2_T1_TOPIC_SCHOOL",
+        "section": "topic_identification",
+        "displayOrder": 4,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_SCHOOL_Q002_OPT_A",
+          "P2_T1_TOPIC_SCHOOL_Q002_OPT_C",
+          "P2_T1_TOPIC_SCHOOL_Q002_OPT_B",
+          "P2_T1_TOPIC_SCHOOL_Q002_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_TASTE_Q001",
+        "poolId": "P2_T1_TOPIC_TASTE",
+        "section": "topic_identification",
+        "displayOrder": 5,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_TASTE_Q001_OPT_D",
+          "P2_T1_TOPIC_TASTE_Q001_OPT_A",
+          "P2_T1_TOPIC_TASTE_Q001_OPT_C",
+          "P2_T1_TOPIC_TASTE_Q001_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T2_NOTICE_Q002",
+        "poolId": "P2_T2_NOTICE",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 6,
+        "shuffledOptionIds": [
+          "P2_T2_NOTICE_Q002_OPT_D",
+          "P2_T2_NOTICE_Q002_OPT_C",
+          "P2_T2_NOTICE_Q002_OPT_B",
+          "P2_T2_NOTICE_Q002_OPT_A"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_NOTICE_Q002_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T2_CARD_Q001",
+        "poolId": "P2_T2_CARD",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 7,
+        "shuffledOptionIds": [
+          "P2_T2_CARD_Q001_OPT_D",
+          "P2_T2_CARD_Q001_OPT_A",
+          "P2_T2_CARD_Q001_OPT_C",
+          "P2_T2_CARD_Q001_OPT_B"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_CARD_Q001_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T3_DAILY_SCHEDULE_Q003",
+        "poolId": "P2_T3_DAILY_SCHEDULE",
+        "section": "passage_correct_statement",
+        "displayOrder": 8,
+        "shuffledOptionIds": [
+          "P2_T3_DAILY_SCHEDULE_Q003_OPT_A",
+          "P2_T3_DAILY_SCHEDULE_Q003_OPT_D",
+          "P2_T3_DAILY_SCHEDULE_Q003_OPT_B",
+          "P2_T3_DAILY_SCHEDULE_Q003_OPT_C"
+        ]
+      },
+      {
+        "questionId": "P2_T3_PROFILE_LANGUAGE_Q003",
+        "poolId": "P2_T3_PROFILE_LANGUAGE",
+        "section": "passage_correct_statement",
+        "displayOrder": 9,
+        "shuffledOptionIds": [
+          "P2_T3_PROFILE_LANGUAGE_Q003_OPT_C",
+          "P2_T3_PROFILE_LANGUAGE_Q003_OPT_A",
+          "P2_T3_PROFILE_LANGUAGE_Q003_OPT_D",
+          "P2_T3_PROFILE_LANGUAGE_Q003_OPT_B"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PART2_EXAM_013",
+    "part": 2,
+    "questionCount": 9,
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part2-v1",
+    "questions": [
+      {
+        "questionId": "P2_T1_TOPIC_HOBBY_Q001",
+        "poolId": "P2_T1_TOPIC_HOBBY",
+        "section": "topic_identification",
+        "displayOrder": 1,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_HOBBY_Q001_OPT_A",
+          "P2_T1_TOPIC_HOBBY_Q001_OPT_C",
+          "P2_T1_TOPIC_HOBBY_Q001_OPT_B",
+          "P2_T1_TOPIC_HOBBY_Q001_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_PLACE_Q002",
+        "poolId": "P2_T1_TOPIC_PLACE",
+        "section": "topic_identification",
+        "displayOrder": 2,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_PLACE_Q002_OPT_D",
+          "P2_T1_TOPIC_PLACE_Q002_OPT_B",
+          "P2_T1_TOPIC_PLACE_Q002_OPT_C",
+          "P2_T1_TOPIC_PLACE_Q002_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DAILY_SCHEDULE_Q001",
+        "poolId": "P2_T1_TOPIC_DAILY_SCHEDULE",
+        "section": "topic_identification",
+        "displayOrder": 3,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_DAILY_SCHEDULE_Q001_OPT_C",
+          "P2_T1_TOPIC_DAILY_SCHEDULE_Q001_OPT_D",
+          "P2_T1_TOPIC_DAILY_SCHEDULE_Q001_OPT_B",
+          "P2_T1_TOPIC_DAILY_SCHEDULE_Q001_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_TIME_Q001",
+        "poolId": "P2_T1_TOPIC_TIME",
+        "section": "topic_identification",
+        "displayOrder": 4,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_TIME_Q001_OPT_A",
+          "P2_T1_TOPIC_TIME_Q001_OPT_C",
+          "P2_T1_TOPIC_TIME_Q001_OPT_D",
+          "P2_T1_TOPIC_TIME_Q001_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_SHOPPING_Q003",
+        "poolId": "P2_T1_TOPIC_SHOPPING",
+        "section": "topic_identification",
+        "displayOrder": 5,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_SHOPPING_Q003_OPT_C",
+          "P2_T1_TOPIC_SHOPPING_Q003_OPT_B",
+          "P2_T1_TOPIC_SHOPPING_Q003_OPT_A",
+          "P2_T1_TOPIC_SHOPPING_Q003_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T2_MENU_Q003",
+        "poolId": "P2_T2_MENU",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 6,
+        "shuffledOptionIds": [
+          "P2_T2_MENU_Q003_OPT_C",
+          "P2_T2_MENU_Q003_OPT_A",
+          "P2_T2_MENU_Q003_OPT_B",
+          "P2_T2_MENU_Q003_OPT_D"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_MENU_Q003_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T2_SCHEDULE_Q001",
+        "poolId": "P2_T2_SCHEDULE",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 7,
+        "shuffledOptionIds": [
+          "P2_T2_SCHEDULE_Q001_OPT_B",
+          "P2_T2_SCHEDULE_Q001_OPT_C",
+          "P2_T2_SCHEDULE_Q001_OPT_D",
+          "P2_T2_SCHEDULE_Q001_OPT_A"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_SCHEDULE_Q001_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T3_WEEKEND_ACTIVITY_Q002",
+        "poolId": "P2_T3_WEEKEND_ACTIVITY",
+        "section": "passage_correct_statement",
+        "displayOrder": 8,
+        "shuffledOptionIds": [
+          "P2_T3_WEEKEND_ACTIVITY_Q002_OPT_B",
+          "P2_T3_WEEKEND_ACTIVITY_Q002_OPT_D",
+          "P2_T3_WEEKEND_ACTIVITY_Q002_OPT_C",
+          "P2_T3_WEEKEND_ACTIVITY_Q002_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T3_PROFILE_LANGUAGE_Q001",
+        "poolId": "P2_T3_PROFILE_LANGUAGE",
+        "section": "passage_correct_statement",
+        "displayOrder": 9,
+        "shuffledOptionIds": [
+          "P2_T3_PROFILE_LANGUAGE_Q001_OPT_B",
+          "P2_T3_PROFILE_LANGUAGE_Q001_OPT_C",
+          "P2_T3_PROFILE_LANGUAGE_Q001_OPT_D",
+          "P2_T3_PROFILE_LANGUAGE_Q001_OPT_A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PART2_EXAM_014",
+    "part": 2,
+    "questionCount": 9,
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part2-v1",
+    "questions": [
+      {
+        "questionId": "P2_T1_TOPIC_FOOD_Q001",
+        "poolId": "P2_T1_TOPIC_FOOD",
+        "section": "topic_identification",
+        "displayOrder": 1,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_FOOD_Q001_OPT_D",
+          "P2_T1_TOPIC_FOOD_Q001_OPT_B",
+          "P2_T1_TOPIC_FOOD_Q001_OPT_C",
+          "P2_T1_TOPIC_FOOD_Q001_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_JOB_Q001",
+        "poolId": "P2_T1_TOPIC_JOB",
+        "section": "topic_identification",
+        "displayOrder": 2,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_JOB_Q001_OPT_C",
+          "P2_T1_TOPIC_JOB_Q001_OPT_A",
+          "P2_T1_TOPIC_JOB_Q001_OPT_B",
+          "P2_T1_TOPIC_JOB_Q001_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_NATIONALITY_Q002",
+        "poolId": "P2_T1_TOPIC_NATIONALITY",
+        "section": "topic_identification",
+        "displayOrder": 3,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_NATIONALITY_Q002_OPT_C",
+          "P2_T1_TOPIC_NATIONALITY_Q002_OPT_A",
+          "P2_T1_TOPIC_NATIONALITY_Q002_OPT_D",
+          "P2_T1_TOPIC_NATIONALITY_Q002_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DATE_DAY_Q003",
+        "poolId": "P2_T1_TOPIC_DATE_DAY",
+        "section": "topic_identification",
+        "displayOrder": 4,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_DATE_DAY_Q003_OPT_B",
+          "P2_T1_TOPIC_DATE_DAY_Q003_OPT_A",
+          "P2_T1_TOPIC_DATE_DAY_Q003_OPT_C",
+          "P2_T1_TOPIC_DATE_DAY_Q003_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DAILY_LIFE_Q003",
+        "poolId": "P2_T1_TOPIC_DAILY_LIFE",
+        "section": "topic_identification",
+        "displayOrder": 5,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_DAILY_LIFE_Q003_OPT_D",
+          "P2_T1_TOPIC_DAILY_LIFE_Q003_OPT_C",
+          "P2_T1_TOPIC_DAILY_LIFE_Q003_OPT_A",
+          "P2_T1_TOPIC_DAILY_LIFE_Q003_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T2_RECEIPT_Q001",
+        "poolId": "P2_T2_RECEIPT",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 6,
+        "shuffledOptionIds": [
+          "P2_T2_RECEIPT_Q001_OPT_D",
+          "P2_T2_RECEIPT_Q001_OPT_C",
+          "P2_T2_RECEIPT_Q001_OPT_A",
+          "P2_T2_RECEIPT_Q001_OPT_B"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_RECEIPT_Q001_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T2_NOTICE_Q003",
+        "poolId": "P2_T2_NOTICE",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 7,
+        "shuffledOptionIds": [
+          "P2_T2_NOTICE_Q003_OPT_C",
+          "P2_T2_NOTICE_Q003_OPT_D",
+          "P2_T2_NOTICE_Q003_OPT_B",
+          "P2_T2_NOTICE_Q003_OPT_A"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_NOTICE_Q003_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T3_DAILY_SCHEDULE_Q002",
+        "poolId": "P2_T3_DAILY_SCHEDULE",
+        "section": "passage_correct_statement",
+        "displayOrder": 8,
+        "shuffledOptionIds": [
+          "P2_T3_DAILY_SCHEDULE_Q002_OPT_C",
+          "P2_T3_DAILY_SCHEDULE_Q002_OPT_A",
+          "P2_T3_DAILY_SCHEDULE_Q002_OPT_B",
+          "P2_T3_DAILY_SCHEDULE_Q002_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T3_SHOPPING_FOOD_Q003",
+        "poolId": "P2_T3_SHOPPING_FOOD",
+        "section": "passage_correct_statement",
+        "displayOrder": 9,
+        "shuffledOptionIds": [
+          "P2_T3_SHOPPING_FOOD_Q003_OPT_B",
+          "P2_T3_SHOPPING_FOOD_Q003_OPT_A",
+          "P2_T3_SHOPPING_FOOD_Q003_OPT_D",
+          "P2_T3_SHOPPING_FOOD_Q003_OPT_C"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PART2_EXAM_015",
+    "part": 2,
+    "questionCount": 9,
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part2-v1",
+    "questions": [
+      {
+        "questionId": "P2_T1_TOPIC_JOB_Q003",
+        "poolId": "P2_T1_TOPIC_JOB",
+        "section": "topic_identification",
+        "displayOrder": 1,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_JOB_Q003_OPT_D",
+          "P2_T1_TOPIC_JOB_Q003_OPT_A",
+          "P2_T1_TOPIC_JOB_Q003_OPT_B",
+          "P2_T1_TOPIC_JOB_Q003_OPT_C"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_PLACE_Q003",
+        "poolId": "P2_T1_TOPIC_PLACE",
+        "section": "topic_identification",
+        "displayOrder": 2,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_PLACE_Q003_OPT_D",
+          "P2_T1_TOPIC_PLACE_Q003_OPT_B",
+          "P2_T1_TOPIC_PLACE_Q003_OPT_C",
+          "P2_T1_TOPIC_PLACE_Q003_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DAILY_LIFE_Q002",
+        "poolId": "P2_T1_TOPIC_DAILY_LIFE",
+        "section": "topic_identification",
+        "displayOrder": 3,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_DAILY_LIFE_Q002_OPT_A",
+          "P2_T1_TOPIC_DAILY_LIFE_Q002_OPT_B",
+          "P2_T1_TOPIC_DAILY_LIFE_Q002_OPT_C",
+          "P2_T1_TOPIC_DAILY_LIFE_Q002_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_HOBBY_Q003",
+        "poolId": "P2_T1_TOPIC_HOBBY",
+        "section": "topic_identification",
+        "displayOrder": 4,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_HOBBY_Q003_OPT_B",
+          "P2_T1_TOPIC_HOBBY_Q003_OPT_C",
+          "P2_T1_TOPIC_HOBBY_Q003_OPT_D",
+          "P2_T1_TOPIC_HOBBY_Q003_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_FOOD_Q002",
+        "poolId": "P2_T1_TOPIC_FOOD",
+        "section": "topic_identification",
+        "displayOrder": 5,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_FOOD_Q002_OPT_D",
+          "P2_T1_TOPIC_FOOD_Q002_OPT_C",
+          "P2_T1_TOPIC_FOOD_Q002_OPT_A",
+          "P2_T1_TOPIC_FOOD_Q002_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T2_MENU_Q001",
+        "poolId": "P2_T2_MENU",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 6,
+        "shuffledOptionIds": [
+          "P2_T2_MENU_Q001_OPT_D",
+          "P2_T2_MENU_Q001_OPT_A",
+          "P2_T2_MENU_Q001_OPT_B",
+          "P2_T2_MENU_Q001_OPT_C"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_MENU_Q001_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T2_CARD_Q002",
+        "poolId": "P2_T2_CARD",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 7,
+        "shuffledOptionIds": [
+          "P2_T2_CARD_Q002_OPT_C",
+          "P2_T2_CARD_Q002_OPT_B",
+          "P2_T2_CARD_Q002_OPT_D",
+          "P2_T2_CARD_Q002_OPT_A"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_CARD_Q002_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T3_CLASS_ACTIVITY_Q001",
+        "poolId": "P2_T3_CLASS_ACTIVITY",
+        "section": "passage_correct_statement",
+        "displayOrder": 8,
+        "shuffledOptionIds": [
+          "P2_T3_CLASS_ACTIVITY_Q001_OPT_C",
+          "P2_T3_CLASS_ACTIVITY_Q001_OPT_B",
+          "P2_T3_CLASS_ACTIVITY_Q001_OPT_D",
+          "P2_T3_CLASS_ACTIVITY_Q001_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T3_GIFT_PLAN_Q003",
+        "poolId": "P2_T3_GIFT_PLAN",
+        "section": "passage_correct_statement",
+        "displayOrder": 9,
+        "shuffledOptionIds": [
+          "P2_T3_GIFT_PLAN_Q003_OPT_B",
+          "P2_T3_GIFT_PLAN_Q003_OPT_C",
+          "P2_T3_GIFT_PLAN_Q003_OPT_D",
+          "P2_T3_GIFT_PLAN_Q003_OPT_A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PART2_EXAM_016",
+    "part": 2,
+    "questionCount": 9,
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part2-v1",
+    "questions": [
+      {
+        "questionId": "P2_T1_TOPIC_WEEKEND_Q001",
+        "poolId": "P2_T1_TOPIC_WEEKEND",
+        "section": "topic_identification",
+        "displayOrder": 1,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_WEEKEND_Q001_OPT_B",
+          "P2_T1_TOPIC_WEEKEND_Q001_OPT_C",
+          "P2_T1_TOPIC_WEEKEND_Q001_OPT_D",
+          "P2_T1_TOPIC_WEEKEND_Q001_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_TASTE_Q002",
+        "poolId": "P2_T1_TOPIC_TASTE",
+        "section": "topic_identification",
+        "displayOrder": 2,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_TASTE_Q002_OPT_B",
+          "P2_T1_TOPIC_TASTE_Q002_OPT_C",
+          "P2_T1_TOPIC_TASTE_Q002_OPT_D",
+          "P2_T1_TOPIC_TASTE_Q002_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DAILY_SCHEDULE_Q002",
+        "poolId": "P2_T1_TOPIC_DAILY_SCHEDULE",
+        "section": "topic_identification",
+        "displayOrder": 3,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_DAILY_SCHEDULE_Q002_OPT_A",
+          "P2_T1_TOPIC_DAILY_SCHEDULE_Q002_OPT_D",
+          "P2_T1_TOPIC_DAILY_SCHEDULE_Q002_OPT_C",
+          "P2_T1_TOPIC_DAILY_SCHEDULE_Q002_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_NATIONALITY_Q003",
+        "poolId": "P2_T1_TOPIC_NATIONALITY",
+        "section": "topic_identification",
+        "displayOrder": 4,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_NATIONALITY_Q003_OPT_A",
+          "P2_T1_TOPIC_NATIONALITY_Q003_OPT_C",
+          "P2_T1_TOPIC_NATIONALITY_Q003_OPT_B",
+          "P2_T1_TOPIC_NATIONALITY_Q003_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_SHOPPING_Q002",
+        "poolId": "P2_T1_TOPIC_SHOPPING",
+        "section": "topic_identification",
+        "displayOrder": 5,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_SHOPPING_Q002_OPT_A",
+          "P2_T1_TOPIC_SHOPPING_Q002_OPT_C",
+          "P2_T1_TOPIC_SHOPPING_Q002_OPT_D",
+          "P2_T1_TOPIC_SHOPPING_Q002_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T2_SCHEDULE_Q002",
+        "poolId": "P2_T2_SCHEDULE",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 6,
+        "shuffledOptionIds": [
+          "P2_T2_SCHEDULE_Q002_OPT_D",
+          "P2_T2_SCHEDULE_Q002_OPT_B",
+          "P2_T2_SCHEDULE_Q002_OPT_C",
+          "P2_T2_SCHEDULE_Q002_OPT_A"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_SCHEDULE_Q002_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T2_NOTICE_Q002",
+        "poolId": "P2_T2_NOTICE",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 7,
+        "shuffledOptionIds": [
+          "P2_T2_NOTICE_Q002_OPT_B",
+          "P2_T2_NOTICE_Q002_OPT_D",
+          "P2_T2_NOTICE_Q002_OPT_C",
+          "P2_T2_NOTICE_Q002_OPT_A"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_NOTICE_Q002_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T3_PROFILE_LANGUAGE_Q002",
+        "poolId": "P2_T3_PROFILE_LANGUAGE",
+        "section": "passage_correct_statement",
+        "displayOrder": 8,
+        "shuffledOptionIds": [
+          "P2_T3_PROFILE_LANGUAGE_Q002_OPT_C",
+          "P2_T3_PROFILE_LANGUAGE_Q002_OPT_B",
+          "P2_T3_PROFILE_LANGUAGE_Q002_OPT_A",
+          "P2_T3_PROFILE_LANGUAGE_Q002_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T3_SHOPPING_FOOD_Q002",
+        "poolId": "P2_T3_SHOPPING_FOOD",
+        "section": "passage_correct_statement",
+        "displayOrder": 9,
+        "shuffledOptionIds": [
+          "P2_T3_SHOPPING_FOOD_Q002_OPT_B",
+          "P2_T3_SHOPPING_FOOD_Q002_OPT_A",
+          "P2_T3_SHOPPING_FOOD_Q002_OPT_D",
+          "P2_T3_SHOPPING_FOOD_Q002_OPT_C"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PART2_EXAM_017",
+    "part": 2,
+    "questionCount": 9,
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part2-v1",
+    "questions": [
+      {
+        "questionId": "P2_T1_TOPIC_OBJECT_Q001",
+        "poolId": "P2_T1_TOPIC_OBJECT",
+        "section": "topic_identification",
+        "displayOrder": 1,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_OBJECT_Q001_OPT_C",
+          "P2_T1_TOPIC_OBJECT_Q001_OPT_A",
+          "P2_T1_TOPIC_OBJECT_Q001_OPT_D",
+          "P2_T1_TOPIC_OBJECT_Q001_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_TIME_Q003",
+        "poolId": "P2_T1_TOPIC_TIME",
+        "section": "topic_identification",
+        "displayOrder": 2,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_TIME_Q003_OPT_C",
+          "P2_T1_TOPIC_TIME_Q003_OPT_D",
+          "P2_T1_TOPIC_TIME_Q003_OPT_B",
+          "P2_T1_TOPIC_TIME_Q003_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_WEEKEND_Q001",
+        "poolId": "P2_T1_TOPIC_WEEKEND",
+        "section": "topic_identification",
+        "displayOrder": 3,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_WEEKEND_Q001_OPT_D",
+          "P2_T1_TOPIC_WEEKEND_Q001_OPT_C",
+          "P2_T1_TOPIC_WEEKEND_Q001_OPT_B",
+          "P2_T1_TOPIC_WEEKEND_Q001_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_SCHOOL_Q003",
+        "poolId": "P2_T1_TOPIC_SCHOOL",
+        "section": "topic_identification",
+        "displayOrder": 4,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_SCHOOL_Q003_OPT_B",
+          "P2_T1_TOPIC_SCHOOL_Q003_OPT_C",
+          "P2_T1_TOPIC_SCHOOL_Q003_OPT_A",
+          "P2_T1_TOPIC_SCHOOL_Q003_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DATE_DAY_Q001",
+        "poolId": "P2_T1_TOPIC_DATE_DAY",
+        "section": "topic_identification",
+        "displayOrder": 5,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_DATE_DAY_Q001_OPT_A",
+          "P2_T1_TOPIC_DATE_DAY_Q001_OPT_D",
+          "P2_T1_TOPIC_DATE_DAY_Q001_OPT_C",
+          "P2_T1_TOPIC_DATE_DAY_Q001_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T2_MENU_Q001",
+        "poolId": "P2_T2_MENU",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 6,
+        "shuffledOptionIds": [
+          "P2_T2_MENU_Q001_OPT_D",
+          "P2_T2_MENU_Q001_OPT_C",
+          "P2_T2_MENU_Q001_OPT_B",
+          "P2_T2_MENU_Q001_OPT_A"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_MENU_Q001_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T2_CARD_Q002",
+        "poolId": "P2_T2_CARD",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 7,
+        "shuffledOptionIds": [
+          "P2_T2_CARD_Q002_OPT_B",
+          "P2_T2_CARD_Q002_OPT_C",
+          "P2_T2_CARD_Q002_OPT_D",
+          "P2_T2_CARD_Q002_OPT_A"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_CARD_Q002_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T3_CLASS_ACTIVITY_Q002",
+        "poolId": "P2_T3_CLASS_ACTIVITY",
+        "section": "passage_correct_statement",
+        "displayOrder": 8,
+        "shuffledOptionIds": [
+          "P2_T3_CLASS_ACTIVITY_Q002_OPT_C",
+          "P2_T3_CLASS_ACTIVITY_Q002_OPT_B",
+          "P2_T3_CLASS_ACTIVITY_Q002_OPT_D",
+          "P2_T3_CLASS_ACTIVITY_Q002_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T3_DAILY_SCHEDULE_Q001",
+        "poolId": "P2_T3_DAILY_SCHEDULE",
+        "section": "passage_correct_statement",
+        "displayOrder": 9,
+        "shuffledOptionIds": [
+          "P2_T3_DAILY_SCHEDULE_Q001_OPT_A",
+          "P2_T3_DAILY_SCHEDULE_Q001_OPT_B",
+          "P2_T3_DAILY_SCHEDULE_Q001_OPT_C",
+          "P2_T3_DAILY_SCHEDULE_Q001_OPT_D"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PART2_EXAM_018",
+    "part": 2,
+    "questionCount": 9,
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part2-v1",
+    "questions": [
+      {
+        "questionId": "P2_T1_TOPIC_DAILY_LIFE_Q001",
+        "poolId": "P2_T1_TOPIC_DAILY_LIFE",
+        "section": "topic_identification",
+        "displayOrder": 1,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_DAILY_LIFE_Q001_OPT_A",
+          "P2_T1_TOPIC_DAILY_LIFE_Q001_OPT_B",
+          "P2_T1_TOPIC_DAILY_LIFE_Q001_OPT_D",
+          "P2_T1_TOPIC_DAILY_LIFE_Q001_OPT_C"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_HOBBY_Q002",
+        "poolId": "P2_T1_TOPIC_HOBBY",
+        "section": "topic_identification",
+        "displayOrder": 2,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_HOBBY_Q002_OPT_D",
+          "P2_T1_TOPIC_HOBBY_Q002_OPT_B",
+          "P2_T1_TOPIC_HOBBY_Q002_OPT_A",
+          "P2_T1_TOPIC_HOBBY_Q002_OPT_C"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DAILY_SCHEDULE_Q002",
+        "poolId": "P2_T1_TOPIC_DAILY_SCHEDULE",
+        "section": "topic_identification",
+        "displayOrder": 3,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_DAILY_SCHEDULE_Q002_OPT_B",
+          "P2_T1_TOPIC_DAILY_SCHEDULE_Q002_OPT_D",
+          "P2_T1_TOPIC_DAILY_SCHEDULE_Q002_OPT_A",
+          "P2_T1_TOPIC_DAILY_SCHEDULE_Q002_OPT_C"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_JOB_Q002",
+        "poolId": "P2_T1_TOPIC_JOB",
+        "section": "topic_identification",
+        "displayOrder": 4,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_JOB_Q002_OPT_C",
+          "P2_T1_TOPIC_JOB_Q002_OPT_B",
+          "P2_T1_TOPIC_JOB_Q002_OPT_D",
+          "P2_T1_TOPIC_JOB_Q002_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_SCHOOL_Q003",
+        "poolId": "P2_T1_TOPIC_SCHOOL",
+        "section": "topic_identification",
+        "displayOrder": 5,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_SCHOOL_Q003_OPT_B",
+          "P2_T1_TOPIC_SCHOOL_Q003_OPT_C",
+          "P2_T1_TOPIC_SCHOOL_Q003_OPT_A",
+          "P2_T1_TOPIC_SCHOOL_Q003_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T2_RECEIPT_Q001",
+        "poolId": "P2_T2_RECEIPT",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 6,
+        "shuffledOptionIds": [
+          "P2_T2_RECEIPT_Q001_OPT_C",
+          "P2_T2_RECEIPT_Q001_OPT_D",
+          "P2_T2_RECEIPT_Q001_OPT_A",
+          "P2_T2_RECEIPT_Q001_OPT_B"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_RECEIPT_Q001_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T2_NOTICE_Q001",
+        "poolId": "P2_T2_NOTICE",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 7,
+        "shuffledOptionIds": [
+          "P2_T2_NOTICE_Q001_OPT_C",
+          "P2_T2_NOTICE_Q001_OPT_D",
+          "P2_T2_NOTICE_Q001_OPT_A",
+          "P2_T2_NOTICE_Q001_OPT_B"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_NOTICE_Q001_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T3_GIFT_PLAN_Q001",
+        "poolId": "P2_T3_GIFT_PLAN",
+        "section": "passage_correct_statement",
+        "displayOrder": 8,
+        "shuffledOptionIds": [
+          "P2_T3_GIFT_PLAN_Q001_OPT_C",
+          "P2_T3_GIFT_PLAN_Q001_OPT_A",
+          "P2_T3_GIFT_PLAN_Q001_OPT_D",
+          "P2_T3_GIFT_PLAN_Q001_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T3_WEEKEND_ACTIVITY_Q001",
+        "poolId": "P2_T3_WEEKEND_ACTIVITY",
+        "section": "passage_correct_statement",
+        "displayOrder": 9,
+        "shuffledOptionIds": [
+          "P2_T3_WEEKEND_ACTIVITY_Q001_OPT_C",
+          "P2_T3_WEEKEND_ACTIVITY_Q001_OPT_D",
+          "P2_T3_WEEKEND_ACTIVITY_Q001_OPT_A",
+          "P2_T3_WEEKEND_ACTIVITY_Q001_OPT_B"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PART2_EXAM_019",
+    "part": 2,
+    "questionCount": 9,
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part2-v1",
+    "questions": [
+      {
+        "questionId": "P2_T1_TOPIC_PLACE_Q001",
+        "poolId": "P2_T1_TOPIC_PLACE",
+        "section": "topic_identification",
+        "displayOrder": 1,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_PLACE_Q001_OPT_D",
+          "P2_T1_TOPIC_PLACE_Q001_OPT_A",
+          "P2_T1_TOPIC_PLACE_Q001_OPT_C",
+          "P2_T1_TOPIC_PLACE_Q001_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_TIME_Q002",
+        "poolId": "P2_T1_TOPIC_TIME",
+        "section": "topic_identification",
+        "displayOrder": 2,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_TIME_Q002_OPT_C",
+          "P2_T1_TOPIC_TIME_Q002_OPT_B",
+          "P2_T1_TOPIC_TIME_Q002_OPT_A",
+          "P2_T1_TOPIC_TIME_Q002_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_DATE_DAY_Q003",
+        "poolId": "P2_T1_TOPIC_DATE_DAY",
+        "section": "topic_identification",
+        "displayOrder": 3,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_DATE_DAY_Q003_OPT_B",
+          "P2_T1_TOPIC_DATE_DAY_Q003_OPT_C",
+          "P2_T1_TOPIC_DATE_DAY_Q003_OPT_A",
+          "P2_T1_TOPIC_DATE_DAY_Q003_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_FOOD_Q003",
+        "poolId": "P2_T1_TOPIC_FOOD",
+        "section": "topic_identification",
+        "displayOrder": 4,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_FOOD_Q003_OPT_D",
+          "P2_T1_TOPIC_FOOD_Q003_OPT_B",
+          "P2_T1_TOPIC_FOOD_Q003_OPT_C",
+          "P2_T1_TOPIC_FOOD_Q003_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_NATIONALITY_Q002",
+        "poolId": "P2_T1_TOPIC_NATIONALITY",
+        "section": "topic_identification",
+        "displayOrder": 5,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_NATIONALITY_Q002_OPT_C",
+          "P2_T1_TOPIC_NATIONALITY_Q002_OPT_B",
+          "P2_T1_TOPIC_NATIONALITY_Q002_OPT_D",
+          "P2_T1_TOPIC_NATIONALITY_Q002_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T2_CARD_Q001",
+        "poolId": "P2_T2_CARD",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 6,
+        "shuffledOptionIds": [
+          "P2_T2_CARD_Q001_OPT_A",
+          "P2_T2_CARD_Q001_OPT_B",
+          "P2_T2_CARD_Q001_OPT_C",
+          "P2_T2_CARD_Q001_OPT_D"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_CARD_Q001_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T2_MENU_Q003",
+        "poolId": "P2_T2_MENU",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 7,
+        "shuffledOptionIds": [
+          "P2_T2_MENU_Q003_OPT_B",
+          "P2_T2_MENU_Q003_OPT_A",
+          "P2_T2_MENU_Q003_OPT_C",
+          "P2_T2_MENU_Q003_OPT_D"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_MENU_Q003_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T3_DAILY_SCHEDULE_Q002",
+        "poolId": "P2_T3_DAILY_SCHEDULE",
+        "section": "passage_correct_statement",
+        "displayOrder": 8,
+        "shuffledOptionIds": [
+          "P2_T3_DAILY_SCHEDULE_Q002_OPT_C",
+          "P2_T3_DAILY_SCHEDULE_Q002_OPT_D",
+          "P2_T3_DAILY_SCHEDULE_Q002_OPT_A",
+          "P2_T3_DAILY_SCHEDULE_Q002_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T3_SHOPPING_FOOD_Q001",
+        "poolId": "P2_T3_SHOPPING_FOOD",
+        "section": "passage_correct_statement",
+        "displayOrder": 9,
+        "shuffledOptionIds": [
+          "P2_T3_SHOPPING_FOOD_Q001_OPT_A",
+          "P2_T3_SHOPPING_FOOD_Q001_OPT_C",
+          "P2_T3_SHOPPING_FOOD_Q001_OPT_D",
+          "P2_T3_SHOPPING_FOOD_Q001_OPT_B"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PART2_EXAM_020",
+    "part": 2,
+    "questionCount": 9,
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part2-v1",
+    "questions": [
+      {
+        "questionId": "P2_T1_TOPIC_SHOPPING_Q003",
+        "poolId": "P2_T1_TOPIC_SHOPPING",
+        "section": "topic_identification",
+        "displayOrder": 1,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_SHOPPING_Q003_OPT_D",
+          "P2_T1_TOPIC_SHOPPING_Q003_OPT_A",
+          "P2_T1_TOPIC_SHOPPING_Q003_OPT_C",
+          "P2_T1_TOPIC_SHOPPING_Q003_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_TASTE_Q002",
+        "poolId": "P2_T1_TOPIC_TASTE",
+        "section": "topic_identification",
+        "displayOrder": 2,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_TASTE_Q002_OPT_B",
+          "P2_T1_TOPIC_TASTE_Q002_OPT_A",
+          "P2_T1_TOPIC_TASTE_Q002_OPT_C",
+          "P2_T1_TOPIC_TASTE_Q002_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_FOOD_Q001",
+        "poolId": "P2_T1_TOPIC_FOOD",
+        "section": "topic_identification",
+        "displayOrder": 3,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_FOOD_Q001_OPT_C",
+          "P2_T1_TOPIC_FOOD_Q001_OPT_D",
+          "P2_T1_TOPIC_FOOD_Q001_OPT_A",
+          "P2_T1_TOPIC_FOOD_Q001_OPT_B"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_SCHOOL_Q002",
+        "poolId": "P2_T1_TOPIC_SCHOOL",
+        "section": "topic_identification",
+        "displayOrder": 4,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_SCHOOL_Q002_OPT_B",
+          "P2_T1_TOPIC_SCHOOL_Q002_OPT_D",
+          "P2_T1_TOPIC_SCHOOL_Q002_OPT_C",
+          "P2_T1_TOPIC_SCHOOL_Q002_OPT_A"
+        ]
+      },
+      {
+        "questionId": "P2_T1_TOPIC_OBJECT_Q003",
+        "poolId": "P2_T1_TOPIC_OBJECT",
+        "section": "topic_identification",
+        "displayOrder": 5,
+        "shuffledOptionIds": [
+          "P2_T1_TOPIC_OBJECT_Q003_OPT_C",
+          "P2_T1_TOPIC_OBJECT_Q003_OPT_B",
+          "P2_T1_TOPIC_OBJECT_Q003_OPT_A",
+          "P2_T1_TOPIC_OBJECT_Q003_OPT_D"
+        ]
+      },
+      {
+        "questionId": "P2_T2_SCHEDULE_Q001",
+        "poolId": "P2_T2_SCHEDULE",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 6,
+        "shuffledOptionIds": [
+          "P2_T2_SCHEDULE_Q001_OPT_A",
+          "P2_T2_SCHEDULE_Q001_OPT_C",
+          "P2_T2_SCHEDULE_Q001_OPT_D",
+          "P2_T2_SCHEDULE_Q001_OPT_B"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_SCHEDULE_Q001_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T2_RECEIPT_Q003",
+        "poolId": "P2_T2_RECEIPT",
+        "section": "visual_incorrect_statement",
+        "displayOrder": 7,
+        "shuffledOptionIds": [
+          "P2_T2_RECEIPT_Q003_OPT_C",
+          "P2_T2_RECEIPT_Q003_OPT_D",
+          "P2_T2_RECEIPT_Q003_OPT_B",
+          "P2_T2_RECEIPT_Q003_OPT_A"
+        ],
+        "stimulusAssetPath": "generated/part2/stimuli/P2_T2_RECEIPT_Q003_STIMULUS.json"
+      },
+      {
+        "questionId": "P2_T3_GIFT_PLAN_Q003",
+        "poolId": "P2_T3_GIFT_PLAN",
+        "section": "passage_correct_statement",
+        "displayOrder": 8,
+        "shuffledOptionIds": [
+          "P2_T3_GIFT_PLAN_Q003_OPT_A",
+          "P2_T3_GIFT_PLAN_Q003_OPT_B",
+          "P2_T3_GIFT_PLAN_Q003_OPT_D",
+          "P2_T3_GIFT_PLAN_Q003_OPT_C"
+        ]
+      },
+      {
+        "questionId": "P2_T3_CLASS_ACTIVITY_Q001",
+        "poolId": "P2_T3_CLASS_ACTIVITY",
+        "section": "passage_correct_statement",
+        "displayOrder": 9,
+        "shuffledOptionIds": [
+          "P2_T3_CLASS_ACTIVITY_Q001_OPT_D",
+          "P2_T3_CLASS_ACTIVITY_Q001_OPT_C",
+          "P2_T3_CLASS_ACTIVITY_Q001_OPT_A",
+          "P2_T3_CLASS_ACTIVITY_Q001_OPT_B"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "id": "P3_VK_01",
+    "direction": "vi_to_ko",
+    "skill": "invitation",
+    "knowledgeTarget": "Dịch câu rủ rê cùng làm hoạt động tại nơi/thời gian xác định với -(으)ㅂ시다",
+    "quantity": 3
+  },
+  {
+    "id": "P3_VK_02",
+    "direction": "vi_to_ko",
+    "skill": "preference",
+    "knowledgeTarget": "Dịch câu sở thích với 좋아하다, 을/를, 와/과 hoặc 하고",
+    "quantity": 3
+  },
+  {
+    "id": "P3_VK_03",
+    "direction": "vi_to_ko",
+    "skill": "family_job",
+    "knowledgeTarget": "Dịch câu giới thiệu người thân, nghề nghiệp và nơi làm việc",
+    "quantity": 3
+  },
+  {
+    "id": "P3_VK_04",
+    "direction": "vi_to_ko",
+    "skill": "past_activity",
+    "knowledgeTarget": "Dịch hoạt động quá khứ với bạn/gia đình tại địa điểm",
+    "quantity": 3
+  },
+  {
+    "id": "P3_VK_05",
+    "direction": "vi_to_ko",
+    "skill": "nationality_qa",
+    "knowledgeTarget": "Dịch hội thoại hỏi/đáp quốc tịch",
+    "quantity": 3
+  },
+  {
+    "id": "P3_VK_06",
+    "direction": "vi_to_ko",
+    "skill": "desire_travel",
+    "knowledgeTarget": "Dịch mong muốn của người thứ ba với -고 싶어하다",
+    "quantity": 3
+  },
+  {
+    "id": "P3_VK_07",
+    "direction": "vi_to_ko",
+    "skill": "shopping_quantity",
+    "knowledgeTarget": "Dịch câu muốn mua/gọi món có số lượng hoặc hỏi giá",
+    "quantity": 3
+  },
+  {
+    "id": "P3_VK_08",
+    "direction": "vi_to_ko",
+    "skill": "contrast_description",
+    "knowledgeTarget": "Dịch câu đối chiếu tính chất/đồ ăn với 은/는 hoặc -지만",
+    "quantity": 3
+  },
+  {
+    "id": "P3_VK_09",
+    "direction": "vi_to_ko",
+    "skill": "ability_negation",
+    "knowledgeTarget": "Dịch hỏi đáp khả năng và phủ định với -(으)ㄹ 수 있다/없다",
+    "quantity": 3
+  },
+  {
+    "id": "P3_VK_10",
+    "direction": "vi_to_ko",
+    "skill": "reason_request",
+    "knowledgeTarget": "Dịch lý do và yêu cầu thêm với -아서/어서, 주세요",
+    "quantity": 3
+  },
+  {
+    "id": "P3_VK_11",
+    "direction": "vi_to_ko",
+    "skill": "habit_frequency",
+    "knowledgeTarget": "Dịch sở thích/thói quen/tần suất hoạt động",
+    "quantity": 3
+  },
+  {
+    "id": "P3_VK_12",
+    "direction": "vi_to_ko",
+    "skill": "plan_intention",
+    "knowledgeTarget": "Dịch kế hoạch cuối tuần với biểu đạt ý định trong scope",
+    "quantity": 3
+  },
+  {
+    "id": "P3_VK_13",
+    "direction": "vi_to_ko",
+    "skill": "location_existence",
+    "knowledgeTarget": "Dịch hỏi đáp vị trí với 에 있다/없다",
+    "quantity": 3
+  },
+  {
+    "id": "P3_VK_14",
+    "direction": "vi_to_ko",
+    "skill": "time_schedule",
+    "knowledgeTarget": "Dịch câu lịch trình tại thời điểm cụ thể",
+    "quantity": 3
+  },
+  {
+    "id": "P3_KV_01",
+    "direction": "ko_to_vi",
+    "skill": "invitation",
+    "knowledgeTarget": "Hiểu và dịch câu rủ rê -(으)ㅂ시다",
+    "quantity": 3
+  },
+  {
+    "id": "P3_KV_02",
+    "direction": "ko_to_vi",
+    "skill": "preference",
+    "knowledgeTarget": "Hiểu và dịch câu sở thích",
+    "quantity": 3
+  },
+  {
+    "id": "P3_KV_03",
+    "direction": "ko_to_vi",
+    "skill": "family_job",
+    "knowledgeTarget": "Hiểu và dịch giới thiệu người thân/nghề nghiệp/nơi làm việc",
+    "quantity": 3
+  },
+  {
+    "id": "P3_KV_04",
+    "direction": "ko_to_vi",
+    "skill": "past_activity",
+    "knowledgeTarget": "Hiểu và dịch hoạt động trong quá khứ",
+    "quantity": 3
+  },
+  {
+    "id": "P3_KV_05",
+    "direction": "ko_to_vi",
+    "skill": "nationality_qa",
+    "knowledgeTarget": "Hiểu và dịch hội thoại quốc tịch",
+    "quantity": 3
+  },
+  {
+    "id": "P3_KV_06",
+    "direction": "ko_to_vi",
+    "skill": "desire_travel",
+    "knowledgeTarget": "Hiểu và dịch mong muốn của người thứ ba",
+    "quantity": 3
+  },
+  {
+    "id": "P3_KV_07",
+    "direction": "ko_to_vi",
+    "skill": "shopping_quantity",
+    "knowledgeTarget": "Hiểu và dịch câu mua/gọi món, số lượng hoặc giá",
+    "quantity": 3
+  },
+  {
+    "id": "P3_KV_08",
+    "direction": "ko_to_vi",
+    "skill": "contrast_description",
+    "knowledgeTarget": "Hiểu và dịch câu đối chiếu/tương phản tính chất",
+    "quantity": 3
+  },
+  {
+    "id": "P3_KV_09",
+    "direction": "ko_to_vi",
+    "skill": "ability_negation",
+    "knowledgeTarget": "Hiểu và dịch khả năng/phủ định",
+    "quantity": 3
+  },
+  {
+    "id": "P3_KV_10",
+    "direction": "ko_to_vi",
+    "skill": "reason_request",
+    "knowledgeTarget": "Hiểu và dịch câu nêu lý do/yêu cầu thêm",
+    "quantity": 3
+  },
+  {
+    "id": "P3_KV_11",
+    "direction": "ko_to_vi",
+    "skill": "habit_frequency",
+    "knowledgeTarget": "Hiểu và dịch thói quen/tần suất",
+    "quantity": 3
+  },
+  {
+    "id": "P3_KV_12",
+    "direction": "ko_to_vi",
+    "skill": "plan_intention",
+    "knowledgeTarget": "Hiểu và dịch kế hoạch/ý định cuối tuần",
+    "quantity": 3
+  },
+  {
+    "id": "P3_KV_13",
+    "direction": "ko_to_vi",
+    "skill": "location_existence",
+    "knowledgeTarget": "Hiểu và dịch vị trí/sự tồn tại",
+    "quantity": 3
+  },
+  {
+    "id": "P3_KV_14",
+    "direction": "ko_to_vi",
+    "skill": "time_schedule",
+    "knowledgeTarget": "Hiểu và dịch lịch trình/thời gian",
+    "quantity": 3
+  }
+]

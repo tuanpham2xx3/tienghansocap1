@@ -1,0 +1,1222 @@
+[
+  {
+    "id": "PART3_EXAM_001",
+    "part": 3,
+    "questionCount": 8,
+    "directionQuota": {
+      "vi_to_ko": 4,
+      "ko_to_vi": 4
+    },
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part3-v1",
+    "questions": [
+      {
+        "questionId": "P3_VK_02_Q003",
+        "poolId": "P3_VK_02",
+        "direction": "vi_to_ko",
+        "displayOrder": 1
+      },
+      {
+        "questionId": "P3_VK_06_Q002",
+        "poolId": "P3_VK_06",
+        "direction": "vi_to_ko",
+        "displayOrder": 2
+      },
+      {
+        "questionId": "P3_VK_08_Q002",
+        "poolId": "P3_VK_08",
+        "direction": "vi_to_ko",
+        "displayOrder": 3
+      },
+      {
+        "questionId": "P3_VK_07_Q002",
+        "poolId": "P3_VK_07",
+        "direction": "vi_to_ko",
+        "displayOrder": 4
+      },
+      {
+        "questionId": "P3_KV_13_Q001",
+        "poolId": "P3_KV_13",
+        "direction": "ko_to_vi",
+        "displayOrder": 5
+      },
+      {
+        "questionId": "P3_KV_08_Q001",
+        "poolId": "P3_KV_08",
+        "direction": "ko_to_vi",
+        "displayOrder": 6
+      },
+      {
+        "questionId": "P3_KV_09_Q001",
+        "poolId": "P3_KV_09",
+        "direction": "ko_to_vi",
+        "displayOrder": 7
+      },
+      {
+        "questionId": "P3_KV_02_Q001",
+        "poolId": "P3_KV_02",
+        "direction": "ko_to_vi",
+        "displayOrder": 8
+      }
+    ]
+  },
+  {
+    "id": "PART3_EXAM_002",
+    "part": 3,
+    "questionCount": 8,
+    "directionQuota": {
+      "vi_to_ko": 4,
+      "ko_to_vi": 4
+    },
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part3-v1",
+    "questions": [
+      {
+        "questionId": "P3_VK_03_Q002",
+        "poolId": "P3_VK_03",
+        "direction": "vi_to_ko",
+        "displayOrder": 1
+      },
+      {
+        "questionId": "P3_VK_13_Q002",
+        "poolId": "P3_VK_13",
+        "direction": "vi_to_ko",
+        "displayOrder": 2
+      },
+      {
+        "questionId": "P3_VK_05_Q002",
+        "poolId": "P3_VK_05",
+        "direction": "vi_to_ko",
+        "displayOrder": 3
+      },
+      {
+        "questionId": "P3_VK_09_Q003",
+        "poolId": "P3_VK_09",
+        "direction": "vi_to_ko",
+        "displayOrder": 4
+      },
+      {
+        "questionId": "P3_KV_10_Q002",
+        "poolId": "P3_KV_10",
+        "direction": "ko_to_vi",
+        "displayOrder": 5
+      },
+      {
+        "questionId": "P3_KV_04_Q001",
+        "poolId": "P3_KV_04",
+        "direction": "ko_to_vi",
+        "displayOrder": 6
+      },
+      {
+        "questionId": "P3_KV_07_Q003",
+        "poolId": "P3_KV_07",
+        "direction": "ko_to_vi",
+        "displayOrder": 7
+      },
+      {
+        "questionId": "P3_KV_11_Q001",
+        "poolId": "P3_KV_11",
+        "direction": "ko_to_vi",
+        "displayOrder": 8
+      }
+    ]
+  },
+  {
+    "id": "PART3_EXAM_003",
+    "part": 3,
+    "questionCount": 8,
+    "directionQuota": {
+      "vi_to_ko": 4,
+      "ko_to_vi": 4
+    },
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part3-v1",
+    "questions": [
+      {
+        "questionId": "P3_VK_04_Q001",
+        "poolId": "P3_VK_04",
+        "direction": "vi_to_ko",
+        "displayOrder": 1
+      },
+      {
+        "questionId": "P3_VK_10_Q003",
+        "poolId": "P3_VK_10",
+        "direction": "vi_to_ko",
+        "displayOrder": 2
+      },
+      {
+        "questionId": "P3_VK_14_Q001",
+        "poolId": "P3_VK_14",
+        "direction": "vi_to_ko",
+        "displayOrder": 3
+      },
+      {
+        "questionId": "P3_VK_12_Q002",
+        "poolId": "P3_VK_12",
+        "direction": "vi_to_ko",
+        "displayOrder": 4
+      },
+      {
+        "questionId": "P3_KV_14_Q002",
+        "poolId": "P3_KV_14",
+        "direction": "ko_to_vi",
+        "displayOrder": 5
+      },
+      {
+        "questionId": "P3_KV_01_Q001",
+        "poolId": "P3_KV_01",
+        "direction": "ko_to_vi",
+        "displayOrder": 6
+      },
+      {
+        "questionId": "P3_KV_03_Q001",
+        "poolId": "P3_KV_03",
+        "direction": "ko_to_vi",
+        "displayOrder": 7
+      },
+      {
+        "questionId": "P3_KV_12_Q003",
+        "poolId": "P3_KV_12",
+        "direction": "ko_to_vi",
+        "displayOrder": 8
+      }
+    ]
+  },
+  {
+    "id": "PART3_EXAM_004",
+    "part": 3,
+    "questionCount": 8,
+    "directionQuota": {
+      "vi_to_ko": 4,
+      "ko_to_vi": 4
+    },
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part3-v1",
+    "questions": [
+      {
+        "questionId": "P3_VK_03_Q003",
+        "poolId": "P3_VK_03",
+        "direction": "vi_to_ko",
+        "displayOrder": 1
+      },
+      {
+        "questionId": "P3_VK_01_Q002",
+        "poolId": "P3_VK_01",
+        "direction": "vi_to_ko",
+        "displayOrder": 2
+      },
+      {
+        "questionId": "P3_VK_11_Q002",
+        "poolId": "P3_VK_11",
+        "direction": "vi_to_ko",
+        "displayOrder": 3
+      },
+      {
+        "questionId": "P3_VK_05_Q001",
+        "poolId": "P3_VK_05",
+        "direction": "vi_to_ko",
+        "displayOrder": 4
+      },
+      {
+        "questionId": "P3_KV_05_Q003",
+        "poolId": "P3_KV_05",
+        "direction": "ko_to_vi",
+        "displayOrder": 5
+      },
+      {
+        "questionId": "P3_KV_06_Q002",
+        "poolId": "P3_KV_06",
+        "direction": "ko_to_vi",
+        "displayOrder": 6
+      },
+      {
+        "questionId": "P3_KV_14_Q003",
+        "poolId": "P3_KV_14",
+        "direction": "ko_to_vi",
+        "displayOrder": 7
+      },
+      {
+        "questionId": "P3_KV_09_Q003",
+        "poolId": "P3_KV_09",
+        "direction": "ko_to_vi",
+        "displayOrder": 8
+      }
+    ]
+  },
+  {
+    "id": "PART3_EXAM_005",
+    "part": 3,
+    "questionCount": 8,
+    "directionQuota": {
+      "vi_to_ko": 4,
+      "ko_to_vi": 4
+    },
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part3-v1",
+    "questions": [
+      {
+        "questionId": "P3_VK_06_Q003",
+        "poolId": "P3_VK_06",
+        "direction": "vi_to_ko",
+        "displayOrder": 1
+      },
+      {
+        "questionId": "P3_VK_07_Q001",
+        "poolId": "P3_VK_07",
+        "direction": "vi_to_ko",
+        "displayOrder": 2
+      },
+      {
+        "questionId": "P3_VK_08_Q001",
+        "poolId": "P3_VK_08",
+        "direction": "vi_to_ko",
+        "displayOrder": 3
+      },
+      {
+        "questionId": "P3_VK_10_Q002",
+        "poolId": "P3_VK_10",
+        "direction": "vi_to_ko",
+        "displayOrder": 4
+      },
+      {
+        "questionId": "P3_KV_11_Q003",
+        "poolId": "P3_KV_11",
+        "direction": "ko_to_vi",
+        "displayOrder": 5
+      },
+      {
+        "questionId": "P3_KV_10_Q003",
+        "poolId": "P3_KV_10",
+        "direction": "ko_to_vi",
+        "displayOrder": 6
+      },
+      {
+        "questionId": "P3_KV_01_Q002",
+        "poolId": "P3_KV_01",
+        "direction": "ko_to_vi",
+        "displayOrder": 7
+      },
+      {
+        "questionId": "P3_KV_13_Q002",
+        "poolId": "P3_KV_13",
+        "direction": "ko_to_vi",
+        "displayOrder": 8
+      }
+    ]
+  },
+  {
+    "id": "PART3_EXAM_006",
+    "part": 3,
+    "questionCount": 8,
+    "directionQuota": {
+      "vi_to_ko": 4,
+      "ko_to_vi": 4
+    },
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part3-v1",
+    "questions": [
+      {
+        "questionId": "P3_VK_11_Q001",
+        "poolId": "P3_VK_11",
+        "direction": "vi_to_ko",
+        "displayOrder": 1
+      },
+      {
+        "questionId": "P3_VK_09_Q002",
+        "poolId": "P3_VK_09",
+        "direction": "vi_to_ko",
+        "displayOrder": 2
+      },
+      {
+        "questionId": "P3_VK_13_Q001",
+        "poolId": "P3_VK_13",
+        "direction": "vi_to_ko",
+        "displayOrder": 3
+      },
+      {
+        "questionId": "P3_VK_12_Q001",
+        "poolId": "P3_VK_12",
+        "direction": "vi_to_ko",
+        "displayOrder": 4
+      },
+      {
+        "questionId": "P3_KV_03_Q003",
+        "poolId": "P3_KV_03",
+        "direction": "ko_to_vi",
+        "displayOrder": 5
+      },
+      {
+        "questionId": "P3_KV_02_Q002",
+        "poolId": "P3_KV_02",
+        "direction": "ko_to_vi",
+        "displayOrder": 6
+      },
+      {
+        "questionId": "P3_KV_12_Q002",
+        "poolId": "P3_KV_12",
+        "direction": "ko_to_vi",
+        "displayOrder": 7
+      },
+      {
+        "questionId": "P3_KV_07_Q001",
+        "poolId": "P3_KV_07",
+        "direction": "ko_to_vi",
+        "displayOrder": 8
+      }
+    ]
+  },
+  {
+    "id": "PART3_EXAM_007",
+    "part": 3,
+    "questionCount": 8,
+    "directionQuota": {
+      "vi_to_ko": 4,
+      "ko_to_vi": 4
+    },
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part3-v1",
+    "questions": [
+      {
+        "questionId": "P3_VK_14_Q002",
+        "poolId": "P3_VK_14",
+        "direction": "vi_to_ko",
+        "displayOrder": 1
+      },
+      {
+        "questionId": "P3_VK_01_Q003",
+        "poolId": "P3_VK_01",
+        "direction": "vi_to_ko",
+        "displayOrder": 2
+      },
+      {
+        "questionId": "P3_VK_02_Q002",
+        "poolId": "P3_VK_02",
+        "direction": "vi_to_ko",
+        "displayOrder": 3
+      },
+      {
+        "questionId": "P3_VK_04_Q003",
+        "poolId": "P3_VK_04",
+        "direction": "vi_to_ko",
+        "displayOrder": 4
+      },
+      {
+        "questionId": "P3_KV_04_Q002",
+        "poolId": "P3_KV_04",
+        "direction": "ko_to_vi",
+        "displayOrder": 5
+      },
+      {
+        "questionId": "P3_KV_06_Q003",
+        "poolId": "P3_KV_06",
+        "direction": "ko_to_vi",
+        "displayOrder": 6
+      },
+      {
+        "questionId": "P3_KV_05_Q001",
+        "poolId": "P3_KV_05",
+        "direction": "ko_to_vi",
+        "displayOrder": 7
+      },
+      {
+        "questionId": "P3_KV_08_Q003",
+        "poolId": "P3_KV_08",
+        "direction": "ko_to_vi",
+        "displayOrder": 8
+      }
+    ]
+  },
+  {
+    "id": "PART3_EXAM_008",
+    "part": 3,
+    "questionCount": 8,
+    "directionQuota": {
+      "vi_to_ko": 4,
+      "ko_to_vi": 4
+    },
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part3-v1",
+    "questions": [
+      {
+        "questionId": "P3_VK_12_Q003",
+        "poolId": "P3_VK_12",
+        "direction": "vi_to_ko",
+        "displayOrder": 1
+      },
+      {
+        "questionId": "P3_VK_10_Q001",
+        "poolId": "P3_VK_10",
+        "direction": "vi_to_ko",
+        "displayOrder": 2
+      },
+      {
+        "questionId": "P3_VK_08_Q003",
+        "poolId": "P3_VK_08",
+        "direction": "vi_to_ko",
+        "displayOrder": 3
+      },
+      {
+        "questionId": "P3_VK_05_Q003",
+        "poolId": "P3_VK_05",
+        "direction": "vi_to_ko",
+        "displayOrder": 4
+      },
+      {
+        "questionId": "P3_KV_04_Q003",
+        "poolId": "P3_KV_04",
+        "direction": "ko_to_vi",
+        "displayOrder": 5
+      },
+      {
+        "questionId": "P3_KV_14_Q001",
+        "poolId": "P3_KV_14",
+        "direction": "ko_to_vi",
+        "displayOrder": 6
+      },
+      {
+        "questionId": "P3_KV_01_Q003",
+        "poolId": "P3_KV_01",
+        "direction": "ko_to_vi",
+        "displayOrder": 7
+      },
+      {
+        "questionId": "P3_KV_07_Q002",
+        "poolId": "P3_KV_07",
+        "direction": "ko_to_vi",
+        "displayOrder": 8
+      }
+    ]
+  },
+  {
+    "id": "PART3_EXAM_009",
+    "part": 3,
+    "questionCount": 8,
+    "directionQuota": {
+      "vi_to_ko": 4,
+      "ko_to_vi": 4
+    },
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part3-v1",
+    "questions": [
+      {
+        "questionId": "P3_VK_04_Q002",
+        "poolId": "P3_VK_04",
+        "direction": "vi_to_ko",
+        "displayOrder": 1
+      },
+      {
+        "questionId": "P3_VK_02_Q001",
+        "poolId": "P3_VK_02",
+        "direction": "vi_to_ko",
+        "displayOrder": 2
+      },
+      {
+        "questionId": "P3_VK_07_Q003",
+        "poolId": "P3_VK_07",
+        "direction": "vi_to_ko",
+        "displayOrder": 3
+      },
+      {
+        "questionId": "P3_VK_03_Q001",
+        "poolId": "P3_VK_03",
+        "direction": "vi_to_ko",
+        "displayOrder": 4
+      },
+      {
+        "questionId": "P3_KV_05_Q002",
+        "poolId": "P3_KV_05",
+        "direction": "ko_to_vi",
+        "displayOrder": 5
+      },
+      {
+        "questionId": "P3_KV_13_Q003",
+        "poolId": "P3_KV_13",
+        "direction": "ko_to_vi",
+        "displayOrder": 6
+      },
+      {
+        "questionId": "P3_KV_11_Q002",
+        "poolId": "P3_KV_11",
+        "direction": "ko_to_vi",
+        "displayOrder": 7
+      },
+      {
+        "questionId": "P3_KV_10_Q001",
+        "poolId": "P3_KV_10",
+        "direction": "ko_to_vi",
+        "displayOrder": 8
+      }
+    ]
+  },
+  {
+    "id": "PART3_EXAM_010",
+    "part": 3,
+    "questionCount": 8,
+    "directionQuota": {
+      "vi_to_ko": 4,
+      "ko_to_vi": 4
+    },
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part3-v1",
+    "questions": [
+      {
+        "questionId": "P3_VK_13_Q003",
+        "poolId": "P3_VK_13",
+        "direction": "vi_to_ko",
+        "displayOrder": 1
+      },
+      {
+        "questionId": "P3_VK_01_Q001",
+        "poolId": "P3_VK_01",
+        "direction": "vi_to_ko",
+        "displayOrder": 2
+      },
+      {
+        "questionId": "P3_VK_09_Q001",
+        "poolId": "P3_VK_09",
+        "direction": "vi_to_ko",
+        "displayOrder": 3
+      },
+      {
+        "questionId": "P3_VK_06_Q001",
+        "poolId": "P3_VK_06",
+        "direction": "vi_to_ko",
+        "displayOrder": 4
+      },
+      {
+        "questionId": "P3_KV_02_Q003",
+        "poolId": "P3_KV_02",
+        "direction": "ko_to_vi",
+        "displayOrder": 5
+      },
+      {
+        "questionId": "P3_KV_09_Q002",
+        "poolId": "P3_KV_09",
+        "direction": "ko_to_vi",
+        "displayOrder": 6
+      },
+      {
+        "questionId": "P3_KV_08_Q002",
+        "poolId": "P3_KV_08",
+        "direction": "ko_to_vi",
+        "displayOrder": 7
+      },
+      {
+        "questionId": "P3_KV_12_Q001",
+        "poolId": "P3_KV_12",
+        "direction": "ko_to_vi",
+        "displayOrder": 8
+      }
+    ]
+  },
+  {
+    "id": "PART3_EXAM_011",
+    "part": 3,
+    "questionCount": 8,
+    "directionQuota": {
+      "vi_to_ko": 4,
+      "ko_to_vi": 4
+    },
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part3-v1",
+    "questions": [
+      {
+        "questionId": "P3_VK_07_Q003",
+        "poolId": "P3_VK_07",
+        "direction": "vi_to_ko",
+        "displayOrder": 1
+      },
+      {
+        "questionId": "P3_VK_14_Q003",
+        "poolId": "P3_VK_14",
+        "direction": "vi_to_ko",
+        "displayOrder": 2
+      },
+      {
+        "questionId": "P3_VK_04_Q001",
+        "poolId": "P3_VK_04",
+        "direction": "vi_to_ko",
+        "displayOrder": 3
+      },
+      {
+        "questionId": "P3_VK_11_Q003",
+        "poolId": "P3_VK_11",
+        "direction": "vi_to_ko",
+        "displayOrder": 4
+      },
+      {
+        "questionId": "P3_KV_08_Q002",
+        "poolId": "P3_KV_08",
+        "direction": "ko_to_vi",
+        "displayOrder": 5
+      },
+      {
+        "questionId": "P3_KV_06_Q001",
+        "poolId": "P3_KV_06",
+        "direction": "ko_to_vi",
+        "displayOrder": 6
+      },
+      {
+        "questionId": "P3_KV_03_Q002",
+        "poolId": "P3_KV_03",
+        "direction": "ko_to_vi",
+        "displayOrder": 7
+      },
+      {
+        "questionId": "P3_KV_10_Q001",
+        "poolId": "P3_KV_10",
+        "direction": "ko_to_vi",
+        "displayOrder": 8
+      }
+    ]
+  },
+  {
+    "id": "PART3_EXAM_012",
+    "part": 3,
+    "questionCount": 8,
+    "directionQuota": {
+      "vi_to_ko": 4,
+      "ko_to_vi": 4
+    },
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part3-v1",
+    "questions": [
+      {
+        "questionId": "P3_VK_02_Q001",
+        "poolId": "P3_VK_02",
+        "direction": "vi_to_ko",
+        "displayOrder": 1
+      },
+      {
+        "questionId": "P3_VK_14_Q001",
+        "poolId": "P3_VK_14",
+        "direction": "vi_to_ko",
+        "displayOrder": 2
+      },
+      {
+        "questionId": "P3_VK_12_Q001",
+        "poolId": "P3_VK_12",
+        "direction": "vi_to_ko",
+        "displayOrder": 3
+      },
+      {
+        "questionId": "P3_VK_10_Q002",
+        "poolId": "P3_VK_10",
+        "direction": "vi_to_ko",
+        "displayOrder": 4
+      },
+      {
+        "questionId": "P3_KV_02_Q002",
+        "poolId": "P3_KV_02",
+        "direction": "ko_to_vi",
+        "displayOrder": 5
+      },
+      {
+        "questionId": "P3_KV_03_Q001",
+        "poolId": "P3_KV_03",
+        "direction": "ko_to_vi",
+        "displayOrder": 6
+      },
+      {
+        "questionId": "P3_KV_13_Q001",
+        "poolId": "P3_KV_13",
+        "direction": "ko_to_vi",
+        "displayOrder": 7
+      },
+      {
+        "questionId": "P3_KV_14_Q003",
+        "poolId": "P3_KV_14",
+        "direction": "ko_to_vi",
+        "displayOrder": 8
+      }
+    ]
+  },
+  {
+    "id": "PART3_EXAM_013",
+    "part": 3,
+    "questionCount": 8,
+    "directionQuota": {
+      "vi_to_ko": 4,
+      "ko_to_vi": 4
+    },
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part3-v1",
+    "questions": [
+      {
+        "questionId": "P3_VK_03_Q002",
+        "poolId": "P3_VK_03",
+        "direction": "vi_to_ko",
+        "displayOrder": 1
+      },
+      {
+        "questionId": "P3_VK_05_Q002",
+        "poolId": "P3_VK_05",
+        "direction": "vi_to_ko",
+        "displayOrder": 2
+      },
+      {
+        "questionId": "P3_VK_06_Q003",
+        "poolId": "P3_VK_06",
+        "direction": "vi_to_ko",
+        "displayOrder": 3
+      },
+      {
+        "questionId": "P3_VK_08_Q001",
+        "poolId": "P3_VK_08",
+        "direction": "vi_to_ko",
+        "displayOrder": 4
+      },
+      {
+        "questionId": "P3_KV_06_Q002",
+        "poolId": "P3_KV_06",
+        "direction": "ko_to_vi",
+        "displayOrder": 5
+      },
+      {
+        "questionId": "P3_KV_11_Q003",
+        "poolId": "P3_KV_11",
+        "direction": "ko_to_vi",
+        "displayOrder": 6
+      },
+      {
+        "questionId": "P3_KV_12_Q003",
+        "poolId": "P3_KV_12",
+        "direction": "ko_to_vi",
+        "displayOrder": 7
+      },
+      {
+        "questionId": "P3_KV_04_Q001",
+        "poolId": "P3_KV_04",
+        "direction": "ko_to_vi",
+        "displayOrder": 8
+      }
+    ]
+  },
+  {
+    "id": "PART3_EXAM_014",
+    "part": 3,
+    "questionCount": 8,
+    "directionQuota": {
+      "vi_to_ko": 4,
+      "ko_to_vi": 4
+    },
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part3-v1",
+    "questions": [
+      {
+        "questionId": "P3_VK_13_Q003",
+        "poolId": "P3_VK_13",
+        "direction": "vi_to_ko",
+        "displayOrder": 1
+      },
+      {
+        "questionId": "P3_VK_11_Q002",
+        "poolId": "P3_VK_11",
+        "direction": "vi_to_ko",
+        "displayOrder": 2
+      },
+      {
+        "questionId": "P3_VK_09_Q001",
+        "poolId": "P3_VK_09",
+        "direction": "vi_to_ko",
+        "displayOrder": 3
+      },
+      {
+        "questionId": "P3_VK_01_Q003",
+        "poolId": "P3_VK_01",
+        "direction": "vi_to_ko",
+        "displayOrder": 4
+      },
+      {
+        "questionId": "P3_KV_07_Q002",
+        "poolId": "P3_KV_07",
+        "direction": "ko_to_vi",
+        "displayOrder": 5
+      },
+      {
+        "questionId": "P3_KV_05_Q001",
+        "poolId": "P3_KV_05",
+        "direction": "ko_to_vi",
+        "displayOrder": 6
+      },
+      {
+        "questionId": "P3_KV_01_Q002",
+        "poolId": "P3_KV_01",
+        "direction": "ko_to_vi",
+        "displayOrder": 7
+      },
+      {
+        "questionId": "P3_KV_09_Q002",
+        "poolId": "P3_KV_09",
+        "direction": "ko_to_vi",
+        "displayOrder": 8
+      }
+    ]
+  },
+  {
+    "id": "PART3_EXAM_015",
+    "part": 3,
+    "questionCount": 8,
+    "directionQuota": {
+      "vi_to_ko": 4,
+      "ko_to_vi": 4
+    },
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part3-v1",
+    "questions": [
+      {
+        "questionId": "P3_VK_06_Q001",
+        "poolId": "P3_VK_06",
+        "direction": "vi_to_ko",
+        "displayOrder": 1
+      },
+      {
+        "questionId": "P3_VK_08_Q003",
+        "poolId": "P3_VK_08",
+        "direction": "vi_to_ko",
+        "displayOrder": 2
+      },
+      {
+        "questionId": "P3_VK_02_Q002",
+        "poolId": "P3_VK_02",
+        "direction": "vi_to_ko",
+        "displayOrder": 3
+      },
+      {
+        "questionId": "P3_VK_03_Q003",
+        "poolId": "P3_VK_03",
+        "direction": "vi_to_ko",
+        "displayOrder": 4
+      },
+      {
+        "questionId": "P3_KV_05_Q002",
+        "poolId": "P3_KV_05",
+        "direction": "ko_to_vi",
+        "displayOrder": 5
+      },
+      {
+        "questionId": "P3_KV_06_Q003",
+        "poolId": "P3_KV_06",
+        "direction": "ko_to_vi",
+        "displayOrder": 6
+      },
+      {
+        "questionId": "P3_KV_13_Q002",
+        "poolId": "P3_KV_13",
+        "direction": "ko_to_vi",
+        "displayOrder": 7
+      },
+      {
+        "questionId": "P3_KV_04_Q003",
+        "poolId": "P3_KV_04",
+        "direction": "ko_to_vi",
+        "displayOrder": 8
+      }
+    ]
+  },
+  {
+    "id": "PART3_EXAM_016",
+    "part": 3,
+    "questionCount": 8,
+    "directionQuota": {
+      "vi_to_ko": 4,
+      "ko_to_vi": 4
+    },
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part3-v1",
+    "questions": [
+      {
+        "questionId": "P3_VK_11_Q003",
+        "poolId": "P3_VK_11",
+        "direction": "vi_to_ko",
+        "displayOrder": 1
+      },
+      {
+        "questionId": "P3_VK_10_Q001",
+        "poolId": "P3_VK_10",
+        "direction": "vi_to_ko",
+        "displayOrder": 2
+      },
+      {
+        "questionId": "P3_VK_05_Q001",
+        "poolId": "P3_VK_05",
+        "direction": "vi_to_ko",
+        "displayOrder": 3
+      },
+      {
+        "questionId": "P3_VK_12_Q003",
+        "poolId": "P3_VK_12",
+        "direction": "vi_to_ko",
+        "displayOrder": 4
+      },
+      {
+        "questionId": "P3_KV_03_Q003",
+        "poolId": "P3_KV_03",
+        "direction": "ko_to_vi",
+        "displayOrder": 5
+      },
+      {
+        "questionId": "P3_KV_12_Q002",
+        "poolId": "P3_KV_12",
+        "direction": "ko_to_vi",
+        "displayOrder": 6
+      },
+      {
+        "questionId": "P3_KV_01_Q001",
+        "poolId": "P3_KV_01",
+        "direction": "ko_to_vi",
+        "displayOrder": 7
+      },
+      {
+        "questionId": "P3_KV_14_Q001",
+        "poolId": "P3_KV_14",
+        "direction": "ko_to_vi",
+        "displayOrder": 8
+      }
+    ]
+  },
+  {
+    "id": "PART3_EXAM_017",
+    "part": 3,
+    "questionCount": 8,
+    "directionQuota": {
+      "vi_to_ko": 4,
+      "ko_to_vi": 4
+    },
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part3-v1",
+    "questions": [
+      {
+        "questionId": "P3_VK_09_Q002",
+        "poolId": "P3_VK_09",
+        "direction": "vi_to_ko",
+        "displayOrder": 1
+      },
+      {
+        "questionId": "P3_VK_14_Q003",
+        "poolId": "P3_VK_14",
+        "direction": "vi_to_ko",
+        "displayOrder": 2
+      },
+      {
+        "questionId": "P3_VK_04_Q003",
+        "poolId": "P3_VK_04",
+        "direction": "vi_to_ko",
+        "displayOrder": 3
+      },
+      {
+        "questionId": "P3_VK_13_Q001",
+        "poolId": "P3_VK_13",
+        "direction": "vi_to_ko",
+        "displayOrder": 4
+      },
+      {
+        "questionId": "P3_KV_07_Q001",
+        "poolId": "P3_KV_07",
+        "direction": "ko_to_vi",
+        "displayOrder": 5
+      },
+      {
+        "questionId": "P3_KV_10_Q003",
+        "poolId": "P3_KV_10",
+        "direction": "ko_to_vi",
+        "displayOrder": 6
+      },
+      {
+        "questionId": "P3_KV_09_Q001",
+        "poolId": "P3_KV_09",
+        "direction": "ko_to_vi",
+        "displayOrder": 7
+      },
+      {
+        "questionId": "P3_KV_11_Q001",
+        "poolId": "P3_KV_11",
+        "direction": "ko_to_vi",
+        "displayOrder": 8
+      }
+    ]
+  },
+  {
+    "id": "PART3_EXAM_018",
+    "part": 3,
+    "questionCount": 8,
+    "directionQuota": {
+      "vi_to_ko": 4,
+      "ko_to_vi": 4
+    },
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part3-v1",
+    "questions": [
+      {
+        "questionId": "P3_VK_05_Q003",
+        "poolId": "P3_VK_05",
+        "direction": "vi_to_ko",
+        "displayOrder": 1
+      },
+      {
+        "questionId": "P3_VK_11_Q001",
+        "poolId": "P3_VK_11",
+        "direction": "vi_to_ko",
+        "displayOrder": 2
+      },
+      {
+        "questionId": "P3_VK_07_Q002",
+        "poolId": "P3_VK_07",
+        "direction": "vi_to_ko",
+        "displayOrder": 3
+      },
+      {
+        "questionId": "P3_VK_01_Q002",
+        "poolId": "P3_VK_01",
+        "direction": "vi_to_ko",
+        "displayOrder": 4
+      },
+      {
+        "questionId": "P3_KV_02_Q001",
+        "poolId": "P3_KV_02",
+        "direction": "ko_to_vi",
+        "displayOrder": 5
+      },
+      {
+        "questionId": "P3_KV_04_Q002",
+        "poolId": "P3_KV_04",
+        "direction": "ko_to_vi",
+        "displayOrder": 6
+      },
+      {
+        "questionId": "P3_KV_14_Q002",
+        "poolId": "P3_KV_14",
+        "direction": "ko_to_vi",
+        "displayOrder": 7
+      },
+      {
+        "questionId": "P3_KV_08_Q003",
+        "poolId": "P3_KV_08",
+        "direction": "ko_to_vi",
+        "displayOrder": 8
+      }
+    ]
+  },
+  {
+    "id": "PART3_EXAM_019",
+    "part": 3,
+    "questionCount": 8,
+    "directionQuota": {
+      "vi_to_ko": 4,
+      "ko_to_vi": 4
+    },
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part3-v1",
+    "questions": [
+      {
+        "questionId": "P3_VK_09_Q003",
+        "poolId": "P3_VK_09",
+        "direction": "vi_to_ko",
+        "displayOrder": 1
+      },
+      {
+        "questionId": "P3_VK_14_Q002",
+        "poolId": "P3_VK_14",
+        "direction": "vi_to_ko",
+        "displayOrder": 2
+      },
+      {
+        "questionId": "P3_VK_12_Q002",
+        "poolId": "P3_VK_12",
+        "direction": "vi_to_ko",
+        "displayOrder": 3
+      },
+      {
+        "questionId": "P3_VK_10_Q003",
+        "poolId": "P3_VK_10",
+        "direction": "vi_to_ko",
+        "displayOrder": 4
+      },
+      {
+        "questionId": "P3_KV_03_Q002",
+        "poolId": "P3_KV_03",
+        "direction": "ko_to_vi",
+        "displayOrder": 5
+      },
+      {
+        "questionId": "P3_KV_12_Q001",
+        "poolId": "P3_KV_12",
+        "direction": "ko_to_vi",
+        "displayOrder": 6
+      },
+      {
+        "questionId": "P3_KV_05_Q003",
+        "poolId": "P3_KV_05",
+        "direction": "ko_to_vi",
+        "displayOrder": 7
+      },
+      {
+        "questionId": "P3_KV_11_Q002",
+        "poolId": "P3_KV_11",
+        "direction": "ko_to_vi",
+        "displayOrder": 8
+      }
+    ]
+  },
+  {
+    "id": "PART3_EXAM_020",
+    "part": 3,
+    "questionCount": 8,
+    "directionQuota": {
+      "vi_to_ko": 4,
+      "ko_to_vi": 4
+    },
+    "generatedAt": "2026-05-31T00:00:00.000Z",
+    "generationSeed": "part3-v1",
+    "questions": [
+      {
+        "questionId": "P3_VK_07_Q001",
+        "poolId": "P3_VK_07",
+        "direction": "vi_to_ko",
+        "displayOrder": 1
+      },
+      {
+        "questionId": "P3_VK_01_Q001",
+        "poolId": "P3_VK_01",
+        "direction": "vi_to_ko",
+        "displayOrder": 2
+      },
+      {
+        "questionId": "P3_VK_08_Q002",
+        "poolId": "P3_VK_08",
+        "direction": "vi_to_ko",
+        "displayOrder": 3
+      },
+      {
+        "questionId": "P3_VK_03_Q001",
+        "poolId": "P3_VK_03",
+        "direction": "vi_to_ko",
+        "displayOrder": 4
+      },
+      {
+        "questionId": "P3_KV_09_Q003",
+        "poolId": "P3_KV_09",
+        "direction": "ko_to_vi",
+        "displayOrder": 5
+      },
+      {
+        "questionId": "P3_KV_13_Q003",
+        "poolId": "P3_KV_13",
+        "direction": "ko_to_vi",
+        "displayOrder": 6
+      },
+      {
+        "questionId": "P3_KV_02_Q003",
+        "poolId": "P3_KV_02",
+        "direction": "ko_to_vi",
+        "displayOrder": 7
+      },
+      {
+        "questionId": "P3_KV_07_Q003",
+        "poolId": "P3_KV_07",
+        "direction": "ko_to_vi",
+        "displayOrder": 8
+      }
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "id": "P2_T2_MENU_Q002_STIMULUS",
+  "type": "menu",
+  "title": "메뉴",
+  "structuredData": {
+    "restaurantName": "분식집",
+    "items": [
+      {
+        "name": "라면",
+        "price": 4000
+      },
+      {
+        "name": "냉면",
+        "price": 5500
+      },
+      {
+        "name": "주스",
+        "price": 1500
+      }
+    ],
+    "currency": "원"
+  },
+  "fallbackText": "메뉴\n라면 4,000원\n냉면 5,500원\n주스 1,500원"
+}

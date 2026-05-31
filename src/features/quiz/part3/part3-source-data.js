@@ -1,0 +1,228 @@
+require("./types");
+
+function questionId(poolId, index) {
+  return `${poolId}_Q${String(index + 1).padStart(3, "0")}`;
+}
+
+function pool(id, direction, skill, knowledgeTarget, rows) {
+  return {
+    id,
+    direction,
+    skill,
+    knowledgeTarget,
+    quantity: 3,
+    questions: rows.map((row, index) => {
+      const [
+        prompt,
+        sampleAnswer,
+        acceptedAnswers,
+        grammarUsed,
+        vocabularyUsed,
+        explanationVi,
+        semanticGroupId,
+      ] = row;
+
+      const allAccepted = acceptedAnswers.includes(sampleAnswer)
+        ? acceptedAnswers
+        : [sampleAnswer, ...acceptedAnswers];
+
+      return {
+        id: questionId(id, index),
+        part: 3,
+        poolId: id,
+        direction,
+        skill,
+        knowledgeTarget,
+        difficulty: skill === "shopping_quantity" || skill === "reason_request" || skill === "plan_intention" ? "medium" : "easy",
+        prompt,
+        sampleAnswer,
+        acceptedAnswers: allAccepted,
+        grammarUsed,
+        vocabularyUsed,
+        explanationVi,
+        semanticGroupId,
+        validation: {
+          grammarInScope: true,
+          vocabularyInScope: true,
+          translationNatural: true,
+          multipleValidAnswersHandled: true,
+          reviewed: false,
+        },
+      };
+    }),
+  };
+}
+
+const G = {
+  invite: ["INVITATION_FORMAL", "TIME_PARTICLE", "ACTION_LOCATION_PARTICLE"],
+  pref: ["INFORMAL_POLITE_PRESENT", "OBJECT_PARTICLE", "NOUN_CONNECTOR"],
+  family: ["COPULA", "TOPIC_PARTICLE", "ACTION_LOCATION_PARTICLE", "FORMAL_PRESENT"],
+  past: ["PAST_TENSE", "TIME_PARTICLE", "ACTION_LOCATION_PARTICLE", "NOUN_CONNECTOR"],
+  nat: ["COPULA", "FORMAL_PRESENT"],
+  desire3: ["DESIRE_THIRD_PERSON", "TIME_PARTICLE"],
+  shop: ["DESIRE_FIRST_PERSON", "COUNTER_NUMBER", "POLITE_REQUEST"],
+  contrast: ["TOPIC_PARTICLE", "CONTRAST_CONNECTIVE", "INFORMAL_POLITE_PRESENT"],
+  ability: ["ABILITY", "INFORMAL_POLITE_PRESENT"],
+  reason: ["REASON_CONNECTIVE", "ABILITY", "POLITE_REQUEST"],
+  habit: ["FREQUENCY_EXPRESSION", "INFORMAL_POLITE_PRESENT", "ACTION_LOCATION_PARTICLE"],
+  plan: ["INTENTION", "NOUN_CONNECTOR"],
+  location: ["EXISTENCE_LOCATION", "COPULA"],
+  time: ["TIME_PARTICLE", "INFORMAL_POLITE_PRESENT"],
+};
+
+const PART3_POOLS = [
+  pool("P3_VK_01", "vi_to_ko", "invitation", "Dịch câu rủ rê cùng làm hoạt động tại nơi/thời gian xác định với -(으)ㅂ시다", [
+    ["Chúng ta cùng đi dạo ở công viên lúc 8 giờ tối nhé?", "오후 8시에 공원에서 같이 산책합시다.", ["오후 8시에 공원에서 함께 산책합시다."], G.invite, ["오후", "시", "공원", "같이", "산책하다"], "Dùng -(으)ㅂ시다 để rủ rê cùng làm việc.", "P3_SEM_INVITE_PARK_8PM"],
+    ["Chúng mình cùng học bài ở thư viện lúc 8 giờ tối nhé?", "오후 8시에 도서관에서 같이 공부합시다.", ["오후 8시에 도서관에서 함께 공부합시다."], G.invite, ["오후", "시", "도서관", "같이", "공부하다"], "Câu rủ rê học cùng dùng 공부합시다.", "P3_SEM_INVITE_LIBRARY_8PM"],
+    ["Cuối tuần chúng ta cùng leo núi với bạn nhé?", "주말에 친구와 같이 등산합시다.", ["주말에 친구하고 같이 등산합시다."], ["INVITATION_FORMAL", "TIME_PARTICLE", "NOUN_CONNECTOR"], ["주말", "친구", "같이", "등산하다"], "친구와/친구하고 đều là cách nối danh từ trong phạm vi.", "P3_SEM_INVITE_HIKING_WEEKEND"],
+  ]),
+  pool("P3_VK_02", "vi_to_ko", "preference", "Dịch câu sở thích với 좋아하다, 을/를, 와/과 hoặc 하고", [
+    ["Nam thích tiếng Hàn và tiếng Việt.", "남 씨는 한국어와 베트남어를 좋아합니다.", ["남 씨는 한국어하고 베트남어를 좋아해요."], G.pref, ["남 씨", "한국어", "베트남어", "좋아하다"], "Tân ngữ của 좋아하다 dùng 을/를; hai danh từ nối bằng 와/과 hoặc 하고.", "P3_SEM_PREF_LANG_NAM"],
+    ["Tôi thích nghe nhạc.", "저는 음악을 듣는 것을 좋아해요.", ["저는 음악을 좋아해요."], ["INFORMAL_POLITE_PRESENT", "OBJECT_PARTICLE"], ["저", "음악", "듣다", "좋아하다"], "Bản dịch chấp nhận diễn đạt sở thích nghe nhạc tự nhiên.", "P3_SEM_PREF_MUSIC_ME"],
+    ["Hương thích tiếng Hàn.", "흐엉 씨는 한국어를 좋아해요.", ["흐엉 씨는 한국어를 좋아합니다."], ["INFORMAL_POLITE_PRESENT", "FORMAL_PRESENT", "OBJECT_PARTICLE"], ["흐엉 씨", "한국어", "좋아하다"], "Dùng 좋아하다 với tân ngữ 한국어를.", "P3_SEM_PREF_KOREAN_HUONG"],
+  ]),
+  pool("P3_VK_03", "vi_to_ko", "family_job", "Dịch câu giới thiệu người thân, nghề nghiệp và nơi làm việc", [
+    ["Bố của tôi là bác sĩ. Ông ấy làm việc ở bệnh viện Đà Nẵng.", "제 아버지는 의사입니다. 다낭 병원에서 일합니다.", ["우리 아빠는 의사예요. 다낭 병원에서 일해요."], G.family, ["아버지", "아빠", "의사", "다낭 병원", "일하다"], "Giới thiệu nghề dùng 이다; nơi làm việc dùng 에서.", "P3_SEM_FAMILY_FATHER_DOCTOR"],
+    ["Mẹ tôi làm việc ở bệnh viện.", "제 어머니는 병원에서 일해요.", ["우리 엄마는 병원에서 일합니다."], ["TOPIC_PARTICLE", "ACTION_LOCATION_PARTICLE", "INFORMAL_POLITE_PRESENT", "FORMAL_PRESENT"], ["어머니", "엄마", "병원", "일하다"], "Địa điểm xảy ra hành động 일하다 dùng 에서.", "P3_SEM_FAMILY_MOTHER_HOSPITAL"],
+    ["Bố tôi là bác sĩ ở bệnh viện.", "제 아버지는 병원 의사입니다.", ["우리 아빠는 병원에서 일하는 의사예요."], ["COPULA", "TOPIC_PARTICLE"], ["아버지", "아빠", "병원", "의사", "일하다"], "Câu giới thiệu quan hệ và nghề nghiệp.", "P3_SEM_FAMILY_FATHER_HOSPITAL_DOCTOR"],
+  ]),
+  pool("P3_VK_04", "vi_to_ko", "past_activity", "Dịch hoạt động quá khứ với bạn/gia đình tại địa điểm", [
+    ["Chủ nhật tuần này tôi đã làm kim chi với bạn ở nhà.", "이번 주 일요일에 저는 친구와 같이 집에서 김치를 만들었습니다.", ["이번 주 일요일에 저는 친구하고 같이 집에서 김치를 만들었어요."], G.past, ["이번 주", "일요일", "저", "친구", "같이", "집", "김치", "만들다"], "Hoạt động quá khứ dùng -았/었-; địa điểm hành động dùng 에서.", "P3_SEM_PAST_KIMCHI_HOME"],
+    ["Tuần trước Nam đã ăn đồ ăn Hàn Quốc cùng với gia đình ở nhà hàng.", "남 씨는 지난주에 식당에서 가족과 같이 한국 음식을 먹었습니다.", ["남 씨는 지난주에 가족하고 같이 식당에서 한식을 먹었어요."], G.past, ["남 씨", "지난주", "식당", "가족", "같이", "한국 음식", "한식", "먹다"], "Giữ đủ thời gian, địa điểm, người đi cùng và món ăn.", "P3_SEM_PAST_KOREAN_FOOD_FAMILY"],
+    ["Hôm nay tôi đã học tiếng Hàn ở thư viện với bạn.", "오늘 저는 친구와 같이 도서관에서 한국어를 공부했어요.", ["오늘 저는 친구하고 같이 도서관에서 한국어를 공부했습니다."], G.past, ["오늘", "저", "친구", "같이", "도서관", "한국어", "공부하다"], "Dùng 공부했어요/공부했습니다 cho quá khứ.", "P3_SEM_PAST_STUDY_LIBRARY"],
+  ]),
+  pool("P3_VK_05", "vi_to_ko", "nationality_qa", "Dịch hội thoại hỏi/đáp quốc tịch", [
+    ["Anh có phải là người Mỹ không? Không, tôi là người Pháp.", "미국 사람입니까? 아니요, 저는 프랑스 사람입니다.", ["미국 사람이에요? 아니요, 저는 프랑스 사람이에요."], G.nat, ["미국 사람", "저", "프랑스 사람"], "Hỏi đáp danh từ dùng 입니까/입니다 hoặc 이에요/예요.", "P3_SEM_NAT_US_FR"],
+    ["Nam có phải là người Pháp không? Không, Nam là người Mỹ.", "남 씨는 프랑스 사람입니까? 아니요, 남 씨는 미국 사람입니다.", ["남 씨는 프랑스 사람이에요? 아니요, 남 씨는 미국 사람이에요."], G.nat, ["남 씨", "프랑스 사람", "미국 사람"], "Giữ đúng chủ thể Nam và quốc tịch.", "P3_SEM_NAT_NAM_FR_US"],
+    ["Hương có phải là người Mỹ không? Không, Hương là người Pháp.", "흐엉 씨는 미국 사람입니까? 아니요, 흐엉 씨는 프랑스 사람입니다.", ["흐엉 씨는 미국 사람이에요? 아니요, 흐엉 씨는 프랑스 사람이에요."], G.nat, ["흐엉 씨", "미국 사람", "프랑스 사람"], "Câu phủ định trả lời quốc tịch dùng 아니요.", "P3_SEM_NAT_HUONG_US_FR"],
+  ]),
+  pool("P3_VK_06", "vi_to_ko", "desire_travel", "Dịch mong muốn của người thứ ba với -고 싶어하다", [
+    ["Mẹ tôi muốn đi du lịch Thái Lan.", "제 어머니는 태국에 여행을 가고 싶어합니다.", ["우리 엄마는 태국에 여행을 가고 싶어해요."], G.desire3, ["어머니", "엄마", "태국", "여행을 가다"], "Ngôi thứ ba dùng -고 싶어하다.", "P3_SEM_DESIRE_MOTHER_THAI"],
+    ["Bố tôi muốn đi du lịch Thái Lan.", "제 아버지는 태국에 여행을 가고 싶어합니다.", ["우리 아빠는 태국에 여행을 가고 싶어해요."], G.desire3, ["아버지", "아빠", "태국", "여행을 가다"], "Mong muốn của người thứ ba dùng 싶어합니다/싶어해요.", "P3_SEM_DESIRE_FATHER_THAI"],
+    ["Hương muốn đi du lịch cùng gia đình.", "흐엉 씨는 가족과 같이 여행을 가고 싶어해요.", ["흐엉 씨는 가족하고 같이 여행을 가고 싶어합니다."], ["DESIRE_THIRD_PERSON", "NOUN_CONNECTOR"], ["흐엉 씨", "가족", "같이", "여행을 가다"], "Hương là người thứ ba nên dùng 싶어해요.", "P3_SEM_DESIRE_HUONG_FAMILY"],
+  ]),
+  pool("P3_VK_07", "vi_to_ko", "shopping_quantity", "Dịch câu muốn mua/gọi món có số lượng hoặc hỏi giá", [
+    ["Tôi muốn mua 3 con cá. Tất cả là bao nhiêu tiền? 120.000 đồng nhé!", "저는 생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 동이에요.", ["생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 동이에요."], G.shop, ["저", "생선", "마리", "사다", "모두", "만", "동"], "Số lượng con cá dùng 세 마리; tiền dùng 십이만 동.", "P3_SEM_SHOP_FISH_120K"],
+    ["Hãy cho tôi hai cơm trộn và một canh kim chi. Cho tôi một chai Cola nữa.", "비빔밥 두 개하고 김치찌개 한 개 주세요. 콜라 한 개 더 주세요.", ["비빔밥 두 개와 김치찌개 한 개 주세요. 콜라 한 개 더 주세요."], G.shop, ["비빔밥", "개", "김치찌개", "콜라", "더"], "Yêu cầu món dùng 주세요; số lượng dùng 두 개/한 개.", "P3_SEM_SHOP_BIBIMBAP_COLA"],
+    ["Tôi muốn mua ba con cá và hai chai Cola.", "저는 생선 세 마리하고 콜라 두 개를 사고 싶어요.", ["저는 생선 세 마리와 콜라 두 개를 사고 싶습니다."], ["DESIRE_FIRST_PERSON", "COUNTER_NUMBER", "NOUN_CONNECTOR"], ["저", "생선", "마리", "콜라", "개", "사다"], "Kết hợp mong muốn mua và số lượng.", "P3_SEM_SHOP_FISH_COLA"],
+  ]),
+  pool("P3_VK_08", "vi_to_ko", "contrast_description", "Dịch câu đối chiếu tính chất/đồ ăn với 은/는 hoặc -지만", [
+    ["Quả táo thì rẻ. Quả xoài thì đắt.", "사과는 싸요. 망고는 비싸요.", ["사과는 싸지만 망고는 비싸요."], G.contrast, ["싸다", "비싸다"], "Đối chiếu hai chủ đề dùng 은/는; tương phản có thể dùng -지만.", "P3_SEM_CONTRAST_APPLE_MANGO"],
+    ["Đồ ăn Hàn Quốc ngon nhưng cay.", "한국 음식은 맛있지만 매워요.", ["한식은 맛있지만 매워요."], G.contrast, ["한국 음식", "한식", "맛있다", "맵다"], "Tương phản ngon nhưng cay dùng -지만.", "P3_SEM_CONTRAST_KFOOD_SPICY"],
+    ["Kim chi thì cay nhưng ngon.", "김치는 맵지만 맛있어요.", ["김치는 맵지만 맛있습니다."], G.contrast, ["김치", "맵다", "맛있다"], "Tương phản tính chất trong cùng món ăn dùng -지만.", "P3_SEM_CONTRAST_KIMCHI"],
+  ]),
+  pool("P3_VK_09", "vi_to_ko", "ability_negation", "Dịch hỏi đáp khả năng và phủ định với -(으)ㄹ 수 있다/없다", [
+    ["Chị Hương có thể lái xe không? Không, tôi không thể lái xe.", "흐엉 씨는 운전할 수 있어요? 아니요, 저는 운전할 수 없어요.", ["흐엉 씨는 운전할 수 있습니까? 아니요, 저는 운전할 수 없습니다."], G.ability, ["흐엉 씨", "운전하다", "저"], "Khả năng dùng -(으)ㄹ 수 있다/없다.", "P3_SEM_ABILITY_DRIVE_HUONG"],
+    ["Nam có thể ăn kim chi không? Không, Nam không thể ăn kim chi.", "남 씨는 김치를 먹을 수 있어요? 아니요, 남 씨는 김치를 먹을 수 없어요.", ["남 씨는 김치를 먹을 수 있습니까? 아니요, 남 씨는 김치를 먹을 수 없습니다."], G.ability, ["남 씨", "김치", "먹다"], "먹다 có patchim nên dùng 먹을 수 있다/없다.", "P3_SEM_ABILITY_EAT_KIMCHI_NAM"],
+    ["Tôi có thể học tiếng Hàn ở thư viện.", "저는 도서관에서 한국어를 공부할 수 있어요.", ["저는 도서관에서 한국어를 공부할 수 있습니다."], ["ABILITY", "ACTION_LOCATION_PARTICLE"], ["저", "도서관", "한국어", "공부하다"], "Khả năng làm hành động tại địa điểm dùng 공부할 수 있어요.", "P3_SEM_ABILITY_STUDY_LIBRARY"],
+  ]),
+  pool("P3_VK_10", "vi_to_ko", "reason_request", "Dịch lý do và yêu cầu thêm với -아서/어서, 주세요", [
+    ["Vì kim chi cay nên không thể ăn. Hãy cho tôi thêm một chút cơm.", "김치가 매워서 먹을 수 없어요. 밥을 좀 더 주세요.", ["김치가 매워서 먹을 수 없습니다. 밥을 좀 더 주세요."], G.reason, ["김치", "맵다", "먹다", "밥", "좀", "더"], "Lý do dùng -아서/어서; yêu cầu thêm dùng 더 주세요.", "P3_SEM_REASON_KIMCHI_RICE"],
+    ["Vì đồ ăn Hàn Quốc cay nên tôi không thể ăn nhiều.", "한국 음식이 매워서 많이 먹을 수 없어요.", ["한식이 매워서 많이 먹을 수 없습니다."], ["REASON_CONNECTIVE", "ABILITY"], ["한국 음식", "한식", "맵다", "먹다"], "Giữ quan hệ nguyên nhân và khả năng phủ định.", "P3_SEM_REASON_KFOOD_SPICY"],
+    ["Vì cơm trộn ngon nên hãy cho tôi thêm một phần.", "비빔밥이 맛있어서 한 개 더 주세요.", ["비빔밥이 맛있어서 하나 더 주세요."], ["REASON_CONNECTIVE", "POLITE_REQUEST", "COUNTER_NUMBER"], ["비빔밥", "맛있다", "개", "더"], "Lý do 맛있어서 nối với yêu cầu thêm.", "P3_SEM_REASON_BIBIMBAP_MORE"],
+  ]),
+  pool("P3_VK_11", "vi_to_ko", "habit_frequency", "Dịch sở thích/thói quen/tần suất hoạt động", [
+    ["Tôi thích nghe nhạc. Cuối tuần tôi thường nghe nhạc ở trong phòng.", "저는 음악을 듣는 것을 좋아해요. 주말에 방에서 자주 음악을 들어요.", ["저는 음악을 좋아해요. 주말에 방에서 자주 음악을 들어요."], G.habit, ["저", "음악", "듣다", "좋아하다", "주말", "방", "자주"], "Thói quen dùng 자주; địa điểm nghe nhạc dùng 에서.", "P3_SEM_HABIT_MUSIC_ROOM"],
+    ["Vào cuối tuần tôi thường xuyên leo núi cùng những người bạn.", "주말에 저는 친구들과 같이 자주 등산해요.", ["주말에 저는 친구하고 같이 자주 등산합니다."], ["FREQUENCY_EXPRESSION", "TIME_PARTICLE", "NOUN_CONNECTOR"], ["주말", "저", "친구", "같이", "자주", "등산하다"], "Tần suất thường xuyên dùng 자주.", "P3_SEM_HABIT_HIKING_FRIENDS"],
+    ["Một tháng tôi ăn đồ Hàn hai lần.", "저는 한 달에 두 번 한국 음식을 먹어요.", ["저는 한 달에 두 번 한식을 먹습니다."], ["FREQUENCY_EXPRESSION", "OBJECT_PARTICLE"], ["저", "한 달", "번", "한국 음식", "한식", "먹다"], "Tần suất 한 달에 두 번 giữ đúng nghĩa một tháng hai lần.", "P3_SEM_HABIT_KFOOD_TWICE"],
+  ]),
+  pool("P3_VK_12", "vi_to_ko", "plan_intention", "Dịch kế hoạch cuối tuần với biểu đạt ý định trong scope", [
+    ["Cuối tuần sau tôi định chơi bóng rổ. Tôi cũng định câu cá cùng những người bạn.", "다음 주말에 저는 농구를 하겠습니다. 친구들과 같이 낚시도 하겠습니다.", ["다음 주말에 저는 농구를 할 거예요. 친구들과 같이 낚시도 할 거예요."], G.plan, ["다음 주말", "저", "농구를 하다", "친구", "같이", "낚시하다"], "Trong scope dùng -겠- cho ý định; không cần chấm tự động theo exact string.", "P3_SEM_PLAN_BASKET_FISHING"],
+    ["Cuối tuần sau tôi định đi du lịch Thái Lan.", "다음 주말에 저는 태국에 여행을 가겠습니다.", ["다음 주말에 저는 태국에 여행을 갈 거예요."], ["INTENTION", "TIME_PARTICLE"], ["다음 주말", "저", "태국", "여행을 가다"], "Ý định/kế hoạch dùng -겠습니다.", "P3_SEM_PLAN_THAI_TRAVEL"],
+    ["Cuối tuần sau Nam định học tiếng Hàn ở thư viện.", "다음 주말에 남 씨는 도서관에서 한국어를 공부하겠습니다.", ["다음 주말에 남 씨는 도서관에서 한국어를 공부할 거예요."], ["INTENTION", "ACTION_LOCATION_PARTICLE", "TIME_PARTICLE"], ["다음 주말", "남 씨", "도서관", "한국어", "공부하다"], "Giữ đủ thời gian, chủ thể, địa điểm và hành động.", "P3_SEM_PLAN_NAM_LIBRARY"],
+  ]),
+  pool("P3_VK_13", "vi_to_ko", "location_existence", "Dịch hỏi đáp vị trí với 에 있다/없다", [
+    ["Nhà vệ sinh ở đâu ạ? Nhà vệ sinh ở tầng 2.", "화장실이 어디에 있어요? 화장실은 2층에 있어요.", ["화장실은 어디예요? 2층에 있어요."], G.location, ["화장실", "2층"], "Vị trí tồn tại dùng 에 있어요.", "P3_SEM_LOC_RESTROOM_2F"],
+    ["Ở gần đây có nhà vệ sinh không?", "여기에 화장실이 있어요?", ["여기 화장실이 있어요?"], ["EXISTENCE_LOCATION"], ["화장실"], "Hỏi sự tồn tại dùng 있다.", "P3_SEM_LOC_RESTROOM_NEAR"],
+    ["Nhà vệ sinh ở tầng 2 của nhà hàng.", "식당 화장실은 2층에 있어요.", ["화장실은 식당 2층에 있어요."], G.location, ["식당", "화장실", "2층"], "Giữ địa điểm nhà hàng và tầng 2.", "P3_SEM_LOC_RESTROOM_RESTAURANT"],
+  ]),
+  pool("P3_VK_14", "vi_to_ko", "time_schedule", "Dịch câu lịch trình tại thời điểm cụ thể", [
+    ["Lớp học tiếng Hàn kết thúc lúc 5 giờ chiều.", "한국어 수업은 오후 다섯 시에 끝나요.", ["한국어 수업은 오후 다섯 시에 끝납니다."], G.time, ["한국어", "수업", "오후", "시", "끝나다"], "Thời điểm dùng 에; lịch trình kết thúc dùng 끝나다.", "P3_SEM_TIME_CLASS_5PM"],
+    ["Hôm nay lớp học kết thúc lúc 8 giờ tối.", "오늘 수업은 저녁 여덟 시에 끝나요.", ["오늘 수업은 저녁 여덟 시에 끝납니다."], G.time, ["오늘", "수업", "저녁", "시", "끝나다"], "Giữ đúng hôm nay và 8 giờ tối.", "P3_SEM_TIME_CLASS_8PM"],
+    ["Cuối tuần tôi học tiếng Hàn lúc 8 giờ tối.", "주말에 저는 저녁 여덟 시에 한국어를 공부해요.", ["주말에 저는 저녁 여덟 시에 한국어를 공부합니다."], ["TIME_PARTICLE", "OBJECT_PARTICLE", "INFORMAL_POLITE_PRESENT"], ["주말", "저", "저녁", "시", "한국어", "공부하다"], "Thời gian dùng 에; tân ngữ 한국어를.", "P3_SEM_TIME_STUDY_WEEKEND"],
+  ]),
+
+  pool("P3_KV_01", "ko_to_vi", "invitation", "Hiểu và dịch câu rủ rê -(으)ㅂ시다", [
+    ["오후 8시에 공원에서 같이 산책합시다.", "Chúng ta cùng đi dạo ở công viên lúc 8 giờ tối nhé.", ["Hãy cùng đi dạo ở công viên lúc 8 giờ tối."], G.invite, ["오후", "시", "공원", "같이", "산책하다"], "Nhận diện -(으)ㅂ시다 là lời rủ rê.", "P3_SEM_INVITE_PARK_8PM"],
+    ["오후 8시에 도서관에서 함께 공부합시다.", "Chúng ta cùng học ở thư viện lúc 8 giờ tối nhé.", ["Hãy cùng học bài ở thư viện lúc 8 giờ tối."], G.invite, ["오후", "시", "도서관", "함께", "공부하다"], "함께/cùng và 공부합시다/hãy học cùng.", "P3_SEM_INVITE_LIBRARY_8PM"],
+    ["주말에 친구와 같이 등산합시다.", "Cuối tuần chúng ta cùng leo núi với bạn nhé.", ["Cuối tuần hãy cùng leo núi với bạn."], ["INVITATION_FORMAL", "TIME_PARTICLE", "NOUN_CONNECTOR"], ["주말", "친구", "같이", "등산하다"], "친구와 같이 là cùng với bạn.", "P3_SEM_INVITE_HIKING_WEEKEND"],
+  ]),
+  pool("P3_KV_02", "ko_to_vi", "preference", "Hiểu và dịch câu sở thích", [
+    ["남 씨는 한국어와 베트남어를 좋아합니다.", "Nam thích tiếng Hàn và tiếng Việt.", ["Anh Nam thích tiếng Hàn và tiếng Việt."], G.pref, ["남 씨", "한국어", "베트남어", "좋아하다"], "좋아하다 là thích; 와 nối hai danh từ.", "P3_SEM_PREF_LANG_NAM"],
+    ["저는 음악을 듣는 것을 좋아해요.", "Tôi thích nghe nhạc.", ["Tôi thích việc nghe nhạc."], ["INFORMAL_POLITE_PRESENT", "OBJECT_PARTICLE"], ["저", "음악", "듣다", "좋아하다"], "음악을 듣다 là nghe nhạc.", "P3_SEM_PREF_MUSIC_ME"],
+    ["흐엉 씨는 한국어를 좋아해요.", "Chị Hương thích tiếng Hàn.", ["Hương thích tiếng Hàn."], ["INFORMAL_POLITE_PRESENT", "OBJECT_PARTICLE"], ["흐엉 씨", "한국어", "좋아하다"], "한국어를 좋아해요 là thích tiếng Hàn.", "P3_SEM_PREF_KOREAN_HUONG"],
+  ]),
+  pool("P3_KV_03", "ko_to_vi", "family_job", "Hiểu và dịch giới thiệu người thân/nghề nghiệp/nơi làm việc", [
+    ["제 아버지는 의사입니다. 다낭 병원에서 일합니다.", "Bố của tôi là bác sĩ. Ông ấy làm việc ở bệnh viện Đà Nẵng.", ["Bố tôi là bác sĩ và làm việc ở bệnh viện Đà Nẵng."], G.family, ["아버지", "의사", "다낭 병원", "일하다"], "의사 là bác sĩ; 에서 일하다 là làm việc ở.", "P3_SEM_FAMILY_FATHER_DOCTOR"],
+    ["우리 엄마는 병원에서 일해요.", "Mẹ tôi làm việc ở bệnh viện.", ["Mẹ của chúng tôi làm việc ở bệnh viện."], ["ACTION_LOCATION_PARTICLE", "INFORMAL_POLITE_PRESENT"], ["엄마", "병원", "일하다"], "엄마 là mẹ; 병원에서 là ở bệnh viện.", "P3_SEM_FAMILY_MOTHER_HOSPITAL"],
+    ["제 아버지는 병원 의사입니다.", "Bố tôi là bác sĩ bệnh viện.", ["Bố tôi là bác sĩ ở bệnh viện."], ["COPULA", "TOPIC_PARTICLE"], ["아버지", "병원", "의사"], "이다 dùng để giới thiệu nghề nghiệp.", "P3_SEM_FAMILY_FATHER_HOSPITAL_DOCTOR"],
+  ]),
+  pool("P3_KV_04", "ko_to_vi", "past_activity", "Hiểu và dịch hoạt động trong quá khứ", [
+    ["이번 주 일요일에 저는 친구하고 같이 집에서 김치를 만들었어요.", "Chủ nhật tuần này tôi đã làm kim chi cùng bạn ở nhà.", ["Chủ nhật tuần này tôi làm kim chi với bạn ở nhà."], G.past, ["이번 주", "일요일", "저", "친구", "같이", "집", "김치", "만들다"], "만들었어요 là đã làm.", "P3_SEM_PAST_KIMCHI_HOME"],
+    ["남 씨는 지난주에 가족하고 같이 식당에서 한식을 먹었어요.", "Tuần trước Nam đã ăn đồ Hàn cùng gia đình ở nhà hàng.", ["Tuần trước anh Nam ăn món Hàn cùng gia đình ở nhà hàng."], G.past, ["남 씨", "지난주", "가족", "같이", "식당", "한식", "먹다"], "지난주에 là tuần trước; 먹었어요 là đã ăn.", "P3_SEM_PAST_KOREAN_FOOD_FAMILY"],
+    ["오늘 저는 친구와 같이 도서관에서 한국어를 공부했어요.", "Hôm nay tôi đã học tiếng Hàn cùng bạn ở thư viện.", ["Hôm nay tôi học tiếng Hàn với bạn ở thư viện."], G.past, ["오늘", "저", "친구", "같이", "도서관", "한국어", "공부하다"], "공부했어요 là đã học.", "P3_SEM_PAST_STUDY_LIBRARY"],
+  ]),
+  pool("P3_KV_05", "ko_to_vi", "nationality_qa", "Hiểu và dịch hội thoại quốc tịch", [
+    ["미국 사람입니까? 아니요, 저는 프랑스 사람입니다.", "Anh có phải là người Mỹ không? Không, tôi là người Pháp.", ["Bạn là người Mỹ phải không? Không, tôi là người Pháp."], G.nat, ["미국 사람", "저", "프랑스 사람"], "입니까 là câu hỏi danh từ; 아니요 là không.", "P3_SEM_NAT_US_FR"],
+    ["남 씨는 프랑스 사람이에요? 아니요, 남 씨는 미국 사람이에요.", "Nam có phải là người Pháp không? Không, Nam là người Mỹ.", ["Anh Nam là người Pháp à? Không, anh Nam là người Mỹ."], G.nat, ["남 씨", "프랑스 사람", "미국 사람"], "이에요 dùng để nói là người nước nào.", "P3_SEM_NAT_NAM_FR_US"],
+    ["흐엉 씨는 미국 사람입니까? 아니요, 흐엉 씨는 프랑스 사람입니다.", "Hương có phải là người Mỹ không? Không, Hương là người Pháp.", ["Chị Hương là người Mỹ phải không? Không, chị Hương là người Pháp."], G.nat, ["흐엉 씨", "미국 사람", "프랑스 사람"], "Giữ đúng hai quốc tịch trong câu hỏi và trả lời.", "P3_SEM_NAT_HUONG_US_FR"],
+  ]),
+  pool("P3_KV_06", "ko_to_vi", "desire_travel", "Hiểu và dịch mong muốn của người thứ ba", [
+    ["제 어머니는 태국에 여행을 가고 싶어합니다.", "Mẹ tôi muốn đi du lịch Thái Lan.", ["Mẹ của tôi muốn đi du lịch đến Thái Lan."], G.desire3, ["어머니", "태국", "여행을 가다"], "싶어합니다 diễn tả mong muốn của người thứ ba.", "P3_SEM_DESIRE_MOTHER_THAI"],
+    ["우리 아빠는 태국에 여행을 가고 싶어해요.", "Bố tôi muốn đi du lịch Thái Lan.", ["Bố của chúng tôi muốn đi du lịch Thái Lan."], G.desire3, ["아빠", "태국", "여행을 가다"], "아빠 là bố; 가고 싶어해요 là muốn đi.", "P3_SEM_DESIRE_FATHER_THAI"],
+    ["흐엉 씨는 가족과 같이 여행을 가고 싶어해요.", "Hương muốn đi du lịch cùng gia đình.", ["Chị Hương muốn đi du lịch với gia đình."], ["DESIRE_THIRD_PERSON", "NOUN_CONNECTOR"], ["흐엉 씨", "가족", "같이", "여행을 가다"], "가족과 같이 là cùng gia đình.", "P3_SEM_DESIRE_HUONG_FAMILY"],
+  ]),
+  pool("P3_KV_07", "ko_to_vi", "shopping_quantity", "Hiểu và dịch câu mua/gọi món, số lượng hoặc giá", [
+    ["저는 생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 동이에요.", "Tôi muốn mua ba con cá. Tất cả là bao nhiêu tiền? Là 120.000 đồng.", ["Tôi muốn mua 3 con cá. Tổng cộng bao nhiêu tiền? 120.000 đồng."], G.shop, ["저", "생선", "마리", "사다", "모두", "만", "동"], "세 마리 là ba con; 십이만 동 là 120.000 đồng.", "P3_SEM_SHOP_FISH_120K"],
+    ["비빔밥 두 개하고 김치찌개 한 개 주세요. 콜라 한 개 더 주세요.", "Cho tôi hai cơm trộn và một canh kim chi. Cho tôi thêm một chai Cola.", ["Hãy cho tôi 2 phần cơm trộn, 1 canh kim chi và thêm 1 Cola."], G.shop, ["비빔밥", "개", "김치찌개", "콜라", "더"], "주세요 dùng để yêu cầu/gọi món.", "P3_SEM_SHOP_BIBIMBAP_COLA"],
+    ["저는 생선 세 마리하고 콜라 두 개를 사고 싶어요.", "Tôi muốn mua ba con cá và hai chai Cola.", ["Tôi muốn mua 3 con cá và 2 Cola."], ["DESIRE_FIRST_PERSON", "COUNTER_NUMBER", "NOUN_CONNECTOR"], ["저", "생선", "마리", "콜라", "개", "사다"], "사고 싶어요 là muốn mua.", "P3_SEM_SHOP_FISH_COLA"],
+  ]),
+  pool("P3_KV_08", "ko_to_vi", "contrast_description", "Hiểu và dịch câu đối chiếu/tương phản tính chất", [
+    ["사과는 싸요. 망고는 비싸요.", "Quả táo thì rẻ. Quả xoài thì đắt.", ["Táo rẻ, còn xoài đắt."], G.contrast, ["싸다", "비싸다"], "은/는 dùng để đối chiếu hai chủ đề.", "P3_SEM_CONTRAST_APPLE_MANGO"],
+    ["한국 음식은 맛있지만 매워요.", "Đồ ăn Hàn Quốc ngon nhưng cay.", ["Món Hàn ngon nhưng cay."], G.contrast, ["한국 음식", "맛있다", "맵다"], "지만 biểu thị tương phản nhưng.", "P3_SEM_CONTRAST_KFOOD_SPICY"],
+    ["김치는 맵지만 맛있어요.", "Kim chi cay nhưng ngon.", ["Kim chi thì cay nhưng ngon."], G.contrast, ["김치", "맵다", "맛있다"], "맵지만 맛있어요 là cay nhưng ngon.", "P3_SEM_CONTRAST_KIMCHI"],
+  ]),
+  pool("P3_KV_09", "ko_to_vi", "ability_negation", "Hiểu và dịch khả năng/phủ định", [
+    ["흐엉 씨는 운전할 수 있어요? 아니요, 저는 운전할 수 없어요.", "Chị Hương có thể lái xe không? Không, tôi không thể lái xe.", ["Hương có biết lái xe không? Không, tôi không thể lái xe."], G.ability, ["흐엉 씨", "운전하다", "저"], "할 수 있다/없다 diễn tả có thể/không thể.", "P3_SEM_ABILITY_DRIVE_HUONG"],
+    ["남 씨는 김치를 먹을 수 있어요? 아니요, 남 씨는 김치를 먹을 수 없어요.", "Nam có thể ăn kim chi không? Không, Nam không thể ăn kim chi.", ["Anh Nam ăn được kim chi không? Không, anh Nam không ăn được kim chi."], G.ability, ["남 씨", "김치", "먹다"], "먹을 수 없어요 là không thể ăn.", "P3_SEM_ABILITY_EAT_KIMCHI_NAM"],
+    ["저는 도서관에서 한국어를 공부할 수 있어요.", "Tôi có thể học tiếng Hàn ở thư viện.", ["Tôi có thể học tiếng Hàn tại thư viện."], ["ABILITY", "ACTION_LOCATION_PARTICLE"], ["저", "도서관", "한국어", "공부하다"], "공부할 수 있어요 là có thể học.", "P3_SEM_ABILITY_STUDY_LIBRARY"],
+  ]),
+  pool("P3_KV_10", "ko_to_vi", "reason_request", "Hiểu và dịch câu nêu lý do/yêu cầu thêm", [
+    ["김치가 매워서 먹을 수 없어요. 밥을 좀 더 주세요.", "Vì kim chi cay nên tôi không thể ăn. Hãy cho tôi thêm một chút cơm.", ["Kim chi cay nên tôi không ăn được. Cho tôi thêm cơm."], G.reason, ["김치", "맵다", "먹다", "밥", "좀", "더"], "매워서 là vì cay; 더 주세요 là cho thêm.", "P3_SEM_REASON_KIMCHI_RICE"],
+    ["한식이 매워서 많이 먹을 수 없습니다.", "Vì đồ ăn Hàn Quốc cay nên tôi không thể ăn nhiều.", ["Món Hàn cay nên tôi không ăn được nhiều."], ["REASON_CONNECTIVE", "ABILITY"], ["한식", "맵다", "먹다"], "Không cần dịch cứng từng chữ, nhưng phải giữ nghĩa nguyên nhân.", "P3_SEM_REASON_KFOOD_SPICY"],
+    ["비빔밥이 맛있어서 한 개 더 주세요.", "Vì cơm trộn ngon nên hãy cho tôi thêm một phần.", ["Cơm trộn ngon nên cho tôi thêm một phần nữa."], ["REASON_CONNECTIVE", "POLITE_REQUEST", "COUNTER_NUMBER"], ["비빔밥", "맛있다", "개", "더"], "한 개 더 là thêm một phần/cái.", "P3_SEM_REASON_BIBIMBAP_MORE"],
+  ]),
+  pool("P3_KV_11", "ko_to_vi", "habit_frequency", "Hiểu và dịch thói quen/tần suất", [
+    ["저는 음악을 좋아해요. 주말에 방에서 자주 음악을 들어요.", "Tôi thích âm nhạc. Cuối tuần tôi thường nghe nhạc trong phòng.", ["Tôi thích nghe nhạc. Cuối tuần tôi thường nghe nhạc ở trong phòng."], G.habit, ["저", "음악", "좋아하다", "주말", "방", "자주", "듣다"], "자주 là thường xuyên.", "P3_SEM_HABIT_MUSIC_ROOM"],
+    ["주말에 저는 친구하고 같이 자주 등산합니다.", "Cuối tuần tôi thường leo núi cùng bạn.", ["Vào cuối tuần tôi thường xuyên leo núi với bạn."], ["FREQUENCY_EXPRESSION", "TIME_PARTICLE", "NOUN_CONNECTOR"], ["주말", "저", "친구", "같이", "자주", "등산하다"], "주말에 là vào cuối tuần.", "P3_SEM_HABIT_HIKING_FRIENDS"],
+    ["저는 한 달에 두 번 한식을 먹습니다.", "Một tháng tôi ăn đồ Hàn hai lần.", ["Tôi ăn món Hàn hai lần một tháng."], ["FREQUENCY_EXPRESSION", "OBJECT_PARTICLE"], ["저", "한 달", "번", "한식", "먹다"], "한 달에 두 번 là một tháng hai lần.", "P3_SEM_HABIT_KFOOD_TWICE"],
+  ]),
+  pool("P3_KV_12", "ko_to_vi", "plan_intention", "Hiểu và dịch kế hoạch/ý định cuối tuần", [
+    ["다음 주말에 저는 농구를 하겠습니다. 친구들과 같이 낚시도 하겠습니다.", "Cuối tuần sau tôi định chơi bóng rổ. Tôi cũng định câu cá cùng bạn bè.", ["Cuối tuần sau tôi sẽ chơi bóng rổ và cũng sẽ câu cá với bạn bè."], G.plan, ["다음 주말", "저", "농구를 하다", "친구", "같이", "낚시하다"], "하겠습니다 biểu thị ý định/kế hoạch trong scope.", "P3_SEM_PLAN_BASKET_FISHING"],
+    ["다음 주말에 저는 태국에 여행을 가겠습니다.", "Cuối tuần sau tôi định đi du lịch Thái Lan.", ["Cuối tuần sau tôi sẽ đi du lịch Thái Lan."], ["INTENTION", "TIME_PARTICLE"], ["다음 주말", "저", "태국", "여행을 가다"], "여행을 가겠습니다 là sẽ/định đi du lịch.", "P3_SEM_PLAN_THAI_TRAVEL"],
+    ["다음 주말에 남 씨는 도서관에서 한국어를 공부하겠습니다.", "Cuối tuần sau Nam định học tiếng Hàn ở thư viện.", ["Cuối tuần sau anh Nam sẽ học tiếng Hàn ở thư viện."], ["INTENTION", "ACTION_LOCATION_PARTICLE", "TIME_PARTICLE"], ["다음 주말", "남 씨", "도서관", "한국어", "공부하다"], "Giữ đủ thời gian, người, địa điểm.", "P3_SEM_PLAN_NAM_LIBRARY"],
+  ]),
+  pool("P3_KV_13", "ko_to_vi", "location_existence", "Hiểu và dịch vị trí/sự tồn tại", [
+    ["화장실이 어디에 있어요? 화장실은 2층에 있어요.", "Nhà vệ sinh ở đâu? Nhà vệ sinh ở tầng 2.", ["Nhà vệ sinh ở đâu ạ? Ở tầng 2."], G.location, ["화장실", "2층"], "어디에 있어요 hỏi vị trí.", "P3_SEM_LOC_RESTROOM_2F"],
+    ["여기에 화장실이 있어요?", "Ở đây có nhà vệ sinh không?", ["Gần đây có nhà vệ sinh không?"], ["EXISTENCE_LOCATION"], ["화장실"], "있어요 hỏi sự tồn tại.", "P3_SEM_LOC_RESTROOM_NEAR"],
+    ["식당 화장실은 2층에 있어요.", "Nhà vệ sinh của nhà hàng ở tầng 2.", ["Nhà vệ sinh ở tầng 2 của nhà hàng."], G.location, ["식당", "화장실", "2층"], "2층에 있어요 là ở tầng 2.", "P3_SEM_LOC_RESTROOM_RESTAURANT"],
+  ]),
+  pool("P3_KV_14", "ko_to_vi", "time_schedule", "Hiểu và dịch lịch trình/thời gian", [
+    ["한국어 수업은 오후 다섯 시에 끝나요.", "Lớp học tiếng Hàn kết thúc lúc 5 giờ chiều.", ["Lớp tiếng Hàn kết thúc vào 5 giờ chiều."], G.time, ["한국어", "수업", "오후", "시", "끝나다"], "오후 다섯 시에 là lúc 5 giờ chiều.", "P3_SEM_TIME_CLASS_5PM"],
+    ["오늘 수업은 저녁 여덟 시에 끝납니다.", "Hôm nay lớp học kết thúc lúc 8 giờ tối.", ["Lớp học hôm nay kết thúc vào 8 giờ tối."], G.time, ["오늘", "수업", "저녁", "시", "끝나다"], "저녁 여덟 시에 là lúc 8 giờ tối.", "P3_SEM_TIME_CLASS_8PM"],
+    ["주말에 저는 저녁 여덟 시에 한국어를 공부해요.", "Cuối tuần tôi học tiếng Hàn lúc 8 giờ tối.", ["Vào cuối tuần tôi học tiếng Hàn vào 8 giờ tối."], ["TIME_PARTICLE", "OBJECT_PARTICLE", "INFORMAL_POLITE_PRESENT"], ["주말", "저", "저녁", "시", "한국어", "공부하다"], "Giữ thời gian cuối tuần và 8 giờ tối.", "P3_SEM_TIME_STUDY_WEEKEND"],
+  ]),
+];
+
+function buildPart3Pools() {
+  return PART3_POOLS;
+}
+
+function buildPart3Questions() {
+  return PART3_POOLS.flatMap(item => item.questions);
+}
+
+module.exports = {
+  buildPart3Pools,
+  buildPart3Questions,
+};

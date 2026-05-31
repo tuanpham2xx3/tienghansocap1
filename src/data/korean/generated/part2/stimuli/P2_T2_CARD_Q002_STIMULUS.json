@@ -1,0 +1,13 @@
+{
+  "id": "P2_T2_CARD_Q002_STIMULUS",
+  "type": "card",
+  "title": "카드",
+  "structuredData": {
+    "sender": "남",
+    "receiver": "친구",
+    "occasion": "생일",
+    "gift": "책",
+    "message": "생일 축하합니다."
+  },
+  "fallbackText": "친구에게\n생일 축하합니다. 책을 샀어요.\n남"
+}

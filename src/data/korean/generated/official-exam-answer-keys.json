@@ -1,0 +1,682 @@
+[
+  {
+    "examId": "OFFICIAL_EXAM_001",
+    "parts": {
+      "part1": {
+        "examId": "PART1_EXAM_001",
+        "gradingMode": "option_id"
+      },
+      "part2": {
+        "examId": "PART2_EXAM_002",
+        "gradingMode": "option_id",
+        "answerKeyRef": "src/data/korean/generated/part2/part2-static-answer-keys.json"
+      },
+      "part3": {
+        "examId": "PART3_EXAM_003",
+        "gradingMode": "normalized_string_with_accepted_answers",
+        "answerKeyRef": "src/data/korean/generated/part3-static-answer-keys.json",
+        "normalization": {
+          "trim": true,
+          "collapseWhitespace": true,
+          "nameAliases": {
+            "Hương": [
+              "Huong"
+            ],
+            "Tuấn": [
+              "Tuan"
+            ],
+            "Tâm": [
+              "Tam"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "examId": "OFFICIAL_EXAM_002",
+    "parts": {
+      "part1": {
+        "examId": "PART1_EXAM_002",
+        "gradingMode": "option_id"
+      },
+      "part2": {
+        "examId": "PART2_EXAM_003",
+        "gradingMode": "option_id",
+        "answerKeyRef": "src/data/korean/generated/part2/part2-static-answer-keys.json"
+      },
+      "part3": {
+        "examId": "PART3_EXAM_004",
+        "gradingMode": "normalized_string_with_accepted_answers",
+        "answerKeyRef": "src/data/korean/generated/part3-static-answer-keys.json",
+        "normalization": {
+          "trim": true,
+          "collapseWhitespace": true,
+          "nameAliases": {
+            "Hương": [
+              "Huong"
+            ],
+            "Tuấn": [
+              "Tuan"
+            ],
+            "Tâm": [
+              "Tam"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "examId": "OFFICIAL_EXAM_003",
+    "parts": {
+      "part1": {
+        "examId": "PART1_EXAM_003",
+        "gradingMode": "option_id"
+      },
+      "part2": {
+        "examId": "PART2_EXAM_004",
+        "gradingMode": "option_id",
+        "answerKeyRef": "src/data/korean/generated/part2/part2-static-answer-keys.json"
+      },
+      "part3": {
+        "examId": "PART3_EXAM_005",
+        "gradingMode": "normalized_string_with_accepted_answers",
+        "answerKeyRef": "src/data/korean/generated/part3-static-answer-keys.json",
+        "normalization": {
+          "trim": true,
+          "collapseWhitespace": true,
+          "nameAliases": {
+            "Hương": [
+              "Huong"
+            ],
+            "Tuấn": [
+              "Tuan"
+            ],
+            "Tâm": [
+              "Tam"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "examId": "OFFICIAL_EXAM_004",
+    "parts": {
+      "part1": {
+        "examId": "PART1_EXAM_004",
+        "gradingMode": "option_id"
+      },
+      "part2": {
+        "examId": "PART2_EXAM_005",
+        "gradingMode": "option_id",
+        "answerKeyRef": "src/data/korean/generated/part2/part2-static-answer-keys.json"
+      },
+      "part3": {
+        "examId": "PART3_EXAM_006",
+        "gradingMode": "normalized_string_with_accepted_answers",
+        "answerKeyRef": "src/data/korean/generated/part3-static-answer-keys.json",
+        "normalization": {
+          "trim": true,
+          "collapseWhitespace": true,
+          "nameAliases": {
+            "Hương": [
+              "Huong"
+            ],
+            "Tuấn": [
+              "Tuan"
+            ],
+            "Tâm": [
+              "Tam"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "examId": "OFFICIAL_EXAM_005",
+    "parts": {
+      "part1": {
+        "examId": "PART1_EXAM_005",
+        "gradingMode": "option_id"
+      },
+      "part2": {
+        "examId": "PART2_EXAM_006",
+        "gradingMode": "option_id",
+        "answerKeyRef": "src/data/korean/generated/part2/part2-static-answer-keys.json"
+      },
+      "part3": {
+        "examId": "PART3_EXAM_007",
+        "gradingMode": "normalized_string_with_accepted_answers",
+        "answerKeyRef": "src/data/korean/generated/part3-static-answer-keys.json",
+        "normalization": {
+          "trim": true,
+          "collapseWhitespace": true,
+          "nameAliases": {
+            "Hương": [
+              "Huong"
+            ],
+            "Tuấn": [
+              "Tuan"
+            ],
+            "Tâm": [
+              "Tam"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "examId": "OFFICIAL_EXAM_006",
+    "parts": {
+      "part1": {
+        "examId": "PART1_EXAM_006",
+        "gradingMode": "option_id"
+      },
+      "part2": {
+        "examId": "PART2_EXAM_007",
+        "gradingMode": "option_id",
+        "answerKeyRef": "src/data/korean/generated/part2/part2-static-answer-keys.json"
+      },
+      "part3": {
+        "examId": "PART3_EXAM_008",
+        "gradingMode": "normalized_string_with_accepted_answers",
+        "answerKeyRef": "src/data/korean/generated/part3-static-answer-keys.json",
+        "normalization": {
+          "trim": true,
+          "collapseWhitespace": true,
+          "nameAliases": {
+            "Hương": [
+              "Huong"
+            ],
+            "Tuấn": [
+              "Tuan"
+            ],
+            "Tâm": [
+              "Tam"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "examId": "OFFICIAL_EXAM_007",
+    "parts": {
+      "part1": {
+        "examId": "PART1_EXAM_007",
+        "gradingMode": "option_id"
+      },
+      "part2": {
+        "examId": "PART2_EXAM_008",
+        "gradingMode": "option_id",
+        "answerKeyRef": "src/data/korean/generated/part2/part2-static-answer-keys.json"
+      },
+      "part3": {
+        "examId": "PART3_EXAM_009",
+        "gradingMode": "normalized_string_with_accepted_answers",
+        "answerKeyRef": "src/data/korean/generated/part3-static-answer-keys.json",
+        "normalization": {
+          "trim": true,
+          "collapseWhitespace": true,
+          "nameAliases": {
+            "Hương": [
+              "Huong"
+            ],
+            "Tuấn": [
+              "Tuan"
+            ],
+            "Tâm": [
+              "Tam"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "examId": "OFFICIAL_EXAM_008",
+    "parts": {
+      "part1": {
+        "examId": "PART1_EXAM_008",
+        "gradingMode": "option_id"
+      },
+      "part2": {
+        "examId": "PART2_EXAM_009",
+        "gradingMode": "option_id",
+        "answerKeyRef": "src/data/korean/generated/part2/part2-static-answer-keys.json"
+      },
+      "part3": {
+        "examId": "PART3_EXAM_010",
+        "gradingMode": "normalized_string_with_accepted_answers",
+        "answerKeyRef": "src/data/korean/generated/part3-static-answer-keys.json",
+        "normalization": {
+          "trim": true,
+          "collapseWhitespace": true,
+          "nameAliases": {
+            "Hương": [
+              "Huong"
+            ],
+            "Tuấn": [
+              "Tuan"
+            ],
+            "Tâm": [
+              "Tam"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "examId": "OFFICIAL_EXAM_009",
+    "parts": {
+      "part1": {
+        "examId": "PART1_EXAM_009",
+        "gradingMode": "option_id"
+      },
+      "part2": {
+        "examId": "PART2_EXAM_010",
+        "gradingMode": "option_id",
+        "answerKeyRef": "src/data/korean/generated/part2/part2-static-answer-keys.json"
+      },
+      "part3": {
+        "examId": "PART3_EXAM_011",
+        "gradingMode": "normalized_string_with_accepted_answers",
+        "answerKeyRef": "src/data/korean/generated/part3-static-answer-keys.json",
+        "normalization": {
+          "trim": true,
+          "collapseWhitespace": true,
+          "nameAliases": {
+            "Hương": [
+              "Huong"
+            ],
+            "Tuấn": [
+              "Tuan"
+            ],
+            "Tâm": [
+              "Tam"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "examId": "OFFICIAL_EXAM_010",
+    "parts": {
+      "part1": {
+        "examId": "PART1_EXAM_010",
+        "gradingMode": "option_id"
+      },
+      "part2": {
+        "examId": "PART2_EXAM_011",
+        "gradingMode": "option_id",
+        "answerKeyRef": "src/data/korean/generated/part2/part2-static-answer-keys.json"
+      },
+      "part3": {
+        "examId": "PART3_EXAM_012",
+        "gradingMode": "normalized_string_with_accepted_answers",
+        "answerKeyRef": "src/data/korean/generated/part3-static-answer-keys.json",
+        "normalization": {
+          "trim": true,
+          "collapseWhitespace": true,
+          "nameAliases": {
+            "Hương": [
+              "Huong"
+            ],
+            "Tuấn": [
+              "Tuan"
+            ],
+            "Tâm": [
+              "Tam"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "examId": "OFFICIAL_EXAM_011",
+    "parts": {
+      "part1": {
+        "examId": "PART1_EXAM_011",
+        "gradingMode": "option_id"
+      },
+      "part2": {
+        "examId": "PART2_EXAM_012",
+        "gradingMode": "option_id",
+        "answerKeyRef": "src/data/korean/generated/part2/part2-static-answer-keys.json"
+      },
+      "part3": {
+        "examId": "PART3_EXAM_013",
+        "gradingMode": "normalized_string_with_accepted_answers",
+        "answerKeyRef": "src/data/korean/generated/part3-static-answer-keys.json",
+        "normalization": {
+          "trim": true,
+          "collapseWhitespace": true,
+          "nameAliases": {
+            "Hương": [
+              "Huong"
+            ],
+            "Tuấn": [
+              "Tuan"
+            ],
+            "Tâm": [
+              "Tam"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "examId": "OFFICIAL_EXAM_012",
+    "parts": {
+      "part1": {
+        "examId": "PART1_EXAM_012",
+        "gradingMode": "option_id"
+      },
+      "part2": {
+        "examId": "PART2_EXAM_013",
+        "gradingMode": "option_id",
+        "answerKeyRef": "src/data/korean/generated/part2/part2-static-answer-keys.json"
+      },
+      "part3": {
+        "examId": "PART3_EXAM_014",
+        "gradingMode": "normalized_string_with_accepted_answers",
+        "answerKeyRef": "src/data/korean/generated/part3-static-answer-keys.json",
+        "normalization": {
+          "trim": true,
+          "collapseWhitespace": true,
+          "nameAliases": {
+            "Hương": [
+              "Huong"
+            ],
+            "Tuấn": [
+              "Tuan"
+            ],
+            "Tâm": [
+              "Tam"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "examId": "OFFICIAL_EXAM_013",
+    "parts": {
+      "part1": {
+        "examId": "PART1_EXAM_013",
+        "gradingMode": "option_id"
+      },
+      "part2": {
+        "examId": "PART2_EXAM_014",
+        "gradingMode": "option_id",
+        "answerKeyRef": "src/data/korean/generated/part2/part2-static-answer-keys.json"
+      },
+      "part3": {
+        "examId": "PART3_EXAM_015",
+        "gradingMode": "normalized_string_with_accepted_answers",
+        "answerKeyRef": "src/data/korean/generated/part3-static-answer-keys.json",
+        "normalization": {
+          "trim": true,
+          "collapseWhitespace": true,
+          "nameAliases": {
+            "Hương": [
+              "Huong"
+            ],
+            "Tuấn": [
+              "Tuan"
+            ],
+            "Tâm": [
+              "Tam"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "examId": "OFFICIAL_EXAM_014",
+    "parts": {
+      "part1": {
+        "examId": "PART1_EXAM_014",
+        "gradingMode": "option_id"
+      },
+      "part2": {
+        "examId": "PART2_EXAM_015",
+        "gradingMode": "option_id",
+        "answerKeyRef": "src/data/korean/generated/part2/part2-static-answer-keys.json"
+      },
+      "part3": {
+        "examId": "PART3_EXAM_016",
+        "gradingMode": "normalized_string_with_accepted_answers",
+        "answerKeyRef": "src/data/korean/generated/part3-static-answer-keys.json",
+        "normalization": {
+          "trim": true,
+          "collapseWhitespace": true,
+          "nameAliases": {
+            "Hương": [
+              "Huong"
+            ],
+            "Tuấn": [
+              "Tuan"
+            ],
+            "Tâm": [
+              "Tam"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "examId": "OFFICIAL_EXAM_015",
+    "parts": {
+      "part1": {
+        "examId": "PART1_EXAM_015",
+        "gradingMode": "option_id"
+      },
+      "part2": {
+        "examId": "PART2_EXAM_016",
+        "gradingMode": "option_id",
+        "answerKeyRef": "src/data/korean/generated/part2/part2-static-answer-keys.json"
+      },
+      "part3": {
+        "examId": "PART3_EXAM_017",
+        "gradingMode": "normalized_string_with_accepted_answers",
+        "answerKeyRef": "src/data/korean/generated/part3-static-answer-keys.json",
+        "normalization": {
+          "trim": true,
+          "collapseWhitespace": true,
+          "nameAliases": {
+            "Hương": [
+              "Huong"
+            ],
+            "Tuấn": [
+              "Tuan"
+            ],
+            "Tâm": [
+              "Tam"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "examId": "OFFICIAL_EXAM_016",
+    "parts": {
+      "part1": {
+        "examId": "PART1_EXAM_016",
+        "gradingMode": "option_id"
+      },
+      "part2": {
+        "examId": "PART2_EXAM_017",
+        "gradingMode": "option_id",
+        "answerKeyRef": "src/data/korean/generated/part2/part2-static-answer-keys.json"
+      },
+      "part3": {
+        "examId": "PART3_EXAM_018",
+        "gradingMode": "normalized_string_with_accepted_answers",
+        "answerKeyRef": "src/data/korean/generated/part3-static-answer-keys.json",
+        "normalization": {
+          "trim": true,
+          "collapseWhitespace": true,
+          "nameAliases": {
+            "Hương": [
+              "Huong"
+            ],
+            "Tuấn": [
+              "Tuan"
+            ],
+            "Tâm": [
+              "Tam"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "examId": "OFFICIAL_EXAM_017",
+    "parts": {
+      "part1": {
+        "examId": "PART1_EXAM_017",
+        "gradingMode": "option_id"
+      },
+      "part2": {
+        "examId": "PART2_EXAM_018",
+        "gradingMode": "option_id",
+        "answerKeyRef": "src/data/korean/generated/part2/part2-static-answer-keys.json"
+      },
+      "part3": {
+        "examId": "PART3_EXAM_019",
+        "gradingMode": "normalized_string_with_accepted_answers",
+        "answerKeyRef": "src/data/korean/generated/part3-static-answer-keys.json",
+        "normalization": {
+          "trim": true,
+          "collapseWhitespace": true,
+          "nameAliases": {
+            "Hương": [
+              "Huong"
+            ],
+            "Tuấn": [
+              "Tuan"
+            ],
+            "Tâm": [
+              "Tam"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "examId": "OFFICIAL_EXAM_018",
+    "parts": {
+      "part1": {
+        "examId": "PART1_EXAM_018",
+        "gradingMode": "option_id"
+      },
+      "part2": {
+        "examId": "PART2_EXAM_019",
+        "gradingMode": "option_id",
+        "answerKeyRef": "src/data/korean/generated/part2/part2-static-answer-keys.json"
+      },
+      "part3": {
+        "examId": "PART3_EXAM_020",
+        "gradingMode": "normalized_string_with_accepted_answers",
+        "answerKeyRef": "src/data/korean/generated/part3-static-answer-keys.json",
+        "normalization": {
+          "trim": true,
+          "collapseWhitespace": true,
+          "nameAliases": {
+            "Hương": [
+              "Huong"
+            ],
+            "Tuấn": [
+              "Tuan"
+            ],
+            "Tâm": [
+              "Tam"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "examId": "OFFICIAL_EXAM_019",
+    "parts": {
+      "part1": {
+        "examId": "PART1_EXAM_019",
+        "gradingMode": "option_id"
+      },
+      "part2": {
+        "examId": "PART2_EXAM_020",
+        "gradingMode": "option_id",
+        "answerKeyRef": "src/data/korean/generated/part2/part2-static-answer-keys.json"
+      },
+      "part3": {
+        "examId": "PART3_EXAM_001",
+        "gradingMode": "normalized_string_with_accepted_answers",
+        "answerKeyRef": "src/data/korean/generated/part3-static-answer-keys.json",
+        "normalization": {
+          "trim": true,
+          "collapseWhitespace": true,
+          "nameAliases": {
+            "Hương": [
+              "Huong"
+            ],
+            "Tuấn": [
+              "Tuan"
+            ],
+            "Tâm": [
+              "Tam"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "examId": "OFFICIAL_EXAM_020",
+    "parts": {
+      "part1": {
+        "examId": "PART1_EXAM_020",
+        "gradingMode": "option_id"
+      },
+      "part2": {
+        "examId": "PART2_EXAM_001",
+        "gradingMode": "option_id",
+        "answerKeyRef": "src/data/korean/generated/part2/part2-static-answer-keys.json"
+      },
+      "part3": {
+        "examId": "PART3_EXAM_002",
+        "gradingMode": "normalized_string_with_accepted_answers",
+        "answerKeyRef": "src/data/korean/generated/part3-static-answer-keys.json",
+        "normalization": {
+          "trim": true,
+          "collapseWhitespace": true,
+          "nameAliases": {
+            "Hương": [
+              "Huong"
+            ],
+            "Tuấn": [
+              "Tuan"
+            ],
+            "Tâm": [
+              "Tam"
+            ]
+          }
+        }
+      }
+    }
+  }
+]

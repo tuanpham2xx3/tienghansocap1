@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Combo 2 - Exam Paper Focus</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+KR:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <script>tailwind.config={theme:{extend:{fontFamily:{sans:["Inter","Noto Sans KR","system-ui","sans-serif"]}}}}</script>
+  </head>
+  <body class="bg-[#F5F4F0] font-sans text-[#111827]">
+    <header class="border-b border-[#D6D3CD] bg-white">
+      <div class="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-3 px-5 py-4">
+        <div>
+          <a href="./index.html" class="text-sm font-semibold text-[#1E3A5F]">← 6 combo</a>
+          <h1 class="mt-1 text-2xl font-bold">Mock Exam · Korean Basic</h1>
+        </div>
+        <div class="flex items-center gap-3">
+          <div class="rounded-lg border border-[#D6D3CD] px-4 py-2 text-lg font-bold">24:18</div>
+          <button class="h-11 rounded-lg bg-[#1E3A5F] px-5 text-sm font-semibold text-white">Nộp bài</button>
+        </div>
+      </div>
+    </header>
+
+    <main class="mx-auto grid max-w-7xl gap-5 px-5 py-6 lg:grid-cols-[240px_1fr]">
+      <aside class="h-fit rounded-lg border border-[#D6D3CD] bg-white p-4">
+        <p class="text-xs font-bold uppercase tracking-wide text-[#64748B]">Question map</p>
+        <div class="mt-4 grid grid-cols-5 gap-2">
+          <span class="grid h-10 place-items-center rounded-md bg-[#1E3A5F] text-sm font-bold text-white">1</span>
+          <span class="grid h-10 place-items-center rounded-md bg-[#E8EEF6] text-sm font-bold">2</span>
+          <span class="grid h-10 place-items-center rounded-md border-2 border-[#D99A00] text-sm font-bold">3</span>
+          <span class="grid h-10 place-items-center rounded-md border border-[#D6D3CD] text-sm font-bold">4</span>
+          <span class="grid h-10 place-items-center rounded-md border border-[#D6D3CD] text-sm font-bold">5</span>
+          <span class="grid h-10 place-items-center rounded-md bg-[#FEE2E2] text-sm font-bold text-[#B91C1C]">6</span>
+        </div>
+        <button class="mt-5 h-11 w-full rounded-lg border border-[#1E3A5F] text-sm font-semibold text-[#1E3A5F]">Đánh dấu xem lại</button>
+      </aside>
+
+      <section class="rounded-lg border border-[#D6D3CD] bg-white p-8">
+        <div class="flex items-start justify-between gap-5 border-b border-[#D6D3CD] pb-5">
+          <div>
+            <p class="text-sm font-bold uppercase tracking-wide text-[#1E3A5F]">Part 2 · Reading</p>
+            <h2 class="mt-2 text-[28px] font-bold leading-9">Choose the correct topic</h2>
+          </div>
+          <p class="text-sm font-bold">Question 03</p>
+        </div>
+        <div class="mt-6 rounded-md border border-[#D6D3CD] p-5">
+          <p class="text-xl font-semibold leading-8">저는 베트남 사람입니다. 민수 씨는 한국 사람입니다.</p>
+        </div>
+        <div class="mt-6 space-y-3">
+          <label class="flex min-h-12 items-center gap-3 rounded-md border border-[#D6D3CD] px-4"><span class="font-bold">A.</span><span>국적</span></label>
+          <label class="flex min-h-12 items-center gap-3 rounded-md border border-[#1E3A5F] bg-[#EEF2F7] px-4"><span class="font-bold">B.</span><span>직업</span></label>
+          <label class="flex min-h-12 items-center gap-3 rounded-md border border-[#D6D3CD] px-4"><span class="font-bold">C.</span><span>학교</span></label>
+          <label class="flex min-h-12 items-center gap-3 rounded-md border border-[#D6D3CD] px-4"><span class="font-bold">D.</span><span>물건</span></label>
+        </div>
+        <div class="mt-7 flex justify-between border-t border-[#D6D3CD] pt-5">
+          <button class="h-11 rounded-lg border border-[#D6D3CD] px-5 text-sm font-semibold">Câu trước</button>
+          <button class="h-11 rounded-lg bg-[#1E3A5F] px-5 text-sm font-semibold text-white">Câu tiếp</button>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>

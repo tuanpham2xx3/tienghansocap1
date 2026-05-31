@@ -1,0 +1,269 @@
+[
+  {
+    "id": "P2_T2_RECEIPT_Q001_STIMULUS",
+    "type": "receipt",
+    "title": "영수증",
+    "structuredData": {
+      "date": "2009/08/02",
+      "time": "09:30",
+      "items": [
+        {
+          "name": "우유",
+          "quantity": 2,
+          "unit": "개",
+          "lineTotal": 1800
+        },
+        {
+          "name": "과자",
+          "quantity": 1,
+          "unit": "개",
+          "lineTotal": 1200
+        }
+      ],
+      "grandTotal": 3000,
+      "currency": "원"
+    },
+    "fallbackText": "영수증\n2009/08/02 09:30\n우유 x 2 1,800원\n과자 x 1 1,200원\n합계 3,000원"
+  },
+  {
+    "id": "P2_T2_RECEIPT_Q002_STIMULUS",
+    "type": "receipt",
+    "title": "영수증",
+    "structuredData": {
+      "date": "2010/05/10",
+      "time": "14:20",
+      "items": [
+        {
+          "name": "주스",
+          "quantity": 2,
+          "unit": "개",
+          "lineTotal": 2000
+        },
+        {
+          "name": "과자",
+          "quantity": 2,
+          "unit": "개",
+          "lineTotal": 3000
+        }
+      ],
+      "grandTotal": 5000,
+      "currency": "원"
+    },
+    "fallbackText": "영수증\n2010/05/10 14:20\n주스 x 2 2,000원\n과자 x 2 3,000원\n합계 5,000원"
+  },
+  {
+    "id": "P2_T2_RECEIPT_Q003_STIMULUS",
+    "type": "receipt",
+    "title": "영수증",
+    "structuredData": {
+      "date": "2011/07/03",
+      "time": "18:10",
+      "items": [
+        {
+          "name": "콜라",
+          "quantity": 1,
+          "unit": "개",
+          "lineTotal": 1000
+        },
+        {
+          "name": "라면",
+          "quantity": 2,
+          "unit": "개",
+          "lineTotal": 2400
+        }
+      ],
+      "grandTotal": 3400,
+      "currency": "원"
+    },
+    "fallbackText": "영수증\n2011/07/03 18:10\n콜라 x 1 1,000원\n라면 x 2 2,400원\n합계 3,400원"
+  },
+  {
+    "id": "P2_T2_CARD_Q001_STIMULUS",
+    "type": "card",
+    "title": "생일 카드",
+    "structuredData": {
+      "sender": "민수",
+      "receiver": "흐엉",
+      "occasion": "생일",
+      "gift": "시계",
+      "message": "생일 축하해요."
+    },
+    "fallbackText": "흐엉 씨에게\n생일 축하해요. 시계를 준비했어요.\n민수"
+  },
+  {
+    "id": "P2_T2_CARD_Q002_STIMULUS",
+    "type": "card",
+    "title": "카드",
+    "structuredData": {
+      "sender": "남",
+      "receiver": "친구",
+      "occasion": "생일",
+      "gift": "책",
+      "message": "생일 축하합니다."
+    },
+    "fallbackText": "친구에게\n생일 축하합니다. 책을 샀어요.\n남"
+  },
+  {
+    "id": "P2_T2_CARD_Q003_STIMULUS",
+    "type": "card",
+    "title": "생일 카드",
+    "structuredData": {
+      "sender": "어머니",
+      "receiver": "아버지",
+      "occasion": "생일",
+      "gift": "펜",
+      "message": "생일 축하해요."
+    },
+    "fallbackText": "아버지에게\n생일 축하해요. 펜을 준비했어요.\n어머니"
+  },
+  {
+    "id": "P2_T2_MENU_Q001_STIMULUS",
+    "type": "menu",
+    "title": "메뉴",
+    "structuredData": {
+      "restaurantName": "한국 식당",
+      "items": [
+        {
+          "name": "김치찌개",
+          "price": 6000
+        },
+        {
+          "name": "비빔밥",
+          "price": 7000
+        },
+        {
+          "name": "콜라",
+          "price": 1000
+        }
+      ],
+      "currency": "원"
+    },
+    "fallbackText": "메뉴\n김치찌개 6,000원\n비빔밥 7,000원\n콜라 1,000원"
+  },
+  {
+    "id": "P2_T2_MENU_Q002_STIMULUS",
+    "type": "menu",
+    "title": "메뉴",
+    "structuredData": {
+      "restaurantName": "분식집",
+      "items": [
+        {
+          "name": "라면",
+          "price": 4000
+        },
+        {
+          "name": "냉면",
+          "price": 5500
+        },
+        {
+          "name": "주스",
+          "price": 1500
+        }
+      ],
+      "currency": "원"
+    },
+    "fallbackText": "메뉴\n라면 4,000원\n냉면 5,500원\n주스 1,500원"
+  },
+  {
+    "id": "P2_T2_MENU_Q003_STIMULUS",
+    "type": "menu",
+    "title": "메뉴",
+    "structuredData": {
+      "restaurantName": "식당",
+      "items": [
+        {
+          "name": "비빔밥",
+          "price": 8000
+        },
+        {
+          "name": "김치찌개",
+          "price": 7000
+        },
+        {
+          "name": "콜라",
+          "price": 1200
+        }
+      ],
+      "currency": "원"
+    },
+    "fallbackText": "메뉴\n비빔밥 8,000원\n김치찌개 7,000원\n콜라 1,200원"
+  },
+  {
+    "id": "P2_T2_SCHEDULE_Q001_STIMULUS",
+    "type": "schedule",
+    "title": "일정",
+    "structuredData": {
+      "date": "5월 5일",
+      "day": "토요일",
+      "time": "오후 3시",
+      "activity": "생일 파티",
+      "place": "식당"
+    },
+    "fallbackText": "일정\n5월 5일 토요일 오후 3시\n생일 파티 / 식당"
+  },
+  {
+    "id": "P2_T2_SCHEDULE_Q002_STIMULUS",
+    "type": "schedule",
+    "title": "일정",
+    "structuredData": {
+      "date": "6월 2일",
+      "day": "월요일",
+      "time": "오전 10시",
+      "activity": "시험",
+      "place": "교실"
+    },
+    "fallbackText": "일정\n6월 2일 월요일 오전 10시\n시험 / 교실"
+  },
+  {
+    "id": "P2_T2_SCHEDULE_Q003_STIMULUS",
+    "type": "schedule",
+    "title": "일정",
+    "structuredData": {
+      "date": "7월 1일",
+      "day": "화요일",
+      "time": "오후 2시",
+      "activity": "회의",
+      "place": "도서관"
+    },
+    "fallbackText": "일정\n7월 1일 화요일 오후 2시\n회의 / 도서관"
+  },
+  {
+    "id": "P2_T2_NOTICE_Q001_STIMULUS",
+    "type": "notice",
+    "title": "공지",
+    "structuredData": {
+      "event": "한국어 파티",
+      "date": "금요일",
+      "time": "오후 6시",
+      "place": "교실",
+      "note": "친구와 같이 오세요."
+    },
+    "fallbackText": "공지\n한국어 파티\n금요일 오후 6시 / 교실\n친구와 같이 오세요."
+  },
+  {
+    "id": "P2_T2_NOTICE_Q002_STIMULUS",
+    "type": "notice",
+    "title": "공지",
+    "structuredData": {
+      "event": "시험",
+      "date": "월요일",
+      "time": "오전 9시",
+      "place": "강의실",
+      "note": "펜을 가져오세요."
+    },
+    "fallbackText": "공지\n시험\n월요일 오전 9시 / 강의실\n펜을 가져오세요."
+  },
+  {
+    "id": "P2_T2_NOTICE_Q003_STIMULUS",
+    "type": "notice",
+    "title": "공지",
+    "structuredData": {
+      "event": "회의",
+      "date": "화요일",
+      "time": "오후 4시",
+      "place": "도서관",
+      "note": "책을 가져오세요."
+    },
+    "fallbackText": "공지\n회의\n화요일 오후 4시 / 도서관\n책을 가져오세요."
+  }
+]

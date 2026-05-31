@@ -1,0 +1,13 @@
+{
+  "id": "P2_T2_NOTICE_Q002_STIMULUS",
+  "type": "notice",
+  "title": "공지",
+  "structuredData": {
+    "event": "시험",
+    "date": "월요일",
+    "time": "오전 9시",
+    "place": "강의실",
+    "note": "펜을 가져오세요."
+  },
+  "fallbackText": "공지\n시험\n월요일 오전 9시 / 강의실\n펜을 가져오세요."
+}

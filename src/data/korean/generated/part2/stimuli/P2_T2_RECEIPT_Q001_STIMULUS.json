@@ -1,0 +1,26 @@
+{
+  "id": "P2_T2_RECEIPT_Q001_STIMULUS",
+  "type": "receipt",
+  "title": "영수증",
+  "structuredData": {
+    "date": "2009/08/02",
+    "time": "09:30",
+    "items": [
+      {
+        "name": "우유",
+        "quantity": 2,
+        "unit": "개",
+        "lineTotal": 1800
+      },
+      {
+        "name": "과자",
+        "quantity": 1,
+        "unit": "개",
+        "lineTotal": 1200
+      }
+    ],
+    "grandTotal": 3000,
+    "currency": "원"
+  },
+  "fallbackText": "영수증\n2009/08/02 09:30\n우유 x 2 1,800원\n과자 x 1 1,200원\n합계 3,000원"
+}

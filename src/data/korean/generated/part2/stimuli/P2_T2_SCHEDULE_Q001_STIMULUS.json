@@ -1,0 +1,13 @@
+{
+  "id": "P2_T2_SCHEDULE_Q001_STIMULUS",
+  "type": "schedule",
+  "title": "일정",
+  "structuredData": {
+    "date": "5월 5일",
+    "day": "토요일",
+    "time": "오후 3시",
+    "activity": "생일 파티",
+    "place": "식당"
+  },
+  "fallbackText": "일정\n5월 5일 토요일 오후 3시\n생일 파티 / 식당"
+}

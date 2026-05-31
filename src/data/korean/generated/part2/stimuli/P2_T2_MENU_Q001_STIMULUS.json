@@ -1,0 +1,24 @@
+{
+  "id": "P2_T2_MENU_Q001_STIMULUS",
+  "type": "menu",
+  "title": "메뉴",
+  "structuredData": {
+    "restaurantName": "한국 식당",
+    "items": [
+      {
+        "name": "김치찌개",
+        "price": 6000
+      },
+      {
+        "name": "비빔밥",
+        "price": 7000
+      },
+      {
+        "name": "콜라",
+        "price": 1000
+      }
+    ],
+    "currency": "원"
+  },
+  "fallbackText": "메뉴\n김치찌개 6,000원\n비빔밥 7,000원\n콜라 1,000원"
+}
