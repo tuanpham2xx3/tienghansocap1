@@ -1,5 +1,7 @@
 const DATA_PATH = "../src/data/korean/generated/vocabulary-games.json";
 const STORAGE_KEY = "koreanVocabularyGameStateV1";
+const GOOGLE_KOREAN_TTS_URL = "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=ko&q=";
+const AUDIO_FALLBACK_MESSAGE = "Thiết bị này không có giọng Hàn cài sẵn, app sẽ phát bằng audio online.";
 const STORED_STATE_KEYS = [
   "section",
   "mode",
@@ -64,6 +66,8 @@ const state = {
   marathonLives: 3,
   marathonSeed: 1,
   timerId: null,
+  audioPlayer: null,
+  speechAttempt: 0,
 };
 
 function saveLocalState() {
@@ -204,19 +208,63 @@ function resetRound() {
   saveLocalState();
 }
 
+function playOnlineKoreanAudio(text) {
+  if (!text) return;
+  if (!state.audioPlayer) state.audioPlayer = new Audio();
+  state.audioPlayer.pause();
+  state.audioPlayer.currentTime = 0;
+  state.audioPlayer.src = `${GOOGLE_KOREAN_TTS_URL}${encodeURIComponent(text)}`;
+  state.audioPlayer.play().catch(() => {
+    state.feedback = "Trình duyệt không phát được âm thanh. Hãy bật âm lượng hoặc thử Chrome/Safari bản mới.";
+    render();
+  });
+}
+
 function speak(text = currentItem()?.audioText) {
-  if (!text || !("speechSynthesis" in window)) {
-    state.feedback = "Thiết bị này chưa hỗ trợ đọc bằng Web Speech API.";
+  if (!text) return;
+  const canUseSpeech = "speechSynthesis" in window && "SpeechSynthesisUtterance" in window;
+  if (!canUseSpeech) {
+    state.feedback = AUDIO_FALLBACK_MESSAGE;
+    playOnlineKoreanAudio(text);
     render();
     return;
   }
+
   window.speechSynthesis.cancel();
+  if (state.audioPlayer) state.audioPlayer.pause();
+
+  const voices = window.speechSynthesis.getVoices();
+  const koreanVoice = voices.find(voice => voice.lang.toLowerCase().startsWith("ko"));
+  if (voices.length > 0 && !koreanVoice) {
+    state.feedback = AUDIO_FALLBACK_MESSAGE;
+    playOnlineKoreanAudio(text);
+    render();
+    return;
+  }
+
+  const attempt = state.speechAttempt + 1;
+  state.speechAttempt = attempt;
+  let started = false;
   const utterance = new SpeechSynthesisUtterance(text);
   utterance.lang = "ko-KR";
-  const voices = window.speechSynthesis.getVoices();
-  utterance.voice = voices.find(voice => voice.lang.toLowerCase().startsWith("ko")) || null;
+  utterance.voice = koreanVoice || null;
   utterance.rate = 0.88;
+  utterance.onstart = () => {
+    started = true;
+  };
+  utterance.onerror = () => {
+    if (state.speechAttempt !== attempt) return;
+    state.feedback = AUDIO_FALLBACK_MESSAGE;
+    playOnlineKoreanAudio(text);
+    render();
+  };
   window.speechSynthesis.speak(utterance);
+  window.setTimeout(() => {
+    if (state.speechAttempt !== attempt || started || window.speechSynthesis.speaking || window.speechSynthesis.pending) return;
+    state.feedback = AUDIO_FALLBACK_MESSAGE;
+    playOnlineKoreanAudio(text);
+    render();
+  }, 900);
 }
 
 function setSection(section) {
