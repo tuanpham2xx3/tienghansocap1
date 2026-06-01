@@ -280,7 +280,7 @@ function renderOptionList(question, shuffledOptionIds, part, answerKeyItem) {
           const option = optionById.get(optionId);
           const inputId = `${part}-${question.id}-${optionId}`;
           return `
-            <label for="${escapeHtml(inputId)}" class="flex cursor-pointer items-start gap-3 rounded-lg border px-4 py-3 text-sm font-semibold transition-colors ${optionClass({
+            <label for="${escapeHtml(inputId)}" class="flex cursor-pointer items-start gap-3 rounded-lg border px-3 py-3 text-sm font-semibold transition-colors md:px-4 ${optionClass({
               optionId,
               selectedOptionId,
               correctOptionId,
@@ -297,7 +297,7 @@ function renderOptionList(question, shuffledOptionIds, part, answerKeyItem) {
                 ${state.submitted ? "disabled" : ""}
               />
               <span class="grid h-7 w-7 shrink-0 place-items-center rounded-md border border-[#D6D3CD] bg-white text-xs font-extrabold">${labels[index]}</span>
-              <span class="leading-7">${escapeHtml(option?.text ?? optionId)}</span>
+              <span class="leading-6 md:leading-7">${escapeHtml(option?.text ?? optionId)}</span>
             </label>
           `;
         })
@@ -317,11 +317,11 @@ function renderOptionList(question, shuffledOptionIds, part, answerKeyItem) {
 
 function renderQuestionCard(number, title, bodyHtml, meta = "", badge = "", anchorId = "") {
   return `
-    <article id="${escapeHtml(anchorId || `question-${number}`)}" class="scroll-mt-24 rounded-xl border border-[#D6D3CD] bg-white p-5 shadow-sm">
-      <div class="flex items-start justify-between gap-3">
+    <article id="${escapeHtml(anchorId || `question-${number}`)}" class="scroll-mt-24 rounded-xl border border-[#D6D3CD] bg-white p-4 shadow-sm md:p-5">
+      <div class="flex flex-col gap-3 sm:flex-row sm:items-start sm:justify-between">
         <div class="flex items-center gap-2">
           <div class="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-[#2F5D50] text-sm font-extrabold text-white">${number}</div>
-          <h3 class="text-base font-extrabold text-[#262422]">${escapeHtml(title)}</h3>
+          <h3 class="text-sm font-extrabold leading-6 text-[#262422] md:text-base">${escapeHtml(title)}</h3>
         </div>
         <div class="flex items-center gap-2">
           ${badge}
@@ -352,7 +352,7 @@ function renderPart1(context, grading) {
     .map(item => {
       const question = context.part1QuestionById.get(item.questionId);
       const body = `
-        <div class="whitespace-pre-wrap rounded-lg border border-[#D6D3CD] bg-[#FFF8EE] p-4 text-base font-semibold leading-8">${formatMultiline(question.stem)}</div>
+        <div class="whitespace-pre-wrap rounded-lg border border-[#D6D3CD] bg-[#FFF8EE] p-3 text-sm font-semibold leading-6 md:p-4 md:text-base md:leading-8">${formatMultiline(question.stem)}</div>
         ${renderOptionList(question, item.shuffledOptionIds, "part1")}
       `;
       return renderQuestionCard(
@@ -371,7 +371,7 @@ function renderPart1(context, grading) {
 function renderStimulus(stimulus) {
   if (!stimulus) return "";
   return `
-    <div class="mb-3 rounded-lg border border-dashed border-[#D6D3CD] bg-[#FFF8EE] p-4 text-sm">
+    <div class="mb-3 rounded-lg border border-dashed border-[#D6D3CD] bg-[#FFF8EE] p-3 text-sm md:p-4">
       <div class="mb-2 font-extrabold">${escapeHtml(stimulus.title ?? "Thông tin")}</div>
       <pre class="whitespace-pre-wrap font-sans leading-6 text-[#262422]">${escapeHtml(stimulus.fallbackText)}</pre>
     </div>
@@ -392,7 +392,7 @@ function renderPart2(context, grading) {
       const question = context.part2QuestionById.get(item.questionId);
       const answer = context.part2AnswerByQuestionId.get(item.questionId);
       const reading = question.readingText
-        ? `<div class="rounded-lg border border-[#D6D3CD] bg-[#FFF8EE] p-4 font-korean text-base font-semibold leading-8">${formatMultiline(question.readingText)}</div>`
+        ? `<div class="rounded-lg border border-[#D6D3CD] bg-[#FFF8EE] p-3 font-korean text-sm font-semibold leading-7 md:p-4 md:text-base md:leading-8">${formatMultiline(question.readingText)}</div>`
         : "";
       const prompt = question.prompt ? `<div class="mb-2 text-sm font-bold text-[#262422]">${escapeHtml(question.prompt)}</div>` : "";
       const body = `
@@ -466,7 +466,7 @@ function renderPart3(context, grading) {
           </div>`
         : "";
       const body = `
-        <div class="rounded-lg border border-[#D6D3CD] bg-[#FFF8EE] p-4 text-base font-semibold leading-8">${formatMultiline(question.prompt)}</div>
+        <div class="rounded-lg border border-[#D6D3CD] bg-[#FFF8EE] p-3 text-sm font-semibold leading-6 md:p-4 md:text-base md:leading-8">${formatMultiline(question.prompt)}</div>
         ${renderKoreanInputAid(question, answer)}
         <textarea
           class="mt-3 min-h-28 w-full rounded-lg border border-[#D6D3CD] bg-white px-3 py-2 text-sm leading-6 shadow-sm focus:border-[#2F5D50] focus:outline-none focus:ring-4 focus:ring-[#2F5D50]/10"
@@ -499,7 +499,7 @@ function renderScoreSummary(grading) {
       <div class="flex flex-col gap-3 md:flex-row md:items-center md:justify-between">
         <div>
           <div class="text-sm font-extrabold text-[#2F5D50]">Kết quả</div>
-          <div class="mt-1 text-2xl font-extrabold">${summary.total.correct}/${summary.total.total}</div>
+          <div class="mt-1 text-xl font-extrabold md:text-2xl">${summary.total.correct}/${summary.total.total}</div>
         </div>
         <div class="grid gap-2 text-sm sm:grid-cols-3">
           <div class="rounded-lg border border-[#D6D3CD] bg-white px-3 py-2">Part 1: <b>${summary.part1.correct}/${summary.part1.total}</b></div>
@@ -541,7 +541,7 @@ function renderQuestionMap(context, grading) {
         : answer
           ? "border-[#2F5D50] bg-[#EEF6F2] text-[#262422]"
           : "border-[#D6D3CD] bg-white text-[#262422]";
-      return `<a class="grid h-10 place-items-center rounded-lg border text-sm font-extrabold ${cls}" href="#${escapeHtml(item.anchor)}">${index + 1}</a>`;
+      return `<a class="grid h-10 min-w-10 place-items-center rounded-lg border text-sm font-extrabold ${cls}" href="#${escapeHtml(item.anchor)}">${index + 1}</a>`;
     })
     .join("");
 }

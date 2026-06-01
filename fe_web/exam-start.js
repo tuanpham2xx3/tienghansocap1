@@ -66,7 +66,7 @@ function renderSummary() {
       <div class="font-extrabold text-[#262422]">${escapeHtml(exam.title)}</div>
       <div class="mt-1 text-xs font-bold">${escapeHtml(exam.id)}</div>
     </div>
-    <div class="grid grid-cols-2 gap-2">
+    <div class="grid grid-cols-1 gap-2 sm:grid-cols-2">
       <div class="rounded-xl border border-[#D9CBB8] p-3">Part 1<br /><b class="text-[#262422]">${exam.questionCounts.part1} câu</b></div>
       <div class="rounded-xl border border-[#D9CBB8] p-3">Part 2<br /><b class="text-[#262422]">${exam.questionCounts.part2} câu</b></div>
       <div class="rounded-xl border border-[#D9CBB8] p-3">Part 3<br /><b class="text-[#262422]">${exam.questionCounts.part3} câu</b></div>
@@ -94,7 +94,7 @@ function renderResumePanel() {
         <div class="text-sm font-extrabold text-[#2F5D50]">Đang có bài thi chưa nộp</div>
         <div class="mt-1 text-sm font-semibold text-[#262422]">${escapeHtml(saved.selectedOfficialExamId)} · còn ${formatRemaining(saved.endsAt)}</div>
       </div>
-      <a class="inline-flex h-11 items-center justify-center rounded-lg bg-[#2F5D50] px-4 text-sm font-bold text-white hover:bg-[#254C42]" href="./exam.html">Tiếp tục làm bài</a>
+      <a class="inline-flex h-11 w-full items-center justify-center rounded-lg bg-[#2F5D50] px-4 text-sm font-bold text-white hover:bg-[#254C42] sm:w-auto" href="./exam.html">Tiếp tục làm bài</a>
     </div>
   `;
 }

@@ -392,10 +392,10 @@ function shell(title, subtitle, body) {
   const total = currentProgressTotal();
   const displayIndex = (state.index % total) + 1;
   return `
-    <div class="mx-auto flex w-full max-w-[1120px] flex-col gap-5">
+    <div class="mx-auto flex w-full min-w-0 max-w-[1120px] flex-col gap-4 md:gap-5">
       <div class="flex flex-col gap-2 border-b border-[#D6D3CD] pb-4 md:flex-row md:items-start md:justify-between">
         <div>
-          <h2 class="text-2xl font-extrabold">${escapeHtml(title)}</h2>
+          <h2 class="text-xl font-extrabold md:text-2xl">${escapeHtml(title)}</h2>
           <p class="mt-1 text-sm leading-6 text-[#6B625C]">${escapeHtml(subtitle)}</p>
         </div>
         <div class="rounded-lg border border-[#D6D3CD] px-3 py-2 text-sm font-bold">${displayIndex}/${total}</div>
@@ -422,26 +422,26 @@ function renderFlashcard() {
     "Card học từ mới",
     "Lật nhanh từng từ trong bài đang chọn. Dùng nút Nghe để phát âm tiếng Hàn.",
     `
-      <div class="relative mx-auto w-full max-w-[900px] px-14 sm:px-16">
-        <button class="circle-button absolute left-0 top-1/2 z-10 flex h-12 w-12 -translate-y-1/2 items-center justify-center rounded-full border border-[#D6D3CD] bg-white text-2xl font-extrabold text-[#2F5D50]" data-action="previous" type="button" title="Từ trước" aria-label="Từ trước">‹</button>
-        <button class="study-card mx-auto block w-full rounded-2xl border border-[#D6D3CD] bg-[#FFF8EE] p-6 text-left shadow-sm hover:border-[#2F5D50] focus:border-[#2F5D50] focus:outline-none focus:ring-4 focus:ring-[#2F5D50]/10 md:p-8" data-action="flip-card" type="button">
+      <div class="relative mx-auto w-full max-w-[900px] px-11 sm:px-16">
+        <button class="circle-button absolute left-0 top-1/2 z-10 flex h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full border border-[#D6D3CD] bg-white text-xl font-extrabold text-[#2F5D50] sm:h-12 sm:w-12 sm:text-2xl" data-action="previous" type="button" title="Từ trước" aria-label="Từ trước">‹</button>
+        <button class="study-card mx-auto block w-full rounded-2xl border border-[#D6D3CD] bg-[#FFF8EE] p-4 text-left shadow-sm hover:border-[#2F5D50] focus:border-[#2F5D50] focus:outline-none focus:ring-4 focus:ring-[#2F5D50]/10 md:p-8" data-action="flip-card" type="button">
           <div class="study-card-content text-center">
             <div class="text-sm font-bold text-[#6B625C]">${escapeHtml(item.lessonTitle)}</div>
             <div class="mt-4 flex items-center justify-center gap-3">
-              <div class="font-korean text-6xl font-extrabold leading-tight md:text-7xl">${escapeHtml(item.korean)}</div>
-              <span class="circle-button inline-flex h-11 w-11 shrink-0 items-center justify-center rounded-full border border-[#D6D3CD] bg-white text-[#2F5D50]" data-action="speak" role="button" tabindex="0" title="Nghe phát âm" aria-label="Nghe phát âm"><span class="speaker-glyph">🔊</span></span>
+              <div class="font-korean text-4xl font-extrabold leading-tight sm:text-5xl md:text-7xl">${escapeHtml(item.korean)}</div>
+              <span class="circle-button inline-flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-[#D6D3CD] bg-white text-[#2F5D50] sm:h-11 sm:w-11" data-action="speak" role="button" tabindex="0" title="Nghe phát âm" aria-label="Nghe phát âm"><span class="speaker-glyph">🔊</span></span>
             </div>
             ${
               state.cardFlipped
                 ? `
-                  <div class="mt-5 text-2xl font-extrabold">${escapeHtml(item.meaningVi)}</div>
+                   <div class="mt-5 text-xl font-extrabold md:text-2xl">${escapeHtml(item.meaningVi)}</div>
                   <div class="mt-5 flex justify-center">${itemMeta(item)}</div>
                 `
                 : `<div class="mt-6 text-sm font-bold text-[#6B625C]">Bấm vào thẻ để xem nghĩa</div>`
             }
           </div>
         </button>
-        <button class="circle-button absolute right-0 top-1/2 z-10 flex h-12 w-12 -translate-y-1/2 items-center justify-center rounded-full border border-[#D6D3CD] bg-white text-2xl font-extrabold text-[#2F5D50]" data-action="next" type="button" title="Từ tiếp theo" aria-label="Từ tiếp theo">›</button>
+        <button class="circle-button absolute right-0 top-1/2 z-10 flex h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full border border-[#D6D3CD] bg-white text-xl font-extrabold text-[#2F5D50] sm:h-12 sm:w-12 sm:text-2xl" data-action="next" type="button" title="Từ tiếp theo" aria-label="Từ tiếp theo">›</button>
       </div>
     `,
   );
@@ -454,7 +454,7 @@ function renderListening() {
     "Nghe phát âm",
     "Nghe tiếng Hàn rồi chọn nghĩa đúng.",
     `
-      <div class="rounded-xl border border-[#D6D3CD] bg-[#FFF8EE] p-6 text-center">
+      <div class="rounded-xl border border-[#D6D3CD] bg-[#FFF8EE] p-4 text-center md:p-6">
         <button class="tap-button rounded-lg bg-[#2F5D50] px-5 py-3 text-sm font-bold text-white" data-action="speak">Phát âm tiếng Hàn</button>
         <div class="mt-4 min-h-12">
           ${
@@ -464,7 +464,7 @@ function renderListening() {
           }
         </div>
       </div>
-      <div class="grid gap-2 md:grid-cols-2">
+      <div class="grid gap-2 sm:grid-cols-2">
         ${options.map(option => answerButton(option.id, option.meaningVi, item.id)).join("")}
       </div>
       ${state.locked ? `<button class="tap-button w-fit rounded-lg bg-[#2F5D50] px-4 py-2 text-sm font-bold text-white" data-action="next">Câu tiếp theo</button>` : ""}
@@ -496,7 +496,7 @@ function renderMatching() {
     "Nối từ",
     "Chọn một từ tiếng Hàn rồi chọn nghĩa tiếng Việt tương ứng.",
     `
-      <div class="grid gap-4 md:grid-cols-2">
+      <div class="grid gap-3 sm:grid-cols-2 md:gap-4">
         <div class="grid gap-2">
           ${items
             .map(item => `
@@ -541,13 +541,13 @@ function renderLetterArrange() {
     "Xếp chữ",
     "Sắp xếp các ký tự để tạo đúng từ tiếng Hàn.",
     `
-      <div class="rounded-xl border border-[#D6D3CD] bg-[#FFF8EE] p-5">
+      <div class="rounded-xl border border-[#D6D3CD] bg-[#FFF8EE] p-4 md:p-5">
         <div class="text-sm font-bold text-[#6B625C]">Nghĩa</div>
-        <div class="mt-2 text-xl font-extrabold">${escapeHtml(item.meaningVi)}</div>
-        <div class="mt-4 min-h-16 rounded-lg border border-[#D6D3CD] bg-white p-3 font-korean text-3xl font-extrabold">${escapeHtml(assembled || " ")}</div>
+        <div class="mt-2 text-lg font-extrabold md:text-xl">${escapeHtml(item.meaningVi)}</div>
+        <div class="mt-4 min-h-14 rounded-lg border border-[#D6D3CD] bg-white p-3 font-korean text-2xl font-extrabold md:min-h-16 md:text-3xl">${escapeHtml(assembled || " ")}</div>
       </div>
       <div class="flex flex-wrap gap-2">
-        ${letters.map((letter, index) => `<button class="tap-button h-12 min-w-12 rounded-lg border border-[#D6D3CD] bg-white px-3 font-korean text-xl font-bold" data-letter="${index}" data-value="${escapeHtml(letter)}">${escapeHtml(letter)}</button>`).join("")}
+        ${letters.map((letter, index) => `<button class="tap-button h-11 min-w-11 rounded-lg border border-[#D6D3CD] bg-white px-3 font-korean text-lg font-bold md:h-12 md:min-w-12 md:text-xl" data-letter="${index}" data-value="${escapeHtml(letter)}">${escapeHtml(letter)}</button>`).join("")}
       </div>
       <div class="flex flex-wrap gap-2">
         <button class="tap-button rounded-lg border border-[#D6D3CD] bg-white px-4 py-2 text-sm font-bold" data-action="clear-letters">Xóa</button>
@@ -563,7 +563,7 @@ function renderTextInputMode(title, subtitle, promptHtml) {
     title,
     subtitle,
     `
-      <div class="rounded-xl border border-[#D6D3CD] bg-[#FFF8EE] p-5">${promptHtml}</div>
+      <div class="rounded-xl border border-[#D6D3CD] bg-[#FFF8EE] p-4 md:p-5">${promptHtml}</div>
       <input class="h-12 w-full rounded-lg border border-[#D6D3CD] px-3 font-korean text-lg font-bold focus:border-[#2F5D50] focus:outline-none focus:ring-4 focus:ring-[#2F5D50]/10" value="${escapeHtml(state.answerText)}" data-answer-input placeholder="Nhập tiếng Hàn" />
       <div class="flex flex-wrap gap-2">
         <button class="tap-button rounded-lg border border-[#D6D3CD] bg-white px-4 py-2 text-sm font-bold" data-action="speak">Nghe</button>
@@ -591,7 +591,7 @@ function renderMarathon() {
     return shell(
       "Marathon",
       "Trả lời liên tục trong 45 giây. Có 3 mạng, sai mất 1 mạng, đúng được cộng 5 giây.",
-      `<button class="tap-button w-fit rounded-lg bg-[#2F5D50] px-5 py-3 text-sm font-bold text-white" data-action="start-marathon">Bắt đầu Marathon</button>`,
+      `<button class="tap-button w-full rounded-lg bg-[#2F5D50] px-5 py-3 text-sm font-bold text-white sm:w-fit" data-action="start-marathon">Bắt đầu Marathon</button>`,
     );
   }
   const item = currentItem();
@@ -606,10 +606,10 @@ function renderMarathon() {
         <div class="w-fit rounded-lg border border-[#D6D3CD] px-3 py-2 text-sm font-bold">Mạng: ${state.marathonLives}</div>
         <div class="w-fit rounded-lg border border-[#D6D3CD] px-3 py-2 text-sm font-bold">Combo: ${state.streak}</div>
       </div>
-      <div class="rounded-xl border border-[#D6D3CD] bg-[#FFF8EE] p-5">
-        <div class="font-korean text-4xl font-extrabold">${escapeHtml(item.korean)}</div>
+      <div class="rounded-xl border border-[#D6D3CD] bg-[#FFF8EE] p-4 md:p-5">
+        <div class="font-korean text-3xl font-extrabold md:text-4xl">${escapeHtml(item.korean)}</div>
       </div>
-      <div class="grid gap-2 md:grid-cols-2">
+      <div class="grid gap-2 sm:grid-cols-2">
         ${options.map(option => answerButton(option.id, option.meaningVi, item.id)).join("")}
       </div>
       ${gameOver ? `<div class="rounded-lg border border-[#D6D3CD] bg-white px-4 py-3 text-sm font-bold">Kết thúc. Điểm của bạn: ${state.score}</div>` : ""}

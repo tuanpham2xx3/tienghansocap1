@@ -239,7 +239,7 @@ function renderLectureVideos(lesson) {
 
   if (!videos.length) {
     return `
-      <div class="mt-5 rounded-xl border border-[#D9CBB8] bg-white p-5">
+      <div class="mt-5 rounded-xl border border-[#D9CBB8] bg-white p-4 md:p-5">
         <div class="text-sm font-extrabold text-[#262422]">Video bài giảng</div>
         <p class="mt-2 text-sm font-semibold text-[#6B625C]">Bài này chưa gắn video YouTube.</p>
       </div>
@@ -462,11 +462,11 @@ function renderLessonSelect() {
 
 function pointCard(point, number) {
   return `
-    <article id="grammar-${point.lessonIndex}-${point.pointIndex}" class="study-card rounded-xl border border-[#D6D3CD] bg-white p-5">
+    <article id="grammar-${point.lessonIndex}-${point.pointIndex}" class="study-card rounded-xl border border-[#D6D3CD] bg-white p-4 md:p-5">
       <div class="flex flex-col gap-3 sm:flex-row sm:items-start sm:justify-between">
         <div>
           <div class="text-xs font-extrabold text-[#2F5D50]">${escapeHtml(point.lesson)} · ${number}</div>
-          <h3 class="mt-1 font-korean text-2xl font-extrabold text-[#262422]">${escapeHtml(point.grammar)}</h3>
+          <h3 class="mt-1 font-korean text-xl font-extrabold text-[#262422] md:text-2xl">${escapeHtml(point.grammar)}</h3>
           <p class="mt-1 text-sm font-bold text-[#6B625C]">${escapeHtml(point.meaning)}</p>
         </div>
       </div>
@@ -482,10 +482,10 @@ function pointCard(point, number) {
 function renderSummary() {
   const points = filteredPoints();
   return `
-    <div class="grammar-panel">
-      <div class="rounded-xl border border-[#D6D3CD] bg-[#F8F7F3] p-5">
+    <div class="grammar-panel min-w-0">
+      <div class="rounded-xl border border-[#D6D3CD] bg-[#F8F7F3] p-4 md:p-5">
         <div class="text-sm font-extrabold text-[#2F5D50]">Tổng hợp</div>
-        <h1 class="mt-2 text-3xl font-extrabold">Tổng hợp ngữ pháp từ bài 1 đến 8 sơ cấp 1</h1>
+        <h1 class="mt-2 text-2xl font-extrabold md:text-3xl">Tổng hợp ngữ pháp từ bài 1 đến 8 sơ cấp 1</h1>
         <p class="mt-2 max-w-3xl text-sm font-medium leading-6 text-[#6B625C]">Duyệt nhanh toàn bộ mẫu theo bài, nghĩa, giải thích và ví dụ.</p>
       </div>
       <div class="mt-5 grid gap-3">
@@ -498,12 +498,12 @@ function renderSummary() {
 function renderLecture() {
   const lesson = state.data.grammar_list[state.selectedLessonIndex];
   return `
-    <div class="grammar-panel">
-      <section class="relative overflow-hidden rounded-xl border border-[#D9CBB8] bg-[#FFF8EE] p-5">
+    <div class="grammar-panel min-w-0">
+      <section class="relative overflow-hidden rounded-xl border border-[#D9CBB8] bg-[#FFF8EE] p-4 md:p-5">
         <div class="absolute right-6 top-5 h-8 w-32 rotate-3 bg-[#F6D365]/70"></div>
         <div class="relative">
           <div class="text-sm font-extrabold text-[#2F5D50]">Bài giảng</div>
-          <h1 class="mt-2 text-3xl font-extrabold">${escapeHtml(lesson.lesson)}</h1>
+          <h1 class="mt-2 text-2xl font-extrabold md:text-3xl">${escapeHtml(lesson.lesson)}</h1>
           <p class="mt-2 max-w-3xl text-sm font-medium leading-6 text-[#6B625C]">Học theo thứ tự bài, đọc giải thích rồi đối chiếu ví dụ tiếng Hàn và tiếng Việt.</p>
           <div class="mt-4 flex flex-wrap gap-2">
             ${lesson.grammar_points.map((point, index) => `
@@ -524,18 +524,19 @@ function renderLecture() {
 
 function renderConjugation() {
   return `
-    <div class="grammar-panel">
-      <section class="rounded-xl border border-[#D6D3CD] bg-[#F8F7F3] p-5">
+    <div class="grammar-panel min-w-0">
+      <section class="rounded-xl border border-[#D6D3CD] bg-[#F8F7F3] p-4 md:p-5">
         <div class="text-sm font-extrabold text-[#2F5D50]">Bảng chia động/tính từ</div>
-        <h1 class="mt-2 text-3xl font-extrabold">Bảng chia đuôi sơ cấp 1</h1>
+        <h1 class="mt-2 text-2xl font-extrabold md:text-3xl">Bảng chia đuôi sơ cấp 1</h1>
         <p class="mt-2 max-w-3xl text-sm font-medium leading-6 text-[#6B625C]">Ôn nhanh 12 mẫu chia thường gặp. Dấu × là mẫu không dùng tự nhiên với tính từ.</p>
+        <div class="mt-3 inline-flex rounded-lg border border-[#D6D3CD] bg-white px-3 py-2 text-xs font-bold text-[#6B625C]">Kéo ngang để xem thêm</div>
       </section>
       <div class="mt-5 cursor-grab overflow-x-auto rounded-xl border border-[#D6D3CD] bg-white active:cursor-grabbing" data-drag-scroll>
-        <table class="min-w-[1720px] border-collapse text-left select-none">
+        <table class="min-w-[1650px] border-collapse text-left select-none">
           <thead>
             <tr class="bg-[#2F5D50] text-white">
-              <th class="sticky left-0 z-10 w-[128px] border-r border-[#D6D3CD]/40 bg-[#2F5D50] px-3 py-3 text-sm font-extrabold">Từ gốc</th>
-              <th class="sticky left-[128px] z-10 w-[160px] border-r border-[#D6D3CD]/40 bg-[#2F5D50] px-3 py-3 text-sm font-extrabold">Nghĩa</th>
+              <th class="sticky left-0 z-10 w-[104px] border-r border-[#D6D3CD]/40 bg-[#2F5D50] px-3 py-3 text-sm font-extrabold md:w-[128px]">Từ gốc</th>
+              <th class="sticky left-[104px] z-10 w-[120px] border-r border-[#D6D3CD]/40 bg-[#2F5D50] px-3 py-3 text-sm font-extrabold md:left-[128px] md:w-[160px]">Nghĩa</th>
               ${CONJUGATION_COLUMNS.map(column => `
                 <th class="w-[118px] border-r border-white/20 px-3 py-3 align-top font-korean text-sm font-extrabold leading-6">
                   ${escapeHtml(column.label)}
@@ -549,7 +550,7 @@ function renderConjugation() {
                 <th class="sticky left-0 z-10 border-r border-[#D6D3CD] bg-white px-3 py-2.5 font-korean text-base font-extrabold leading-6 text-[#262422]">
                   ${escapeHtml(item.word)}
                 </th>
-                <td class="sticky left-[128px] z-10 border-r border-[#D6D3CD] bg-white px-3 py-2.5 text-sm font-semibold leading-6 text-[#6B625C]">
+                <td class="sticky left-[104px] z-10 border-r border-[#D6D3CD] bg-white px-3 py-2.5 text-sm font-semibold leading-6 text-[#6B625C] md:left-[128px]">
                   ${escapeHtml(item.meaning)}
                 </td>
                 ${CONJUGATION_COLUMNS.map(column => {
