@@ -645,11 +645,11 @@
     "skill": "shopping_quantity",
     "knowledgeTarget": "Dịch câu muốn mua/gọi món có số lượng hoặc hỏi giá",
     "difficulty": "medium",
-    "prompt": "Tôi muốn mua 3 con cá. Tất cả là bao nhiêu tiền? 120.000 đồng nhé!",
-    "sampleAnswer": "저는 생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 동이에요.",
+    "prompt": "Tôi muốn mua 3 con cá. Tất cả là bao nhiêu tiền? 120.000 WON nhé!",
+    "sampleAnswer": "저는 생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 원이에요.",
     "acceptedAnswers": [
-      "저는 생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 동이에요.",
-      "생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 동이에요."
+      "저는 생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 원이에요.",
+      "생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 원이에요."
     ],
     "grammarUsed": [
       "DESIRE_FIRST_PERSON",
@@ -663,9 +663,9 @@
       "사다",
       "모두",
       "만",
-      "동"
+      "원"
     ],
-    "explanationVi": "Số lượng con cá dùng 세 마리; tiền dùng 십이만 동.",
+    "explanationVi": "Số lượng con cá dùng 세 마리; tiền dùng 십이만 원.",
     "semanticGroupId": "P3_SEM_SHOP_FISH_120K",
     "validation": {
       "grammarInScope": true,
@@ -2111,11 +2111,11 @@
     "skill": "shopping_quantity",
     "knowledgeTarget": "Hiểu và dịch câu mua/gọi món, số lượng hoặc giá",
     "difficulty": "medium",
-    "prompt": "저는 생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 동이에요.",
-    "sampleAnswer": "Tôi muốn mua ba con cá. Tất cả là bao nhiêu tiền? Là 120.000 đồng.",
+    "prompt": "저는 생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 원이에요.",
+    "sampleAnswer": "Tôi muốn mua ba con cá. Tất cả là bao nhiêu tiền? Là 120.000 WON.",
     "acceptedAnswers": [
-      "Tôi muốn mua ba con cá. Tất cả là bao nhiêu tiền? Là 120.000 đồng.",
-      "Tôi muốn mua 3 con cá. Tổng cộng bao nhiêu tiền? 120.000 đồng."
+      "Tôi muốn mua ba con cá. Tất cả là bao nhiêu tiền? Là 120.000 WON.",
+      "Tôi muốn mua 3 con cá. Tổng cộng bao nhiêu tiền? 120.000 WON."
     ],
     "grammarUsed": [
       "DESIRE_FIRST_PERSON",
@@ -2129,9 +2129,9 @@
       "사다",
       "모두",
       "만",
-      "동"
+      "원"
     ],
-    "explanationVi": "세 마리 là ba con; 십이만 동 là 120.000 đồng.",
+    "explanationVi": "세 마리 là ba con; 십이만 원 là 120.000 WON.",
     "semanticGroupId": "P3_SEM_SHOP_FISH_120K",
     "validation": {
       "grammarInScope": true,

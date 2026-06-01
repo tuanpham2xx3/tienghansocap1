@@ -1,0 +1,1470 @@
+{
+  "source": "../vocabulary-krdict-enriched.json",
+  "group": "L01-L02",
+  "instructions": "Fill each examples[].vi with a natural Vietnamese translation of examples[].ko. Preserve all IDs, Korean text, and indexes. Do not add/remove items.",
+  "items": [
+    {
+      "id": "VOC_L01_003",
+      "lesson": 1,
+      "korean": "국적",
+      "meaningVi": "Quốc tịch",
+      "krdictDefinitionVi": "Tư cách trở thành thành viên của một nước.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "저는 미국 국적이지만 쭉 캐나다에서 생활했어요.",
+          "vi": "Tôi có quốc tịch Mỹ nhưng đã sống ở Canada suốt."
+        },
+        {
+          "index": 1,
+          "ko": "민준은 프랑스에서 태어났지만 한국 국적을 취득했기 때문에 얼마 전 군에 입대했다.",
+          "vi": "Minjun sinh ra ở Pháp nhưng đã nhập quốc tịch Hàn Quốc nên mới nhập ngũ cách đây không lâu."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L01_004",
+      "lesson": 1,
+      "korean": "네",
+      "meaningVi": "Vâng / Dạ",
+      "krdictDefinitionVi": "Từ dùng khi đáp lại lời gọi của người trên.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "민준아.",
+          "vi": "Minjun à."
+        },
+        {
+          "index": 1,
+          "ko": "네. 부르셨어요?",
+          "vi": "Vâng. Thầy cô gọi em ạ."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L01_005",
+      "lesson": 1,
+      "korean": "나라",
+      "meaningVi": "Đất nước / Quốc gia",
+      "krdictDefinitionVi": "Tổ chức xã hội của những người có chủ quyền và lãnh thổ nhất định.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "국경 지역에는 나라를 잃고 떠도는 난민들이 모여들었다.",
+          "vi": "Ở khu vực biên giới, những người tị nạn mất nước và phải lang thang đã tụ tập lại."
+        },
+        {
+          "index": 1,
+          "ko": "교장 선생님은 아이들에게 나라를 사랑하는 마음을 심어 주기 위해 노력하셨다.",
+          "vi": "Thầy hiệu trưởng đã nỗ lực gieo vào lòng các em tình yêu đất nước."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L01_007",
+      "lesson": 1,
+      "korean": "대학교",
+      "meaningVi": "Trường đại học",
+      "krdictDefinitionVi": "Cơ sở giáo dục đến sau khi tốt nghiệp trung học. Hoặc các tòa nhà và cơ sở có chứa các tổ chức đó.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "오월에는 많은 대학교에서 축제가 열린다.",
+          "vi": "Vào tháng Năm, nhiều trường đại học tổ chức lễ hội."
+        },
+        {
+          "index": 1,
+          "ko": "형은 대학교에 들어간 후 아르바이트로 등록금을 벌었다.",
+          "vi": "Sau khi vào đại học, anh trai tôi đã đi làm thêm để kiếm tiền học phí."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L01_008",
+      "lesson": 1,
+      "korean": "대학생",
+      "meaningVi": "Sinh viên",
+      "krdictDefinitionVi": "Học sinh học ở trường đại học.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 고등학교 때 대학생이 되고 싶었다.",
+          "vi": "Hồi học trung học, tôi muốn trở thành sinh viên đại học."
+        },
+        {
+          "index": 1,
+          "ko": "대학 교정에는 이제 막 대학생이 된 새내기들이 가득했다.",
+          "vi": "Khuôn viên đại học đầy những tân sinh viên vừa mới trở thành sinh viên."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L01_014",
+      "lesson": 1,
+      "korean": "보기",
+      "meaningVi": "Ví dụ / Mẫu",
+      "krdictDefinitionVi": "Cái được xem là tiêu biểu để chứng minh hay giải thích cái gì.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "괄호 안에 들어갈 적절한 말을 보기에서 골라 쓰시오.",
+          "vi": "Hãy chọn từ thích hợp trong phần ví dụ để điền vào trong ngoặc."
+        },
+        {
+          "index": 1,
+          "ko": "승규는 문제의 보기를 따로 보지 않고도 답을 쓸 수 있었다.",
+          "vi": "Seunggyu có thể viết đáp án mà không cần xem riêng các lựa chọn của câu hỏi."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L01_015",
+      "lesson": 1,
+      "korean": "반갑습니다",
+      "meaningVi": "Rất vui được gặp",
+      "krdictDefinitionVi": "Lòng vui mừng và phấn khởi vì gặp được người mình muốn gặp hay việc mong muốn được thực hiện.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "유민이는 지수에게 반갑게 인사했다.",
+          "vi": "Yumin đã vui vẻ chào Jisu."
+        },
+        {
+          "index": 1,
+          "ko": "결혼한 지 삼 년이 지나도록 아이를 가지지 못했던 지수는 얼마 전 임신했다는 반가운 소식을 나에게 전했다.",
+          "vi": "Jisu, người đã không thể có con suốt ba năm sau khi kết hôn, đã báo cho tôi tin vui rằng cô ấy vừa mang thai cách đây không lâu."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L01_016",
+      "lesson": 1,
+      "korean": "사람",
+      "meaningVi": "Người",
+      "krdictDefinitionVi": "Thực thể có thể suy nghĩ, làm ra ngôn ngữ và công cụ, sống tạo nên xã hội.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "사람은 생각하는 동물이다.",
+          "vi": "Con người là động vật biết suy nghĩ."
+        },
+        {
+          "index": 1,
+          "ko": "사람이 동물과 다른 점은 언어를 사용한다는 점이다.",
+          "vi": "Điểm khác biệt giữa con người và động vật là con người sử dụng ngôn ngữ."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L01_017",
+      "lesson": 1,
+      "korean": "선생님",
+      "meaningVi": "Giáo viên",
+      "krdictDefinitionVi": "(cách nói kính trọng) Người dạy học sinh.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "선생님께서 내일까지 꼭 숙제를 해 오라고 하셨다.",
+          "vi": "Thầy cô dặn nhất định phải làm bài tập và mang đến trước ngày mai."
+        },
+        {
+          "index": 1,
+          "ko": "선생님의 설명을 들으니 모르던 것이 이해가 가기 시작했다.",
+          "vi": "Nghe lời giải thích của thầy cô, những điều tôi chưa biết bắt đầu trở nên dễ hiểu."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L01_018",
+      "lesson": 1,
+      "korean": "씨",
+      "meaningVi": "Anh/Chị/Bạn (Kính ngữ gọi tên)",
+      "krdictDefinitionVi": "Từ dùng để chỉ hay gọi trân trọng người đó.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "사무실로 찾아가 보았지만 김지수 씨는 자리에 없었다.",
+          "vi": "Tôi đã đến văn phòng tìm thử nhưng anh Kim Jisu không có ở chỗ làm."
+        },
+        {
+          "index": 1,
+          "ko": "유민 씨, 식사 하셨어요?",
+          "vi": "Chị Yumin, chị đã ăn cơm chưa."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L01_019",
+      "lesson": 1,
+      "korean": "아니요",
+      "meaningVi": "Không",
+      "krdictDefinitionVi": "Từ dùng khi trả lời phủ định đối với câu hỏi của người trên.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "승규야, 숙제는 다 했니?",
+          "vi": "Seunggyu à, em làm xong hết bài tập chưa."
+        },
+        {
+          "index": 1,
+          "ko": "아니요, 노느라 아직 다 못했어요.",
+          "vi": "Dạ chưa, vì mải chơi nên em vẫn chưa làm xong hết."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L01_024",
+      "lesson": 1,
+      "korean": "약사",
+      "meaningVi": "Dược sĩ",
+      "krdictDefinitionVi": "Người chuyên làm công việc như chế tạo và bán thuốc.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "약사는 의사의 처방전에 따라 약을 조제했다.",
+          "vi": "Dược sĩ đã pha thuốc theo đơn thuốc của bác sĩ."
+        },
+        {
+          "index": 1,
+          "ko": "지수는 약사가 되고 싶어서 약학 대학에 갔다.",
+          "vi": "Jisu muốn trở thành dược sĩ nên đã vào trường đại học dược."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L01_026",
+      "lesson": 1,
+      "korean": "이",
+      "meaningVi": "Này / Người này",
+      "krdictDefinitionVi": "Từ chỉ đối tượng ở gần người nói hoặc đối tượng mà người nói đang nghĩ đến.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "지금부터 관련 지도를 보여드리겠습니다. 이를 잘 보시기 바랍니다.",
+          "vi": "Từ bây giờ tôi sẽ cho quý vị xem bản đồ liên quan. Xin hãy xem kỹ bản đồ này."
+        },
+        {
+          "index": 1,
+          "ko": "제 손에 비둘기 한 마리가 있습니다. 이를 가지고 꽃을 만들어 보겠습니다.",
+          "vi": "Trong tay tôi có một con bồ câu. Tôi sẽ dùng nó để thử làm thành một bông hoa."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L01_027",
+      "lesson": 1,
+      "korean": "이름",
+      "meaningVi": "Tên",
+      "krdictDefinitionVi": "Từ gán cho động vật, sự vật, hiện tượng... để gọi nhằm phân biệt với cái khác.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "이 동물의 이름이 뭐야?",
+          "vi": "Tên của con vật này là gì."
+        },
+        {
+          "index": 1,
+          "ko": "우리는 이 사건에 이름을 붙이기로 했다.",
+          "vi": "Chúng tôi quyết định đặt tên cho vụ việc này."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L01_028",
+      "lesson": 1,
+      "korean": "이메일",
+      "meaningVi": "Email",
+      "krdictDefinitionVi": "Thư từ trao đổi bằng internet hay mạng viễn thông.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "우리 어머니는 컴퓨터로 글을 쓰는 법을 배워 아버지께 이메일을 써서 보내셨다.",
+          "vi": "Mẹ tôi đã học cách viết trên máy tính rồi viết email gửi cho bố tôi."
+        },
+        {
+          "index": 1,
+          "ko": "이민을 간 지수는 드디어 컴퓨터를 사서 연락할 수 있게 되었다고 나에게 이메일을 보냈다.",
+          "vi": "Jisu, người đã đi di cư, gửi email cho tôi nói rằng cuối cùng cô ấy đã mua máy tính và có thể liên lạc được."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L01_032",
+      "lesson": 1,
+      "korean": "저",
+      "meaningVi": "Tôi (Khiêm nhường)",
+      "krdictDefinitionVi": "Từ chỉ người nào đó khi nói về người đó.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "저 하고 싶은 대로 하라고 해.",
+          "vi": "Hãy bảo nó làm theo ý nó muốn."
+        },
+        {
+          "index": 1,
+          "ko": "저 혼자 할 수 있도록 놔 두세요.",
+          "vi": "Xin hãy để tôi có thể tự làm một mình."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L01_033",
+      "lesson": 1,
+      "korean": "제",
+      "meaningVi": "Của tôi (Khiêm nhường)",
+      "krdictDefinitionVi": "Cách viết rút gọn của '저의'.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "이번에는 제 의견을 말해 보겠습니다.",
+          "vi": "Lần này tôi xin trình bày ý kiến của mình."
+        },
+        {
+          "index": 1,
+          "ko": "이 일은 전적으로 제 능력이 모자라서 생긴 일입니다.",
+          "vi": "Việc này xảy ra hoàn toàn là do năng lực của tôi còn thiếu."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L01_034",
+      "lesson": 1,
+      "korean": "주소",
+      "meaningVi": "Địa chỉ",
+      "krdictDefinitionVi": "Tên theo khu vực hành chính của nơi mà nhà ở, nơi làm việc hay cơ quan… tọa lạc.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 전입 신고를 마치고 새 주소를 갖게 되었다.",
+          "vi": "Tôi đã hoàn tất khai báo chuyển đến và có địa chỉ mới."
+        },
+        {
+          "index": 1,
+          "ko": "나는 발신인 주소가 적혀 있지 않은 우편물을 받았다.",
+          "vi": "Tôi nhận được một bưu phẩm không ghi địa chỉ người gửi."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L01_035",
+      "lesson": 1,
+      "korean": "주부",
+      "meaningVi": "Nội trợ",
+      "krdictDefinitionVi": "Người đảm nhiệm và làm việc nhà của một gia đình.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "주부로 살던 아내가 갑자기 취업을 하겠다고 나섰다.",
+          "vi": "Người vợ từng làm nội trợ bỗng nói rằng cô ấy sẽ đi làm."
+        },
+        {
+          "index": 1,
+          "ko": "연이은 태풍으로 채소 값이 오르자 주부들의 한숨이 늘어났다.",
+          "vi": "Do bão liên tiếp làm giá rau tăng, tiếng thở dài của các bà nội trợ cũng nhiều hơn."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L01_037",
+      "lesson": 1,
+      "korean": "직업",
+      "meaningVi": "Nghề nghiệp",
+      "krdictDefinitionVi": "Công việc làm một cách cố định và nhận thù lao.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 내 적성과 능력에 맞는 직업을 찾고 싶다.",
+          "vi": "Tôi muốn tìm một nghề phù hợp với năng khiếu và năng lực của mình."
+        },
+        {
+          "index": 1,
+          "ko": "우리 삼촌은 서른 살이 넘었는데도 직업도 없이 집에서 놀고먹는다.",
+          "vi": "Chú tôi đã hơn ba mươi tuổi mà vẫn không có nghề nghiệp, chỉ ở nhà ăn chơi."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L01_042",
+      "lesson": 1,
+      "korean": "학과",
+      "meaningVi": "Khoa / Ngành học",
+      "krdictDefinitionVi": "Phân khoa học thuật được chia ra để giảng dạy hay nghiên cứu.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "민준이는 가고 싶은 학과를 일찍 정했다.",
+          "vi": "Minjun đã sớm chọn ngành học mình muốn vào."
+        },
+        {
+          "index": 1,
+          "ko": "나와 유민이는 학과는 달랐지만 동아리에서 알게 되었다.",
+          "vi": "Tôi và Yumin học khác khoa nhưng quen nhau ở câu lạc bộ."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L01_043",
+      "lesson": 1,
+      "korean": "학번",
+      "meaningVi": "Mã số sinh viên",
+      "krdictDefinitionVi": "Số đặc thù được cấp cho học sinh theo khoa và năm nhập học ở trường đại học hay ở các khoa sau đại học.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "지수는 시험지를 받자마자 제일 먼저 답안지에 학번과 이름을 적었다.",
+          "vi": "Ngay khi nhận đề thi, Jisu viết mã số sinh viên và tên vào phiếu trả lời trước tiên."
+        },
+        {
+          "index": 1,
+          "ko": "선생님은 학생들에게 과제에 반드시 학과와 학번을 쓰라고 당부하셨다.",
+          "vi": "Thầy cô dặn học sinh nhất định phải ghi khoa và mã số sinh viên vào bài tập."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L01_044",
+      "lesson": 1,
+      "korean": "학생",
+      "meaningVi": "Học sinh / Sinh viên",
+      "krdictDefinitionVi": "Người đến trường học tập.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "아침마다 버스에는 학생들이 많다.",
+          "vi": "Mỗi buổi sáng trên xe buýt có rất nhiều học sinh."
+        },
+        {
+          "index": 1,
+          "ko": "교수가 강의를 마치자 학생들은 강의실을 빠져 나갔다.",
+          "vi": "Khi giáo sư kết thúc bài giảng, sinh viên ra khỏi phòng học."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L01_045",
+      "lesson": 1,
+      "korean": "학생증",
+      "meaningVi": "Thẻ học sinh / sinh viên",
+      "krdictDefinitionVi": "Giấy tờ chứng minh học sinh thuộc trường học nào đó.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "저 이 학교 학생인데 도서관 안으로 들어갈 수 없나요?",
+          "vi": "Em là học sinh của trường này, không thể vào trong thư viện được ạ."
+        },
+        {
+          "index": 1,
+          "ko": "학생증을 보여 주셔야 합니다.",
+          "vi": "Bạn phải xuất trình thẻ học sinh sinh viên."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L01_047",
+      "lesson": 1,
+      "korean": "한국어",
+      "meaningVi": "Tiếng Hàn",
+      "krdictDefinitionVi": "Tiếng nói sử dụng ở Hàn Quốc.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "그 여자는 한국인 남편과 같이 산 지 십 년이 지났지만 아직 한국어가 서툴렀다.",
+          "vi": "Người phụ nữ đó đã sống với chồng người Hàn được mười năm nhưng tiếng Hàn vẫn còn vụng."
+        },
+        {
+          "index": 1,
+          "ko": "우리는 한국어를 할 줄 아는 외국인의 도움을 받아 낯선 외국에서도 길을 헤매지 않았다.",
+          "vi": "Nhờ sự giúp đỡ của một người nước ngoài biết nói tiếng Hàn, chúng tôi đã không bị lạc đường ngay cả ở nước ngoài xa lạ."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L01_049",
+      "lesson": 1,
+      "korean": "회사원",
+      "meaningVi": "Nhân viên công ty",
+      "krdictDefinitionVi": "Người thuộc về và làm việc cho công ty.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "우리 아버지의 직업은 회사원이다.",
+          "vi": "Nghề nghiệp của bố tôi là nhân viên công ty."
+        },
+        {
+          "index": 1,
+          "ko": "삼촌은 자동차 회사에 다니는 평범한 회사원이다.",
+          "vi": "Chú tôi là một nhân viên bình thường làm ở công ty ô tô."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L01_050",
+      "lesson": 1,
+      "korean": "은행원",
+      "meaningVi": "Nhân viên ngân hàng",
+      "krdictDefinitionVi": "Nhân viên làm nghiệp vụ và làm việc cho ngân hàng.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "지수는 은행원이 되기 위해 회계 공부를 열심히 했다.",
+          "vi": "Jisu đã chăm chỉ học kế toán để trở thành nhân viên ngân hàng."
+        },
+        {
+          "index": 1,
+          "ko": "우리 동네 은행에는 노인들을 담당하는 친절한 은행원이 있다.",
+          "vi": "Ở ngân hàng khu phố tôi có một nhân viên ngân hàng thân thiện phụ trách người cao tuổi."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L01_051",
+      "lesson": 1,
+      "korean": "인사말",
+      "meaningVi": "Lời chào hỏi",
+      "krdictDefinitionVi": "Lời nói để chào.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "우리는 가벼운 인사말로 안부를 묻고 회의를 시작했다.",
+          "vi": "Chúng tôi hỏi thăm nhau bằng vài lời chào nhẹ nhàng rồi bắt đầu cuộc họp."
+        },
+        {
+          "index": 1,
+          "ko": "엄마는 통화할 때마다 밥 먹었는지를 인사말로 묻곤 하신다.",
+          "vi": "Mỗi lần gọi điện, mẹ tôi thường hỏi đã ăn cơm chưa như một lời chào."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_001",
+      "lesson": 2,
+      "korean": "경찰서",
+      "meaningVi": "Đồn cảnh sát",
+      "krdictDefinitionVi": "Nơi phụ trách công việc của cảnh sát ở một khu vực.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 길을 잃은 어린아이를 경찰서에 데려다주었다.",
+          "vi": "Tôi đưa một đứa trẻ bị lạc đường đến đồn cảnh sát."
+        },
+        {
+          "index": 1,
+          "ko": "형은 지나가는 사람과 싸우다가 경찰서에 불려 가 조사를 받았다.",
+          "vi": "Anh trai tôi đánh nhau với người đi đường nên bị gọi đến đồn cảnh sát để lấy lời khai."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_002",
+      "lesson": 2,
+      "korean": "가게",
+      "meaningVi": "Cửa hàng",
+      "krdictDefinitionVi": "Nhà bày hàng ra bán với quy mô nhỏ.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "집 근처의 야채 가게는 야채가 좋고 값이 싸서 손님이 매우 많다.",
+          "vi": "Cửa hàng rau gần nhà tôi rau tươi, giá rẻ nên khách rất đông."
+        },
+        {
+          "index": 1,
+          "ko": "동네 신발 가게에는 마음에 드는 신발이 없어 나는 결국 백화점에까지 갔다.",
+          "vi": "Ở cửa hàng giày trong khu phố không có đôi giày tôi ưng ý, nên cuối cùng tôi đã đi đến tận trung tâm thương mại."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_003",
+      "lesson": 2,
+      "korean": "가방",
+      "meaningVi": "Túi xách / Cặp xách",
+      "krdictDefinitionVi": "Vật làm ra để cho đồ vật vào và cầm trên tay hoặc mang trên vai.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "승규는 어깨에 가방을 메고 여행을 나섰다.",
+          "vi": "Seunggyu đeo túi lên vai rồi lên đường du lịch."
+        },
+        {
+          "index": 1,
+          "ko": "엄마는 아이의 가방에 준비물을 챙겨 넣었다.",
+          "vi": "Mẹ đã bỏ đồ cần chuẩn bị vào cặp của con."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_004",
+      "lesson": 2,
+      "korean": "강당",
+      "meaningVi": "Giảng đường / Hội trường",
+      "krdictDefinitionVi": "Phòng lớn hoặc tòa nhà dùng khi công diễn, giảng dạy hoặc diễn thuyết.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "매주 월요일마다 전교생이 강당에 모여 조례를 했다.",
+          "vi": "Mỗi thứ Hai hằng tuần, toàn thể học sinh tập trung ở hội trường để chào cờ."
+        },
+        {
+          "index": 1,
+          "ko": "강당에 모인 학생들은 강연자의 강의를 집중하여 들었다.",
+          "vi": "Các học sinh tập trung trong hội trường chăm chú nghe bài giảng của diễn giả."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_005",
+      "lesson": 2,
+      "korean": "강의실",
+      "meaningVi": "Phòng học (Đại học)",
+      "krdictDefinitionVi": "Phòng học được sử dụng vào việc giảng dạy.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "학교는 강의실에 음식물을 반입하는 것을 금지하고 있다.",
+          "vi": "Nhà trường cấm mang đồ ăn vào phòng học."
+        },
+        {
+          "index": 1,
+          "ko": "김 교수의 수업은 인기가 많아서 강의실이 항상 가득 찬다.",
+          "vi": "Lớp của giáo sư Kim rất được yêu thích nên phòng học lúc nào cũng kín chỗ."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_006",
+      "lesson": 2,
+      "korean": "거기",
+      "meaningVi": "Chỗ đó",
+      "krdictDefinitionVi": "Từ chỉ nơi gần với người nghe.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "거기에서 조금만 기다려 주세요.",
+          "vi": "Xin hãy đợi ở đó một chút."
+        },
+        {
+          "index": 1,
+          "ko": "거기에 있는 서류 좀 주실래요?",
+          "vi": "Bạn có thể đưa cho tôi tập tài liệu ở đó được không."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_007",
+      "lesson": 2,
+      "korean": "공책",
+      "meaningVi": "Quyển vở",
+      "krdictDefinitionVi": "Một tập giấy trắng được đính vào như quyển sách có dòng kẻ hoặc để trống dùng để viết chữ hay vẽ tranh.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "학생들은 선생님이 칠판에 쓴 내용을 공책에 적었다.",
+          "vi": "Học sinh ghi nội dung thầy cô viết trên bảng vào vở."
+        },
+        {
+          "index": 1,
+          "ko": "나는 평소 공책에 정리해 둔 내용을 중심으로 시험공부를 하였다.",
+          "vi": "Tôi ôn thi chủ yếu dựa trên những nội dung đã ghi chép trong vở hằng ngày."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_008",
+      "lesson": 2,
+      "korean": "교실",
+      "meaningVi": "Phòng học",
+      "krdictDefinitionVi": "Phòng mà giáo viên dạy các học sinh ở trường mẫu giáo, trường tiểu học, trường trung học cơ sở, trung học phổ thông v.v...",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "승규는 교실에서 친구를 기다렸다.",
+          "vi": "Seunggyu đợi bạn trong lớp học."
+        },
+        {
+          "index": 1,
+          "ko": "우리 반은 오늘 날씨가 좋아서 교실이 아닌 야외에서 수업을 했다.",
+          "vi": "Hôm nay lớp chúng tôi học ngoài trời thay vì trong phòng học vì thời tiết đẹp."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_009",
+      "lesson": 2,
+      "korean": "그것",
+      "meaningVi": "Cái đó",
+      "krdictDefinitionVi": "Từ dùng để chỉ cái ở gần người nghe hay cái mà người nghe đang nghĩ đến.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "이것은 내 책이고, 네 옆에 있는 그것이 네 책이다.",
+          "vi": "Đây là sách của tôi, còn cái ở bên cạnh bạn là sách của bạn."
+        },
+        {
+          "index": 1,
+          "ko": "여자는 친구가 들고 있던 가방을 보며 어디에서 그것을 샀느냐고 물어보았다.",
+          "vi": "Người phụ nữ nhìn chiếc túi bạn mình đang cầm và hỏi đã mua nó ở đâu."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_010",
+      "lesson": 2,
+      "korean": "극장",
+      "meaningVi": "Nhà hát / Rạp phim",
+      "krdictDefinitionVi": "Nơi có trang bị thiết bị để chiếu phim hay biểu diễn kịch, nhạc hoặc múa.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "영화는 극장의 대형 스크린으로 봐야 생동감 있고 재미있다.",
+          "vi": "Phim phải xem trên màn hình lớn của rạp mới sống động và thú vị."
+        },
+        {
+          "index": 1,
+          "ko": "극장 안은 영화 시사회를 보러 온 관객들로 발을 디딜 틈이 없었다.",
+          "vi": "Bên trong rạp chật kín khán giả đến xem buổi chiếu thử phim, đến mức không còn chỗ đặt chân."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_011",
+      "lesson": 2,
+      "korean": "도서관",
+      "meaningVi": "Thư viện",
+      "krdictDefinitionVi": "Cơ sở vật chất được trang bị với nhiều sách và tài liệu để người ta có thể đến mượn đọc và học tập.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "지수는 주말에도 학교 도서관에서 공부를 한다.",
+          "vi": "Jisu học ở thư viện trường ngay cả vào cuối tuần."
+        },
+        {
+          "index": 1,
+          "ko": "우리 동네 도서관에는 다양한 종류의 책들이 매우 많다.",
+          "vi": "Thư viện khu phố tôi có rất nhiều loại sách đa dạng."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_013",
+      "lesson": 2,
+      "korean": "라디오",
+      "meaningVi": "Đài radio",
+      "krdictDefinitionVi": "Việc phát đi âm thanh bằng sóng điện từ đài truyền thanh làm cho những người có thiết bị thu tín hiệu nghe được. Hoặc việc phát thanh như thế.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "우리는 우리가 자주 듣는 라디오에 사연을 보냈다.",
+          "vi": "Chúng tôi đã gửi câu chuyện đến chương trình radio mà chúng tôi thường nghe."
+        },
+        {
+          "index": 1,
+          "ko": "아침마다 최신 가요를 소개하는 라디오를 들으면서 출근한다.",
+          "vi": "Mỗi sáng tôi đi làm trong khi nghe radio giới thiệu các bài hát mới nhất."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_015",
+      "lesson": 2,
+      "korean": "많이",
+      "meaningVi": "Nhiều",
+      "krdictDefinitionVi": "Số, lượng hay mức độ vượt tiêu chuẩn nhất định.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "지난 밤에 술을 많이 마셨더니 속이 거북했다.",
+          "vi": "Đêm qua tôi uống nhiều rượu nên bụng khó chịu."
+        },
+        {
+          "index": 1,
+          "ko": "그는 평생을 쓰고도 남을 만큼 돈을 많이 벌었다고 했다.",
+          "vi": "Anh ấy nói rằng mình đã kiếm được nhiều tiền đến mức dùng cả đời cũng còn dư."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_017",
+      "lesson": 2,
+      "korean": "무엇",
+      "meaningVi": "Cái gì",
+      "krdictDefinitionVi": "Từ chỉ sự việc hay sự vật không biết.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "저 사람 이름은 무엇입니까?",
+          "vi": "Tên người kia là gì vậy."
+        },
+        {
+          "index": 1,
+          "ko": "저것은 무엇에 쓰는 물건입니까?",
+          "vi": "Cái kia là đồ vật dùng để làm gì vậy."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_018",
+      "lesson": 2,
+      "korean": "문",
+      "meaningVi": "Cánh cửa",
+      "krdictDefinitionVi": "Thiết bị có thể đóng mở để con người có thể vào trong và ra ngoài hay đặt vào và lấy ra đồ đạc.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "사무실에 이미 누가 출근해 있는지 문이 열려 있었다.",
+          "vi": "Cửa đang mở, có lẽ ai đó đã đến văn phòng làm việc rồi."
+        },
+        {
+          "index": 1,
+          "ko": "문을 두드리는 소리가 나서 나가 보니 소포가 와 있었다.",
+          "vi": "Có tiếng gì đó nên tôi đi ra xem thử thì thấy có bưu phẩm được gửi đến."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_019",
+      "lesson": 2,
+      "korean": "미용실",
+      "meaningVi": "Tiệm làm tóc",
+      "krdictDefinitionVi": "Nơi trang điểm hay làm các dịch vụ tóc như cắt, nhuộm, uốn tóc.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "오랜만에 미용실에 가서 머리를 했더니 기분이 한결 좋아졌다.",
+          "vi": "Lâu rồi mới đến tiệm làm tóc làm tóc nên tâm trạng tôi khá hơn hẳn."
+        },
+        {
+          "index": 1,
+          "ko": "우리 언니는 미용실에서 일하는데, 주말에는 홀로 사는 노인들의 머리를 잘라 주는 봉사 활동을 한다.",
+          "vi": "Chị gái tôi làm việc ở tiệm làm tóc, cuối tuần còn tham gia hoạt động tình nguyện cắt tóc cho những người già sống một mình."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_020",
+      "lesson": 2,
+      "korean": "백화점",
+      "meaningVi": "Trung tâm thương mại",
+      "krdictDefinitionVi": "Là một nơi bán rất nhiều loại hàng hóa khác nhau nằm trong một tòa nhà.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 집으로 가는 길에 백화점에 들러 가방을 하나 샀다.",
+          "vi": "Trên đường về nhà, tôi ghé trung tâm thương mại và mua một chiếc túi."
+        },
+        {
+          "index": 1,
+          "ko": "영수는 선생님께 드릴 선물을 사러 고급 백화점을 갔다.",
+          "vi": "Yeongsu đã đến trung tâm thương mại cao cấp để mua quà tặng thầy cô."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_021",
+      "lesson": 2,
+      "korean": "병원",
+      "meaningVi": "Bệnh viện",
+      "krdictDefinitionVi": "Cơ quan có các thiết bị và các bác sỹ, y tá chữa trị cho người bệnh.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "남편은 교통사고로 병원에서 입원 치료를 받고 있다.",
+          "vi": "Chúng tôi đang nhập viện điều trị ở bệnh viện vì tai nạn giao thông."
+        },
+        {
+          "index": 1,
+          "ko": "이 병원에는 최첨단 의료 장비와 실력 있는 의사들이 많다.",
+          "vi": "Bệnh viện này có nhiều thiết bị y tế tối tân và bác sĩ giỏi."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_022",
+      "lesson": 2,
+      "korean": "사무실",
+      "meaningVi": "Văn phòng",
+      "krdictDefinitionVi": "Nơi chủ yếu xử lý giấy tờ tài liệu ở chỗ làm việc và làm các công việc mà mình đảm nhận.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "서류를 내러 3층에 있는 사무실에 갔다.",
+          "vi": "Tôi lên văn phòng ở tầng ba để nộp hồ sơ."
+        },
+        {
+          "index": 1,
+          "ko": "사무실 동료끼리 서로 존중하고 배려하는 태도가 필요하다.",
+          "vi": "Giữa các đồng nghiệp trong văn phòng cần có thái độ tôn trọng và quan tâm lẫn nhau."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_023",
+      "lesson": 2,
+      "korean": "사전",
+      "meaningVi": "Từ điển",
+      "krdictDefinitionVi": "Sách tập hợp các từ đơn rồi sắp sếp theo tứ thự nhất định, giải thích phát âm, ngữ nghĩa, từ nguyên gốc, cách sử dụng.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "모르는 단어가 나오면 바로 찾아봐야 했던 나는 사전을 항상 가지고 다녔다.",
+          "vi": "Vì hễ gặp từ không biết là phải tra ngay, tôi luôn mang theo từ điển."
+        },
+        {
+          "index": 1,
+          "ko": "외국인을 위한 한국어 사전을 만들기 위해서 외국인이 알아야 할 단어들을 선별했다.",
+          "vi": "Để làm từ điển tiếng Hàn cho người nước ngoài, họ đã chọn lọc những từ mà người nước ngoài cần biết."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_024",
+      "lesson": 2,
+      "korean": "서점",
+      "meaningVi": "Hiệu sách",
+      "krdictDefinitionVi": "Cửa hàng bán sách.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "학생들은 학교 앞 서점에서 참고서를 사 가지고 등교하였다.",
+          "vi": "Học sinh mua sách tham khảo ở hiệu sách trước cổng trường rồi đến trường."
+        },
+        {
+          "index": 1,
+          "ko": "지수는 집에 가다가 서점에 들러 신간 서적을 둘러보았다.",
+          "vi": "Trên đường về nhà, Jisu ghé hiệu sách xem qua các sách mới."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_026",
+      "lesson": 2,
+      "korean": "식당",
+      "meaningVi": "Nhà ăn / Quán ăn",
+      "krdictDefinitionVi": "Phòng làm trong tòa nhà để có thể ăn uống.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "내가 사는 기숙사 식당에서는 아침 식사로 빵과 우유를 준다.",
+          "vi": "Ở nhà ăn ký túc xá nơi tôi sống, bữa sáng được phục vụ bánh mì và sữa."
+        },
+        {
+          "index": 1,
+          "ko": "점심시간을 알리는 종이 울리자마자 학생 식당으로 아이들이 몰려갔다.",
+          "vi": "Ngay khi chuông báo giờ ăn trưa vang lên, bọn trẻ ùa đến nhà ăn học sinh."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_027",
+      "lesson": 2,
+      "korean": "시계",
+      "meaningVi": "Đồng hồ",
+      "krdictDefinitionVi": "Loại máy chỉ thời gian.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "잠에서 깨어 시계를 보니 네 시 삼십 분이었다.",
+          "vi": "Tỉnh dậy nhìn đồng hồ thì đã là ba giờ ba mươi."
+        },
+        {
+          "index": 1,
+          "ko": "남자는 수업이 지루했는지 자주 시계를 쳐다보면서 시간을 확인했다.",
+          "vi": "Có lẽ vì tiết học buồn chán, người đàn ông thường xuyên nhìn đồng hồ để kiểm tra thời gian."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_028",
+      "lesson": 2,
+      "korean": "약국",
+      "meaningVi": "Hiệu thuốc",
+      "krdictDefinitionVi": "Nơi dược sĩ làm hay bán các loại thuốc.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "친구는 몸이 약해서 병원과 약국에 자주 다녔다.",
+          "vi": "Bạn tôi sức khỏe yếu nên thường xuyên đến bệnh viện và hiệu thuốc."
+        },
+        {
+          "index": 1,
+          "ko": "나는 머리가 아파서 약국에서 두통약을 사 먹었다.",
+          "vi": "Tôi đau đầu nên mua thuốc đau đầu ở hiệu thuốc để uống."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_029",
+      "lesson": 2,
+      "korean": "어디",
+      "meaningVi": "Ở đâu",
+      "krdictDefinitionVi": "Từ chỉ nơi không biết.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "어디에 가세요?",
+          "vi": "Anh chị đi đâu vậy."
+        },
+        {
+          "index": 1,
+          "ko": "학교에 가요.",
+          "vi": "Tôi đi đến trường."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_030",
+      "lesson": 2,
+      "korean": "없다",
+      "meaningVi": "Không có",
+      "krdictDefinitionVi": "Là trạng thái mà con người hay sự vật... không tồn tại trong thực tế.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "이 세상에 귀신은 없다.",
+          "vi": "Trên đời này không có ma."
+        },
+        {
+          "index": 1,
+          "ko": "머리에 뿔이 달린 말은 이 세상에 없어.",
+          "vi": "Trên đời này không có con ngựa nào mọc sừng trên đầu đâu."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_031",
+      "lesson": 2,
+      "korean": "여기",
+      "meaningVi": "Chỗ này / Đây",
+      "krdictDefinitionVi": "Từ chỉ nơi ở gần người nói.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "여기가 제가 일하는 곳입니다.",
+          "vi": "Đây là nơi tôi làm việc."
+        },
+        {
+          "index": 1,
+          "ko": "그쪽에 혼자 서 있지 말고 여기로 와서 앉아.",
+          "vi": "Đừng đứng một mình ở bên đó, hãy lại đây ngồi đi."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_032",
+      "lesson": 2,
+      "korean": "우체국",
+      "meaningVi": "Bưu điện",
+      "krdictDefinitionVi": "Cơ quan công cộng làm việc gửi thư từ, bưu kiện hay quản lý tiền gửi.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 우체국에 가서 빠른우편으로 편지를 부쳤다.",
+          "vi": "Tôi đến bưu điện và gửi thư bằng chuyển phát nhanh."
+        },
+        {
+          "index": 1,
+          "ko": "남자는 유학을 떠나기 전에 우체국에 들러 무거운 짐들을 미리 부쳐 놓았다.",
+          "vi": "Trước khi đi du học, người đàn ông ghé bưu điện gửi trước những hành lý nặng."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_033",
+      "lesson": 2,
+      "korean": "운동장",
+      "meaningVi": "Sân vận động",
+      "krdictDefinitionVi": "Một cái sân rộng có lắp đặt nhiều thiết bị phục vụ cho các trận thi đấu thể thao hay các trò chơi.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "체육 시간이 되자 아이들이 운동장으로 우르르 몰려나왔다.",
+          "vi": "Đến giờ thể dục, bọn trẻ ùa ra sân vận động."
+        },
+        {
+          "index": 1,
+          "ko": "우리 학교는 운동장이 좁아 운동장에 전교생이 모두 설 수 없다.",
+          "vi": "Trường chúng tôi có sân vận động hẹp nên toàn thể học sinh không thể cùng đứng hết trên sân."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_034",
+      "lesson": 2,
+      "korean": "의자",
+      "meaningVi": "Cái ghế",
+      "krdictDefinitionVi": "Vật dụng mà con người đặt mông và đùi lên ngồi.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 책장 높이 꽂힌 책을 꺼내기 위해서 의자를 밟고 올라섰다.",
+          "vi": "Tôi bước lên ghế để lấy cuốn sách được cắm trên giá sách cao."
+        },
+        {
+          "index": 1,
+          "ko": "학생들은 선생님께서 들어오시는 것을 보고 후다닥 의자에 앉았다.",
+          "vi": "Thấy thầy cô bước vào, học sinh vội vàng ngồi xuống ghế."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_035",
+      "lesson": 2,
+      "korean": "이것",
+      "meaningVi": "Cái này",
+      "krdictDefinitionVi": "Từ chỉ cái ở gần người nói hoặc cái mà người nói đang nghĩ đến.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "이것은 책상입니다.",
+          "vi": "Đây là bàn học."
+        },
+        {
+          "index": 1,
+          "ko": "우선 이것부터 받으세요.",
+          "vi": "Trước hết xin hãy nhận cái này."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_036",
+      "lesson": 2,
+      "korean": "은행",
+      "meaningVi": "Ngân hàng",
+      "krdictDefinitionVi": "Tổ chức đảm nhận việc quản lí tiền bạc của mọi người và cho vay tiền đối với người có nhu cầu.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 매달 삼십만 원씩 은행에 저축을 하고 있다.",
+          "vi": "Mỗi tháng tôi gửi tiết kiệm ba trăm nghìn won vào ngân hàng."
+        },
+        {
+          "index": 1,
+          "ko": "우리는 은행에서 대출을 받아 집을 마련했지만 매달 이자를 내는 것이 힘들었다.",
+          "vi": "Chúng tôi vay tiền ngân hàng để mua nhà nhưng việc trả lãi hằng tháng rất vất vả."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_037",
+      "lesson": 2,
+      "korean": "은행원",
+      "meaningVi": "Nhân viên ngân hàng",
+      "krdictDefinitionVi": "Nhân viên làm nghiệp vụ và làm việc cho ngân hàng.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "지수는 은행원이 되기 위해 회계 공부를 열심히 했다.",
+          "vi": "Jisu đã chăm chỉ học kế toán để trở thành nhân viên ngân hàng."
+        },
+        {
+          "index": 1,
+          "ko": "우리 동네 은행에는 노인들을 담당하는 친절한 은행원이 있다.",
+          "vi": "Ở ngân hàng khu phố tôi có một nhân viên ngân hàng thân thiện phụ trách người cao tuổi."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_038",
+      "lesson": 2,
+      "korean": "있다",
+      "meaningVi": "Có / Ở",
+      "krdictDefinitionVi": "Trạng thái con người, động vật, vật thể… tồn tại.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "우리 집에는 고양이가 있어요.",
+          "vi": "Nhà chúng tôi có một con mèo."
+        },
+        {
+          "index": 1,
+          "ko": "그는 신이 있다고 믿는다.",
+          "vi": "Anh ấy tin rằng có thần linh."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_039",
+      "lesson": 2,
+      "korean": "장소",
+      "meaningVi": "Địa điểm",
+      "krdictDefinitionVi": "Nơi mà việc nào đó xảy ra. Hay nơi làm việc nào đó.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "이곳은 조용해서 이야기를 나누기에 좋은 장소이다.",
+          "vi": "Nơi này yên tĩnh nên là địa điểm tốt để trò chuyện."
+        },
+        {
+          "index": 1,
+          "ko": "김 대리가 이번 모임 장소로 레스토랑을 예약해 두었다.",
+          "vi": "Trợ lý Kim đã đặt nhà hàng làm địa điểm cho buổi gặp mặt lần này."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_040",
+      "lesson": 2,
+      "korean": "저것",
+      "meaningVi": "Cái kia",
+      "krdictDefinitionVi": "Từ chỉ cái ở cách xa cả người nói lẫn người nghe.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "“저것이 무슨 나무인지 알겠어?” 친구는 멀리 보이는 나무 하나를 가리켰다.",
+          "vi": "Cậu biết cái kia là cây gì không. Người bạn chỉ vào một cái cây nhìn thấy ở xa."
+        },
+        {
+          "index": 1,
+          "ko": "오빠는 바다 위에 떠 있는 배를 바라보며 자기도 저것을 타고 외국에 갈 거라고 했다.",
+          "vi": "Anh trai nhìn con thuyền đang nổi trên biển và nói rằng mình cũng sẽ đi nước ngoài bằng cái đó."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_041",
+      "lesson": 2,
+      "korean": "저기",
+      "meaningVi": "Chỗ kia",
+      "krdictDefinitionVi": "Từ dùng khi nghĩ không ra.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "저기, 잠시만요. 생각할 시간을 주세요.",
+          "vi": "À, xin chờ một chút. Xin hãy cho tôi thời gian suy nghĩ."
+        },
+        {
+          "index": 1,
+          "ko": "저기, 말이야. 내가 무슨 말을 하고 있었지?",
+          "vi": "À, này. Tôi đang nói gì nhỉ."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_042",
+      "lesson": 2,
+      "korean": "전화",
+      "meaningVi": "Điện thoại",
+      "krdictDefinitionVi": "Việc mọi người trao đổi lời nói thông qua máy điện thoại. Hoặc nội dung được truyền tải do làm như vậy.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "유민이는 종종 나에게 전화로 안부를 묻는다.",
+          "vi": "Yumin thỉnh thoảng gọi điện hỏi thăm tôi."
+        },
+        {
+          "index": 1,
+          "ko": "나는 오랜만에 걸려 온 친구의 전화가 그리 반갑지만은 않았다.",
+          "vi": "Cuộc gọi từ người bạn lâu ngày mới gọi đến cũng không khiến tôi vui mừng lắm."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_043",
+      "lesson": 2,
+      "korean": "체육관",
+      "meaningVi": "Nhà thi đấu",
+      "krdictDefinitionVi": "Tòa nhà xây để có thể tập thể dục thể thao trong nhà.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "내 동생은 지난주부터 동네 체육관에서 운동을 시작했다.",
+          "vi": "Em tôi bắt đầu tập thể dục ở nhà thi đấu trong khu phố từ tuần trước."
+        },
+        {
+          "index": 1,
+          "ko": "농구 경기가 열리고 있는 체육관은 관중들의 응원 열기로 뜨거웠다.",
+          "vi": "Nhà thi đấu nơi trận bóng rổ đang diễn ra nóng lên vì không khí cổ vũ của khán giả."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_044",
+      "lesson": 2,
+      "korean": "창문",
+      "meaningVi": "Cửa sổ",
+      "krdictDefinitionVi": "Cửa được trổ sẵn ở trên tường hay mái để không khí hay ánh sáng mặt trời có thể tỏa vào.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "새로 얻은 집은 창문이 없어서 어두컴컴하고 답답했다.",
+          "vi": "Ngôi nhà mới thuê không có cửa sổ nên tối tăm và ngột ngạt."
+        },
+        {
+          "index": 1,
+          "ko": "창문을 열자 방 안으로 밝은 햇빛과 시원한 바람이 쏟아져 들어왔다.",
+          "vi": "Khi mở cửa sổ, ánh nắng rực rỡ và làn gió mát ùa vào phòng."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_045",
+      "lesson": 2,
+      "korean": "책상",
+      "meaningVi": "Bàn học",
+      "krdictDefinitionVi": "Bàn đặt ở trước và dùng khi đọc sách, viết chữ hay làm việc văn phòng.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "남편은 서재에 책상을 두 개나 놓고 있다.",
+          "vi": "Chồng tôi đặt đến hai cái bàn trong phòng làm việc."
+        },
+        {
+          "index": 1,
+          "ko": "나는 엄마의 성화에 이기지 못해 깨끗하게 책상을 정리하였다.",
+          "vi": "Tôi không chịu nổi sự thúc giục của mẹ nên đã dọn bàn học thật sạch sẽ."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_046",
+      "lesson": 2,
+      "korean": "칠판",
+      "meaningVi": "Bảng đen",
+      "krdictDefinitionVi": "Tấm phẳng, màu đen hay màu xanh đậm, dùng phấn để viết chữ lên đó (trong lớp học).",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "수업이 끝나고 다음 수업을 위해 칠판을 지웠다.",
+          "vi": "Sau khi giờ học kết thúc, tôi lau bảng để chuẩn bị cho tiết học tiếp theo."
+        },
+        {
+          "index": 1,
+          "ko": "선생님은 학생들에게 칠판에 적힌 문제를 풀어 보라고 하셨다.",
+          "vi": "Thầy cô bảo học sinh thử giải bài toán được viết trên bảng."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_047",
+      "lesson": 2,
+      "korean": "텔레비전",
+      "meaningVi": "Tivi",
+      "krdictDefinitionVi": "Máy nhận hình ảnh và âm thanh được gửi đến từ đài truyền hình qua sóng điện tử và chiếu cho xem.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "이 교수는 텔레비전에 출연해 행복에 대한 강의를 하였다.",
+          "vi": "Giáo sư này xuất hiện trên truyền hình và giảng về hạnh phúc."
+        },
+        {
+          "index": 1,
+          "ko": "나는 어렸을 때 텔레비전에 나오는 가수들을 보며 가수의 꿈을 키웠다.",
+          "vi": "Hồi nhỏ, tôi nuôi ước mơ trở thành ca sĩ khi xem các ca sĩ xuất hiện trên tivi."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_048",
+      "lesson": 2,
+      "korean": "펜",
+      "meaningVi": "Cây bút",
+      "krdictDefinitionVi": "Dụng cụ chấm vào mực hay mực tàu... để viết chữ.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 펜을 잉크에 찍어 편지를 쓰기 시작했다.",
+          "vi": "Tôi chấm bút vào mực rồi bắt đầu viết thư."
+        },
+        {
+          "index": 1,
+          "ko": "나는 잉크병에 꽂아 두었던 펜만 손에 들고 시험장에 갔다.",
+          "vi": "Tôi chỉ cầm theo cây bút đã cắm trong lọ mực rồi đi đến phòng thi."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_049",
+      "lesson": 2,
+      "korean": "필통",
+      "meaningVi": "Hộp bút",
+      "krdictDefinitionVi": "Ống dùng để cắm dụng cụ viết như bút lông hay bút chì...",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "아버지 책상 위에 놓인 필통에는 다양한 펜들이 많이 꽂혀 있다.",
+          "vi": "Trong hộp bút đặt trên bàn của bố có cắm rất nhiều loại bút khác nhau."
+        },
+        {
+          "index": 1,
+          "ko": "화실에는 학생들의 이름표가 붙은 많은 호의 붓들이 필통에 보관되어 있다.",
+          "vi": "Trong phòng vẽ, nhiều cây cọ cỡ khác nhau có gắn nhãn tên học sinh được cất trong hộp bút."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_050",
+      "lesson": 2,
+      "korean": "학교",
+      "meaningVi": "Trường học",
+      "krdictDefinitionVi": "Cơ quan mà dạy học sinh theo chế độ, chương trình giảng dạy, mục đích nhất định, v.v.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "내년에 딸이 여덟 살이 되어 학교에 입학할 것이다.",
+          "vi": "Năm sau con gái tôi lên tám tuổi và sẽ nhập học ở trường."
+        },
+        {
+          "index": 1,
+          "ko": "요즘은 외국의 많은 학교에서 한국어를 배울 수 있다.",
+          "vi": "Dạo này có thể học tiếng Hàn ở nhiều trường nước ngoài."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_053",
+      "lesson": 2,
+      "korean": "화장실",
+      "meaningVi": "Nhà vệ sinh",
+      "krdictDefinitionVi": "Nơi có tiện nghi để đi đại tiện hoặc đi tiểu.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 화장실 변기 위에 십 분간 앉아서 일을 보았다.",
+          "vi": "Tôi ngồi trên bồn cầu trong nhà vệ sinh mười phút để đi vệ sinh."
+        },
+        {
+          "index": 1,
+          "ko": "승규는 옷에 커피를 쏟아 화장실에서 얼룩을 닦아 냈다.",
+          "vi": "Seunggyu làm đổ cà phê lên áo nên lau sạch vết bẩn trong nhà vệ sinh."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_054",
+      "lesson": 2,
+      "korean": "휴게실",
+      "meaningVi": "Phòng nghỉ",
+      "krdictDefinitionVi": "Phòng được chuẩn bị để có thể dừng lại nghỉ trong chốc lát.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "학생들이 도서관 휴게실에서 잡담을 하고 있다.",
+          "vi": "Học sinh đang tán gẫu trong phòng nghỉ của thư viện."
+        },
+        {
+          "index": 1,
+          "ko": "몸이 안 좋은 지수는 여성 휴게실에 가서 쉬었다.",
+          "vi": "Jisu thấy không khỏe nên vào phòng nghỉ nữ để nghỉ."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L02_055",
+      "lesson": 2,
+      "korean": "휴대전화",
+      "meaningVi": "Điện thoại di động",
+      "krdictDefinitionVi": "Chiếc điện thoại không dây và nhỏ, có thể mang theo và sử dụng.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "이제 곧 행사를 시작하오니 휴대 전화를 꺼 주시길 바랍니다.",
+          "vi": "Sự kiện sắp bắt đầu, xin quý vị vui lòng tắt điện thoại di động."
+        },
+        {
+          "index": 1,
+          "ko": "유민이가 휴대 전화를 새로 구입하여 바뀐 번호를 알려 주었다.",
+          "vi": "Yumin mua điện thoại di động mới và cho tôi biết số điện thoại đã đổi."
+        }
+      ]
+    }
+  ]
+}

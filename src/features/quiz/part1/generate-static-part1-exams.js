@@ -63,12 +63,18 @@ function shuffle(items, random) {
   return result;
 }
 
+function hasVietnameseInStem(question) {
+  const stemWithoutSpeakerLabels = question.stem.replace(/\b[AB]:/g, "");
+  return /[A-Za-zÀ-ỹ]/u.test(stemWithoutSpeakerLabels);
+}
+
 function isValidQuestion(question) {
   return (
     question.validation.grammarInScope === true &&
     question.validation.vocabularyInScope === true &&
     question.validation.singleCorrectAnswer === true &&
-    question.validation.reviewed === true
+    question.validation.reviewed === true &&
+    !hasVietnameseInStem(question)
   );
 }
 
@@ -348,6 +354,7 @@ module.exports = {
   calculateSharedQuestionRatio,
   createSeededRandom,
   generateStaticPart1Exams,
+  hasVietnameseInStem,
   isCorrectAnswer,
   isValidQuestion,
   selectBalancedQuestion,

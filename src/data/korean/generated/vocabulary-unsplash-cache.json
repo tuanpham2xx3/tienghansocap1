@@ -1,0 +1,407 @@
+{
+  "VOC_L01_006:Đức flag": {
+    "imageUrl": "",
+    "imageThumbUrl": "",
+    "imageSource": "",
+    "imageAuthorName": "",
+    "imageAuthorUrl": "",
+    "imagePageUrl": "",
+    "unsplashDownloadLocation": ""
+  },
+  "VOC_L01_007:school campus": {
+    "imageUrl": "https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxzY2hvb2wlMjBjYW1wdXN8ZW58MXwwfHx8MTc4MDIzODY4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxzY2hvb2wlMjBjYW1wdXN8ZW58MXwwfHx8MTc4MDIzODY4Nnww&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Erika Fletcher",
+    "imageAuthorUrl": "https://unsplash.com/@joyshotsphotography",
+    "imagePageUrl": "https://unsplash.com/photos/brown-and-white-concrete-building-MZxqc6n9qCw",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/MZxqc6n9qCw/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxzY2hvb2wlMjBjYW1wdXN8ZW58MXwwfHx8MTc4MDIzODY4Nnww"
+  },
+  "VOC_L01_009:Nga flag": {
+    "imageUrl": "",
+    "imageThumbUrl": "",
+    "imageSource": "",
+    "imageAuthorName": "",
+    "imageAuthorUrl": "",
+    "imagePageUrl": "",
+    "unsplashDownloadLocation": ""
+  },
+  "VOC_L01_010:Malaysia flag": {
+    "imageUrl": "https://images.unsplash.com/photo-1549154425-7b519f2b92d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxNYWxheXNpYSUyMGZsYWd8ZW58MXwwfHx8MTc4MDIzODY4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1549154425-7b519f2b92d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxNYWxheXNpYSUyMGZsYWd8ZW58MXwwfHx8MTc4MDIzODY4N3ww&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "mkjr_",
+    "imageAuthorUrl": "https://unsplash.com/@mkjr_",
+    "imagePageUrl": "https://unsplash.com/photos/low-angle-photography-of-waving-flag-of-malaysia-during-daytime-ru6Mp7W_UlI",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/ru6Mp7W_UlI/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxNYWxheXNpYSUyMGZsYWd8ZW58MXwwfHx8MTc4MDIzODY4N3ww"
+  },
+  "VOC_L01_011:Mông Cổ flag": {
+    "imageUrl": "",
+    "imageThumbUrl": "",
+    "imageSource": "",
+    "imageAuthorName": "",
+    "imageAuthorUrl": "",
+    "imagePageUrl": "",
+    "unsplashDownloadLocation": ""
+  },
+  "VOC_L01_012:Mỹ flag": {
+    "imageUrl": "",
+    "imageThumbUrl": "",
+    "imageSource": "",
+    "imageAuthorName": "",
+    "imageAuthorUrl": "",
+    "imagePageUrl": "",
+    "unsplashDownloadLocation": ""
+  },
+  "VOC_L01_025:Anh flag": {
+    "imageUrl": "",
+    "imageThumbUrl": "",
+    "imageSource": "",
+    "imageAuthorName": "",
+    "imageAuthorUrl": "",
+    "imagePageUrl": "",
+    "unsplashDownloadLocation": ""
+  },
+  "VOC_L01_029:Ấn Độ flag": {
+    "imageUrl": "https://images.unsplash.com/photo-1597058712635-3182d1eacc1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHwlRTElQkElQTRuJTIwJUM0JTkwJUUxJUJCJTk5JTIwZmxhZ3xlbnwxfDB8fHwxNzgwMjM4NjkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1597058712635-3182d1eacc1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHwlRTElQkElQTRuJTIwJUM0JTkwJUUxJUJCJTk5JTIwZmxhZ3xlbnwxfDB8fHwxNzgwMjM4NjkwfDA&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Onkarphoto",
+    "imageAuthorUrl": "https://unsplash.com/@onkarphoto",
+    "imagePageUrl": "https://unsplash.com/photos/white-orange-and-green-striped-flag-dOsJ7YIFSqM",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/dOsJ7YIFSqM/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHwlRTElQkElQTRuJTIwJUM0JTkwJUUxJUJCJTk5JTIwZmxhZ3xlbnwxfDB8fHwxNzgwMjM4NjkwfDA"
+  },
+  "VOC_L01_030:Indonesia flag": {
+    "imageUrl": "https://images.unsplash.com/photo-1533805994737-558461dcb28e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxJbmRvbmVzaWElMjBmbGFnfGVufDF8MHx8fDE3ODAyMzg2OTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1533805994737-558461dcb28e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxJbmRvbmVzaWElMjBmbGFnfGVufDF8MHx8fDE3ODAyMzg2OTB8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Nick Agus Arya",
+    "imageAuthorUrl": "https://unsplash.com/@nickgunner",
+    "imagePageUrl": "https://unsplash.com/photos/red-and-white-flag-under-blue-sky-during-daytime-5i3oyOrojvk",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/5i3oyOrojvk/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxJbmRvbmVzaWElMjBmbGFnfGVufDF8MHx8fDE3ODAyMzg2OTB8MA"
+  },
+  "VOC_L01_031:Nhật Bản flag": {
+    "imageUrl": "",
+    "imageThumbUrl": "",
+    "imageSource": "",
+    "imageAuthorName": "",
+    "imageAuthorUrl": "",
+    "imagePageUrl": "",
+    "unsplashDownloadLocation": ""
+  },
+  "VOC_L01_036:Trung Quốc flag": {
+    "imageUrl": "",
+    "imageThumbUrl": "",
+    "imageSource": "",
+    "imageAuthorName": "",
+    "imageAuthorUrl": "",
+    "imagePageUrl": "",
+    "unsplashDownloadLocation": ""
+  },
+  "VOC_L01_039:Thái Lan flag": {
+    "imageUrl": "",
+    "imageThumbUrl": "",
+    "imageSource": "",
+    "imageAuthorName": "",
+    "imageAuthorUrl": "",
+    "imagePageUrl": "",
+    "unsplashDownloadLocation": ""
+  },
+  "VOC_L01_040:Pháp flag": {
+    "imageUrl": "https://images.unsplash.com/photo-1551866442-64e75e911c23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxQaCVDMyVBMXAlMjBmbGFnfGVufDF8MHx8fDE3ODAyMzg2OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1551866442-64e75e911c23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxQaCVDMyVBMXAlMjBmbGFnfGVufDF8MHx8fDE3ODAyMzg2OTJ8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Anthony Choren",
+    "imageAuthorUrl": "https://unsplash.com/@tony_cm__",
+    "imagePageUrl": "https://unsplash.com/photos/yugoslavia-flag-under-blue-sky-lYzap0eubDY",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/lYzap0eubDY/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxQaCVDMyVBMXAlMjBmbGFnfGVufDF8MHx8fDE3ODAyMzg2OTJ8MA"
+  },
+  "VOC_L01_041:Philippines flag": {
+    "imageUrl": "https://images.unsplash.com/photo-1677385433524-8ef48474f07c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxQaGlsaXBwaW5lcyUyMGZsYWd8ZW58MXwwfHx8MTc4MDIzODY5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1677385433524-8ef48474f07c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxQaGlsaXBwaW5lcyUyMGZsYWd8ZW58MXwwfHx8MTc4MDIzODY5M3ww&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Manolet Santos",
+    "imageAuthorUrl": "https://unsplash.com/@lilang_ulap",
+    "imagePageUrl": "https://unsplash.com/photos/a-flag-flying-in-the-wind-on-a-cloudy-day-IEVfhfeyrKM",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/IEVfhfeyrKM/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxQaGlsaXBwaW5lcyUyMGZsYWd8ZW58MXwwfHx8MTc4MDIzODY5M3ww"
+  },
+  "VOC_L01_050:bank building": {
+    "imageUrl": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxiYW5rJTIwYnVpbGRpbmd8ZW58MXwwfHx8MTc4MDIzODY5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxiYW5rJTIwYnVpbGRpbmd8ZW58MXwwfHx8MTc4MDIzODY5M3ww&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Etienne Martin",
+    "imageAuthorUrl": "https://unsplash.com/@etiennemartin",
+    "imagePageUrl": "https://unsplash.com/photos/grey-concrete-building-2_K82gx9Uk8",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/2_K82gx9Uk8/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxiYW5rJTIwYnVpbGRpbmd8ZW58MXwwfHx8MTc4MDIzODY5M3ww"
+  },
+  "VOC_L02_002:door": {
+    "imageUrl": "https://images.unsplash.com/photo-1552819401-700b5e342b9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxkb29yfGVufDF8MHx8fDE3ODAyMzg2OTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1552819401-700b5e342b9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxkb29yfGVufDF8MHx8fDE3ODAyMzg2OTR8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Dima Pechurin",
+    "imageAuthorUrl": "https://unsplash.com/@pechka",
+    "imagePageUrl": "https://unsplash.com/photos/white-wooden-door-JUbjYFvCv00",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/JUbjYFvCv00/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxkb29yfGVufDF8MHx8fDE3ODAyMzg2OTR8MA"
+  },
+  "VOC_L02_003:bag": {
+    "imageUrl": "https://images.unsplash.com/photo-1605733513597-a8f8341084e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxiYWd8ZW58MXwwfHx8MTc4MDIzODY5NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1605733513597-a8f8341084e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxiYWd8ZW58MXwwfHx8MTc4MDIzODY5NHww&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "mostafa mahmoudi",
+    "imageAuthorUrl": "https://unsplash.com/@mostafa_mahmoudi24",
+    "imagePageUrl": "https://unsplash.com/photos/black-leather-handbag-on-white-table-J4DnKxz_3sA",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/J4DnKxz_3sA/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxiYWd8ZW58MXwwfHx8MTc4MDIzODY5NHww"
+  },
+  "VOC_L02_004:school campus": {
+    "imageUrl": "https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxzY2hvb2wlMjBjYW1wdXN8ZW58MXwwfHx8MTc4MDIzODY4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxzY2hvb2wlMjBjYW1wdXN8ZW58MXwwfHx8MTc4MDIzODY4Nnww&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Erika Fletcher",
+    "imageAuthorUrl": "https://unsplash.com/@joyshotsphotography",
+    "imagePageUrl": "https://unsplash.com/photos/brown-and-white-concrete-building-MZxqc6n9qCw",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/MZxqc6n9qCw/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxzY2hvb2wlMjBjYW1wdXN8ZW58MXwwfHx8MTc4MDIzODY4Nnww"
+  },
+  "VOC_L02_005:classroom": {
+    "imageUrl": "https://images.unsplash.com/photo-1738308508484-2a5226b4208d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxjbGFzc3Jvb218ZW58MXwwfHx8MTc4MDIzODY5NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1738308508484-2a5226b4208d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxjbGFzc3Jvb218ZW58MXwwfHx8MTc4MDIzODY5NHww&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Yanhao Fang",
+    "imageAuthorUrl": "https://unsplash.com/@alamanga",
+    "imagePageUrl": "https://unsplash.com/photos/an-empty-classroom-with-no-students-in-it-Egv0kznpDPc",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/Egv0kznpDPc/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxjbGFzc3Jvb218ZW58MXwwfHx8MTc4MDIzODY5NHww"
+  },
+  "VOC_L02_008:classroom": {
+    "imageUrl": "https://images.unsplash.com/photo-1738308508484-2a5226b4208d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxjbGFzc3Jvb218ZW58MXwwfHx8MTc4MDIzODY5NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1738308508484-2a5226b4208d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxjbGFzc3Jvb218ZW58MXwwfHx8MTc4MDIzODY5NHww&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Yanhao Fang",
+    "imageAuthorUrl": "https://unsplash.com/@alamanga",
+    "imagePageUrl": "https://unsplash.com/photos/an-empty-classroom-with-no-students-in-it-Egv0kznpDPc",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/Egv0kznpDPc/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxjbGFzc3Jvb218ZW58MXwwfHx8MTc4MDIzODY5NHww"
+  },
+  "VOC_L02_011:library": {
+    "imageUrl": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxsaWJyYXJ5fGVufDF8MHx8fDE3ODAyMzg2OTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxsaWJyYXJ5fGVufDF8MHx8fDE3ODAyMzg2OTV8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Iñaki del Olmo",
+    "imageAuthorUrl": "https://unsplash.com/@inakihxz",
+    "imagePageUrl": "https://unsplash.com/photos/assorted-title-of-books-piled-in-the-shelves-NIJuEQw0RKg",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/NIJuEQw0RKg/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxsaWJyYXJ5fGVufDF8MHx8fDE3ODAyMzg2OTV8MA"
+  },
+  "VOC_L02_013:radio": {
+    "imageUrl": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxyYWRpb3xlbnwxfDB8fHwxNzgwMjM4Njk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxyYWRpb3xlbnwxfDB8fHwxNzgwMjM4Njk1fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Jonathan Velasquez",
+    "imageAuthorUrl": "https://unsplash.com/@jonathanvez",
+    "imagePageUrl": "https://unsplash.com/photos/macro-photography-of-silver-and-black-studio-microphone-condenser-c1ZN57GfDB0",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/c1ZN57GfDB0/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxyYWRpb3xlbnwxfDB8fHwxNzgwMjM4Njk1fDA"
+  },
+  "VOC_L02_018:door": {
+    "imageUrl": "https://images.unsplash.com/photo-1552819401-700b5e342b9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxkb29yfGVufDF8MHx8fDE3ODAyMzg2OTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1552819401-700b5e342b9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxkb29yfGVufDF8MHx8fDE3ODAyMzg2OTR8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Dima Pechurin",
+    "imageAuthorUrl": "https://unsplash.com/@pechka",
+    "imagePageUrl": "https://unsplash.com/photos/white-wooden-door-JUbjYFvCv00",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/JUbjYFvCv00/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxkb29yfGVufDF8MHx8fDE3ODAyMzg2OTR8MA"
+  },
+  "VOC_L02_021:hospital": {
+    "imageUrl": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxob3NwaXRhbHxlbnwxfDB8fHwxNzgwMjM4Njk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxob3NwaXRhbHxlbnwxfDB8fHwxNzgwMjM4Njk2fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Martha Dominguez de Gouveia",
+    "imageAuthorUrl": "https://unsplash.com/@m_dominguez_marketing",
+    "imagePageUrl": "https://unsplash.com/photos/hospital-lobby-reception-with-signage-nMyM7fxpokE",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/nMyM7fxpokE/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxob3NwaXRhbHxlbnwxfDB8fHwxNzgwMjM4Njk2fDA"
+  },
+  "VOC_L02_024:book": {
+    "imageUrl": "https://images.unsplash.com/photo-1610116306796-6fea9f4fae38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxib29rfGVufDF8MHx8fDE3ODAyMzg2OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1610116306796-6fea9f4fae38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxib29rfGVufDF8MHx8fDE3ODAyMzg2OTZ8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Gülfer ERGİN",
+    "imageAuthorUrl": "https://unsplash.com/@gulfergin_01",
+    "imagePageUrl": "https://unsplash.com/photos/pile-of-open-paperback-books-LUGuCtvlk1Q",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/LUGuCtvlk1Q/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxib29rfGVufDF8MHx8fDE3ODAyMzg2OTZ8MA"
+  },
+  "VOC_L02_026:restaurant": {
+    "imageUrl": "https://images.unsplash.com/photo-1556745750-68295fefafc5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MXwxfHNlYXJjaHwxfHxyZXN0YXVyYW50fGVufDF8MHx8fDE3ODAyMzg2OTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1556745750-68295fefafc5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MXwxfHNlYXJjaHwxfHxyZXN0YXVyYW50fGVufDF8MHx8fDE3ODAyMzg2OTd8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Patrick Tomasso",
+    "imageAuthorUrl": "https://unsplash.com/@impatrickt",
+    "imagePageUrl": "https://unsplash.com/photos/woman-in-black-crew-neck-t-shirt-standing-near-counter-NlcCPeKNmwg",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/NlcCPeKNmwg/download?ixid=M3w5NjU3MTZ8MXwxfHNlYXJjaHwxfHxyZXN0YXVyYW50fGVufDF8MHx8fDE3ODAyMzg2OTd8MA"
+  },
+  "VOC_L02_027:clock": {
+    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxjbG9ja3xlbnwxfDB8fHwxNzgwMjM4Njk3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxjbG9ja3xlbnwxfDB8fHwxNzgwMjM4Njk3fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Ocean Ng",
+    "imageAuthorUrl": "https://unsplash.com/@oceanng",
+    "imagePageUrl": "https://unsplash.com/photos/round-analog-wall-clock-pointing-at-1009-L0xOtAnv94Y",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/L0xOtAnv94Y/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxjbG9ja3xlbnwxfDB8fHwxNzgwMjM4Njk3fDA"
+  },
+  "VOC_L02_028:pharmacy": {
+    "imageUrl": "https://images.unsplash.com/photo-1631549916768-4119b2e5f926?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxwaGFybWFjeXxlbnwxfDB8fHwxNzgwMjM4Njk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1631549916768-4119b2e5f926?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxwaGFybWFjeXxlbnwxfDB8fHwxNzgwMjM4Njk4fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Roberto Sorin",
+    "imageAuthorUrl": "https://unsplash.com/@roberto_sorin",
+    "imagePageUrl": "https://unsplash.com/photos/a-pile-of-pills-sitting-next-to-each-other-on-top-of-a-table-RS0-h_pyByk",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/RS0-h_pyByk/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxwaGFybWFjeXxlbnwxfDB8fHwxNzgwMjM4Njk4fDA"
+  },
+  "VOC_L02_032:post office": {
+    "imageUrl": "https://images.unsplash.com/photo-1709214122943-317e42bd7108?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxwb3N0JTIwb2ZmaWNlfGVufDF8MHx8fDE3ODAyMzg2OTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1709214122943-317e42bd7108?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxwb3N0JTIwb2ZmaWNlfGVufDF8MHx8fDE3ODAyMzg2OTh8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Mylo Kaye",
+    "imageAuthorUrl": "https://unsplash.com/@mylokaye",
+    "imagePageUrl": "https://unsplash.com/photos/a-post-office-sign-on-the-side-of-a-building-aoRQu1VXaMI",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/aoRQu1VXaMI/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxwb3N0JTIwb2ZmaWNlfGVufDF8MHx8fDE3ODAyMzg2OTh8MA"
+  },
+  "VOC_L02_033:stadium": {
+    "imageUrl": "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxzdGFkaXVtfGVufDF8MHx8fDE3ODAyMzg2OTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxzdGFkaXVtfGVufDF8MHx8fDE3ODAyMzg2OTl8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Mario Klassen",
+    "imageAuthorUrl": "https://unsplash.com/@marioklassen",
+    "imagePageUrl": "https://unsplash.com/photos/high-angel-photography-of-football-stadium-70YxSTWa2Zw",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/70YxSTWa2Zw/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxzdGFkaXVtfGVufDF8MHx8fDE3ODAyMzg2OTl8MA"
+  },
+  "VOC_L02_034:chair": {
+    "imageUrl": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxjaGFpcnxlbnwxfDB8fHwxNzgwMjM4Njk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxjaGFpcnxlbnwxfDB8fHwxNzgwMjM4Njk5fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Kam Idris",
+    "imageAuthorUrl": "https://unsplash.com/@ka_idris",
+    "imagePageUrl": "https://unsplash.com/photos/brown-wooden-framed-yellow-padded-chair-_HqHX3LBN18",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/_HqHX3LBN18/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxjaGFpcnxlbnwxfDB8fHwxNzgwMjM4Njk5fDA"
+  },
+  "VOC_L02_036:bank building": {
+    "imageUrl": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxiYW5rJTIwYnVpbGRpbmd8ZW58MXwwfHx8MTc4MDIzODY5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxiYW5rJTIwYnVpbGRpbmd8ZW58MXwwfHx8MTc4MDIzODY5M3ww&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Etienne Martin",
+    "imageAuthorUrl": "https://unsplash.com/@etiennemartin",
+    "imagePageUrl": "https://unsplash.com/photos/grey-concrete-building-2_K82gx9Uk8",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/2_K82gx9Uk8/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxiYW5rJTIwYnVpbGRpbmd8ZW58MXwwfHx8MTc4MDIzODY5M3ww"
+  },
+  "VOC_L02_037:bank building": {
+    "imageUrl": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxiYW5rJTIwYnVpbGRpbmd8ZW58MXwwfHx8MTc4MDIzODY5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxiYW5rJTIwYnVpbGRpbmd8ZW58MXwwfHx8MTc4MDIzODY5M3ww&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Etienne Martin",
+    "imageAuthorUrl": "https://unsplash.com/@etiennemartin",
+    "imagePageUrl": "https://unsplash.com/photos/grey-concrete-building-2_K82gx9Uk8",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/2_K82gx9Uk8/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxiYW5rJTIwYnVpbGRpbmd8ZW58MXwwfHx8MTc4MDIzODY5M3ww"
+  },
+  "VOC_L02_042:phone": {
+    "imageUrl": "https://images.unsplash.com/photo-1757710436034-f1d7372ec1be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxwaG9uZXxlbnwxfDB8fHwxNzgwMjM4NzAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1757710436034-f1d7372ec1be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxwaG9uZXxlbnwxfDB8fHwxNzgwMjM4NzAwfDA&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Igor Omilaev",
+    "imageAuthorUrl": "https://unsplash.com/@omilaev",
+    "imagePageUrl": "https://unsplash.com/photos/two-orange-smartphones-on-an-orange-background-X4S-G_Q9U9g",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/X4S-G_Q9U9g/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxwaG9uZXxlbnwxfDB8fHwxNzgwMjM4NzAwfDA"
+  },
+  "VOC_L02_044:door": {
+    "imageUrl": "https://images.unsplash.com/photo-1552819401-700b5e342b9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxkb29yfGVufDF8MHx8fDE3ODAyMzg2OTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1552819401-700b5e342b9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxkb29yfGVufDF8MHx8fDE3ODAyMzg2OTR8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Dima Pechurin",
+    "imageAuthorUrl": "https://unsplash.com/@pechka",
+    "imagePageUrl": "https://unsplash.com/photos/white-wooden-door-JUbjYFvCv00",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/JUbjYFvCv00/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxkb29yfGVufDF8MHx8fDE3ODAyMzg2OTR8MA"
+  },
+  "VOC_L02_045:table": {
+    "imageUrl": "https://images.unsplash.com/photo-1519219788971-8d9797e0928e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHx0YWJsZXxlbnwxfDB8fHwxNzgwMjM4NzAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1519219788971-8d9797e0928e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHx0YWJsZXxlbnwxfDB8fHwxNzgwMjM4NzAwfDA&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Andrej Lišakov",
+    "imageAuthorUrl": "https://unsplash.com/@lishakov",
+    "imagePageUrl": "https://unsplash.com/photos/gray-balanced-arm-lamp-on-brown-wooden-table-3A4XZUopCJA",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/3A4XZUopCJA/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHx0YWJsZXxlbnwxfDB8fHwxNzgwMjM4NzAwfDA"
+  },
+  "VOC_L02_046:classroom board": {
+    "imageUrl": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxjbGFzc3Jvb20lMjBib2FyZHxlbnwxfDB8fHwxNzgwMjM4NzAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxjbGFzc3Jvb20lMjBib2FyZHxlbnwxfDB8fHwxNzgwMjM4NzAxfDA&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Ivan Aleksic",
+    "imageAuthorUrl": "https://unsplash.com/@ivalex",
+    "imagePageUrl": "https://unsplash.com/photos/brown-wooden-table-and-chairs-PDRFeeDniCk",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/PDRFeeDniCk/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxjbGFzc3Jvb20lMjBib2FyZHxlbnwxfDB8fHwxNzgwMjM4NzAxfDA"
+  },
+  "VOC_L02_047:television": {
+    "imageUrl": "https://images.unsplash.com/photo-1560169897-fc0cdbdfa4d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHx0ZWxldmlzaW9ufGVufDF8MHx8fDE3ODAyMzg3MDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1560169897-fc0cdbdfa4d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHx0ZWxldmlzaW9ufGVufDF8MHx8fDE3ODAyMzg3MDF8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Glenn Carstens-Peters",
+    "imageAuthorUrl": "https://unsplash.com/@glenncarstenspeters",
+    "imagePageUrl": "https://unsplash.com/photos/turned-on-flat-screen-television-EOQhsfFBhRk",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/EOQhsfFBhRk/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHx0ZWxldmlzaW9ufGVufDF8MHx8fDE3ODAyMzg3MDF8MA"
+  },
+  "VOC_L02_048:pen": {
+    "imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxwZW58ZW58MXwwfHx8MTc4MDIzODcwMnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxwZW58ZW58MXwwfHx8MTc4MDIzODcwMnww&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Aaron Burden",
+    "imageAuthorUrl": "https://unsplash.com/@aaronburden",
+    "imagePageUrl": "https://unsplash.com/photos/fountain-pen-on-black-lined-paper-y02jEX_B0O0",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/y02jEX_B0O0/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxwZW58ZW58MXwwfHx8MTc4MDIzODcwMnww"
+  },
+  "VOC_L02_049:pen": {
+    "imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxwZW58ZW58MXwwfHx8MTc4MDIzODcwMnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxwZW58ZW58MXwwfHx8MTc4MDIzODcwMnww&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Aaron Burden",
+    "imageAuthorUrl": "https://unsplash.com/@aaronburden",
+    "imagePageUrl": "https://unsplash.com/photos/fountain-pen-on-black-lined-paper-y02jEX_B0O0",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/y02jEX_B0O0/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxwZW58ZW58MXwwfHx8MTc4MDIzODcwMnww"
+  },
+  "VOC_L02_050:school campus": {
+    "imageUrl": "https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxzY2hvb2wlMjBjYW1wdXN8ZW58MXwwfHx8MTc4MDIzODY4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxzY2hvb2wlMjBjYW1wdXN8ZW58MXwwfHx8MTc4MDIzODY4Nnww&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Erika Fletcher",
+    "imageAuthorUrl": "https://unsplash.com/@joyshotsphotography",
+    "imagePageUrl": "https://unsplash.com/photos/brown-and-white-concrete-building-MZxqc6n9qCw",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/MZxqc6n9qCw/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxzY2hvb2wlMjBjYW1wdXN8ZW58MXwwfHx8MTc4MDIzODY4Nnww"
+  },
+  "VOC_L02_055:phone": {
+    "imageUrl": "https://images.unsplash.com/photo-1757710436034-f1d7372ec1be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxwaG9uZXxlbnwxfDB8fHwxNzgwMjM4NzAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1757710436034-f1d7372ec1be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxwaG9uZXxlbnwxfDB8fHwxNzgwMjM4NzAwfDA&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Igor Omilaev",
+    "imageAuthorUrl": "https://unsplash.com/@omilaev",
+    "imagePageUrl": "https://unsplash.com/photos/two-orange-smartphones-on-an-orange-background-X4S-G_Q9U9g",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/X4S-G_Q9U9g/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxwaG9uZXxlbnwxfDB8fHwxNzgwMjM4NzAwfDA"
+  },
+  "VOC_L03_003:park": {
+    "imageUrl": "https://images.unsplash.com/photo-1650821108375-67fbb5cf6b4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxwYXJrfGVufDF8MHx8fDE3ODAyMzg3MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1650821108375-67fbb5cf6b4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxwYXJrfGVufDF8MHx8fDE3ODAyMzg3MDJ8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Michael Pointner",
+    "imageAuthorUrl": "https://unsplash.com/@pino_rumbero",
+    "imagePageUrl": "https://unsplash.com/photos/a-person-running-in-a-park-l95oMx3CHPo",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/l95oMx3CHPo/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxwYXJrfGVufDF8MHx8fDE3ODAyMzg3MDJ8MA"
+  },
+  "VOC_L03_016:apple fruit": {
+    "imageUrl": "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxhcHBsZSUyMGZydWl0fGVufDF8MHx8fDE3ODAyMzg3MDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxhcHBsZSUyMGZydWl0fGVufDF8MHx8fDE3ODAyMzg3MDN8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "an_vision",
+    "imageAuthorUrl": "https://unsplash.com/@anvision",
+    "imagePageUrl": "https://unsplash.com/photos/red-apple-fruit-gDPaDDy6_WE",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/gDPaDDy6_WE/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxhcHBsZSUyMGZydWl0fGVufDF8MHx8fDE3ODAyMzg3MDN8MA"
+  },
+  "VOC_L03_023:market": {
+    "imageUrl": "https://images.unsplash.com/photo-1604719312566-8912e9227c6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxtYXJrZXR8ZW58MXwwfHx8MTc4MDIzODcwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageThumbUrl": "https://images.unsplash.com/photo-1604719312566-8912e9227c6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxtYXJrZXR8ZW58MXwwfHx8MTc4MDIzODcwM3ww&ixlib=rb-4.1.0&q=80&w=400",
+    "imageSource": "unsplash",
+    "imageAuthorName": "Franki Chamaki",
+    "imageAuthorUrl": "https://unsplash.com/@franki",
+    "imagePageUrl": "https://unsplash.com/photos/grocery-store-aisle-with-stocked-shelves-ivfp_yxZuYQ",
+    "unsplashDownloadLocation": "https://api.unsplash.com/photos/ivfp_yxZuYQ/download?ixid=M3w5NjU3MTZ8MHwxfHNlYXJjaHwxfHxtYXJrZXR8ZW58MXwwfHx8MTc4MDIzODcwM3ww"
+  }
+}

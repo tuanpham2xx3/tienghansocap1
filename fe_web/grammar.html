@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ngữ pháp tiếng Hàn sơ cấp</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+KR:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              sans: ["Inter", "Noto Sans KR", "system-ui", "sans-serif"],
+              korean: ["Noto Sans KR", "Inter", "system-ui", "sans-serif"],
+            },
+          },
+        },
+      };
+    </script>
+    <style>
+      @media (prefers-reduced-motion: no-preference) {
+        .grammar-panel {
+          animation: grammar-in 180ms ease-out;
+        }
+
+        .study-card,
+        .mode-button,
+        .lesson-link {
+          transition:
+            transform 160ms ease,
+            border-color 160ms ease,
+            background-color 160ms ease,
+            box-shadow 160ms ease;
+        }
+
+        .study-card:hover {
+          transform: translateY(-2px);
+          box-shadow: 0 14px 34px rgb(38 36 34 / 0.08);
+        }
+
+        .mode-button:active,
+        .lesson-link:active {
+          transform: translateY(1px);
+        }
+      }
+
+      @keyframes grammar-in {
+        from {
+          opacity: 0;
+          transform: translateY(5px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+    </style>
+  </head>
+  <body class="bg-[#F5F4F0] font-sans text-[#262422]">
+    <div class="min-h-screen">
+      <header class="sticky top-0 z-20 border-b border-[#D6D3CD] bg-white/95 backdrop-blur">
+        <div class="mx-auto flex max-w-[1500px] flex-col gap-3 px-5 py-5 md:flex-row md:items-center md:justify-between">
+          <a href="./index.html" class="text-lg font-extrabold tracking-tight text-[#2F5D50]">Korean Study</a>
+          <nav class="flex flex-wrap items-center gap-2 text-sm font-bold">
+            <a class="h-11 rounded-lg border border-[#D6D3CD] bg-white px-4 py-2.5 text-[#262422] hover:bg-[#F5F4F0]" href="./index.html">Trang chủ</a>
+            <a class="h-11 rounded-lg border border-[#D6D3CD] bg-white px-4 py-2.5 text-[#262422] hover:bg-[#F5F4F0]" href="./vocabulary.html">Từ vựng</a>
+            <a class="h-11 rounded-lg bg-[#2F5D50] px-4 py-2.5 text-white" href="./grammar.html" aria-current="page">Ngữ pháp</a>
+            <a class="h-11 rounded-lg border border-[#D6D3CD] bg-white px-4 py-2.5 text-[#262422] hover:bg-[#F5F4F0]" href="./exam-start.html">Thi thử</a>
+          </nav>
+        </div>
+      </header>
+
+      <main class="mx-auto grid max-w-[1500px] gap-5 px-5 py-6 lg:grid-cols-[320px_minmax(0,1fr)]">
+        <aside class="h-fit rounded-xl border border-[#D6D3CD] bg-white p-5 shadow-sm lg:sticky lg:top-24">
+          <div>
+            <div class="text-sm font-bold">Khu ngữ pháp</div>
+            <div id="modeTabs" class="mt-3 grid gap-2"></div>
+          </div>
+
+          <div id="lessonPanel" class="mt-5 border-t border-[#D6D3CD] pt-4">
+            <label for="lessonSelect" class="text-sm font-bold">Bài học</label>
+            <select id="lessonSelect" class="mt-3 h-11 w-full rounded-lg border border-[#D6D3CD] bg-white px-3 text-sm shadow-sm focus:border-[#2F5D50] focus:outline-none focus:ring-4 focus:ring-[#2F5D50]/10"></select>
+          </div>
+
+          <div id="searchPanel" class="mt-5 border-t border-[#D6D3CD] pt-4">
+            <label for="grammarSearch" class="text-sm font-bold">Tìm nhanh</label>
+            <input id="grammarSearch" class="mt-3 h-11 w-full rounded-lg border border-[#D6D3CD] bg-white px-3 text-sm shadow-sm focus:border-[#2F5D50] focus:outline-none focus:ring-4 focus:ring-[#2F5D50]/10" type="search" placeholder="Nhập mẫu, nghĩa, ví dụ..." />
+          </div>
+
+        </aside>
+
+        <section id="app" class="min-h-[620px] rounded-xl border border-[#D6D3CD] bg-white p-5 shadow-sm md:p-6"></section>
+      </main>
+    </div>
+
+    <template id="loadingTemplate">
+      <div class="space-y-4">
+        <div class="h-6 w-52 rounded-lg bg-[#E8E2D8]"></div>
+        <div class="h-72 rounded-xl bg-[#F5F4F0]"></div>
+      </div>
+    </template>
+
+    <script src="./grammar.js"></script>
+  </body>
+</html>

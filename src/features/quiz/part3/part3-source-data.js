@@ -102,7 +102,7 @@ const PART3_POOLS = [
     ["Hương muốn đi du lịch cùng gia đình.", "흐엉 씨는 가족과 같이 여행을 가고 싶어해요.", ["흐엉 씨는 가족하고 같이 여행을 가고 싶어합니다."], ["DESIRE_THIRD_PERSON", "NOUN_CONNECTOR"], ["흐엉 씨", "가족", "같이", "여행을 가다"], "Hương là người thứ ba nên dùng 싶어해요.", "P3_SEM_DESIRE_HUONG_FAMILY"],
   ]),
   pool("P3_VK_07", "vi_to_ko", "shopping_quantity", "Dịch câu muốn mua/gọi món có số lượng hoặc hỏi giá", [
-    ["Tôi muốn mua 3 con cá. Tất cả là bao nhiêu tiền? 120.000 đồng nhé!", "저는 생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 동이에요.", ["생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 동이에요."], G.shop, ["저", "생선", "마리", "사다", "모두", "만", "동"], "Số lượng con cá dùng 세 마리; tiền dùng 십이만 동.", "P3_SEM_SHOP_FISH_120K"],
+    ["Tôi muốn mua 3 con cá. Tất cả là bao nhiêu tiền? 120.000 WON nhé!", "저는 생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 원이에요.", ["생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 원이에요."], G.shop, ["저", "생선", "마리", "사다", "모두", "만", "원"], "Số lượng con cá dùng 세 마리; tiền dùng 십이만 원.", "P3_SEM_SHOP_FISH_120K"],
     ["Hãy cho tôi hai cơm trộn và một canh kim chi. Cho tôi một chai Cola nữa.", "비빔밥 두 개하고 김치찌개 한 개 주세요. 콜라 한 개 더 주세요.", ["비빔밥 두 개와 김치찌개 한 개 주세요. 콜라 한 개 더 주세요."], G.shop, ["비빔밥", "개", "김치찌개", "콜라", "더"], "Yêu cầu món dùng 주세요; số lượng dùng 두 개/한 개.", "P3_SEM_SHOP_BIBIMBAP_COLA"],
     ["Tôi muốn mua ba con cá và hai chai Cola.", "저는 생선 세 마리하고 콜라 두 개를 사고 싶어요.", ["저는 생선 세 마리와 콜라 두 개를 사고 싶습니다."], ["DESIRE_FIRST_PERSON", "COUNTER_NUMBER", "NOUN_CONNECTOR"], ["저", "생선", "마리", "콜라", "개", "사다"], "Kết hợp mong muốn mua và số lượng.", "P3_SEM_SHOP_FISH_COLA"],
   ]),
@@ -173,7 +173,7 @@ const PART3_POOLS = [
     ["흐엉 씨는 가족과 같이 여행을 가고 싶어해요.", "Hương muốn đi du lịch cùng gia đình.", ["Chị Hương muốn đi du lịch với gia đình."], ["DESIRE_THIRD_PERSON", "NOUN_CONNECTOR"], ["흐엉 씨", "가족", "같이", "여행을 가다"], "가족과 같이 là cùng gia đình.", "P3_SEM_DESIRE_HUONG_FAMILY"],
   ]),
   pool("P3_KV_07", "ko_to_vi", "shopping_quantity", "Hiểu và dịch câu mua/gọi món, số lượng hoặc giá", [
-    ["저는 생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 동이에요.", "Tôi muốn mua ba con cá. Tất cả là bao nhiêu tiền? Là 120.000 đồng.", ["Tôi muốn mua 3 con cá. Tổng cộng bao nhiêu tiền? 120.000 đồng."], G.shop, ["저", "생선", "마리", "사다", "모두", "만", "동"], "세 마리 là ba con; 십이만 동 là 120.000 đồng.", "P3_SEM_SHOP_FISH_120K"],
+    ["저는 생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 원이에요.", "Tôi muốn mua ba con cá. Tất cả là bao nhiêu tiền? Là 120.000 WON.", ["Tôi muốn mua 3 con cá. Tổng cộng bao nhiêu tiền? 120.000 WON."], G.shop, ["저", "생선", "마리", "사다", "모두", "만", "원"], "세 마리 là ba con; 십이만 원 là 120.000 WON.", "P3_SEM_SHOP_FISH_120K"],
     ["비빔밥 두 개하고 김치찌개 한 개 주세요. 콜라 한 개 더 주세요.", "Cho tôi hai cơm trộn và một canh kim chi. Cho tôi thêm một chai Cola.", ["Hãy cho tôi 2 phần cơm trộn, 1 canh kim chi và thêm 1 Cola."], G.shop, ["비빔밥", "개", "김치찌개", "콜라", "더"], "주세요 dùng để yêu cầu/gọi món.", "P3_SEM_SHOP_BIBIMBAP_COLA"],
     ["저는 생선 세 마리하고 콜라 두 개를 사고 싶어요.", "Tôi muốn mua ba con cá và hai chai Cola.", ["Tôi muốn mua 3 con cá và 2 Cola."], ["DESIRE_FIRST_PERSON", "COUNTER_NUMBER", "NOUN_CONNECTOR"], ["저", "생선", "마리", "콜라", "개", "사다"], "사고 싶어요 là muốn mua.", "P3_SEM_SHOP_FISH_COLA"],
   ]),

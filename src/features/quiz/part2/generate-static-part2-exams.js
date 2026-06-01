@@ -37,6 +37,19 @@ function shuffle(items, random) {
   return result;
 }
 
+function hasVietnameseInDisplayedPart2Text(question) {
+  const displayedText = [
+    question.readingText,
+    question.correctValue,
+    question.stimulus?.fallbackText,
+    ...question.options.map(option => option.text),
+  ]
+    .filter(Boolean)
+    .join(" ");
+
+  return /[ăâđêôơưÁÀẢÃẠẮẰẲẴẶẤẦẨẪẬĐÉÈẺẼẸẾỀỂỄỆÍÌỈĨỊÓÒỎÕỌỐỒỔỖỘỚỜỞỠỢÚÙỦŨỤỨỪỬỮỰÝỲỶỸỴáàảãạắằẳẵặấầẩẫậéèẻẽẹếềểễệíìỉĩịóòỏõọốồổỗộớờởỡợúùủũụứừửữựýỳỷỹỵ]/u.test(displayedText);
+}
+
 function isValidPart2Question(question) {
   return (
     question.validation.grammarInScope === true &&
@@ -44,7 +57,8 @@ function isValidPart2Question(question) {
     question.validation.singleCorrectAnswer === true &&
     (question.validation.topicUnambiguous ?? true) === true &&
     (question.validation.stimulusConsistent ?? true) === true &&
-    (question.validation.passageConsistent ?? true) === true
+    (question.validation.passageConsistent ?? true) === true &&
+    !hasVietnameseInDisplayedPart2Text(question)
   );
 }
 
@@ -337,6 +351,7 @@ module.exports = {
   PART2_STATIC_EXAM_CONFIG,
   calculateSharedQuestionRatio,
   generateStaticPart2Exams,
+  hasVietnameseInDisplayedPart2Text,
   isCorrect,
   isValidPart2Question,
   selectBalancedQuestion,

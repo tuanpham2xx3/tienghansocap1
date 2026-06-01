@@ -7,49 +7,57 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+KR:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+KR:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
     <script>
       tailwind.config = {
         theme: {
           extend: {
             fontFamily: {
               sans: ["Inter", "Noto Sans KR", "ui-sans-serif", "system-ui", "Segoe UI", "Arial", "sans-serif"],
+              korean: ["Noto Sans KR", "Inter", "ui-sans-serif", "system-ui", "sans-serif"],
             },
           },
         },
       };
     </script>
   </head>
-  <body class="bg-[#F5F4F0] text-[#111827]">
+  <body class="bg-[#F5F4F0] font-sans text-[#262422]">
     <div class="min-h-screen">
       <header class="sticky top-0 z-20 border-b border-[#D6D3CD] bg-white/95 backdrop-blur">
-        <div class="mx-auto flex max-w-7xl flex-col gap-3 px-4 py-4 md:flex-row md:items-center md:justify-between">
+        <div class="mx-auto flex max-w-[1500px] flex-col gap-3 px-5 py-5 xl:flex-row xl:items-center xl:justify-between">
           <div>
-            <a href="./index.html" class="text-sm font-bold text-[#2F5D50]">← Trang chủ</a>
-            <h1 class="mt-1 text-xl font-bold tracking-normal">Bộ đề tiếng Hàn sơ cấp</h1>
-            <p class="text-sm text-[#64748B]">Xem 20 đề chính thức ghép từ Part 1, Part 2, Part 3.</p>
+            <a href="./index.html" class="text-lg font-extrabold tracking-tight text-[#2F5D50]">Korean Study</a>
           </div>
-          <div class="flex flex-wrap items-center gap-2">
-            <label for="examSelect" class="text-sm font-semibold text-[#111827]">Mã đề</label>
-            <select id="examSelect" class="h-10 rounded-lg border border-[#D6D3CD] bg-white px-3 text-sm shadow-sm focus:border-[#2F5D50] focus:outline-none focus:ring-4 focus:ring-[#2F5D50]/10"></select>
-            <button id="submitExam" class="h-10 rounded-lg bg-[#2F5D50] px-4 text-sm font-bold text-white hover:bg-[#254C42]">Nộp bài</button>
-            <button id="toggleAnswers" class="h-10 rounded-lg border border-[#D6D3CD] bg-white px-4 text-sm font-bold text-[#111827] hover:bg-[#F5F4F0]">Hiện đáp án</button>
+          <nav class="flex flex-wrap items-center gap-2 text-sm font-bold">
+            <a class="h-11 rounded-lg border border-[#D6D3CD] bg-white px-4 py-2.5 text-[#262422] hover:bg-[#F5F4F0]" href="./index.html">Trang chủ</a>
+            <a class="h-11 rounded-lg border border-[#D6D3CD] bg-white px-4 py-2.5 text-[#262422] hover:bg-[#F5F4F0]" href="./vocabulary.html">Từ vựng</a>
+            <a class="h-11 rounded-lg border border-[#D6D3CD] bg-white px-4 py-2.5 text-[#262422] hover:bg-[#F5F4F0]" href="./grammar.html">Ngữ pháp</a>
+            <a class="h-11 rounded-lg bg-[#2F5D50] px-4 py-2.5 text-white" href="./exam-start.html" aria-current="page">Thi thử</a>
+          </nav>
+          <div class="flex flex-wrap items-center gap-2 xl:justify-end">
+            <div id="timerPill" class="flex h-11 items-center rounded-lg border border-[#D6D3CD] bg-white px-3 text-sm font-extrabold tabular-nums text-[#262422]">--:--</div>
+            <button id="submitExam" class="h-11 rounded-lg bg-[#2F5D50] px-4 text-sm font-bold text-white hover:bg-[#254C42]">Nộp bài</button>
+            <button id="toggleAnswers" class="h-11 rounded-lg border border-[#D6D3CD] bg-white px-4 text-sm font-bold text-[#262422] hover:bg-[#F5F4F0]">Hiện đáp án</button>
+            <a id="clearSession" class="h-11 rounded-lg border border-[#D6D3CD] bg-white px-4 py-2.5 text-sm font-bold text-[#262422] hover:bg-[#F5F4F0]" href="./exam-start.html">Làm đề khác</a>
           </div>
         </div>
       </header>
 
-      <main class="mx-auto grid max-w-7xl gap-4 px-4 py-5 lg:grid-cols-[260px_1fr]">
-        <aside class="h-fit rounded-xl border border-[#D6D3CD] bg-white p-4 shadow-sm">
-          <div class="text-sm font-bold">Thông tin đề</div>
-          <div id="examMeta" class="mt-3 space-y-2 text-sm text-[#64748B]"></div>
-          <div class="mt-4 border-t border-[#D6D3CD] pt-4">
-            <div class="text-xs font-bold uppercase tracking-wide text-[#64748B]">Đi nhanh</div>
-            <nav class="mt-2 grid gap-2 text-sm">
-              <a class="rounded-lg px-2 py-1 hover:bg-[#F5F4F0]" href="#part1">Part 1 - Trắc nghiệm</a>
-              <a class="rounded-lg px-2 py-1 hover:bg-[#F5F4F0]" href="#part2">Part 2 - Đọc hiểu</a>
-              <a class="rounded-lg px-2 py-1 hover:bg-[#F5F4F0]" href="#part3">Part 3 - Dịch câu</a>
+      <main class="mx-auto grid max-w-[1500px] gap-4 px-5 py-5 lg:grid-cols-[320px_minmax(0,1fr)]">
+        <aside class="h-fit rounded-xl border border-[#D6D3CD] bg-white p-4 shadow-sm lg:sticky lg:top-24">
+          <div>
+            <div class="text-sm font-extrabold">Đi nhanh</div>
+            <nav class="mt-2 grid gap-2 text-sm font-semibold">
+              <a class="rounded-lg border border-transparent px-3 py-2 hover:border-[#D6D3CD] hover:bg-[#F5F4F0]" href="#part1">Part 1 · Trắc nghiệm</a>
+              <a class="rounded-lg border border-transparent px-3 py-2 hover:border-[#D6D3CD] hover:bg-[#F5F4F0]" href="#part2">Part 2 · Đọc hiểu</a>
+              <a class="rounded-lg border border-transparent px-3 py-2 hover:border-[#D6D3CD] hover:bg-[#F5F4F0]" href="#part3">Part 3 · Dịch câu</a>
             </nav>
           </div>
+          <div class="mt-4 border-t border-[#D6D3CD] pt-4">
+            <div class="text-sm font-extrabold">Question map</div>
+            <div id="questionMap" class="mt-3 grid grid-cols-5 gap-2"></div>
+          </div>
+          <div id="examMeta" class="mt-4 border-t border-[#D6D3CD] pt-4 text-xs font-semibold leading-6 text-[#6B625C]"></div>
         </aside>
 
         <div id="app" class="space-y-5"></div>
@@ -58,7 +66,7 @@
 
     <template id="loadingTemplate">
       <section class="rounded-xl border border-[#D6D3CD] bg-white p-6 shadow-sm">
-        <div class="text-sm text-[#64748B]">Đang tải dữ liệu đề...</div>
+        <div class="text-sm font-semibold text-[#6B625C]">Đang tải dữ liệu đề...</div>
       </section>
     </template>
 

@@ -1,0 +1,5799 @@
+{
+  "version": 1,
+  "sourceRef": "data/tuvungsocap_1-8.json",
+  "policy": "Static examples for So cap 1 vocabulary. Sentences may use any Bai 1-8 vocabulary and Bai 1-8 grammar.",
+  "examples": {
+    "VOC_L01_001": {
+      "korean": "저는 관광 가이드를 배워요.",
+      "vietnamese": "Tôi học về hướng dẫn viên du lịch.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "관광 가이드",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_002": {
+      "korean": "저는 국어국문학과를 배워요.",
+      "vietnamese": "Tôi học về khoa quốc ngữ quốc văn.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "국어국문학과",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_003": {
+      "korean": "저는 국적을 배워요.",
+      "vietnamese": "Tôi học về quốc tịch.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "국적",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_004": {
+      "korean": "네.",
+      "vietnamese": "Vâng",
+      "blankKorean": "______.",
+      "grammarUsed": [],
+      "vocabularyUsed": [
+        "네"
+      ]
+    },
+    "VOC_L01_005": {
+      "korean": "저는 나라를 배워요.",
+      "vietnamese": "Tôi học về đất nước.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "나라",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_006": {
+      "korean": "저는 독일을 배워요.",
+      "vietnamese": "Tôi học về nước đức.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "독일",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_007": {
+      "korean": "저는 대학교를 배워요.",
+      "vietnamese": "Tôi học về trường đại học.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "대학교",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_008": {
+      "korean": "저는 대학생을 배워요.",
+      "vietnamese": "Tôi học về sinh viên.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "대학생",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_009": {
+      "korean": "저는 러시아를 배워요.",
+      "vietnamese": "Tôi học về nước nga.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "러시아",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_010": {
+      "korean": "저는 말레이시아를 배워요.",
+      "vietnamese": "Tôi học về nước malaysia.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "말레이시아",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_011": {
+      "korean": "저는 몽골을 배워요.",
+      "vietnamese": "Tôi học về nước mông cổ.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "몽골",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_012": {
+      "korean": "저는 미국을 배워요.",
+      "vietnamese": "Tôi học về nước mỹ.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "미국",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_013": {
+      "korean": "저는 베트남을 배워요.",
+      "vietnamese": "Tôi học về việt nam.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "베트남",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_014": {
+      "korean": "저는 보기를 배워요.",
+      "vietnamese": "Tôi học về ví dụ.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "보기",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_015": {
+      "korean": "반갑습니다.",
+      "vietnamese": "Rất vui được gặp bạn.",
+      "blankKorean": "______.",
+      "grammarUsed": [
+        "입니다"
+      ],
+      "vocabularyUsed": [
+        "반갑습니다"
+      ]
+    },
+    "VOC_L01_016": {
+      "korean": "저는 사람을 배워요.",
+      "vietnamese": "Tôi học về người.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "사람",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_017": {
+      "korean": "저는 선생님을 배워요.",
+      "vietnamese": "Tôi học về giáo viên.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "선생님",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_018": {
+      "korean": "저는 씨를 배워요.",
+      "vietnamese": "Tôi học về anh.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "씨",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_019": {
+      "korean": "아니요.",
+      "vietnamese": "Không",
+      "blankKorean": "______.",
+      "grammarUsed": [],
+      "vocabularyUsed": [
+        "아니요"
+      ]
+    },
+    "VOC_L01_020": {
+      "korean": "안녕하세요?",
+      "vietnamese": "Xin chào.",
+      "blankKorean": "______",
+      "grammarUsed": [
+        "-(으)세요"
+      ],
+      "vocabularyUsed": [
+        "안녕하세요?"
+      ]
+    },
+    "VOC_L01_021": {
+      "korean": "안녕하십니까?",
+      "vietnamese": "Xin chào ạ.",
+      "blankKorean": "______",
+      "grammarUsed": [
+        "-ㅂ/습니까"
+      ],
+      "vocabularyUsed": [
+        "안녕하십니까?"
+      ]
+    },
+    "VOC_L01_022": {
+      "korean": "안녕히 가세요.",
+      "vietnamese": "Chào anh/chị đi bình an.",
+      "blankKorean": "______.",
+      "grammarUsed": [
+        "-(으)세요"
+      ],
+      "vocabularyUsed": [
+        "안녕히 가세요."
+      ]
+    },
+    "VOC_L01_023": {
+      "korean": "안녕히 계세요.",
+      "vietnamese": "Chào anh/chị ở lại bình an.",
+      "blankKorean": "______.",
+      "grammarUsed": [
+        "-(으)세요"
+      ],
+      "vocabularyUsed": [
+        "안녕히 계세요."
+      ]
+    },
+    "VOC_L01_024": {
+      "korean": "저는 약사를 배워요.",
+      "vietnamese": "Tôi học về dược sĩ.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "약사",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_025": {
+      "korean": "저는 영국을 배워요.",
+      "vietnamese": "Tôi học về nước anh.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "영국",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_026": {
+      "korean": "저는 이를 배워요.",
+      "vietnamese": "Tôi học về này.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "이",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_027": {
+      "korean": "저는 이름을 배워요.",
+      "vietnamese": "Tôi học về tên.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "이름",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_028": {
+      "korean": "저는 이메일을 배워요.",
+      "vietnamese": "Tôi học về email.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "이메일",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_029": {
+      "korean": "저는 인도를 배워요.",
+      "vietnamese": "Tôi học về nước ấn độ.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "인도",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_030": {
+      "korean": "저는 인도네시아를 배워요.",
+      "vietnamese": "Tôi học về nước indonesia.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "인도네시아",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_031": {
+      "korean": "저는 일본을 배워요.",
+      "vietnamese": "Tôi học về nước nhật bản.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "일본",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_032": {
+      "korean": "저는 저를 배워요.",
+      "vietnamese": "Tôi học về tôi.",
+      "blankKorean": "______는 저를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_033": {
+      "korean": "저는 제를 배워요.",
+      "vietnamese": "Tôi học về của tôi.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "제",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_034": {
+      "korean": "저는 주소를 배워요.",
+      "vietnamese": "Tôi học về địa chỉ.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "주소",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_035": {
+      "korean": "저는 주부를 배워요.",
+      "vietnamese": "Tôi học về nội trợ.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "주부",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_036": {
+      "korean": "저는 중국을 배워요.",
+      "vietnamese": "Tôi học về nước trung quốc.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "중국",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_037": {
+      "korean": "저는 직업을 배워요.",
+      "vietnamese": "Tôi học về nghề nghiệp.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "직업",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_038": {
+      "korean": "처음 뵙겠습니다.",
+      "vietnamese": "Rất hân hạnh lần đầu gặp mặt.",
+      "blankKorean": "______.",
+      "grammarUsed": [
+        "-겠- <ý định>"
+      ],
+      "vocabularyUsed": [
+        "처음 뵙겠습니다."
+      ]
+    },
+    "VOC_L01_039": {
+      "korean": "저는 태국을 배워요.",
+      "vietnamese": "Tôi học về nước thái lan.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "태국",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_040": {
+      "korean": "저는 프랑스를 배워요.",
+      "vietnamese": "Tôi học về nước pháp.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "프랑스",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_041": {
+      "korean": "저는 필리핀을 배워요.",
+      "vietnamese": "Tôi học về nước philippines.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "필리핀",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_042": {
+      "korean": "저는 학과를 배워요.",
+      "vietnamese": "Tôi học về khoa.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "학과",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_043": {
+      "korean": "저는 학번을 배워요.",
+      "vietnamese": "Tôi học về mã số sinh viên.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "학번",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_044": {
+      "korean": "저는 학생을 배워요.",
+      "vietnamese": "Tôi học về học sinh.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "학생",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_045": {
+      "korean": "저는 학생증을 배워요.",
+      "vietnamese": "Tôi học về thẻ học sinh.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "학생증",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_046": {
+      "korean": "저는 한국을 배워요.",
+      "vietnamese": "Tôi học về hàn quốc.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "한국",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_047": {
+      "korean": "저는 한국어를 배워요.",
+      "vietnamese": "Tôi học về tiếng hàn.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "한국어",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_048": {
+      "korean": "저는 한국어과를 배워요.",
+      "vietnamese": "Tôi học về khoa tiếng hàn.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "한국어과",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_049": {
+      "korean": "저는 회사원을 배워요.",
+      "vietnamese": "Tôi học về nhân viên công ty.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "회사원",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_050": {
+      "korean": "저는 은행원을 배워요.",
+      "vietnamese": "Tôi học về nhân viên ngân hàng.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "은행원",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L01_051": {
+      "korean": "저는 인사말을 배워요.",
+      "vietnamese": "Tôi học về lời chào hỏi.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "인사말",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_001": {
+      "korean": "저는 경찰서를 배워요.",
+      "vietnamese": "Tôi học về đồn cảnh sát.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "경찰서",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_002": {
+      "korean": "저는 가게를 배워요.",
+      "vietnamese": "Tôi học về cửa hàng.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "가게",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_003": {
+      "korean": "저는 가방을 배워요.",
+      "vietnamese": "Tôi học về túi xách.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "가방",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_004": {
+      "korean": "저는 강당을 배워요.",
+      "vietnamese": "Tôi học về giảng đường.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "강당",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_005": {
+      "korean": "저는 강의실을 배워요.",
+      "vietnamese": "Tôi học về phòng học.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "강의실",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_006": {
+      "korean": "저는 거기를 배워요.",
+      "vietnamese": "Tôi học về chỗ đó.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "거기",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_007": {
+      "korean": "저는 공책을 배워요.",
+      "vietnamese": "Tôi học về quyển vở.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "공책",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_008": {
+      "korean": "저는 교실을 배워요.",
+      "vietnamese": "Tôi học về phòng học.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "교실",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_009": {
+      "korean": "저는 그것을 배워요.",
+      "vietnamese": "Tôi học về cái đó.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "그것",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_010": {
+      "korean": "저는 극장을 배워요.",
+      "vietnamese": "Tôi học về nhà hát.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "극장",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_011": {
+      "korean": "저는 도서관을 배워요.",
+      "vietnamese": "Tôi học về thư viện.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "도서관",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_012": {
+      "korean": "저는 동아리방을 배워요.",
+      "vietnamese": "Tôi học về phòng sinh hoạt câu lạc bộ.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "동아리방",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_013": {
+      "korean": "저는 라디오를 배워요.",
+      "vietnamese": "Tôi học về đài radio.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "라디오",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_014": {
+      "korean": "저는 랩실(어학실)을 배워요.",
+      "vietnamese": "Tôi học về phòng thực hành ngoại ngữ.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "랩실(어학실)",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_015": {
+      "korean": "저는 밥을 많이 먹어요.",
+      "vietnamese": "Tôi ăn nhiều cơm.",
+      "blankKorean": "저는 밥을 ______ 먹어요.",
+      "grammarUsed": [
+        "-아/어요",
+        "을/를"
+      ],
+      "vocabularyUsed": [
+        "많이",
+        "저",
+        "밥",
+        "먹다"
+      ]
+    },
+    "VOC_L02_016": {
+      "korean": "저는 명동을 배워요.",
+      "vietnamese": "Tôi học về khu myeongdong.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "명동",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_017": {
+      "korean": "저는 무엇을 배워요.",
+      "vietnamese": "Tôi học về cái gì.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "무엇",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_018": {
+      "korean": "저는 문을 배워요.",
+      "vietnamese": "Tôi học về cánh cửa.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "문",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_019": {
+      "korean": "저는 미용실을 배워요.",
+      "vietnamese": "Tôi học về tiệm làm tóc.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "미용실",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_020": {
+      "korean": "저는 백화점을 배워요.",
+      "vietnamese": "Tôi học về trung tâm thương mại.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "백화점",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_021": {
+      "korean": "저는 병원을 배워요.",
+      "vietnamese": "Tôi học về bệnh viện.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "병원",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_022": {
+      "korean": "저는 사무실을 배워요.",
+      "vietnamese": "Tôi học về văn phòng.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "사무실",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_023": {
+      "korean": "저는 사전을 배워요.",
+      "vietnamese": "Tôi học về từ điển.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "사전",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_024": {
+      "korean": "저는 서점을 배워요.",
+      "vietnamese": "Tôi học về hiệu sách.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "서점",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_025": {
+      "korean": "저는 세미나실을 배워요.",
+      "vietnamese": "Tôi học về phòng hội thảo.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "세미나실",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_026": {
+      "korean": "저는 식당을 배워요.",
+      "vietnamese": "Tôi học về nhà ăn.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "식당",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_027": {
+      "korean": "저는 시계를 배워요.",
+      "vietnamese": "Tôi học về đồng hồ.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "시계",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_028": {
+      "korean": "저는 약국을 배워요.",
+      "vietnamese": "Tôi học về hiệu thuốc.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "약국",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_029": {
+      "korean": "저는 어디를 배워요.",
+      "vietnamese": "Tôi học về ở đâu.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "어디",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_030": {
+      "korean": "이것은 없어요.",
+      "vietnamese": "Cái này không có.",
+      "blankKorean": "이것은 ______.",
+      "grammarUsed": [
+        "은/는",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "없다",
+        "이"
+      ]
+    },
+    "VOC_L02_031": {
+      "korean": "저는 여기를 배워요.",
+      "vietnamese": "Tôi học về chỗ này.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "여기",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_032": {
+      "korean": "저는 우체국을 배워요.",
+      "vietnamese": "Tôi học về bưu điện.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "우체국",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_033": {
+      "korean": "저는 운동장을 배워요.",
+      "vietnamese": "Tôi học về sân vận động.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "운동장",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_034": {
+      "korean": "저는 의자를 배워요.",
+      "vietnamese": "Tôi học về cái ghế.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "의자",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_035": {
+      "korean": "저는 이것을 배워요.",
+      "vietnamese": "Tôi học về cái này.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "이것",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_036": {
+      "korean": "저는 은행을 배워요.",
+      "vietnamese": "Tôi học về ngân hàng.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "은행",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_037": {
+      "korean": "저는 은행원을 배워요.",
+      "vietnamese": "Tôi học về nhân viên ngân hàng.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "은행원",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_038": {
+      "korean": "이것은 있어요.",
+      "vietnamese": "Cái này có.",
+      "blankKorean": "이것은 ______.",
+      "grammarUsed": [
+        "은/는",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "있다",
+        "이"
+      ]
+    },
+    "VOC_L02_039": {
+      "korean": "저는 장소를 배워요.",
+      "vietnamese": "Tôi học về địa điểm.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "장소",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_040": {
+      "korean": "저는 저것을 배워요.",
+      "vietnamese": "Tôi học về cái kia.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "저것",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_041": {
+      "korean": "저는 저기를 배워요.",
+      "vietnamese": "Tôi học về chỗ kia.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "저기",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_042": {
+      "korean": "저는 전화를 배워요.",
+      "vietnamese": "Tôi học về điện thoại.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "전화",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_043": {
+      "korean": "저는 체육관을 배워요.",
+      "vietnamese": "Tôi học về nhà thi đấu.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "체육관",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_044": {
+      "korean": "저는 창문을 배워요.",
+      "vietnamese": "Tôi học về cửa sổ.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "창문",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_045": {
+      "korean": "저는 책상을 배워요.",
+      "vietnamese": "Tôi học về bàn học.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "책상",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_046": {
+      "korean": "저는 칠판을 배워요.",
+      "vietnamese": "Tôi học về bảng đen.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "칠판",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_047": {
+      "korean": "저는 텔레비전을 배워요.",
+      "vietnamese": "Tôi học về tivi.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "텔레비전",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_048": {
+      "korean": "저는 펜을 배워요.",
+      "vietnamese": "Tôi học về cây bút.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "펜",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_049": {
+      "korean": "저는 필통을 배워요.",
+      "vietnamese": "Tôi học về hộp bút.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "필통",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_050": {
+      "korean": "저는 학교를 배워요.",
+      "vietnamese": "Tôi học về trường học.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "학교",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_051": {
+      "korean": "저는 학교 시설을 배워요.",
+      "vietnamese": "Tôi học về cơ sở vật chất trường học.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "학교 시설",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_052": {
+      "korean": "저는 학생 식당을 배워요.",
+      "vietnamese": "Tôi học về nhà ăn học sinh.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "학생 식당",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_053": {
+      "korean": "저는 화장실을 배워요.",
+      "vietnamese": "Tôi học về nhà vệ sinh.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "화장실",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_054": {
+      "korean": "저는 휴게실을 배워요.",
+      "vietnamese": "Tôi học về phòng nghỉ.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "휴게실",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L02_055": {
+      "korean": "저는 휴대전화를 배워요.",
+      "vietnamese": "Tôi học về điện thoại di động.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "휴대전화",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L03_001": {
+      "korean": "저는 가요.",
+      "vietnamese": "Tôi đi.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "가다",
+        "저"
+      ]
+    },
+    "VOC_L03_002": {
+      "korean": "저는 공부해요.",
+      "vietnamese": "Tôi học bài.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "공부하다",
+        "저"
+      ]
+    },
+    "VOC_L03_003": {
+      "korean": "저는 공원을 배워요.",
+      "vietnamese": "Tôi học về công viên.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "공원",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L03_004": {
+      "korean": "이것은 나빠요.",
+      "vietnamese": "Cái này xấu.",
+      "blankKorean": "이것은 ______.",
+      "grammarUsed": [
+        "은/는",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "나쁘다",
+        "이"
+      ]
+    },
+    "VOC_L03_005": {
+      "korean": "저는 노래를 배워요.",
+      "vietnamese": "Tôi học về bài hát.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "노래",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L03_006": {
+      "korean": "저는 누구를 배워요.",
+      "vietnamese": "Tôi học về ai.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "누구",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L03_007": {
+      "korean": "저는 대한빌딩을 배워요.",
+      "vietnamese": "Tôi học về tòa nhà dae han.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "대한빌딩",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L03_008": {
+      "korean": "저는 들어요.",
+      "vietnamese": "Tôi nghe.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "듣다",
+        "저"
+      ]
+    },
+    "VOC_L03_009": {
+      "korean": "저는 마셔요.",
+      "vietnamese": "Tôi uống.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "마시다",
+        "저"
+      ]
+    },
+    "VOC_L03_010": {
+      "korean": "저는 만나요.",
+      "vietnamese": "Tôi gặp gỡ.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "만나다",
+        "저"
+      ]
+    },
+    "VOC_L03_011": {
+      "korean": "이것은 많아요.",
+      "vietnamese": "Cái này nhiều.",
+      "blankKorean": "이것은 ______.",
+      "grammarUsed": [
+        "은/는",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "많다",
+        "이"
+      ]
+    },
+    "VOC_L03_012": {
+      "korean": "저는 먹어요.",
+      "vietnamese": "Tôi ăn.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "먹다",
+        "저"
+      ]
+    },
+    "VOC_L03_013": {
+      "korean": "저는 무엇을 배워요.",
+      "vietnamese": "Tôi học về cái gì.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "무엇",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L03_014": {
+      "korean": "저는 방을 배워요.",
+      "vietnamese": "Tôi học về phòng.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "방",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L03_015": {
+      "korean": "저는 봐요.",
+      "vietnamese": "Tôi xem.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "보다",
+        "저"
+      ]
+    },
+    "VOC_L03_016": {
+      "korean": "저는 사과를 배워요.",
+      "vietnamese": "Tôi học về quả táo.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "사과",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L03_017": {
+      "korean": "저는 사요.",
+      "vietnamese": "Tôi mua.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "사다",
+        "저"
+      ]
+    },
+    "VOC_L03_018": {
+      "korean": "저는 산책해요.",
+      "vietnamese": "Tôi đi dạo.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "산책하다",
+        "저"
+      ]
+    },
+    "VOC_L03_019": {
+      "korean": "저는 쇼핑해요.",
+      "vietnamese": "Tôi mua sắm.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "쇼핑하다",
+        "저"
+      ]
+    },
+    "VOC_L03_020": {
+      "korean": "저는 쉬어요.",
+      "vietnamese": "Tôi nghỉ.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "쉬다",
+        "저"
+      ]
+    },
+    "VOC_L03_021": {
+      "korean": "저는 식사해요.",
+      "vietnamese": "Tôi dùng bữa.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "식사하다",
+        "저"
+      ]
+    },
+    "VOC_L03_022": {
+      "korean": "저는 신문을 배워요.",
+      "vietnamese": "Tôi học về báo.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "신문",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L03_023": {
+      "korean": "저는 시장을 배워요.",
+      "vietnamese": "Tôi học về chợ.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "시장",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L03_024": {
+      "korean": "저는 시내를 배워요.",
+      "vietnamese": "Tôi học về trung tâm thành phố.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "시내",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L03_025": {
+      "korean": "저는 아이스크림을 배워요.",
+      "vietnamese": "Tôi học về kem.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "아이스크림",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L03_026": {
+      "korean": "저는 빵을 배워요.",
+      "vietnamese": "Tôi học về bánh mì.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "빵",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L03_027": {
+      "korean": "이 음식은 아주 맛있어요.",
+      "vietnamese": "Món ăn này rất ngon.",
+      "blankKorean": "이 음식은 ______ 맛있어요.",
+      "grammarUsed": [
+        "은/는",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "아주",
+        "이",
+        "음식",
+        "맛있다"
+      ]
+    },
+    "VOC_L03_028": {
+      "korean": "저는 어디를 배워요.",
+      "vietnamese": "Tôi học về đâu.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "어디",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L03_029": {
+      "korean": "저는 언제를 배워요.",
+      "vietnamese": "Tôi học về khi nào.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "언제",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L03_030": {
+      "korean": "저는 여행을 배워요.",
+      "vietnamese": "Tôi học về du lịch.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "여행",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L03_031": {
+      "korean": "저는 우유를 배워요.",
+      "vietnamese": "Tôi học về sữa.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "우유",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L03_032": {
+      "korean": "저는 영화를 배워요.",
+      "vietnamese": "Tôi học về phim.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "영화",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L03_033": {
+      "korean": "저는 와요.",
+      "vietnamese": "Tôi đến.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "오다",
+        "저"
+      ]
+    },
+    "VOC_L03_034": {
+      "korean": "저는 위를 배워요.",
+      "vietnamese": "Tôi học về trên.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "위",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L03_035": {
+      "korean": "저는 음악을 배워요.",
+      "vietnamese": "Tôi học về âm nhạc.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "음악",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L03_036": {
+      "korean": "저는 의문대명사를 배워요.",
+      "vietnamese": "Tôi học về đại từ nghi vấn.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "의문대명사",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L03_037": {
+      "korean": "저는 이야기해요.",
+      "vietnamese": "Tôi nói chuyện.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "이야기하다",
+        "저"
+      ]
+    },
+    "VOC_L03_038": {
+      "korean": "저는 일해요.",
+      "vietnamese": "Tôi làm việc.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "일하다",
+        "저"
+      ]
+    },
+    "VOC_L03_039": {
+      "korean": "저는 읽어요.",
+      "vietnamese": "Tôi đọc.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "읽다",
+        "저"
+      ]
+    },
+    "VOC_L03_040": {
+      "korean": "저는 자요.",
+      "vietnamese": "Tôi ngủ.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "자다",
+        "저"
+      ]
+    },
+    "VOC_L03_041": {
+      "korean": "저는 자주 운동해요.",
+      "vietnamese": "Tôi thường xuyên tập thể dục.",
+      "blankKorean": "저는 ______ 운동해요.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "자주",
+        "저",
+        "운동하다"
+      ]
+    },
+    "VOC_L03_042": {
+      "korean": "이것은 작아요.",
+      "vietnamese": "Cái này nhỏ.",
+      "blankKorean": "이것은 ______.",
+      "grammarUsed": [
+        "은/는",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "작다",
+        "이"
+      ]
+    },
+    "VOC_L03_043": {
+      "korean": "이것은 재미없어요.",
+      "vietnamese": "Cái này không hay.",
+      "blankKorean": "이것은 ______.",
+      "grammarUsed": [
+        "은/는",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "재미없다",
+        "이"
+      ]
+    },
+    "VOC_L03_044": {
+      "korean": "이것은 재미있어요.",
+      "vietnamese": "Cái này hay.",
+      "blankKorean": "이것은 ______.",
+      "grammarUsed": [
+        "은/는",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "재미있다",
+        "이"
+      ]
+    },
+    "VOC_L03_045": {
+      "korean": "이것은 적어요.",
+      "vietnamese": "Cái này ít.",
+      "blankKorean": "이것은 ______.",
+      "grammarUsed": [
+        "은/는",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "적다",
+        "이"
+      ]
+    },
+    "VOC_L03_046": {
+      "korean": "저는 전화해요.",
+      "vietnamese": "Tôi gọi điện thoại.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "전화하다",
+        "저"
+      ]
+    },
+    "VOC_L03_047": {
+      "korean": "저는 축구를 해요.",
+      "vietnamese": "Tôi chơi bóng đá.",
+      "blankKorean": "______ 축구를 해요.",
+      "grammarUsed": [
+        "-아/어요",
+        "을/를"
+      ],
+      "vocabularyUsed": [
+        "축구를 하다",
+        "저"
+      ]
+    },
+    "VOC_L03_048": {
+      "korean": "이것은 좋아요.",
+      "vietnamese": "Cái này tốt.",
+      "blankKorean": "이것은 ______.",
+      "grammarUsed": [
+        "은/는",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "좋다",
+        "이"
+      ]
+    },
+    "VOC_L03_049": {
+      "korean": "저는 좋아해요.",
+      "vietnamese": "Tôi thích.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "좋아하다",
+        "저"
+      ]
+    },
+    "VOC_L03_050": {
+      "korean": "저는 지금을 배워요.",
+      "vietnamese": "Tôi học về bây giờ.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "지금",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L03_051": {
+      "korean": "저는 차를 배워요.",
+      "vietnamese": "Tôi học về trà.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "차",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L03_052": {
+      "korean": "저는 친구를 배워요.",
+      "vietnamese": "Tôi học về bạn.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "친구",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L03_053": {
+      "korean": "저는 커피를 배워요.",
+      "vietnamese": "Tôi học về cà phê.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "커피",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L03_054": {
+      "korean": "이것은 커요.",
+      "vietnamese": "Cái này to.",
+      "blankKorean": "이것은 ______.",
+      "grammarUsed": [
+        "은/는",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "크다",
+        "이"
+      ]
+    },
+    "VOC_L03_055": {
+      "korean": "저는 형용사를 배워요.",
+      "vietnamese": "Tôi học về tính từ.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "형용사",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L03_056": {
+      "korean": "저는 운동해요.",
+      "vietnamese": "Tôi tập thể dục.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "운동하다",
+        "저"
+      ]
+    },
+    "VOC_L03_057": {
+      "korean": "저는 카페를 배워요.",
+      "vietnamese": "Tôi học về quán cà phê.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "카페",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L03_058": {
+      "korean": "저는 헬스클럽을 배워요.",
+      "vietnamese": "Tôi học về câu lạc bộ thể dục thể thao.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "헬스클럽",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_001": {
+      "korean": "저는 계획표를 배워요.",
+      "vietnamese": "Tôi học về bảng kế hoạch.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "계획표",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_002": {
+      "korean": "저는 구경해요.",
+      "vietnamese": "Tôi ngắm cảnh.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "구경하다",
+        "저"
+      ]
+    },
+    "VOC_L04_003": {
+      "korean": "저는 강사를 배워요.",
+      "vietnamese": "Tôi học về giảng viên.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "강사",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_004": {
+      "korean": "저는 책을 읽어요. 그리고 숙제해요.",
+      "vietnamese": "Tôi đọc sách. Và tôi làm bài tập.",
+      "blankKorean": "저는 책을 읽어요. ______ 숙제해요.",
+      "grammarUsed": [
+        "-아/어요",
+        "을/를"
+      ],
+      "vocabularyUsed": [
+        "그리고",
+        "저",
+        "읽다",
+        "숙제하다"
+      ]
+    },
+    "VOC_L04_005": {
+      "korean": "저는 그저께를 배워요.",
+      "vietnamese": "Tôi học về hôm kia.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "그저께",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_006": {
+      "korean": "저는 내일을 배워요.",
+      "vietnamese": "Tôi học về ngày mai.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "내일",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_007": {
+      "korean": "저는 년을 배워요.",
+      "vietnamese": "Tôi học về năm.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "년",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_008": {
+      "korean": "저는 다음달을 배워요.",
+      "vietnamese": "Tôi học về tháng sau.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "다음달",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_009": {
+      "korean": "저는 다음주를 배워요.",
+      "vietnamese": "Tôi học về tuần sau.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "다음주",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_010": {
+      "korean": "저는 다음 해(내년)를 배워요.",
+      "vietnamese": "Tôi học về năm sau.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "다음 해(내년)",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_011": {
+      "korean": "저는 등산을 배워요.",
+      "vietnamese": "Tôi học về sự leo núi.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "등산",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_012": {
+      "korean": "저는 명절을 배워요.",
+      "vietnamese": "Tôi học về ngày lễ tết.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "명절",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_013": {
+      "korean": "저는 모레를 배워요.",
+      "vietnamese": "Tôi học về ngày kia.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "모레",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_014": {
+      "korean": "저는 월요일을 배워요.",
+      "vietnamese": "Tôi học về thứ hai.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "월요일",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_015": {
+      "korean": "저는 화요일을 배워요.",
+      "vietnamese": "Tôi học về thứ ba.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "화요일",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_016": {
+      "korean": "저는 수요일을 배워요.",
+      "vietnamese": "Tôi học về thứ tư.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "수요일",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_017": {
+      "korean": "저는 목요일을 배워요.",
+      "vietnamese": "Tôi học về thứ năm.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "목요일",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_018": {
+      "korean": "저는 금요일을 배워요.",
+      "vietnamese": "Tôi học về thứ sáu.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "금요일",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_019": {
+      "korean": "저는 토요일을 배워요.",
+      "vietnamese": "Tôi học về thứ bảy.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "토요일",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_020": {
+      "korean": "저는 일요일을 배워요.",
+      "vietnamese": "Tôi học về chủ nhật.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "일요일",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_021": {
+      "korean": "저는 숙제를 배워요.",
+      "vietnamese": "Tôi học về bài tập về nhà.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "숙제",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_022": {
+      "korean": "저는 시를 배워요.",
+      "vietnamese": "Tôi học về giờ.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "시",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_023": {
+      "korean": "저는 시험을 배워요.",
+      "vietnamese": "Tôi học về kỳ thi.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "시험",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_024": {
+      "korean": "이것은 아름다워요.",
+      "vietnamese": "Cái này đẹp.",
+      "blankKorean": "이것은 ______.",
+      "grammarUsed": [
+        "은/는",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "아름답다",
+        "이"
+      ]
+    },
+    "VOC_L04_025": {
+      "korean": "저는 아르바이트를 배워요.",
+      "vietnamese": "Tôi học về công việc làm thêm.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "아르바이트",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_026": {
+      "korean": "저는 안내를 배워요.",
+      "vietnamese": "Tôi học về sự hướng dẫn.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "안내",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_027": {
+      "korean": "저는 어제를 배워요.",
+      "vietnamese": "Tôi học về hôm qua.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "어제",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_028": {
+      "korean": "저는 오늘을 배워요.",
+      "vietnamese": "Tôi học về hôm nay.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "오늘",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_029": {
+      "korean": "저는 오월을 배워요.",
+      "vietnamese": "Tôi học về tháng 5.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "오월",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_030": {
+      "korean": "저는 요일을 배워요.",
+      "vietnamese": "Tôi học về thứ.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "요일",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_031": {
+      "korean": "저는 월을 배워요.",
+      "vietnamese": "Tôi học về tháng.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "월",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_032": {
+      "korean": "저는 유월을 배워요.",
+      "vietnamese": "Tôi học về tháng 6.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "유월",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_033": {
+      "korean": "저는 이월을 배워요.",
+      "vietnamese": "Tôi học về tháng 2.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "이월",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_034": {
+      "korean": "저는 이번달을 배워요.",
+      "vietnamese": "Tôi học về tháng này.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "이번달",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_035": {
+      "korean": "저는 이번주를 배워요.",
+      "vietnamese": "Tôi học về tuần này.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "이번주",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_036": {
+      "korean": "저는 일을 배워요.",
+      "vietnamese": "Tôi học về ngày.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "일",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_037": {
+      "korean": "저는 일월을 배워요.",
+      "vietnamese": "Tôi học về tháng 1.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "일월",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_038": {
+      "korean": "저는 지난해(작년)를 배워요.",
+      "vietnamese": "Tôi học về năm trước.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "지난해(작년)",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_039": {
+      "korean": "저는 올해(금년)를 배워요.",
+      "vietnamese": "Tôi học về năm nay.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "올해(금년)",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_040": {
+      "korean": "저는 지난달을 배워요.",
+      "vietnamese": "Tôi học về tháng trước.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "지난달",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_041": {
+      "korean": "저는 지난주를 배워요.",
+      "vietnamese": "Tôi học về tuần trước.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "지난주",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_042": {
+      "korean": "저는 칠월을 배워요.",
+      "vietnamese": "Tôi học về tháng 7.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "칠월",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_043": {
+      "korean": "오늘 파티를 해요.",
+      "vietnamese": "Hôm nay tổ chức tiệc.",
+      "blankKorean": "______ 파티를 해요.",
+      "grammarUsed": [
+        "-아/어요",
+        "을/를"
+      ],
+      "vocabularyUsed": [
+        "파티를 하다.",
+        "오늘"
+      ]
+    },
+    "VOC_L04_044": {
+      "korean": "저는 팔월을 배워요.",
+      "vietnamese": "Tôi học về tháng 8.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "팔월",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_045": {
+      "korean": "저는 평일(주중)을 배워요.",
+      "vietnamese": "Tôi học về ngày thường.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "평일(주중)",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_046": {
+      "korean": "저는 주말을 배워요.",
+      "vietnamese": "Tôi học về cuối tuần.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "주말",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_047": {
+      "korean": "저는 한글날을 배워요.",
+      "vietnamese": "Tôi học về ngày kỉ niệm chữ hangeul.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "한글날",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_048": {
+      "korean": "저는 형용사를 배워요.",
+      "vietnamese": "Tôi học về tính từ.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "형용사",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_049": {
+      "korean": "저는 휴가를 배워요.",
+      "vietnamese": "Tôi học về kỳ nghỉ.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "휴가",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_050": {
+      "korean": "저는 회의해요.",
+      "vietnamese": "Tôi họp.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "회의하다",
+        "저"
+      ]
+    },
+    "VOC_L04_051": {
+      "korean": "저는 구월을 배워요.",
+      "vietnamese": "Tôi học về tháng 9.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "구월",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_052": {
+      "korean": "저는 시월을 배워요.",
+      "vietnamese": "Tôi học về tháng 10.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "시월",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_053": {
+      "korean": "저는 십이월을 배워요.",
+      "vietnamese": "Tôi học về tháng 12.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "십이월",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_054": {
+      "korean": "저는 십일월을 배워요.",
+      "vietnamese": "Tôi học về tháng 11.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "십일월",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_055": {
+      "korean": "저는 삼월을 배워요.",
+      "vietnamese": "Tôi học về tháng 3.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "삼월",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_056": {
+      "korean": "저는 사월을 배워요.",
+      "vietnamese": "Tôi học về tháng 4.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "사월",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_057": {
+      "korean": "저는 설날을 배워요.",
+      "vietnamese": "Tôi học về tết nguyên đán.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "설날",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_058": {
+      "korean": "저는 생일 파티를 배워요.",
+      "vietnamese": "Tôi học về tiệc sinh nhật.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "생일 파티",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_059": {
+      "korean": "저는 졸업해요.",
+      "vietnamese": "Tôi tốt nghiệp.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "졸업하다",
+        "저"
+      ]
+    },
+    "VOC_L04_060": {
+      "korean": "저는 전화번호를 배워요.",
+      "vietnamese": "Tôi học về số điện thoại.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "전화번호",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_061": {
+      "korean": "저는 층을 배워요.",
+      "vietnamese": "Tôi học về tầng.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "층",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_062": {
+      "korean": "저는 커피숍을 배워요.",
+      "vietnamese": "Tôi học về quán cà phê.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "커피숍",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L04_063": {
+      "korean": "저는 크리스마스를 배워요.",
+      "vietnamese": "Tôi học về lễ giáng sinh.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "크리스마스",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_001": {
+      "korean": "저는 고향을 배워요.",
+      "vietnamese": "Tôi học về quê hương.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "고향",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_002": {
+      "korean": "저는 공항을 배워요.",
+      "vietnamese": "Tôi học về sân bay.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "공항",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_003": {
+      "korean": "저는 겨울을 배워요.",
+      "vietnamese": "Tôi học về mùa đông.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "겨울",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_004": {
+      "korean": "저는 끝나요.",
+      "vietnamese": "Tôi kết thúc.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "끝나다",
+        "저"
+      ]
+    },
+    "VOC_L05_005": {
+      "korean": "저는 남을 배워요.",
+      "vietnamese": "Tôi học về người khác.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "남",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_006": {
+      "korean": "저는 남자를 배워요.",
+      "vietnamese": "Tôi học về đàn ông.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "남자",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_007": {
+      "korean": "저는 날을 배워요.",
+      "vietnamese": "Tôi học về ngày.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "날",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_008": {
+      "korean": "저는 내요.",
+      "vietnamese": "Tôi nộp.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "내다",
+        "저"
+      ]
+    },
+    "VOC_L05_009": {
+      "korean": "저는 다녀요.",
+      "vietnamese": "Tôi đi lại thường xuyên (đi học.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "다니다",
+        "저"
+      ]
+    },
+    "VOC_L05_010": {
+      "korean": "저는 낮을 배워요.",
+      "vietnamese": "Tôi học về ban ngày.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "낮",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_011": {
+      "korean": "저는 밤을 배워요.",
+      "vietnamese": "Tôi học về ban đêm.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "밤",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_012": {
+      "korean": "저는 받아요.",
+      "vietnamese": "Tôi nhận.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "받다",
+        "저"
+      ]
+    },
+    "VOC_L05_013": {
+      "korean": "저는 밥을 배워요.",
+      "vietnamese": "Tôi học về cơm.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "밥",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_014": {
+      "korean": "저는 부모님을 배워요.",
+      "vietnamese": "Tôi học về bố mẹ.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "부모님",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_015": {
+      "korean": "저는 아버지를 배워요.",
+      "vietnamese": "Tôi học về bố.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "아버지",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_016": {
+      "korean": "저는 어머니를 배워요.",
+      "vietnamese": "Tôi học về mẹ.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "어머니",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_017": {
+      "korean": "저는 형을 배워요.",
+      "vietnamese": "Tôi học về anh trai.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "형",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_018": {
+      "korean": "저는 오빠를 배워요.",
+      "vietnamese": "Tôi học về anh trai.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "오빠",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_019": {
+      "korean": "저는 누나를 배워요.",
+      "vietnamese": "Tôi học về chị gái.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "누나",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_020": {
+      "korean": "저는 언니를 배워요.",
+      "vietnamese": "Tôi học về chị gái.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "언니",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_021": {
+      "korean": "저는 남동생을 배워요.",
+      "vietnamese": "Tôi học về em trai.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "남동생",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_022": {
+      "korean": "저는 여동생을 배워요.",
+      "vietnamese": "Tôi học về em gái.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "여동생",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_023": {
+      "korean": "저는 배워요.",
+      "vietnamese": "Tôi học.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "배우다",
+        "저"
+      ]
+    },
+    "VOC_L05_024": {
+      "korean": "저는 분(시간)을 배워요.",
+      "vietnamese": "Tôi học về phút.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "분(시간)",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_025": {
+      "korean": "저는 새벽을 배워요.",
+      "vietnamese": "Tôi học về rạng sáng.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "새벽",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_026": {
+      "korean": "저는 수업을 배워요.",
+      "vietnamese": "Tôi học về giờ học.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "수업",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_027": {
+      "korean": "저는 시작해요.",
+      "vietnamese": "Tôi bắt đầu.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "시작하다",
+        "저"
+      ]
+    },
+    "VOC_L05_028": {
+      "korean": "오늘 시험을 봐요.",
+      "vietnamese": "Hôm nay tôi thi.",
+      "blankKorean": "______ 시험을 봐요.",
+      "grammarUsed": [
+        "-아/어요",
+        "을/를"
+      ],
+      "vocabularyUsed": [
+        "시험을 보다",
+        "오늘"
+      ]
+    },
+    "VOC_L05_029": {
+      "korean": "저는 숙제해요.",
+      "vietnamese": "Tôi làm bài tập về nhà.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "숙제하다",
+        "저"
+      ]
+    },
+    "VOC_L05_030": {
+      "korean": "저는 여자를 배워요.",
+      "vietnamese": "Tôi học về phụ nữ.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "여자",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_031": {
+      "korean": "저는 영문과를 배워요.",
+      "vietnamese": "Tôi học về khoa ngữ văn anh.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "영문과",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_032": {
+      "korean": "저는 영어를 배워요.",
+      "vietnamese": "Tôi học về tiếng anh.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "영어",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_033": {
+      "korean": "저는 오전을 배워요.",
+      "vietnamese": "Tôi học về buổi sáng.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "오전",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_034": {
+      "korean": "저는 오후를 배워요.",
+      "vietnamese": "Tôi học về buổi chiều.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "오후",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_035": {
+      "korean": "저는 외식해요.",
+      "vietnamese": "Tôi ăn ngoài.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "외식하다",
+        "저"
+      ]
+    },
+    "VOC_L05_036": {
+      "korean": "저는 인터넷을 배워요.",
+      "vietnamese": "Tôi học về internet.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "인터넷",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_037": {
+      "korean": "저는 일기를 배워요.",
+      "vietnamese": "Tôi học về nhật ký.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "일기",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_038": {
+      "korean": "저는 일어나요.",
+      "vietnamese": "Tôi thức dậy.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "일어나다",
+        "저"
+      ]
+    },
+    "VOC_L05_039": {
+      "korean": "저는 이를 닦아요.",
+      "vietnamese": "Tôi đánh răng.",
+      "blankKorean": "______ 이를 닦아요.",
+      "grammarUsed": [
+        "-아/어요",
+        "을/를"
+      ],
+      "vocabularyUsed": [
+        "이를 닦다",
+        "저"
+      ]
+    },
+    "VOC_L05_040": {
+      "korean": "저는 세수해요.",
+      "vietnamese": "Tôi rửa mặt.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "세수하다",
+        "저"
+      ]
+    },
+    "VOC_L05_041": {
+      "korean": "저는 읽어요.",
+      "vietnamese": "Tôi đọc.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "읽다",
+        "저"
+      ]
+    },
+    "VOC_L05_042": {
+      "korean": "저는 자요.",
+      "vietnamese": "Tôi ngủ.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "자다",
+        "저"
+      ]
+    },
+    "VOC_L05_043": {
+      "korean": "저는 아침(시간)을 배워요.",
+      "vietnamese": "Tôi học về buổi sáng.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "아침(시간)",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_044": {
+      "korean": "저는 점심(시간)을 배워요.",
+      "vietnamese": "Tôi học về buổi trưa.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "점심(시간)",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_045": {
+      "korean": "저는 저녁(시간)을 배워요.",
+      "vietnamese": "Tôi học về buổi tối.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "저녁(시간)",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_046": {
+      "korean": "저는 청소해요.",
+      "vietnamese": "Tôi dọn dẹp vệ sinh.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "청소하다",
+        "저"
+      ]
+    },
+    "VOC_L05_047": {
+      "korean": "저는 목욕해요.",
+      "vietnamese": "Tôi tắm.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "목욕하다",
+        "저"
+      ]
+    },
+    "VOC_L05_048": {
+      "korean": "저는 초를 배워요.",
+      "vietnamese": "Tôi học về giây.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "초",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_049": {
+      "korean": "지금 3시 10분 50초예요.",
+      "vietnamese": "Bây giờ là 3 giờ 10 phút 50 giây.",
+      "blankKorean": "지금 ______예요.",
+      "grammarUsed": [
+        "입니다"
+      ],
+      "vocabularyUsed": [
+        "3시 10분 50초",
+        "지금",
+        "시",
+        "분(시간)",
+        "초"
+      ]
+    },
+    "VOC_L05_050": {
+      "korean": "저는 출근을 배워요.",
+      "vietnamese": "Tôi học về sự đi làm.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "출근",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_051": {
+      "korean": "저는 출근해요.",
+      "vietnamese": "Tôi đi làm.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "출근하다",
+        "저"
+      ]
+    },
+    "VOC_L05_052": {
+      "korean": "저는 출발해요.",
+      "vietnamese": "Tôi xuất phát.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "출발하다",
+        "저"
+      ]
+    },
+    "VOC_L05_053": {
+      "korean": "저는 퇴근을 배워요.",
+      "vietnamese": "Tôi học về sự tan tầm.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "퇴근",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_054": {
+      "korean": "저는 퇴근해요.",
+      "vietnamese": "Tôi tan làm.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "퇴근하다",
+        "저"
+      ]
+    },
+    "VOC_L05_055": {
+      "korean": "저는 회사를 배워요.",
+      "vietnamese": "Tôi học về công ty.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "회사",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_056": {
+      "korean": "저는 회의를 배워요.",
+      "vietnamese": "Tôi học về cuộc họp.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "회의",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_057": {
+      "korean": "저는 후를 배워요.",
+      "vietnamese": "Tôi học về sau.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "후",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L05_058": {
+      "korean": "저는 PC방을 배워요.",
+      "vietnamese": "Tôi học về quán net.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "PC방",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_001": {
+      "korean": "저는 가수를 배워요.",
+      "vietnamese": "Tôi học về ca sĩ.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "가수",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_002": {
+      "korean": "저는 갈비를 배워요.",
+      "vietnamese": "Tôi học về món galbi.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "갈비",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_003": {
+      "korean": "저는 개를 배워요.",
+      "vietnamese": "Tôi học về con chó.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "개",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_004": {
+      "korean": "저는 고양이를 배워요.",
+      "vietnamese": "Tôi học về con mèo.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "고양이",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_005": {
+      "korean": "저는 골프를 배워요.",
+      "vietnamese": "Tôi học về golf.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "골프",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_006": {
+      "korean": "저는 공포 영화를 배워요.",
+      "vietnamese": "Tôi học về phim kinh dị.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "공포 영화",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_007": {
+      "korean": "저는 과일을 배워요.",
+      "vietnamese": "Tôi học về trái cây.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "과일",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_008": {
+      "korean": "저는 김밥을 배워요.",
+      "vietnamese": "Tôi học về món kimbap.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "김밥",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_009": {
+      "korean": "저는 구두를 배워요.",
+      "vietnamese": "Tôi học về giày da.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "구두",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_010": {
+      "korean": "저는 나무를 배워요.",
+      "vietnamese": "Tôi học về cây.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "나무",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_011": {
+      "korean": "저는 낚시를 배워요.",
+      "vietnamese": "Tôi học về sự câu cá.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "낚시",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_012": {
+      "korean": "저는 동물을 배워요.",
+      "vietnamese": "Tôi học về động vật.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "동물",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_013": {
+      "korean": "저는 드라마를 배워요.",
+      "vietnamese": "Tôi học về phim truyền hình.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "드라마",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_014": {
+      "korean": "저는 딸기를 배워요.",
+      "vietnamese": "Tôi học về quả dâu.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "딸기",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_015": {
+      "korean": "저는 등산해요.",
+      "vietnamese": "Tôi leo núi.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "등산하다",
+        "저"
+      ]
+    },
+    "VOC_L06_016": {
+      "korean": "저는 라면을 배워요.",
+      "vietnamese": "Tôi học về mì gói.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "라면",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_017": {
+      "korean": "저는 모자를 배워요.",
+      "vietnamese": "Tôi học về cái mũ.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "모자",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_018": {
+      "korean": "저는 바다를 배워요.",
+      "vietnamese": "Tôi học về biển.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "바다",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_019": {
+      "korean": "저는 바지를 배워요.",
+      "vietnamese": "Tôi học về quần.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "바지",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_020": {
+      "korean": "저는 배(과일)를 배워요.",
+      "vietnamese": "Tôi học về quả lê.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "배(과일)",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_021": {
+      "korean": "저는 배구를 배워요.",
+      "vietnamese": "Tôi học về bóng chuyền.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "배구",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_022": {
+      "korean": "저는 보내요.",
+      "vietnamese": "Tôi gửi.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "보내다",
+        "저"
+      ]
+    },
+    "VOC_L06_023": {
+      "korean": "저는 비빔밥을 배워요.",
+      "vietnamese": "Tôi học về cơm trộn.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "비빔밥",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_024": {
+      "korean": "저는 불고기를 배워요.",
+      "vietnamese": "Tôi học về món bulgogi.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "불고기",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_025": {
+      "korean": "저는 산책을 배워요.",
+      "vietnamese": "Tôi học về sự đi dạo.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "산책",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_026": {
+      "korean": "저는 산책해요.",
+      "vietnamese": "Tôi đi dạo.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "산책하다",
+        "저"
+      ]
+    },
+    "VOC_L06_027": {
+      "korean": "저는 새를 배워요.",
+      "vietnamese": "Tôi học về chim.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "새",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_028": {
+      "korean": "저는 쇼핑해요.",
+      "vietnamese": "Tôi mua sắm.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "쇼핑하다",
+        "저"
+      ]
+    },
+    "VOC_L06_029": {
+      "korean": "저는 수영해요.",
+      "vietnamese": "Tôi bơi lội.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "수영하다",
+        "저"
+      ]
+    },
+    "VOC_L06_030": {
+      "korean": "저는 쉬어요.",
+      "vietnamese": "Tôi nghỉ ngơi.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "쉬다",
+        "저"
+      ]
+    },
+    "VOC_L06_031": {
+      "korean": "저는 싫어해요.",
+      "vietnamese": "Tôi ghét.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "싫어하다",
+        "저"
+      ]
+    },
+    "VOC_L06_032": {
+      "korean": "저는 액션 영화를 배워요.",
+      "vietnamese": "Tôi học về phim hành động.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "액션 영화",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_033": {
+      "korean": "저는 야구를 배워요.",
+      "vietnamese": "Tôi học về bóng chày.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "야구",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_034": {
+      "korean": "저는 여행해요.",
+      "vietnamese": "Tôi đi du lịch.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "여행하다",
+        "저"
+      ]
+    },
+    "VOC_L06_035": {
+      "korean": "저는 영화를 봐요.",
+      "vietnamese": "Tôi xem phim.",
+      "blankKorean": "______ 영화를 봐요.",
+      "grammarUsed": [
+        "-아/어요",
+        "을/를"
+      ],
+      "vocabularyUsed": [
+        "영화를 보다.",
+        "저"
+      ]
+    },
+    "VOC_L06_036": {
+      "korean": "저는 요리해요.",
+      "vietnamese": "Tôi nấu ăn.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "요리하다",
+        "저"
+      ]
+    },
+    "VOC_L06_037": {
+      "korean": "저는 일찍 일어나요.",
+      "vietnamese": "Tôi dậy sớm.",
+      "blankKorean": "저는 ______ 일어나요.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "일찍",
+        "저",
+        "일어나다"
+      ]
+    },
+    "VOC_L06_038": {
+      "korean": "저는 책을 읽어요.",
+      "vietnamese": "Tôi đọc sách.",
+      "blankKorean": "______ 책을 읽어요.",
+      "grammarUsed": [
+        "-아/어요",
+        "을/를"
+      ],
+      "vocabularyUsed": [
+        "책을 읽다.",
+        "저"
+      ]
+    },
+    "VOC_L06_039": {
+      "korean": "저는 춤을 춰요.",
+      "vietnamese": "Tôi nhảy múa.",
+      "blankKorean": "______ 춤을 춰요.",
+      "grammarUsed": [
+        "-아/어요",
+        "을/를"
+      ],
+      "vocabularyUsed": [
+        "춤을 추다",
+        "저"
+      ]
+    },
+    "VOC_L06_040": {
+      "korean": "저는 쳐요.",
+      "vietnamese": "Tôi đánh.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "치다",
+        "저"
+      ]
+    },
+    "VOC_L06_041": {
+      "korean": "저는 치마를 배워요.",
+      "vietnamese": "Tôi học về váy.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "치마",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_042": {
+      "korean": "저는 친구를 만나요.",
+      "vietnamese": "Tôi gặp bạn.",
+      "blankKorean": "______ 친구를 만나요.",
+      "grammarUsed": [
+        "-아/어요",
+        "을/를"
+      ],
+      "vocabularyUsed": [
+        "친구를 만나다.",
+        "저",
+        "친구"
+      ]
+    },
+    "VOC_L06_043": {
+      "korean": "저는 테니스를 배워요.",
+      "vietnamese": "Tôi học về tennis.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "테니스",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_044": {
+      "korean": "저는 포도를 배워요.",
+      "vietnamese": "Tôi học về nho.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "포도",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L06_045": {
+      "korean": "이것은 피곤해요.",
+      "vietnamese": "Cái này mệt mỏi.",
+      "blankKorean": "이것은 ______.",
+      "grammarUsed": [
+        "은/는",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "피곤하다",
+        "이"
+      ]
+    },
+    "VOC_L06_046": {
+      "korean": "저는 빨래해요.",
+      "vietnamese": "Tôi giặt giũ.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "빨래하다",
+        "저"
+      ]
+    },
+    "VOC_L07_001": {
+      "korean": "저는 개(단위)를 배워요.",
+      "vietnamese": "Tôi học về cái.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "개(단위)",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L07_002": {
+      "korean": "저는 과자를 배워요.",
+      "vietnamese": "Tôi học về bánh quy.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "과자",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L07_003": {
+      "korean": "저는 권(단위)을 배워요.",
+      "vietnamese": "Tôi học về quyển.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "권(단위)",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L07_004": {
+      "korean": "저는 귤을 배워요.",
+      "vietnamese": "Tôi học về quả quýt.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "귤",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L07_005": {
+      "korean": "저는 대(단위)를 배워요.",
+      "vietnamese": "Tôi học về chiếc.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "대(단위)",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L07_006": {
+      "korean": "저는 디자인을 배워요.",
+      "vietnamese": "Tôi học về thiết kế.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "디자인",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L07_007": {
+      "korean": "저는 마리를 배워요.",
+      "vietnamese": "Tôi học về con.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "마리",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L07_008": {
+      "korean": "저는 마트를 배워요.",
+      "vietnamese": "Tôi học về siêu thị.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "마트",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L07_009": {
+      "korean": "저는 망고를 배워요.",
+      "vietnamese": "Tôi học về quả xoài.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "망고",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L07_010": {
+      "korean": "저는 명(단위)을 배워요.",
+      "vietnamese": "Tôi học về người.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "명(단위)",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L07_011": {
+      "korean": "저는 문구점을 배워요.",
+      "vietnamese": "Tôi học về cửa hàng văn phòng phẩm.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "문구점",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L07_012": {
+      "korean": "저는 병(단위)을 배워요.",
+      "vietnamese": "Tôi học về chai.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "병(단위)",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L07_013": {
+      "korean": "저는 생선을 배워요.",
+      "vietnamese": "Tôi học về cá.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "생선",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L07_014": {
+      "korean": "저는 세일을 배워요.",
+      "vietnamese": "Tôi học về sự giảm giá.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "세일",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L07_015": {
+      "korean": "저는 소설책을 배워요.",
+      "vietnamese": "Tôi học về sách tiểu thuyết.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "소설책",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L07_016": {
+      "korean": "저는 수박을 배워요.",
+      "vietnamese": "Tôi học về dưa hấu.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "수박",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L07_017": {
+      "korean": "저는 채소를 배워요.",
+      "vietnamese": "Tôi học về rau.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "채소",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L07_018": {
+      "korean": "저는 전자상가를 배워요.",
+      "vietnamese": "Tôi học về khu thương mại đồ điện tử.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "전자상가",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L07_019": {
+      "korean": "저는 음료수를 배워요.",
+      "vietnamese": "Tôi học về thức uống.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "음료수",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L07_020": {
+      "korean": "저는 옷을 배워요.",
+      "vietnamese": "Tôi học về quần áo.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "옷",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L07_021": {
+      "korean": "저는 주스를 배워요.",
+      "vietnamese": "Tôi học về nước ép.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "주스",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L07_022": {
+      "korean": "저는 주인을 배워요.",
+      "vietnamese": "Tôi học về chủ cửa hàng.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "주인",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L07_023": {
+      "korean": "저는 카메라를 배워요.",
+      "vietnamese": "Tôi học về máy ảnh.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "카메라",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L07_024": {
+      "korean": "저는 켤레를 배워요.",
+      "vietnamese": "Tôi học về đôi.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "켤레",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L07_025": {
+      "korean": "저는 티셔츠를 배워요.",
+      "vietnamese": "Tôi học về áo phông.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "티셔츠",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L07_026": {
+      "korean": "저는 잔을 배워요.",
+      "vietnamese": "Tôi học về ly.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "잔",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L07_027": {
+      "korean": "저는 장을 배워요.",
+      "vietnamese": "Tôi học về tấm.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "장",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L07_028": {
+      "korean": "저는 찾아요.",
+      "vietnamese": "Tôi tìm.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "찾다",
+        "저"
+      ]
+    },
+    "VOC_L07_029": {
+      "korean": "이것은 비싸요.",
+      "vietnamese": "Cái này đắt.",
+      "blankKorean": "이것은 ______.",
+      "grammarUsed": [
+        "은/는",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "비싸다",
+        "이"
+      ]
+    },
+    "VOC_L07_030": {
+      "korean": "이것은 싸요.",
+      "vietnamese": "Cái này rẻ.",
+      "blankKorean": "이것은 ______.",
+      "grammarUsed": [
+        "은/는",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "싸다",
+        "이"
+      ]
+    },
+    "VOC_L07_031": {
+      "korean": "저는 깎아요.",
+      "vietnamese": "Tôi bớt giá.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "깎다",
+        "저"
+      ]
+    },
+    "VOC_L07_032": {
+      "korean": "저는 드려요.",
+      "vietnamese": "Tôi cho.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "드리다",
+        "저"
+      ]
+    },
+    "VOC_L07_033": {
+      "korean": "어서 오세요.",
+      "vietnamese": "Xin mời vào.",
+      "blankKorean": "______.",
+      "grammarUsed": [
+        "-(으)세요"
+      ],
+      "vocabularyUsed": [
+        "어서 오세요."
+      ]
+    },
+    "VOC_L07_034": {
+      "korean": "무얼 찾으세요?",
+      "vietnamese": "Anh/chị tìm gì ạ?",
+      "blankKorean": "______",
+      "grammarUsed": [
+        "-(으)세요"
+      ],
+      "vocabularyUsed": [
+        "무얼 찾으세요?"
+      ]
+    },
+    "VOC_L07_035": {
+      "korean": "( )이/가 있어요?",
+      "vietnamese": "Có (...) không ạ?",
+      "blankKorean": "______",
+      "grammarUsed": [
+        "이/가",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "( )이/가 있어요?"
+      ]
+    },
+    "VOC_L07_036": {
+      "korean": "( )이/가 어때요?",
+      "vietnamese": "(...) thế nào ạ?",
+      "blankKorean": "______",
+      "grammarUsed": [
+        "이/가",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "( )이/가 어때요?"
+      ]
+    },
+    "VOC_L07_037": {
+      "korean": "이거 얼마예요?",
+      "vietnamese": "Cái này giá bao nhiêu ạ?",
+      "blankKorean": "______",
+      "grammarUsed": [
+        "입니다"
+      ],
+      "vocabularyUsed": [
+        "이거 얼마예요?"
+      ]
+    },
+    "VOC_L07_038": {
+      "korean": "10,000원이에요.",
+      "vietnamese": "Là 10.000 won ạ.",
+      "blankKorean": "______.",
+      "grammarUsed": [
+        "입니다"
+      ],
+      "vocabularyUsed": [
+        "10,000원이에요."
+      ]
+    },
+    "VOC_L07_039": {
+      "korean": "이거 두 개 주세요.",
+      "vietnamese": "Cho tôi hai cái này ạ.",
+      "blankKorean": "______.",
+      "grammarUsed": [
+        "-(으)세요"
+      ],
+      "vocabularyUsed": [
+        "이거 두 개 주세요."
+      ]
+    },
+    "VOC_L07_040": {
+      "korean": "여기 있어요.",
+      "vietnamese": "Ở đây ạ.",
+      "blankKorean": "______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "여기 있어요."
+      ]
+    },
+    "VOC_L07_041": {
+      "korean": "너무 비싸요.",
+      "vietnamese": "Đắt quá.",
+      "blankKorean": "______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "너무 비싸요."
+      ]
+    },
+    "VOC_L07_042": {
+      "korean": "깎아 주세요.",
+      "vietnamese": "Xin bớt giá ạ.",
+      "blankKorean": "______.",
+      "grammarUsed": [
+        "-(으)세요"
+      ],
+      "vocabularyUsed": [
+        "깎아 주세요."
+      ]
+    },
+    "VOC_L07_043": {
+      "korean": "8,000원에 드릴게요.",
+      "vietnamese": "Tôi lấy 8.000 won thôi nhé.",
+      "blankKorean": "______.",
+      "grammarUsed": [
+        "에 <thời gian>",
+        "-겠- <ý định>"
+      ],
+      "vocabularyUsed": [
+        "8,000원에 드릴게요."
+      ]
+    },
+    "VOC_L07_044": {
+      "korean": "싸게 해 주세요.",
+      "vietnamese": "Bán rẻ giúp tôi ạ.",
+      "blankKorean": "______.",
+      "grammarUsed": [
+        "-(으)세요"
+      ],
+      "vocabularyUsed": [
+        "싸게 해 주세요."
+      ]
+    },
+    "VOC_L07_045": {
+      "korean": "다음에 또 오세요.",
+      "vietnamese": "Lần sau mời lại ghé ạ.",
+      "blankKorean": "______.",
+      "grammarUsed": [
+        "-(으)세요"
+      ],
+      "vocabularyUsed": [
+        "다음에 또 오세요."
+      ]
+    },
+    "VOC_L08_001": {
+      "korean": "저는 계산서를 배워요.",
+      "vietnamese": "Tôi học về hóa đơn thanh toán.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "계산서",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_002": {
+      "korean": "저는 계산해요.",
+      "vietnamese": "Tôi tính tiền.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "계산하다",
+        "저"
+      ]
+    },
+    "VOC_L08_003": {
+      "korean": "저는 고추를 배워요.",
+      "vietnamese": "Tôi học về quả ớt.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "고추",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_004": {
+      "korean": "저는 국을 배워요.",
+      "vietnamese": "Tôi học về canh.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "국",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_005": {
+      "korean": "저는 금연석을 배워요.",
+      "vietnamese": "Tôi học về khu vực cấm hút thuốc.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "금연석",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_006": {
+      "korean": "저는 김치를 배워요.",
+      "vietnamese": "Tôi học về kim chi.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "김치",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_007": {
+      "korean": "저는 김치찌개를 배워요.",
+      "vietnamese": "Tôi học về canh hầm kim chi.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "김치찌개",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_008": {
+      "korean": "저는 냉면을 배워요.",
+      "vietnamese": "Tôi học về mì lạnh.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "냉면",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_009": {
+      "korean": "저는 녹차를 배워요.",
+      "vietnamese": "Tôi học về trà xanh.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "녹차",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_010": {
+      "korean": "이것은 달아요.",
+      "vietnamese": "Cái này ngọt.",
+      "blankKorean": "이것은 ______.",
+      "grammarUsed": [
+        "은/는",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "달다",
+        "이"
+      ]
+    },
+    "VOC_L08_011": {
+      "korean": "저는 된장찌개를 배워요.",
+      "vietnamese": "Tôi học về canh tương đậu.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "된장찌개",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_012": {
+      "korean": "저는 드세요.",
+      "vietnamese": "Tôi ăn.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "드시다",
+        "저"
+      ]
+    },
+    "VOC_L08_013": {
+      "korean": "저는 떡을 배워요.",
+      "vietnamese": "Tôi học về bánh gạo.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "떡",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_014": {
+      "korean": "저는 떡볶이를 배워요.",
+      "vietnamese": "Tôi học về bánh gạo xào cay.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "떡볶이",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_015": {
+      "korean": "저는 라면을 배워요.",
+      "vietnamese": "Tôi học về mì ăn liền.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "라면",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_016": {
+      "korean": "저는 레몬을 배워요.",
+      "vietnamese": "Tôi học về chanh.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "레몬",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_017": {
+      "korean": "이것은 맛없어요.",
+      "vietnamese": "Cái này không ngon.",
+      "blankKorean": "이것은 ______.",
+      "grammarUsed": [
+        "은/는",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "맛없다",
+        "이"
+      ]
+    },
+    "VOC_L08_018": {
+      "korean": "저는 밥을 맛있게 먹어요.",
+      "vietnamese": "Tôi ăn cơm ngon miệng.",
+      "blankKorean": "저는 밥을 ______ 먹어요.",
+      "grammarUsed": [
+        "-아/어요",
+        "을/를"
+      ],
+      "vocabularyUsed": [
+        "맛있게",
+        "저",
+        "밥",
+        "먹다"
+      ]
+    },
+    "VOC_L08_019": {
+      "korean": "이것은 맛있어요.",
+      "vietnamese": "Cái này ngon.",
+      "blankKorean": "이것은 ______.",
+      "grammarUsed": [
+        "은/는",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "맛있다",
+        "이"
+      ]
+    },
+    "VOC_L08_020": {
+      "korean": "이것은 매워요.",
+      "vietnamese": "Cái này cay.",
+      "blankKorean": "이것은 ______.",
+      "grammarUsed": [
+        "은/는",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "맵다",
+        "이"
+      ]
+    },
+    "VOC_L08_021": {
+      "korean": "저는 메뉴를 배워요.",
+      "vietnamese": "Tôi học về thực đơn.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "메뉴",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_022": {
+      "korean": "저는 물을 배워요.",
+      "vietnamese": "Tôi học về nước.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "물",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_023": {
+      "korean": "저는 반찬을 배워요.",
+      "vietnamese": "Tôi học về món ăn phụ.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "반찬",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_024": {
+      "korean": "저는 볶음밥을 배워요.",
+      "vietnamese": "Tôi học về cơm chiên.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "볶음밥",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_025": {
+      "korean": "저는 병을 배워요.",
+      "vietnamese": "Tôi học về chai.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "병",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_026": {
+      "korean": "저는 보통 물을 마셔요.",
+      "vietnamese": "Tôi thường uống nước.",
+      "blankKorean": "저는 ______ 물을 마셔요.",
+      "grammarUsed": [
+        "-아/어요",
+        "을/를"
+      ],
+      "vocabularyUsed": [
+        "보통",
+        "저",
+        "물",
+        "마시다"
+      ]
+    },
+    "VOC_L08_027": {
+      "korean": "저는 삼겹살을 배워요.",
+      "vietnamese": "Tôi học về thịt lợn ba chỉ.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "삼겹살",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_028": {
+      "korean": "저는 삼계탕을 배워요.",
+      "vietnamese": "Tôi học về gà hầm sâm.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "삼계탕",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_029": {
+      "korean": "저는 소금을 배워요.",
+      "vietnamese": "Tôi học về muối.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "소금",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_030": {
+      "korean": "저는 손님을 배워요.",
+      "vietnamese": "Tôi học về khách hàng.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "손님",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_031": {
+      "korean": "저는 숟가락을 배워요.",
+      "vietnamese": "Tôi học về cái thìa.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "숟가락",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_032": {
+      "korean": "이것은 셔요.",
+      "vietnamese": "Cái này chua.",
+      "blankKorean": "이것은 ______.",
+      "grammarUsed": [
+        "은/는",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "시다",
+        "이"
+      ]
+    },
+    "VOC_L08_033": {
+      "korean": "이것은 싱거워요.",
+      "vietnamese": "Cái này nhạt.",
+      "blankKorean": "이것은 ______.",
+      "grammarUsed": [
+        "은/는",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "싱겁다",
+        "이"
+      ]
+    },
+    "VOC_L08_034": {
+      "korean": "이것은 써요.",
+      "vietnamese": "Cái này đắng.",
+      "blankKorean": "이것은 ______.",
+      "grammarUsed": [
+        "은/는",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "쓰다(맛)",
+        "이"
+      ]
+    },
+    "VOC_L08_035": {
+      "korean": "저는 영수증을 배워요.",
+      "vietnamese": "Tôi học về biên lai.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "영수증",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_036": {
+      "korean": "어서 오세요.",
+      "vietnamese": "Xin mời vào nhanh ạ.",
+      "blankKorean": "______ 오세요.",
+      "grammarUsed": [
+        "-(으)세요"
+      ],
+      "vocabularyUsed": [
+        "어서"
+      ]
+    },
+    "VOC_L08_037": {
+      "korean": "여러 가지 음식이 있어요.",
+      "vietnamese": "Có nhiều loại món ăn.",
+      "blankKorean": "______ 가지 음식이 있어요.",
+      "grammarUsed": [
+        "이/가",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "여러",
+        "음식",
+        "있다"
+      ]
+    },
+    "VOC_L08_038": {
+      "korean": "저는 음식을 배워요.",
+      "vietnamese": "Tôi học về thức ăn.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "음식",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_039": {
+      "korean": "저는 인삼차를 배워요.",
+      "vietnamese": "Tôi học về trà nhân sâm.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "인삼차",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_040": {
+      "korean": "잠깐만 기다리세요.",
+      "vietnamese": "Vui lòng đợi một lát.",
+      "blankKorean": "______ 기다리세요.",
+      "grammarUsed": [
+        "-(으)세요"
+      ],
+      "vocabularyUsed": [
+        "잠깐만"
+      ]
+    },
+    "VOC_L08_041": {
+      "korean": "저는 젓가락을 배워요.",
+      "vietnamese": "Tôi học về đôi đũa.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "젓가락",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_042": {
+      "korean": "저는 종업원을 배워요.",
+      "vietnamese": "Tôi học về nhân viên phục vụ.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "종업원",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_043": {
+      "korean": "저는 주문해요.",
+      "vietnamese": "Tôi gọi món.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "주문하다",
+        "저"
+      ]
+    },
+    "VOC_L08_044": {
+      "korean": "저는 조금 먹어요.",
+      "vietnamese": "Tôi ăn một chút.",
+      "blankKorean": "저는 ______ 먹어요.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "조금",
+        "저",
+        "먹다"
+      ]
+    },
+    "VOC_L08_045": {
+      "korean": "물 좀 주세요.",
+      "vietnamese": "Cho tôi xin chút nước.",
+      "blankKorean": "물 ______ 주세요.",
+      "grammarUsed": [
+        "-(으)세요"
+      ],
+      "vocabularyUsed": [
+        "좀",
+        "물",
+        "주다"
+      ]
+    },
+    "VOC_L08_046": {
+      "korean": "저는 줘요.",
+      "vietnamese": "Tôi cho.",
+      "blankKorean": "저는 ______.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "주다",
+        "저"
+      ]
+    },
+    "VOC_L08_047": {
+      "korean": "이것은 짜요.",
+      "vietnamese": "Cái này mặn.",
+      "blankKorean": "이것은 ______.",
+      "grammarUsed": [
+        "은/는",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "짜다",
+        "이"
+      ]
+    },
+    "VOC_L08_048": {
+      "korean": "저는 테이블을 배워요.",
+      "vietnamese": "Tôi học về cái bàn.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "테이블",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_049": {
+      "korean": "저는 특히 김치찌개를 좋아해요.",
+      "vietnamese": "Tôi đặc biệt thích canh kim chi.",
+      "blankKorean": "저는 ______ 김치찌개를 좋아해요.",
+      "grammarUsed": [
+        "-아/어요",
+        "을/를"
+      ],
+      "vocabularyUsed": [
+        "특히",
+        "저",
+        "김치찌개",
+        "좋아하다"
+      ]
+    },
+    "VOC_L08_050": {
+      "korean": "저는 항상 공부해요.",
+      "vietnamese": "Tôi luôn học bài.",
+      "blankKorean": "저는 ______ 공부해요.",
+      "grammarUsed": [
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "항상",
+        "저",
+        "공부하다"
+      ]
+    },
+    "VOC_L08_051": {
+      "korean": "저는 콜라를 배워요.",
+      "vietnamese": "Tôi học về nước ngọt cola.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "콜라",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_052": {
+      "korean": "저는 케이크를 배워요.",
+      "vietnamese": "Tôi học về bánh kem.",
+      "blankKorean": "저는 ______를 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "케이크",
+        "저",
+        "배우다"
+      ]
+    },
+    "VOC_L08_053": {
+      "korean": "저는 남편을 배워요.",
+      "vietnamese": "Tôi học về chồng.",
+      "blankKorean": "저는 ______을 배워요.",
+      "grammarUsed": [
+        "을/를",
+        "-아/어요"
+      ],
+      "vocabularyUsed": [
+        "남편",
+        "저",
+        "배우다"
+      ]
+    }
+  }
+}

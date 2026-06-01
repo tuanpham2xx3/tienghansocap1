@@ -5,7 +5,9 @@ const {
   PART1_FULL_SCOPE_CONFIG,
   calculateSharedQuestionRatio,
   generateStaticPart1Exams,
+  hasVietnameseInStem,
   isCorrectAnswer,
+  isValidQuestion,
 } = require("./generate-static-part1-exams");
 
 function runTests() {
@@ -38,6 +40,7 @@ function runTests() {
     for (const item of exam.questions) {
       const question = questionById.get(item.questionId);
       assert.ok(question, `${item.questionId} must exist in root questions`);
+      assert.strictEqual(hasVietnameseInStem(question), false, `${item.questionId}: stem must not contain Vietnamese`);
       lessonCounts[question.targetLesson] = (lessonCounts[question.targetLesson] ?? 0) + 1;
 
       const optionIds = question.options.map(option => option.id);
@@ -67,6 +70,8 @@ function runTests() {
 
   const countsByPool = new Map();
   for (const item of firstRun.report.questionSelectionCounts) {
+    const question = questionById.get(item.questionId);
+    if (!isValidQuestion(question)) continue;
     const current = countsByPool.get(item.poolId) ?? [];
     current.push(item.selectedCount);
     countsByPool.set(item.poolId, current);

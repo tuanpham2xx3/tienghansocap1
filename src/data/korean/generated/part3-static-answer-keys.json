@@ -389,12 +389,12 @@
         "questionId": "P3_VK_07_Q001",
         "displayOrder": 2,
         "direction": "vi_to_ko",
-        "sampleAnswer": "저는 생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 동이에요.",
+        "sampleAnswer": "저는 생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 원이에요.",
         "acceptedAnswers": [
-          "저는 생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 동이에요.",
-          "생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 동이에요."
+          "저는 생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 원이에요.",
+          "생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 원이에요."
         ],
-        "explanationVi": "Số lượng con cá dùng 세 마리; tiền dùng 십이만 동."
+        "explanationVi": "Số lượng con cá dùng 세 마리; tiền dùng 십이만 원."
       },
       {
         "questionId": "P3_VK_08_Q001",
@@ -548,12 +548,12 @@
         "questionId": "P3_KV_07_Q001",
         "displayOrder": 8,
         "direction": "ko_to_vi",
-        "sampleAnswer": "Tôi muốn mua ba con cá. Tất cả là bao nhiêu tiền? Là 120.000 đồng.",
+        "sampleAnswer": "Tôi muốn mua ba con cá. Tất cả là bao nhiêu tiền? Là 120.000 WON.",
         "acceptedAnswers": [
-          "Tôi muốn mua ba con cá. Tất cả là bao nhiêu tiền? Là 120.000 đồng.",
-          "Tôi muốn mua 3 con cá. Tổng cộng bao nhiêu tiền? 120.000 đồng."
+          "Tôi muốn mua ba con cá. Tất cả là bao nhiêu tiền? Là 120.000 WON.",
+          "Tôi muốn mua 3 con cá. Tổng cộng bao nhiêu tiền? 120.000 WON."
         ],
-        "explanationVi": "세 마리 là ba con; 십이만 동 là 120.000 đồng."
+        "explanationVi": "세 마리 là ba con; 십이만 원 là 120.000 WON."
       }
     ]
   },
@@ -1538,12 +1538,12 @@
         "questionId": "P3_KV_07_Q001",
         "displayOrder": 5,
         "direction": "ko_to_vi",
-        "sampleAnswer": "Tôi muốn mua ba con cá. Tất cả là bao nhiêu tiền? Là 120.000 đồng.",
+        "sampleAnswer": "Tôi muốn mua ba con cá. Tất cả là bao nhiêu tiền? Là 120.000 WON.",
         "acceptedAnswers": [
-          "Tôi muốn mua ba con cá. Tất cả là bao nhiêu tiền? Là 120.000 đồng.",
-          "Tôi muốn mua 3 con cá. Tổng cộng bao nhiêu tiền? 120.000 đồng."
+          "Tôi muốn mua ba con cá. Tất cả là bao nhiêu tiền? Là 120.000 WON.",
+          "Tôi muốn mua 3 con cá. Tổng cộng bao nhiêu tiền? 120.000 WON."
         ],
-        "explanationVi": "세 마리 là ba con; 십이만 동 là 120.000 đồng."
+        "explanationVi": "세 마리 là ba con; 십이만 원 là 120.000 WON."
       },
       {
         "questionId": "P3_KV_10_Q003",
@@ -1773,12 +1773,12 @@
         "questionId": "P3_VK_07_Q001",
         "displayOrder": 1,
         "direction": "vi_to_ko",
-        "sampleAnswer": "저는 생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 동이에요.",
+        "sampleAnswer": "저는 생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 원이에요.",
         "acceptedAnswers": [
-          "저는 생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 동이에요.",
-          "생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 동이에요."
+          "저는 생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 원이에요.",
+          "생선 세 마리를 사고 싶어요. 모두 얼마예요? 십이만 원이에요."
         ],
-        "explanationVi": "Số lượng con cá dùng 세 마리; tiền dùng 십이만 동."
+        "explanationVi": "Số lượng con cá dùng 세 마리; tiền dùng 십이만 원."
       },
       {
         "questionId": "P3_VK_01_Q001",

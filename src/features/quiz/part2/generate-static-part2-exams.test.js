@@ -5,6 +5,7 @@ const {
   PART2_STATIC_EXAM_CONFIG,
   calculateSharedQuestionRatio,
   generateStaticPart2Exams,
+  hasVietnameseInDisplayedPart2Text,
   isCorrect,
 } = require("./generate-static-part2-exams");
 
@@ -49,6 +50,7 @@ function runTests() {
       assert.strictEqual(question.poolId, item.poolId);
       assert.strictEqual(question.section, item.section);
       assert.strictEqual(isCorrect(question, question.correctOptionId), true);
+      assert.strictEqual(hasVietnameseInDisplayedPart2Text(question), false, `${item.questionId}: displayed text must not contain Vietnamese`);
 
       const originalOptionIds = question.options.map(option => option.id);
       assert.deepStrictEqual([...item.shuffledOptionIds].sort(), [...originalOptionIds].sort());

@@ -1,0 +1,3104 @@
+{
+  "source": "../vocabulary-krdict-enriched.json",
+  "group": "L03-L05",
+  "instructions": "Fill each examples[].vi with a natural Vietnamese translation of examples[].ko. Preserve all IDs, Korean text, and indexes. Do not add/remove items.",
+  "items": [
+    {
+      "id": "VOC_L03_001",
+      "lesson": 3,
+      "korean": "가다",
+      "meaningVi": "Đi",
+      "krdictDefinitionVi": "Di chuyển địa điểm từ một nơi sang nơi khác.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 친구에게 갈 때마다 책을 빌려 왔다.",
+          "vi": "Mỗi lần đến chỗ bạn, tôi đều mượn sách về."
+        },
+        {
+          "index": 1,
+          "ko": "승규는 오늘 아침 일찍 친구 집에 가서 아직까지 돌아오지 않았다.",
+          "vi": "Sáng nay Seunggyu đến nhà bạn từ sớm và đến giờ vẫn chưa về."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_002",
+      "lesson": 3,
+      "korean": "공부하다",
+      "meaningVi": "Học bài",
+      "krdictDefinitionVi": "Học tập học vấn hay kỹ thuật và tiếp nhận kiến thức.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "지수는 영어를 혼자 공부했는데도 영어를 꽤 잘한다.",
+          "vi": "Dù tự học tiếng Anh một mình, Jisu vẫn khá giỏi tiếng Anh."
+        },
+        {
+          "index": 1,
+          "ko": "나는 어렸을 때부터 책을 읽고 공부하는 것을 좋아했다.",
+          "vi": "Từ nhỏ tôi đã thích đọc sách và học bài."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_003",
+      "lesson": 3,
+      "korean": "공원",
+      "meaningVi": "Công viên",
+      "krdictDefinitionVi": "Nơi rộng có bãi cỏ, cây cối, hoa, v.v. để mọi người có thể nghỉ ngơi hoặc tập thể dục nhẹ nhàng.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "오랜만에 공원에 나오니 공기도 상쾌하고 좋다.",
+          "vi": "Lâu rồi mới ra công viên nên không khí thật trong lành và dễ chịu."
+        },
+        {
+          "index": 1,
+          "ko": "공원에서 같이 자전거 탈까?",
+          "vi": "Mình cùng đạp xe ở công viên nhé?"
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_004",
+      "lesson": 3,
+      "korean": "나쁘다",
+      "meaningVi": "Xấu / Tồi tệ",
+      "krdictDefinitionVi": "Không tốt.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "상황이 아주 나쁩니다.",
+          "vi": "Tình hình rất xấu."
+        },
+        {
+          "index": 1,
+          "ko": "그는 부모도 없이 어린 동생을 홀로 키우는 나쁜 환경에서도 절망하지 않았다.",
+          "vi": "Dù sống trong hoàn cảnh khó khăn, không có cha mẹ và phải một mình nuôi em nhỏ, anh ấy vẫn không tuyệt vọng."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_005",
+      "lesson": 3,
+      "korean": "노래",
+      "meaningVi": "Bài hát",
+      "krdictDefinitionVi": "Âm nhạc có lời bài hát. Hoặc là hát to bài hát như vậy.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "라디오를 켜자 예전에 즐겨 듣던 노래가 나왔다.",
+          "vi": "Vừa bật radio lên thì bài hát tôi từng thích nghe ngày trước vang lên."
+        },
+        {
+          "index": 1,
+          "ko": "그는 밴드의 반주에 맞춰 노래 한 곡을 멋지게 불렀다.",
+          "vi": "Anh ấy hát một bài thật hay theo phần đệm của ban nhạc."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_006",
+      "lesson": 3,
+      "korean": "누구",
+      "meaningVi": "Ai",
+      "krdictDefinitionVi": "Từ chỉ người mà mình không biết.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "당신은 누구이기에 우리 누나를 찾아요?",
+          "vi": "Anh là ai mà lại tìm chị gái tôi?"
+        },
+        {
+          "index": 1,
+          "ko": "민준은 자기 집에 들어온 낯선 사람에게 누구냐고 물었다.",
+          "vi": "Minjun hỏi người lạ bước vào nhà mình là ai."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_008",
+      "lesson": 3,
+      "korean": "듣다",
+      "meaningVi": "Nghe",
+      "krdictDefinitionVi": "Nhận biết âm thanh bằng tai.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "지수는 귀가 예민해서 작은 소리도 잘 듣는다.",
+          "vi": "Jisu có thính giác nhạy nên nghe rõ cả những âm thanh nhỏ."
+        },
+        {
+          "index": 1,
+          "ko": "그의 피아노 연주는 듣는 사람을 편안하게 해준다.",
+          "vi": "Tiếng piano của anh ấy làm người nghe cảm thấy dễ chịu."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_009",
+      "lesson": 3,
+      "korean": "마시다",
+      "meaningVi": "Uống",
+      "krdictDefinitionVi": "Làm cho chất lỏng như nước... đi qua cổ họng",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "두 사람은 카페에서 차를 마시며 이야기를 나눴다.",
+          "vi": "Hai người vừa uống trà vừa trò chuyện trong quán cà phê."
+        },
+        {
+          "index": 1,
+          "ko": "아이는 물 한 잔을 벌컥벌컥 마시고 다시 밖으로 나갔다.",
+          "vi": "Đứa trẻ uống ực một cốc nước rồi lại đi ra ngoài."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_010",
+      "lesson": 3,
+      "korean": "만나다",
+      "meaningVi": "Gặp gỡ",
+      "krdictDefinitionVi": "Đường thẳng, con đường, dòng sông... giao nhau hoặc được liên kết với nhau.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "여기에서 계속 직진하다보면 고속 도로와 만나게 된다.",
+          "vi": "Nếu cứ đi thẳng từ đây, bạn sẽ gặp đường cao tốc."
+        },
+        {
+          "index": 1,
+          "ko": "찬 공기가 고온 다습한 수증기와 만나게 되면 강한 비구름이 생긴다.",
+          "vi": "Khi không khí lạnh gặp hơi nước nóng ẩm, mây mưa mạnh sẽ hình thành."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_011",
+      "lesson": 3,
+      "korean": "많다",
+      "meaningVi": "Nhiều",
+      "krdictDefinitionVi": "Số, lượng hay mức độ vượt quá tiêu chuẩn nhất định.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "승규는 장난기가 많은 개구쟁이이다.",
+          "vi": "Seunggyu là một cậu bé nghịch ngợm, rất hay đùa."
+        },
+        {
+          "index": 1,
+          "ko": "계속되는 폭우로 전국 곳곳에서 피해가 많다.",
+          "vi": "Do mưa lớn kéo dài, nhiều nơi trên cả nước bị thiệt hại nặng."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_012",
+      "lesson": 3,
+      "korean": "먹다",
+      "meaningVi": "Ăn",
+      "krdictDefinitionVi": "Cho thức ăn… vào trong bụng qua đường miệng.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "우리는 점심에 식사로 된장찌개를 먹었다.",
+          "vi": "Bữa trưa chúng tôi ăn canh doenjang."
+        },
+        {
+          "index": 1,
+          "ko": "아이들이 반찬을 골고루 먹지 않아 걱정이다.",
+          "vi": "Tôi lo vì bọn trẻ không ăn đều các món ăn kèm."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_013",
+      "lesson": 3,
+      "korean": "무엇",
+      "meaningVi": "Cái gì",
+      "krdictDefinitionVi": "Từ chỉ sự việc hay sự vật không biết.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "저 사람 이름은 무엇입니까?",
+          "vi": "Tên người kia là gì ạ?"
+        },
+        {
+          "index": 1,
+          "ko": "저것은 무엇에 쓰는 물건입니까?",
+          "vi": "Cái kia là đồ dùng để làm gì ạ?"
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_014",
+      "lesson": 3,
+      "korean": "방",
+      "meaningVi": "Phòng / Căn phòng",
+      "krdictDefinitionVi": "Không gian ngăn quanh tường để con người sống hoặc làm việc.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "새로 이사한 집은 방이 세 개 있는 집이다.",
+          "vi": "Ngôi nhà mới chuyển đến có ba phòng."
+        },
+        {
+          "index": 1,
+          "ko": "승규는 자기 방이 좁다면서 누나와 방을 바꿔 달라고 졸랐다.",
+          "vi": "Seunggyu nài nỉ chị gái đổi phòng cho mình vì phòng của cậu ấy chật."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_015",
+      "lesson": 3,
+      "korean": "보다",
+      "meaningVi": "Xem / Nhìn",
+      "krdictDefinitionVi": "Biết được sự tồn tại hay vẻ bề ngoài của đối tượng bằng mắt.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 잔디밭에 누워 파란 하늘을 보는 것을 좋아한다.",
+          "vi": "Tôi thích nằm trên bãi cỏ ngắm bầu trời xanh."
+        },
+        {
+          "index": 1,
+          "ko": "아이는 멀리서 나를 보고 달려와 품에 안겼다.",
+          "vi": "Đứa trẻ nhìn thấy tôi từ xa, chạy lại và sà vào lòng tôi."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_016",
+      "lesson": 3,
+      "korean": "사과",
+      "meaningVi": "Quả táo / Lời xin lỗi",
+      "krdictDefinitionVi": "Quả có dạng tròn và màu đỏ, có vị chua chua và ngọt.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "어머니는 후식으로 사과를 깎아 주셨다.",
+          "vi": "Mẹ gọt táo cho chúng tôi ăn tráng miệng."
+        },
+        {
+          "index": 1,
+          "ko": "언니는 과일 중에 사과를 제일 좋아한다.",
+          "vi": "Trong các loại trái cây, chị tôi thích táo nhất."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_017",
+      "lesson": 3,
+      "korean": "사다",
+      "meaningVi": "Mua",
+      "krdictDefinitionVi": "Trao tiền và biến đồ vật hay quyền lợi... nào đó thành cái của mình.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "어제 가족들과 백화점에서 옷과 신발을 샀다.",
+          "vi": "Hôm qua tôi cùng gia đình mua quần áo và giày ở cửa hàng bách hóa."
+        },
+        {
+          "index": 1,
+          "ko": "집에 오는 길에 서점에서 책 한 권을 사 왔다.",
+          "vi": "Trên đường về nhà, tôi ghé hiệu sách mua một quyển sách."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_018",
+      "lesson": 3,
+      "korean": "산책하다",
+      "meaningVi": "Đi dạo",
+      "krdictDefinitionVi": "Bước đi chầm chậm xung quanh vì sức khỏe hay nghỉ ngơi chốc lát.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "저녁 식사를 마친 부부는 강가를 가볍게 산책했다.",
+          "vi": "Sau bữa tối, hai vợ chồng đi dạo nhẹ nhàng ven sông."
+        },
+        {
+          "index": 1,
+          "ko": "나는 매일 아침 강아지를 데리고 집 주변을 산책하곤 한다.",
+          "vi": "Mỗi sáng tôi thường dắt chó đi dạo quanh nhà."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_019",
+      "lesson": 3,
+      "korean": "쇼핑하다",
+      "meaningVi": "Mua sắm",
+      "krdictDefinitionVi": "Đi quanh siêu thị hay cửa hàng, vừa ngắm nghía vừa mua hàng hoá.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "휴일을 맞아 백화점에 쇼핑하러 나온 가족과 연인들이 많다.",
+          "vi": "Vào ngày nghỉ, có nhiều gia đình và cặp đôi đến trung tâm bách hóa để mua sắm."
+        },
+        {
+          "index": 1,
+          "ko": "집에 다 쓰고 떨어진 물건들이 많아서 주말쯤 한꺼번에 쇼핑할 생각이다.",
+          "vi": "Trong nhà có nhiều thứ đã dùng hết nên tôi định cuối tuần sẽ đi mua sắm một lần."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_020",
+      "lesson": 3,
+      "korean": "쉬다",
+      "meaningVi": "Nghỉ / Nghỉ ngơi",
+      "krdictDefinitionVi": "Làm cho cơ thể thoải mái để trút bỏ mệt mỏi.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "우리는 잠시 의자에 앉아 쉬었다.",
+          "vi": "Chúng tôi ngồi nghỉ một lát trên ghế."
+        },
+        {
+          "index": 1,
+          "ko": "밤새 야근을 한 나는 빨리 집에 들어가 쉬고 싶었다.",
+          "vi": "Sau khi làm thêm cả đêm, tôi muốn nhanh về nhà nghỉ ngơi."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_021",
+      "lesson": 3,
+      "korean": "식사하다",
+      "meaningVi": "Dùng bữa",
+      "krdictDefinitionVi": "Ăn thức ăn vào thời gian nhất định mỗi ngày như buổi sáng, buổi trưa, buổi tối.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "저는 건강을 위해 하루에 세 번씩 규칙적으로 식사하고 있습니다.",
+          "vi": "Tôi đang ăn uống đều đặn ba bữa mỗi ngày vì sức khỏe."
+        },
+        {
+          "index": 1,
+          "ko": "우리 회사 구내식당은 저녁 늦은 시간에 식사하는 사람들을 위해 9시까지 문을 연다.",
+          "vi": "Căn tin công ty chúng tôi mở cửa đến 9 giờ để phục vụ những người ăn tối muộn."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_022",
+      "lesson": 3,
+      "korean": "신문",
+      "meaningVi": "Báo / Tờ báo",
+      "krdictDefinitionVi": "Ấn phẩm định kì cho biết những việc mới đang xảy ra trên thế gian.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "그가 투고한 논설이 오늘 신문에 실렸다.",
+          "vi": "Bài xã luận anh ấy gửi đã được đăng trên báo hôm nay."
+        },
+        {
+          "index": 1,
+          "ko": "요즘 신문에는 사건, 사고에 대한 기사가 끊이지 않는다.",
+          "vi": "Dạo này trên báo liên tục có các bài viết về sự cố và tai nạn."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_023",
+      "lesson": 3,
+      "korean": "시장",
+      "meaningVi": "Chợ",
+      "krdictDefinitionVi": "Nơi mua bán nhiều loại hàng hóa.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 중고품 시장에서 자전거를 아주 싸게 샀다.",
+          "vi": "Tôi mua được một chiếc xe đạp rất rẻ ở chợ đồ cũ."
+        },
+        {
+          "index": 1,
+          "ko": "어머니는 저녁 준비를 위해 잠시 시장을 보러 가셨다.",
+          "vi": "Mẹ đi chợ một lát để chuẩn bị bữa tối."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_024",
+      "lesson": 3,
+      "korean": "시내",
+      "meaningVi": "Trung tâm thành phố",
+      "krdictDefinitionVi": "Trong đô thị.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "우리 내일은 시내에 가서 같이 저녁 먹자.",
+          "vi": "Ngày mai chúng ta vào trung tâm thành phố ăn tối cùng nhau nhé."
+        },
+        {
+          "index": 1,
+          "ko": "오랜만에 만난 우리는 시내의 번화가로 향했다.",
+          "vi": "Lâu ngày gặp lại, chúng tôi hướng về khu phố sầm uất trong trung tâm."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_025",
+      "lesson": 3,
+      "korean": "아이스크림",
+      "meaningVi": "Kem",
+      "krdictDefinitionVi": "Thực phẩm đông lạnh trong trạng thái kem với đường, sữa, nước ép trái cây, v.v.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "우리는 나무 그늘 아래에서 아이스크림을 먹으며 더위를 식혔다.",
+          "vi": "Chúng tôi ngồi dưới bóng cây ăn kem cho bớt nóng."
+        },
+        {
+          "index": 1,
+          "ko": "나는 어제 차가운 아이스크림을 한꺼번에 너무 많이 먹어서 배탈이 났다.",
+          "vi": "Hôm qua tôi ăn quá nhiều kem lạnh cùng một lúc nên bị đau bụng."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_026",
+      "lesson": 3,
+      "korean": "빵",
+      "meaningVi": "Bánh mì / Bánh mì tươi",
+      "krdictDefinitionVi": "Thức ăn làm bằng cách nhào bột mì rồi làm lên men và nướng hoặc hấp.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "제과점은 여러 가지 과자와 빵들로 가득했다.",
+          "vi": "Tiệm bánh đầy ắp các loại bánh ngọt và bánh mì."
+        },
+        {
+          "index": 1,
+          "ko": "쉬는 시간에 매점에서 간식으로 빵을 사 먹었다.",
+          "vi": "Giờ nghỉ, tôi mua bánh mì ở căng tin để ăn nhẹ."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_027",
+      "lesson": 3,
+      "korean": "아주",
+      "meaningVi": "Rất",
+      "krdictDefinitionVi": "Với trạng thái vượt hơn mức bình thường rất nhiều.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "자동차가 아주 빠르게 도로 위를 달려간다.",
+          "vi": "Chiếc ô tô chạy rất nhanh trên đường."
+        },
+        {
+          "index": 1,
+          "ko": "할아버지는 연세가 많으시지만 아주 정정하시고 건강하시다.",
+          "vi": "Ông tôi tuy tuổi đã cao nhưng vẫn rất khỏe mạnh và minh mẫn."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_028",
+      "lesson": 3,
+      "korean": "어디",
+      "meaningVi": "Đâu / Ở đâu",
+      "krdictDefinitionVi": "Từ chỉ nơi không biết.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "어디에 가세요?",
+          "vi": "Bạn đi đâu vậy ạ?"
+        },
+        {
+          "index": 1,
+          "ko": "학교에 가요.",
+          "vi": "Tôi đi đến trường."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_029",
+      "lesson": 3,
+      "korean": "언제",
+      "meaningVi": "Khi nào / Bao giờ",
+      "krdictDefinitionVi": "Khi nào đó không biết được.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "다음 회의는 언제로 할까요?",
+          "vi": "Cuộc họp tiếp theo nên để khi nào?"
+        },
+        {
+          "index": 1,
+          "ko": "우리가 마지막으로 만난 게 언제였지?",
+          "vi": "Lần cuối chúng ta gặp nhau là khi nào nhỉ?"
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_030",
+      "lesson": 3,
+      "korean": "여행",
+      "meaningVi": "Du lịch",
+      "krdictDefinitionVi": "Việc rời khỏi nhà đi tham quan ở một vùng khác hay nước khác.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 여행을 가면 관광 명소 앞에서 빠뜨리지 않고 기념사진을 찍는다.",
+          "vi": "Khi đi du lịch, tôi không quên chụp ảnh kỷ niệm trước các điểm tham quan nổi tiếng."
+        },
+        {
+          "index": 1,
+          "ko": "겨울 방학에는 계획을 잘 세워 좋은 추억으로 남을 여행을 해 보고 싶다.",
+          "vi": "Kỳ nghỉ đông này tôi muốn lên kế hoạch thật tốt để có một chuyến đi đáng nhớ."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_031",
+      "lesson": 3,
+      "korean": "우유",
+      "meaningVi": "Sữa",
+      "krdictDefinitionVi": "Sữa của bò cái, thứ chất lỏng màu trắng, sử dụng vào việc làm kem, bơ, phô mai...",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "울던 아기는 엄마가 준 우유를 먹고는 곧 잠이 들었다.",
+          "vi": "Em bé đang khóc uống sữa mẹ cho rồi chẳng mấy chốc đã ngủ."
+        },
+        {
+          "index": 1,
+          "ko": "나는 잠이 오지 않아 우유를 따뜻하게 데워 한 잔 마셨다.",
+          "vi": "Tôi không ngủ được nên hâm nóng sữa và uống một cốc."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_032",
+      "lesson": 3,
+      "korean": "영화",
+      "meaningVi": "Phim",
+      "krdictDefinitionVi": "Nghệ thuật tổng hợp, ghi hình đối tượng đang chuyển động và mang ý nghĩa nhất định rồi được trình chiếu trên màn hình bằng máy chiếu phim.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 지난 주말에 극장에서 영화를 봤다.",
+          "vi": "Cuối tuần trước tôi xem phim ở rạp."
+        },
+        {
+          "index": 1,
+          "ko": "공원에서 배우들과 감독이 영화를 찍고 있었다.",
+          "vi": "Các diễn viên và đạo diễn đang quay phim trong công viên."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_033",
+      "lesson": 3,
+      "korean": "오다",
+      "meaningVi": "Đến",
+      "krdictDefinitionVi": "Cái gì đó di chuyển từ nơi khác đến nơi này.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "민준아, 그쪽에 자리가 좁으면 이쪽으로 더 와.",
+          "vi": "Minjun à, nếu chỗ đó chật thì qua bên này thêm chút đi."
+        },
+        {
+          "index": 1,
+          "ko": "정기적인 건강 검진을 위해 두 달 후에 다시 병원으로 오세요.",
+          "vi": "Xin hãy quay lại bệnh viện sau hai tháng để kiểm tra sức khỏe định kỳ."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_034",
+      "lesson": 3,
+      "korean": "위",
+      "meaningVi": "Trên / Phía trên",
+      "krdictDefinitionVi": "Phía cao hơn so với tiêu chuẩn nào đó. Hoặc phía cao hơn so với mức trung bình.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "지붕을 뚫을 것 같은 세찬 빗소리에 머리 위가 소란스럽다.",
+          "vi": "Tiếng mưa lớn như muốn xuyên thủng mái nhà làm phía trên đầu thật ồn ào."
+        },
+        {
+          "index": 1,
+          "ko": "우리는 바지를 무릎 위까지 걷어붙이고 계곡에 발을 담갔다.",
+          "vi": "Chúng tôi xắn quần đến trên đầu gối rồi ngâm chân xuống suối."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_035",
+      "lesson": 3,
+      "korean": "음악",
+      "meaningVi": "Âm nhạc",
+      "krdictDefinitionVi": "Nghệ thuật thể hiện suy nghĩ hay tình cảm bằng cách phát ra âm thanh có nhịp và giai điệu thông qua giọng hát hay nhạc cụ.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "승규는 음악 듣는 것을 좋아한다.",
+          "vi": "Seunggyu thích nghe nhạc."
+        },
+        {
+          "index": 1,
+          "ko": "나는 오디오에서 흘러나오는 음악에 맞추어 노래를 흥얼거렸다.",
+          "vi": "Tôi ngân nga hát theo bản nhạc phát ra từ dàn âm thanh."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_036",
+      "lesson": 3,
+      "korean": "의문대명사",
+      "meaningVi": "Đại từ nghi vấn",
+      "krdictDefinitionVi": "Đại từ biểu thị sự nghi vấn như ai, cái gì, ở đâu...",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "의문 대명사는 주로 사람, 장소, 시간 등을 물어볼 때 사용된다.",
+          "vi": "Đại từ nghi vấn chủ yếu được dùng khi hỏi về người, địa điểm, thời gian, v.v."
+        },
+        {
+          "index": 1,
+          "ko": "실제 대화에서는 의문 대명사만을 이용해서 질문을 하는 경우가 많다.",
+          "vi": "Trong hội thoại thực tế, có nhiều trường hợp chỉ dùng đại từ nghi vấn để đặt câu hỏi."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_037",
+      "lesson": 3,
+      "korean": "이야기하다",
+      "meaningVi": "Nói chuyện",
+      "krdictDefinitionVi": "Nói với ai đó về sự thật, trạng thái, hiện tượng, kinh nghiệm hay suy nghĩ... nào đó.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 선생님께 내 솔직한 마음을 숨김없이 다 이야기했다.",
+          "vi": "Tôi kể hết lòng mình một cách thành thật với thầy cô, không giấu giếm gì."
+        },
+        {
+          "index": 1,
+          "ko": "사건의 목격자들은 범인이 담을 타고 집으로 왔다고 이야기했다.",
+          "vi": "Các nhân chứng của vụ việc nói rằng thủ phạm đã trèo qua tường vào nhà."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_038",
+      "lesson": 3,
+      "korean": "일하다",
+      "meaningVi": "Làm việc",
+      "krdictDefinitionVi": "Sử dụng cơ thể hay tinh thần để thực hiện điều gì đó.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "삼촌은 집을 장만하기 위해 열심히 일했다.",
+          "vi": "Chú tôi làm việc chăm chỉ để mua nhà."
+        },
+        {
+          "index": 1,
+          "ko": "아버지는 땀 흘려 일해서 번 돈을 모두 자식들 학비로 쓰셨다.",
+          "vi": "Cha tôi dùng toàn bộ số tiền kiếm được bằng lao động vất vả cho học phí của con cái."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_039",
+      "lesson": 3,
+      "korean": "읽다",
+      "meaningVi": "Đọc",
+      "krdictDefinitionVi": "Nhìn bài hay chữ rồi phát ra tiếng theo âm đó và thể hiện thành lời.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "절에 가니 스님이 경을 읽는 소리가 들렸다.",
+          "vi": "Đến chùa, tôi nghe thấy tiếng nhà sư đọc kinh."
+        },
+        {
+          "index": 1,
+          "ko": "아이는 큰 소리로 또박또박 동화책을 읽었다.",
+          "vi": "Đứa trẻ đọc truyện cổ tích to và rõ ràng."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_040",
+      "lesson": 3,
+      "korean": "자다",
+      "meaningVi": "Ngủ",
+      "krdictDefinitionVi": "Nhắm mắt, ngừng hoạt động của cơ thể và tinh thần, ở vào trạng thái nghỉ ngơi trong một thời gian.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "남편은 휴일에 침대에서 잠만 잤다.",
+          "vi": "Ngày nghỉ, chồng tôi chỉ ngủ trên giường."
+        },
+        {
+          "index": 1,
+          "ko": "나는 어제 잠을 잘 못 자서 피곤했다.",
+          "vi": "Hôm qua tôi ngủ không ngon nên mệt."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_041",
+      "lesson": 3,
+      "korean": "자주",
+      "meaningVi": "Thường xuyên / Hay",
+      "krdictDefinitionVi": "Cùng một sự việc lặp đi lặp lại với khoảng thời gian ngắn.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "우리 할아버지는 전통적이고 한국적인 것을 좋아하시기 때문에 자주 한복을 입으신다.",
+          "vi": "Ông tôi thích những thứ truyền thống và mang đậm chất Hàn Quốc nên thường mặc hanbok."
+        },
+        {
+          "index": 1,
+          "ko": "깊은 산속 시골 마을에는 자주 버스가 오지 않아 차를 놓치면 오랫동안 기다려야 한다.",
+          "vi": "Ở ngôi làng miền núi sâu, xe buýt không đến thường xuyên nên nếu lỡ chuyến thì phải chờ rất lâu."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_042",
+      "lesson": 3,
+      "korean": "작다",
+      "meaningVi": "Nhỏ / Bé",
+      "krdictDefinitionVi": "Chiều dài, chiều rộng, thể tích... kém hơn so với cái khác hoặc thông thường.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "이 방은 너무 작습니다.",
+          "vi": "Căn phòng này quá nhỏ."
+        },
+        {
+          "index": 1,
+          "ko": "언니는 작은 키를 크게 보이려고 늘 하이힐을 신는다.",
+          "vi": "Chị tôi luôn đi giày cao gót để trông cao hơn dù dáng người nhỏ."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_043",
+      "lesson": 3,
+      "korean": "재미없다",
+      "meaningVi": "Không hay / Nhàm chán",
+      "krdictDefinitionVi": "Không có cảm giác vui vẻ và sảng khoái.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "이렇게 지루하고 재미없는 영화는 처음이다.",
+          "vi": "Đây là bộ phim buồn tẻ và chán nhất tôi từng xem."
+        },
+        {
+          "index": 1,
+          "ko": "아들은 아침마다 학교가 재미없다며 가기 싫다고 한다.",
+          "vi": "Sáng nào con trai tôi cũng nói trường học chán nên không muốn đi."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_044",
+      "lesson": 3,
+      "korean": "재미있다",
+      "meaningVi": "Hay / Thú vị",
+      "krdictDefinitionVi": "Có cảm giác vui vẻ và sảng khoái.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "수학자 아버지께 어렵고 복잡한 수학 이론서는 가장 재미있는 책이다.",
+          "vi": "Đối với cha tôi là nhà toán học, sách lý thuyết toán học khó và phức tạp lại là những cuốn thú vị nhất."
+        },
+        {
+          "index": 1,
+          "ko": "우주 비행사가 꿈인 승규는 공상 과학 영화를 매우 재미있게 보았다.",
+          "vi": "Seunggyu, người mơ ước trở thành phi hành gia, đã xem phim khoa học viễn tưởng rất thích thú."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_045",
+      "lesson": 3,
+      "korean": "적다",
+      "meaningVi": "Ít",
+      "krdictDefinitionVi": "Số hay lượng, mức độ không đạt được đến tiêu chuẩn nhất định.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "저는 아르바이트 경험이 적어요.",
+          "vi": "Tôi có ít kinh nghiệm làm thêm."
+        },
+        {
+          "index": 1,
+          "ko": "그는 일한 시간에 비해 적은 돈을 받는 자신의 직장이 마음에 들지 않았다.",
+          "vi": "Anh ấy không hài lòng với công việc hiện tại vì nhận được ít tiền so với thời gian làm việc."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_046",
+      "lesson": 3,
+      "korean": "전화하다",
+      "meaningVi": "Gọi điện thoại",
+      "krdictDefinitionVi": "Con người trao đổi lời nói thông qua máy điện thoại.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "지수는 어머니와 통화하려고 집으로 전화했다.",
+          "vi": "Jisu gọi điện về nhà để nói chuyện với mẹ."
+        },
+        {
+          "index": 1,
+          "ko": "승규는 민준이와 전화하여 만날 시간을 정했다.",
+          "vi": "Seunggyu gọi điện cho Minjun và hẹn thời gian gặp nhau."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_047",
+      "lesson": 3,
+      "korean": "축구를 하다",
+      "meaningVi": "Đá bóng",
+      "krdictDefinitionVi": "Chất đá hoặc đất để làm thành nhà, cầu, thành quách v.v...",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "왕은 이곳에 새로운 성을 축구하기로 했다.",
+          "vi": "Nhà vua quyết định xây một thành mới ở nơi này."
+        },
+        {
+          "index": 1,
+          "ko": "마을 주민들이 장마철에 대비해 제방을 축구했다.",
+          "vi": "Dân làng đã đắp đê để chuẩn bị cho mùa mưa."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_048",
+      "lesson": 3,
+      "korean": "좋다",
+      "meaningVi": "Tốt",
+      "krdictDefinitionVi": "Tính chất hay nội dung... của cái nào đó tuyệt vời và đáng hài lòng.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "음악이 아주 좋아요.",
+          "vi": "Âm nhạc rất hay."
+        },
+        {
+          "index": 1,
+          "ko": "지수는 옷을 만드는 솜씨가 좋다.",
+          "vi": "Jisu khéo tay trong việc may quần áo."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_049",
+      "lesson": 3,
+      "korean": "좋아하다",
+      "meaningVi": "Thích",
+      "krdictDefinitionVi": "Có cảm giác tốt đẹp về cái gì đó.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 흰색을 좋아해서 흰 옷을 즐겨 입는다.",
+          "vi": "Tôi thích màu trắng nên thường mặc đồ trắng."
+        },
+        {
+          "index": 1,
+          "ko": "동생은 역사 소설보다는 연애 소설을 좋아한다.",
+          "vi": "Em tôi thích tiểu thuyết tình cảm hơn tiểu thuyết lịch sử."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_050",
+      "lesson": 3,
+      "korean": "지금",
+      "meaningVi": "Bây giờ",
+      "krdictDefinitionVi": "Chính lúc đang nói.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "지금부터 시험을 시작하겠습니다.",
+          "vi": "Từ bây giờ chúng ta sẽ bắt đầu bài thi."
+        },
+        {
+          "index": 1,
+          "ko": "지금으로부터 십 년 전 나는 미국에서 살고 있었다.",
+          "vi": "Mười năm trước tính từ bây giờ, tôi đang sống ở Mỹ."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_051",
+      "lesson": 3,
+      "korean": "차",
+      "meaningVi": "Trà / Xe hơi",
+      "krdictDefinitionVi": "Đồ uống làm từ lá hoặc rễ cây, quả v.v.. có hương thơm hoặc vị ngon đem đun lên hoặc hãm để uống.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "손님이 올 테니 차를 준비해라.",
+          "vi": "Khách sắp đến nên hãy chuẩn bị trà đi."
+        },
+        {
+          "index": 1,
+          "ko": "요즘 저는 커피 대신 차를 마시고 있어요.",
+          "vi": "Dạo này tôi uống trà thay cho cà phê."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_052",
+      "lesson": 3,
+      "korean": "친구",
+      "meaningVi": "Bạn / Bạn bè",
+      "krdictDefinitionVi": "Người có quan hệ gần gũi và chơi thân với nhau.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "지수와 나는 어린 시절부터 10년 넘게 알고 지낸 오랜 친구이다.",
+          "vi": "Jisu và tôi là bạn cũ, quen biết nhau hơn mười năm từ thời thơ ấu."
+        },
+        {
+          "index": 1,
+          "ko": "어머니는 승규가 나쁜 친구들과 어울려 다닐까 봐 걱정이 많으시다.",
+          "vi": "Mẹ rất lo rằng Seunggyu sẽ giao du với những người bạn xấu."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_053",
+      "lesson": 3,
+      "korean": "커피",
+      "meaningVi": "Cà phê",
+      "krdictDefinitionVi": "Hạt của cây cà phê, xay ra sau khi rang lên và nấu với nước rồi uống như trà. Hoặc thứ bột đó.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "커피를 볶는 온도에 따라 커피의 맛이 달라진다.",
+          "vi": "Hương vị cà phê thay đổi tùy theo nhiệt độ rang."
+        },
+        {
+          "index": 1,
+          "ko": "남자는 컵에 설탕과 크림, 커피를 넣은 후 뜨거운 물을 부었다.",
+          "vi": "Người đàn ông cho đường, kem và cà phê vào cốc rồi rót nước nóng."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_054",
+      "lesson": 3,
+      "korean": "크다",
+      "meaningVi": "To / Lớn",
+      "krdictDefinitionVi": "Chiều dài, chiều rộng, độ cao, thể tích... vượt quá mức độ bình thường.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "우리 형은 농구 선수처럼 키가 크다.",
+          "vi": "Anh trai tôi cao như cầu thủ bóng rổ."
+        },
+        {
+          "index": 1,
+          "ko": "내 친구는 도톰한 입술과 큰 눈을 가진 여자가 이상형이라고 했다.",
+          "vi": "Bạn tôi nói mẫu người lý tưởng của cậu ấy là cô gái có môi đầy và mắt to."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_055",
+      "lesson": 3,
+      "korean": "형용사",
+      "meaningVi": "Tính từ (Ngữ pháp)",
+      "krdictDefinitionVi": "Từ loại thể hiện tính chất hay trạng thái của con người hay sự vật.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "‘작다’와 ‘적다’는 뜻이 비슷해서 자주 혼동되어 쓰이는 형용사이다.",
+          "vi": "'Nhỏ' và 'ít' là những tính từ có nghĩa gần giống nhau nên thường bị dùng lẫn lộn."
+        },
+        {
+          "index": 1,
+          "ko": "나는 친구의 성격을 표현할 수 있는 적절한 형용사를 찾지 못해 고민했다.",
+          "vi": "Tôi băn khoăn vì không tìm được tính từ phù hợp để diễn tả tính cách của bạn mình."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_056",
+      "lesson": 3,
+      "korean": "운동하다",
+      "meaningVi": "Tập thể dục / Chơi thể thao",
+      "krdictDefinitionVi": "Rèn luyện thân thể hoặc vận động cơ thể vì mục đích sức khỏe.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "우리는 모여서 이야기를 나누며 가볍게 운동했다.",
+          "vi": "Chúng tôi tụ tập, vừa trò chuyện vừa vận động nhẹ."
+        },
+        {
+          "index": 1,
+          "ko": "주말 아침마다 부모님과 함께 공원에서 운동하는 것은 즐거운 일이다.",
+          "vi": "Mỗi sáng cuối tuần được tập thể dục cùng bố mẹ ở công viên là một việc vui."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_057",
+      "lesson": 3,
+      "korean": "카페",
+      "meaningVi": "Quán cà phê",
+      "krdictDefinitionVi": "Nơi chủ yếu bán những thức ăn nhẹ, trà và cà phê.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "조용한 카페 안에는 한 여인이 차를 마시며 책을 읽고 있었다.",
+          "vi": "Trong quán cà phê yên tĩnh, một người phụ nữ đang uống trà và đọc sách."
+        },
+        {
+          "index": 1,
+          "ko": "우리는 카페에 앉아서 커피가 다 식는 줄도 모르고 이야기를 나눴다.",
+          "vi": "Chúng tôi ngồi trong quán cà phê trò chuyện, không nhận ra cà phê đã nguội hết."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L03_058",
+      "lesson": 3,
+      "korean": "헬스클럽",
+      "meaningVi": "Câu lạc bộ thể dục thể thao / Gym",
+      "krdictDefinitionVi": "Nơi có nhiều thiết bị và cơ sở tập luyện giúp duy trì sức khỏe hoặc cải thiện vóc dáng.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "지수는 살을 빼기 위해 헬스클럽에 가입했다.",
+          "vi": "Jisu đăng ký vào câu lạc bộ thể hình để giảm cân."
+        },
+        {
+          "index": 1,
+          "ko": "헬스클럽 직원은 회원들에게 운동 기구 사용법을 알려 주었다.",
+          "vi": "Nhân viên phòng tập hướng dẫn các hội viên cách sử dụng dụng cụ tập."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_001",
+      "lesson": 4,
+      "korean": "계획표",
+      "meaningVi": "Bảng kế hoạch",
+      "krdictDefinitionVi": "Bản định và ghi ra trước những cách hoặc việc phải làm trong thời gian sắp tới.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "연간 계획표에는 내년 회사의 사업 진행 방향이 적혀 있다.",
+          "vi": "Trong bảng kế hoạch năm có ghi phương hướng triển khai kinh doanh của công ty trong năm tới."
+        },
+        {
+          "index": 1,
+          "ko": "승규는 부지런해서 방학 동안 계획표에 적힌 것을 모두 이루었다.",
+          "vi": "Seunggyu rất chăm chỉ nên đã hoàn thành tất cả những việc ghi trong bảng kế hoạch kỳ nghỉ."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_002",
+      "lesson": 4,
+      "korean": "구경하다",
+      "meaningVi": "Ngắm cảnh / Tham quan",
+      "krdictDefinitionVi": "Xem cái gì với sự quan tâm hay hứng thú.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "우리 가족은 휴일을 맞아 동물원을 구경하며 즐거운 시간을 보냈다.",
+          "vi": "Nhân ngày nghỉ, gia đình tôi đi tham quan sở thú và có khoảng thời gian vui vẻ."
+        },
+        {
+          "index": 1,
+          "ko": "승규는 가게 이곳저곳을 돌아다니며 새로 나온 최신식 컴퓨터를 구경했다.",
+          "vi": "Seunggyu đi quanh cửa hàng để xem chiếc máy tính đời mới vừa ra mắt."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_003",
+      "lesson": 4,
+      "korean": "강사",
+      "meaningVi": "Giảng viên",
+      "krdictDefinitionVi": "Người diễn thuyết ở các buổi thuyết trình.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "청중 앞에 선 강사는 긴장을 했는지 목소리가 약간 떨리는 듯했다.",
+          "vi": "Đứng trước khán giả, giảng viên có vẻ căng thẳng nên giọng hơi run."
+        },
+        {
+          "index": 1,
+          "ko": "우리 회사에서는 자기 관리 방법에 대해 특강을 해 줄 유명 강사를 초청했다.",
+          "vi": "Công ty chúng tôi đã mời một giảng viên nổi tiếng đến giảng chuyên đề về phương pháp tự quản lý."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_004",
+      "lesson": 4,
+      "korean": "그리고",
+      "meaningVi": "Và / Rồi",
+      "krdictDefinitionVi": "Từ dùng khi liệt kê một cách đơn thuần nội dung phía sau tiếp nối theo nội dung phía trước.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 집에 돌아왔다. 그리고 곧 잠이 들었다.",
+          "vi": "Tôi đã về nhà. Và chẳng mấy chốc tôi ngủ thiếp đi."
+        },
+        {
+          "index": 1,
+          "ko": "유민이는 사과와 배, 그리고 수박을 좋아한다.",
+          "vi": "Yumin thích táo, lê và cả dưa hấu."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_005",
+      "lesson": 4,
+      "korean": "그저께",
+      "meaningVi": "Hôm kia",
+      "krdictDefinitionVi": "Ngày trước của ngày hôm qua. Hai ngày trước.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "그저께가 부모님의 결혼기념일이었다.",
+          "vi": "Hôm kia là kỷ niệm ngày cưới của bố mẹ tôi."
+        },
+        {
+          "index": 1,
+          "ko": "어저께는 아빠 생신이었고 그저께는 엄마 생신이었다.",
+          "vi": "Hôm qua là sinh nhật bố, còn hôm kia là sinh nhật mẹ."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_006",
+      "lesson": 4,
+      "korean": "내일",
+      "meaningVi": "Ngày mai",
+      "krdictDefinitionVi": "Ngày sau hôm nay.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "내일이면 학교 친구들과 헤어진다고 생각하니 눈물이 났다.",
+          "vi": "Nghĩ đến việc ngày mai phải chia tay bạn bè ở trường, tôi đã rơi nước mắt."
+        },
+        {
+          "index": 1,
+          "ko": "부장님은 이미 퇴근하셨으니 내일이 되어야 만나실 수 있습니다.",
+          "vi": "Trưởng phòng đã tan làm rồi nên phải đến ngày mai anh mới gặp được."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_007",
+      "lesson": 4,
+      "korean": "년",
+      "meaningVi": "Năm",
+      "krdictDefinitionVi": "Đơn vị đếm một năm.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "우리는 일 년에 네 번 정기적으로 모인다.",
+          "vi": "Chúng tôi gặp nhau định kỳ bốn lần một năm."
+        },
+        {
+          "index": 1,
+          "ko": "나는 친구와 이십 년 후의 미래에 대해 이야기했다.",
+          "vi": "Tôi đã nói chuyện với bạn về tương lai hai mươi năm sau."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_011",
+      "lesson": 4,
+      "korean": "등산",
+      "meaningVi": "Sự leo núi",
+      "krdictDefinitionVi": "Việc lên núi với mục đích thể thao hay vui chơi.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "등산 모임.",
+          "vi": "Câu lạc bộ leo núi."
+        },
+        {
+          "index": 1,
+          "ko": "등산 모자.",
+          "vi": "Mũ leo núi."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_012",
+      "lesson": 4,
+      "korean": "명절",
+      "meaningVi": "Ngày lễ tết",
+      "krdictDefinitionVi": "Ngày kỷ niệm hay ngày vui truyền thống và hàng năm quay trở lại cố định như tết Trung thu hay tết Nguyên đán.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "우리 엄마는 명절이 되면 할 일이 많아서 스트레스를 많이 받으신다.",
+          "vi": "Mẹ tôi bị căng thẳng nhiều vào dịp lễ vì có nhiều việc phải làm."
+        },
+        {
+          "index": 1,
+          "ko": "우리 가족은 명절이 되면 시골에 계신 할머니 댁에 친척들이 모두 모인다.",
+          "vi": "Vào dịp lễ, cả gia đình và họ hàng chúng tôi đều tụ họp ở nhà bà dưới quê."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_013",
+      "lesson": 4,
+      "korean": "모레",
+      "meaningVi": "Ngày kia",
+      "krdictDefinitionVi": "Vào ngày sau của ngày mai.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "국립 발레단의 공연이 모레 있을 예정이다.",
+          "vi": "Buổi biểu diễn của Đoàn ba lê quốc gia dự kiến sẽ diễn ra vào ngày kia."
+        },
+        {
+          "index": 1,
+          "ko": "모레 남부 지방을 중심으로 많은 비가 내릴 예정입니다.",
+          "vi": "Ngày kia dự kiến sẽ có mưa lớn, tập trung ở khu vực phía Nam."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_014",
+      "lesson": 4,
+      "korean": "월요일",
+      "meaningVi": "Thứ hai",
+      "krdictDefinitionVi": "Ngày đầu tiên bắt đầu một tuần.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "벌써 주말이 지나고 월요일이 돌아왔다.",
+          "vi": "Cuối tuần đã qua và thứ Hai lại đến rồi."
+        },
+        {
+          "index": 1,
+          "ko": "월요일 아침이 되자 지하철은 출근하는 직장인들로 꽉 찼다.",
+          "vi": "Sáng thứ Hai, tàu điện ngầm chật kín những người đi làm."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_015",
+      "lesson": 4,
+      "korean": "화요일",
+      "meaningVi": "Thứ ba",
+      "krdictDefinitionVi": "Ngày thứ hai trong tuần khi lấy thứ hai làm chuẩn.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 다음 주 화요일이 아내 생일이라는 것이 생각났다.",
+          "vi": "Tôi nhớ ra thứ Ba tuần sau là sinh nhật vợ mình."
+        },
+        {
+          "index": 1,
+          "ko": "나는 월요일과 화요일은 업무가 많아 거의 야근을 하는 편이다.",
+          "vi": "Thứ Hai và thứ Ba tôi có nhiều việc nên hầu như thường phải làm thêm giờ."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_016",
+      "lesson": 4,
+      "korean": "수요일",
+      "meaningVi": "Thứ tư",
+      "krdictDefinitionVi": "Ngày thứ ba trong tuần khi lấy ngày thứ hai làm chuẩn.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "지수는 수요일에 친구들하고 영화를 봤다.",
+          "vi": "Jisu đã xem phim với bạn bè vào thứ Tư."
+        },
+        {
+          "index": 1,
+          "ko": "수요일부터 금요일까지 삼 일간 학교에서 시험을 본다.",
+          "vi": "Trường tổ chức thi trong ba ngày, từ thứ Tư đến thứ Sáu."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_017",
+      "lesson": 4,
+      "korean": "목요일",
+      "meaningVi": "Thứ năm",
+      "krdictDefinitionVi": "Ngày thứ tư trong một tuần tính từ ngày thứ hai.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "새 프로그램은 매주 목요일 저녁 일곱 시에 방영될 예정이다.",
+          "vi": "Chương trình mới dự kiến được phát sóng vào 7 giờ tối thứ Năm hằng tuần."
+        },
+        {
+          "index": 1,
+          "ko": "지수는 금요일 수업의 발표 과제를 전날인 목요일 저녁 늦게까지 준비하였다.",
+          "vi": "Jisu đã chuẩn bị bài thuyết trình cho tiết học thứ Sáu đến tận khuya thứ Năm, tức là hôm trước đó."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_018",
+      "lesson": 4,
+      "korean": "금요일",
+      "meaningVi": "Thứ sáu",
+      "krdictDefinitionVi": "Ngày thứ năm trong tuần tính từ thứ hai.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "둘째 주 금요일.",
+          "vi": "Thứ Sáu tuần thứ hai."
+        },
+        {
+          "index": 1,
+          "ko": "회사원은 월요일부터 금요일까지 회사에 간다.",
+          "vi": "Nhân viên công ty đi làm từ thứ Hai đến thứ Sáu."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_019",
+      "lesson": 4,
+      "korean": "토요일",
+      "meaningVi": "Thứ bảy",
+      "krdictDefinitionVi": "Ngày thứ sáu trong tuần lấy ngày thứ hai làm chuẩn.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "토요일에는 다음 날 학교에 가지 않아도 된다는 생각에 부담 없이 놀 수 있다.",
+          "vi": "Vào thứ Bảy, vì nghĩ rằng ngày hôm sau không phải đến trường nên có thể chơi thoải mái."
+        },
+        {
+          "index": 1,
+          "ko": "일주일에 오 일만 일하는 회사가 늘어나면서 토요일에 교외로 나가는 사람들이 많아졌다.",
+          "vi": "Khi ngày càng nhiều công ty chỉ làm việc năm ngày một tuần, số người ra ngoại ô vào thứ Bảy cũng tăng lên."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_020",
+      "lesson": 4,
+      "korean": "일요일",
+      "meaningVi": "Chủ nhật",
+      "krdictDefinitionVi": "Ngày cuối cùng của một tuần nếu tính thứ hai là ngày đầu tuần.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 매주 일요일 오전에 교회에 간다.",
+          "vi": "Tôi đi nhà thờ vào sáng Chủ nhật hằng tuần."
+        },
+        {
+          "index": 1,
+          "ko": "형은 일요일 저녁마다 다음 주의 계획을 세운다.",
+          "vi": "Anh trai tôi lập kế hoạch cho tuần sau vào mỗi tối Chủ nhật."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_021",
+      "lesson": 4,
+      "korean": "숙제",
+      "meaningVi": "Bài tập về nhà",
+      "krdictDefinitionVi": "Bài tập cho học sinh làm sau buổi học để ôn tập hay chuẩn bị bài.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "선생님께서 나한테 숙제를 열심히 했다고 칭찬해 주셨다.",
+          "vi": "Thầy giáo khen tôi vì đã chăm chỉ làm bài tập."
+        },
+        {
+          "index": 1,
+          "ko": "선생님께서는 수업 시간에 다 못 푼 수학 문제를 숙제로 내 주셨다.",
+          "vi": "Thầy giáo giao những bài toán chưa giải hết trong giờ học làm bài tập về nhà."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_022",
+      "lesson": 4,
+      "korean": "시",
+      "meaningVi": "Giờ",
+      "krdictDefinitionVi": "Đơn vị thời gian thể hiện một phần khi chia một ngày thành hai mươi bốn phần.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "지금이 몇 시인가요?",
+          "vi": "Bây giờ là mấy giờ ạ?"
+        },
+        {
+          "index": 1,
+          "ko": "우리 다섯 시에 학교 앞에서 만나자.",
+          "vi": "Chúng ta gặp nhau trước trường lúc năm giờ nhé."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_023",
+      "lesson": 4,
+      "korean": "시험",
+      "meaningVi": "Kỳ thi",
+      "krdictDefinitionVi": "Việc kiểm tra và đánh giá kiến thức hay năng lực theo trình tự nhất định qua đề thi, câu hỏi, hành động thực tế...",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "세 번의 도전 끝에 운전면허 시험을 통과했다.",
+          "vi": "Sau ba lần thử, tôi đã vượt qua kỳ thi bằng lái xe."
+        },
+        {
+          "index": 1,
+          "ko": "유민이는 시험이 얼마 남지 않아서 도서관에서 열심히 공부했다.",
+          "vi": "Vì kỳ thi không còn bao lâu nữa, Yumin chăm chỉ học ở thư viện."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_024",
+      "lesson": 4,
+      "korean": "아름답다",
+      "meaningVi": "Đẹp",
+      "krdictDefinitionVi": "Đối tượng được nhìn thấy hoặc giọng nói, màu sắc… mang lại sự vui mắt, vui tai và hài lòng.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "지수는 웃는 모습이 아름다웠다.",
+          "vi": "Nụ cười của Jisu rất đẹp."
+        },
+        {
+          "index": 1,
+          "ko": "정원에는 꽃들이 아름답게 피어 있었다.",
+          "vi": "Trong vườn, hoa nở rất đẹp."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_025",
+      "lesson": 4,
+      "korean": "아르바이트",
+      "meaningVi": "Công việc làm thêm",
+      "krdictDefinitionVi": "Công việc làm tạm thời ngoài công chính của mình để kiếm tiền.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "민준이는 용돈을 벌기 위해 편의점에서 아르바이트를 한다.",
+          "vi": "Minjun làm thêm ở cửa hàng tiện lợi để kiếm tiền tiêu vặt."
+        },
+        {
+          "index": 1,
+          "ko": "방학에도 아르바이트를 하니?",
+          "vi": "Kỳ nghỉ cậu vẫn đi làm thêm à?"
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_026",
+      "lesson": 4,
+      "korean": "안내",
+      "meaningVi": "Sự hướng dẫn / Thông báo",
+      "krdictDefinitionVi": "Việc giới thiệu và cho biết nội dung nào đó. Hoặc việc như vậy.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "이 책자에는 한국 관광지에 대한 안내가 간략히 적혀 있다.",
+          "vi": "Trong cuốn sách nhỏ này có ghi hướng dẫn ngắn gọn về các điểm du lịch Hàn Quốc."
+        },
+        {
+          "index": 1,
+          "ko": "인사 담당자가 신입 사원들이 맡을 업무에 관해 자세히 안내를 했다.",
+          "vi": "Người phụ trách nhân sự đã hướng dẫn chi tiết về công việc mà các nhân viên mới sẽ đảm nhận."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_027",
+      "lesson": 4,
+      "korean": "어제",
+      "meaningVi": "Hôm qua",
+      "krdictDefinitionVi": "Ngày trước của ngày hôm nay.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "어제는 날씨가 맑았는데 오늘은 비가 내린다.",
+          "vi": "Hôm qua trời quang, nhưng hôm nay trời mưa."
+        },
+        {
+          "index": 1,
+          "ko": "아, 정말 모처럼 즐거운 시간이었어.",
+          "vi": "À, thật sự lâu lắm rồi mới có khoảng thời gian vui như vậy."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_028",
+      "lesson": 4,
+      "korean": "오늘",
+      "meaningVi": "Hôm nay",
+      "krdictDefinitionVi": "Ngày đang trải qua bây giờ.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "오늘은 가장 사랑하는 친구가 결혼하는 날이다.",
+          "vi": "Hôm nay là ngày người bạn tôi yêu quý nhất kết hôn."
+        },
+        {
+          "index": 1,
+          "ko": "오늘 저녁엔 뭐 먹을까?",
+          "vi": "Tối nay ăn gì nhỉ?"
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_029",
+      "lesson": 4,
+      "korean": "오월",
+      "meaningVi": "Tháng 5",
+      "krdictDefinitionVi": "Tháng thứ năm trong một năm mười hai tháng.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "오월이 되면 대학 캠퍼스는 축제로 활기가 넘친다.",
+          "vi": "Khi tháng Năm đến, khuôn viên đại học tràn đầy sức sống với các lễ hội."
+        },
+        {
+          "index": 1,
+          "ko": "나는 오월 하면 알록달록 어우러진 예쁜 꽃과 푸른 잎이 떠오른다.",
+          "vi": "Nhắc đến tháng Năm, tôi nghĩ ngay đến những bông hoa rực rỡ và lá xanh hòa quyện thật đẹp."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_030",
+      "lesson": 4,
+      "korean": "요일",
+      "meaningVi": "Thứ (trong tuần)",
+      "krdictDefinitionVi": "Các ngày trong tuần.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "조사 결과 직장인들이 가장 좋아하는 요일은 금요일이었다.",
+          "vi": "Theo kết quả khảo sát, thứ mà người đi làm thích nhất là thứ Sáu."
+        },
+        {
+          "index": 1,
+          "ko": "슈퍼에서 일을 해 보니 가장 잘 팔리는 물품이 요일별로 달랐다.",
+          "vi": "Sau khi làm việc ở siêu thị, tôi thấy các mặt hàng bán chạy nhất khác nhau theo từng ngày trong tuần."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_031",
+      "lesson": 4,
+      "korean": "월",
+      "meaningVi": "Tháng",
+      "krdictDefinitionVi": "Đơn vị đếm tháng.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "오늘이 몇 월 며칠이지?",
+          "vi": "Hôm nay là tháng mấy ngày mấy nhỉ?"
+        },
+        {
+          "index": 1,
+          "ko": "그러게, 나도 기억이 안 나네. 달력 좀 보자.",
+          "vi": "Ừ nhỉ, tôi cũng không nhớ. Xem lịch một chút đi."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_032",
+      "lesson": 4,
+      "korean": "유월",
+      "meaningVi": "Tháng 6",
+      "krdictDefinitionVi": "Tháng thứ sáu trong một năm có mười hai tháng.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "여름이 시작되는 유월의 태양은 뜨겁다.",
+          "vi": "Mặt trời tháng Sáu, khi mùa hè bắt đầu, thật nóng."
+        },
+        {
+          "index": 1,
+          "ko": "승규는 예정일인 오월을 넘기고 유월에 태어났다.",
+          "vi": "Seunggyu sinh vào tháng Sáu, quá ngày dự sinh là tháng Năm."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_033",
+      "lesson": 4,
+      "korean": "이월",
+      "meaningVi": "Tháng 2",
+      "krdictDefinitionVi": "Tháng thứ hai trong 12 tháng của một năm.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "지금은 이월인데 아직 겨울처럼 추워요.",
+          "vi": "Bây giờ là tháng Hai mà vẫn lạnh như mùa đông."
+        },
+        {
+          "index": 1,
+          "ko": "새해가 엊그제 같은데 벌써 한 달이 흘러 이월이 되었다.",
+          "vi": "Năm mới như vừa mới hôm qua mà đã trôi qua một tháng và thành tháng Hai rồi."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_036",
+      "lesson": 4,
+      "korean": "일",
+      "meaningVi": "Ngày (đơn vị ngày-tháng-năm) / Công việc",
+      "krdictDefinitionVi": "Đơn vị đếm ngày hay số ngày.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "축제는 삼 일 동안이나 계속되었다.",
+          "vi": "Lễ hội kéo dài đến ba ngày."
+        },
+        {
+          "index": 1,
+          "ko": "나는 급한 일이 생겨 여행 날짜를 오 일 뒤로 미뤘다.",
+          "vi": "Vì có việc gấp, tôi đã lùi ngày đi du lịch lại năm ngày."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_037",
+      "lesson": 4,
+      "korean": "일월",
+      "meaningVi": "Tháng 1",
+      "krdictDefinitionVi": "Tháng đầu tiên trong 12 tháng của một năm.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 일월 일 일 새해를 맞아 마음가짐을 새롭게 했다.",
+          "vi": "Vào ngày mồng một tháng Giêng, tôi đón năm mới và làm mới lại tinh thần."
+        },
+        {
+          "index": 1,
+          "ko": "지수는 새로운 부서로 발령이 나서 내년 일월부터 그곳에서 근무한다.",
+          "vi": "Jisu được điều sang bộ phận mới nên sẽ làm việc ở đó từ tháng Giêng năm sau."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_038",
+      "lesson": 4,
+      "korean": "지난해(작년)",
+      "meaningVi": "Năm trước / Năm ngoái",
+      "krdictDefinitionVi": "Năm ngay trước năm nay.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "우리 팀 성과가 지난해 같지 않다.",
+          "vi": "Thành tích của đội chúng tôi không được như năm ngoái."
+        },
+        {
+          "index": 1,
+          "ko": "지난해를 반성하며 새해를 맞이합시다.",
+          "vi": "Hãy nhìn lại năm ngoái và đón năm mới."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_039",
+      "lesson": 4,
+      "korean": "올해(금년)",
+      "meaningVi": "Năm nay",
+      "krdictDefinitionVi": "Năm nay.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "올해는 다른 어떤 해보다 휴일이 많다.",
+          "vi": "Năm nay có nhiều ngày nghỉ hơn bất kỳ năm nào khác."
+        },
+        {
+          "index": 1,
+          "ko": "나의 올해 계획은 좋은 여자를 만나 결혼을 하는 것이다.",
+          "vi": "Kế hoạch năm nay của tôi là gặp một cô gái tốt và kết hôn."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_040",
+      "lesson": 4,
+      "korean": "지난달",
+      "meaningVi": "Tháng trước",
+      "krdictDefinitionVi": "Tháng ngay trước tháng này.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "김 대리의 사월 영업 실적은 지난달에 비해 떨어졌다.",
+          "vi": "Thành tích kinh doanh tháng Tư của trợ lý Kim giảm so với tháng trước."
+        },
+        {
+          "index": 1,
+          "ko": "유민이는 지난달 일 일에 귀국해 지금까지 약 석 달 동안 한국에 머물렀다.",
+          "vi": "Yumin về nước vào ngày mồng một tháng trước và đã ở Hàn Quốc khoảng ba tháng cho đến nay."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_041",
+      "lesson": 4,
+      "korean": "지난주",
+      "meaningVi": "Tuần trước",
+      "krdictDefinitionVi": "Tuần ngay trước của tuần này.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "민준이는 지난주 주말에 오랜만에 가족들과 외식을 했다.",
+          "vi": "Cuối tuần trước, Minjun đã đi ăn ngoài với gia đình sau một thời gian dài."
+        },
+        {
+          "index": 1,
+          "ko": "지난주에 시험이 다 끝나고 이제 방학이 시작되었다.",
+          "vi": "Tuần trước các kỳ thi đều kết thúc và bây giờ kỳ nghỉ đã bắt đầu."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_042",
+      "lesson": 4,
+      "korean": "칠월",
+      "meaningVi": "Tháng 7",
+      "krdictDefinitionVi": "Tháng thứ bảy trong một năm mười hai tháng.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "여름 방학은 칠월 초에 시작한다.",
+          "vi": "Kỳ nghỉ hè bắt đầu vào đầu tháng Bảy."
+        },
+        {
+          "index": 1,
+          "ko": "칠월에 시작된 장마로 강물은 많이 불어 있었다.",
+          "vi": "Do mùa mưa bắt đầu vào tháng Bảy, nước sông đã dâng lên nhiều."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_044",
+      "lesson": 4,
+      "korean": "팔월",
+      "meaningVi": "Tháng 8",
+      "krdictDefinitionVi": "Tháng thứ tám trong mười hai tháng của một năm.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "우리는 팔월의 찜통 같은 더위를 피해 계곡으로 놀러 갔다.",
+          "vi": "Chúng tôi đi chơi ở thung lũng để tránh cái nóng oi bức của tháng Tám."
+        },
+        {
+          "index": 1,
+          "ko": "팔월을 맞아 산과 바다로 여름휴가를 떠나는 사람들이 많다.",
+          "vi": "Vào tháng Tám, có nhiều người đi nghỉ hè ở núi và biển."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_045",
+      "lesson": 4,
+      "korean": "평일(주중)",
+      "meaningVi": "Ngày thường (trong tuần)",
+      "krdictDefinitionVi": "Lúc bình thường không có việc gì đặc biệt.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "집에 돌아온 아들의 표정이 평일과 다르게 심상치 않았다.",
+          "vi": "Vẻ mặt của con trai khi về nhà khác thường ngày, trông không bình thường."
+        },
+        {
+          "index": 1,
+          "ko": "승규는 매사에 품행이 단정하여 평일에 흐트러진 모습을 보이는 일이 없었다.",
+          "vi": "Seunggyu lúc nào cũng có phẩm hạnh ngay ngắn nên ngày thường hiếm khi để lộ dáng vẻ bê tha."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_046",
+      "lesson": 4,
+      "korean": "주말",
+      "meaningVi": "Cuối tuần",
+      "krdictDefinitionVi": "Kết thúc của một tuần.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "승규는 지난 주말에 여자 친구와 영화를 보았다.",
+          "vi": "Cuối tuần trước Seunggyu đã xem phim với bạn gái."
+        },
+        {
+          "index": 1,
+          "ko": "주말이면 우리 가족은 공원에 산책을 가곤 한다.",
+          "vi": "Cứ đến cuối tuần, gia đình tôi thường đi dạo ở công viên."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_048",
+      "lesson": 4,
+      "korean": "형용사",
+      "meaningVi": "Tính từ",
+      "krdictDefinitionVi": "Từ loại thể hiện tính chất hay trạng thái của con người hay sự vật.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "‘작다’와 ‘적다’는 뜻이 비슷해서 자주 혼동되어 쓰이는 형용사이다.",
+          "vi": "'Nhỏ' và 'ít' là những tính từ có nghĩa gần giống nhau nên thường bị dùng lẫn lộn."
+        },
+        {
+          "index": 1,
+          "ko": "나는 친구의 성격을 표현할 수 있는 적절한 형용사를 찾지 못해 고민했다.",
+          "vi": "Tôi băn khoăn vì không tìm được tính từ phù hợp để diễn tả tính cách của bạn mình."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_049",
+      "lesson": 4,
+      "korean": "휴가",
+      "meaningVi": "Kỳ nghỉ",
+      "krdictDefinitionVi": "Việc người thuộc tổ chức nào đó như quân đội hoặc công ti được thoát khỏi chỗ làm và nghỉ ngơi trong khoảng thời gian nhất định. Hoặc thời gian như vậy.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 이번 여름 휴가에는 해외여행을 다녀올 예정이다.",
+          "vi": "Kỳ nghỉ hè này tôi dự định đi du lịch nước ngoài."
+        },
+        {
+          "index": 1,
+          "ko": "승규는 결혼식과 신혼여행을 위해서 결혼 휴가를 냈다.",
+          "vi": "Seunggyu đã xin nghỉ phép kết hôn để tổ chức lễ cưới và đi hưởng tuần trăng mật."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_050",
+      "lesson": 4,
+      "korean": "회의하다",
+      "meaningVi": "Họp",
+      "krdictDefinitionVi": "Mọi người tụ họp, bàn luận.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "우리는 신제품의 판매 전략에 대해 회의하느라 시간이 가는 줄 몰랐다.",
+          "vi": "Chúng tôi mải họp về chiến lược bán hàng của sản phẩm mới đến mức không biết thời gian trôi qua."
+        },
+        {
+          "index": 1,
+          "ko": "그들은 수집한 자료의 처리 방안에 관하여 장시간에 걸쳐 회의했지만 뚜렷한 결론을 내지 못했다.",
+          "vi": "Họ họp suốt thời gian dài về phương án xử lý tài liệu đã thu thập, nhưng không đưa ra được kết luận rõ ràng."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_051",
+      "lesson": 4,
+      "korean": "구월",
+      "meaningVi": "Tháng 9",
+      "krdictDefinitionVi": "Tháng thứ chín trong mười hai tháng của một năm.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "구월의 가을 하늘은 높고 푸르다.",
+          "vi": "Bầu trời mùa thu tháng Chín cao và xanh."
+        },
+        {
+          "index": 1,
+          "ko": "유민이의 학교는 구월 일 일에 개강을 했다.",
+          "vi": "Trường của Yumin khai giảng vào ngày mồng một tháng Chín."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_052",
+      "lesson": 4,
+      "korean": "시월",
+      "meaningVi": "Tháng 10",
+      "krdictDefinitionVi": "Tháng thứ mười trong số một năm mười hai tháng.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "지수는 시월에 태어났다.",
+          "vi": "Jisu sinh vào tháng Mười."
+        },
+        {
+          "index": 1,
+          "ko": "이곳은 단풍이 드는 시월이면 절경이 된다.",
+          "vi": "Nơi này trở thành cảnh đẹp tuyệt vời vào tháng Mười, khi lá đổi màu."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_053",
+      "lesson": 4,
+      "korean": "십이월",
+      "meaningVi": "Tháng 12",
+      "krdictDefinitionVi": "Tháng cuối cùng trong mười hai tháng của một năm.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "작년 십이월에는 눈이 많이 내려 연초까지 눈이 쌓여 있었다.",
+          "vi": "Tháng Mười hai năm ngoái tuyết rơi nhiều nên tuyết phủ đến tận đầu năm."
+        },
+        {
+          "index": 1,
+          "ko": "우리는 한 해가 다 지나가는 십이월 말에 고등학교 동창회를 하기로 했다.",
+          "vi": "Chúng tôi quyết định tổ chức họp mặt bạn học cấp ba vào cuối tháng Mười hai, khi một năm sắp qua."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_054",
+      "lesson": 4,
+      "korean": "십일월",
+      "meaningVi": "Tháng 11",
+      "krdictDefinitionVi": "Tháng thứ mười một trong mười hai tháng của năm.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "지수의 생일은 십일월 십오 일이다.",
+          "vi": "Sinh nhật của Jisu là ngày mười lăm tháng Mười một."
+        },
+        {
+          "index": 1,
+          "ko": "십일월인데 벌써부터 기온이 영하로 내려간다.",
+          "vi": "Mới tháng Mười một mà nhiệt độ đã xuống dưới 0 độ."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_055",
+      "lesson": 4,
+      "korean": "삼월",
+      "meaningVi": "Tháng 3",
+      "krdictDefinitionVi": "Tháng thứ ba trong một năm mười hai tháng.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "삼월 초의 캠퍼스는 신입생들로 늘 활기가 넘친다.",
+          "vi": "Khuôn viên trường vào đầu tháng Ba luôn tràn đầy sức sống với các tân sinh viên."
+        },
+        {
+          "index": 1,
+          "ko": "우리나라에서는 보통 삼월과 구월에 새 학기가 시작된다.",
+          "vi": "Ở nước ta, học kỳ mới thường bắt đầu vào tháng Ba và tháng Chín."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_056",
+      "lesson": 4,
+      "korean": "사월",
+      "meaningVi": "Tháng 4",
+      "krdictDefinitionVi": "Tháng thứ tư trong 12 tháng của một năm.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "사월이 되자 벚꽃이 만개하여 장관을 이루었다.",
+          "vi": "Đến tháng Tư, hoa anh đào nở rộ tạo nên cảnh tượng tráng lệ."
+        },
+        {
+          "index": 1,
+          "ko": "어느덧 사월이 지나고 오월이 되니 낮에는 반팔 옷을 입어야 할 정도로 더워졌다.",
+          "vi": "Chẳng mấy chốc tháng Tư đã qua và sang tháng Năm, ban ngày nóng đến mức phải mặc áo ngắn tay."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_059",
+      "lesson": 4,
+      "korean": "졸업하다",
+      "meaningVi": "Tốt nghiệp",
+      "krdictDefinitionVi": "Học sinh hoàn thành tất cả chương trình giáo khoa đã quy định trong nhà trường.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "형은 고등학교를 졸업한 직후 바로 취직을 했다.",
+          "vi": "Anh trai tôi đi làm ngay sau khi tốt nghiệp trung học phổ thông."
+        },
+        {
+          "index": 1,
+          "ko": "나는 대학교를 졸업하기 전에 친구들과 유럽 여행을 가기로 했다.",
+          "vi": "Tôi quyết định đi du lịch châu Âu với bạn bè trước khi tốt nghiệp đại học."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_060",
+      "lesson": 4,
+      "korean": "전화번호",
+      "meaningVi": "Số điện thoại",
+      "krdictDefinitionVi": "Số riêng của từng máy điện thoại.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "최신 휴대 전화는 전화번호를 만 개까지 저장할 수 있다.",
+          "vi": "Điện thoại di động đời mới có thể lưu đến mười nghìn số điện thoại."
+        },
+        {
+          "index": 1,
+          "ko": "승규는 전화번호가 바뀌었는지 모르는 사람이 전화를 받았다.",
+          "vi": "Có lẽ số điện thoại của Seunggyu đã đổi, vì một người không quen đã nghe máy."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_061",
+      "lesson": 4,
+      "korean": "층",
+      "meaningVi": "Tầng",
+      "krdictDefinitionVi": "Là một lớp cấu tạo do những vật thể hay vật chất khác nhau  trải rộng ra xung quanh và chồng chất lên nhau. Hoặc trạng thái chồng chất lên như vậy.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "이 종이는 얇은 비닐 층이 입혀져 있어 물에 잘 젖지 않는다.",
+          "vi": "Tờ giấy này được phủ một lớp nilon mỏng nên không dễ bị ướt."
+        },
+        {
+          "index": 1,
+          "ko": "기름과 물은 서로 섞이지 않고 물 위에 기름이 떠 층을 형성하고 있었다.",
+          "vi": "Dầu và nước không hòa vào nhau; dầu nổi trên nước và tạo thành một lớp."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L04_062",
+      "lesson": 4,
+      "korean": "커피숍",
+      "meaningVi": "Quán cà phê",
+      "krdictDefinitionVi": "Cửa hàng chủ yếu được trang trí sắp đặt để người ta uống trà hay cà phê và nói chuyện hay nghỉ ngơi.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "승규는 커피숍에서 커피를 마시며 책을 읽는다.",
+          "vi": "Seunggyu uống cà phê và đọc sách ở quán cà phê."
+        },
+        {
+          "index": 1,
+          "ko": "지수는 커피숍에서 친구들과 수다 떠는 것을 좋아한다.",
+          "vi": "Jisu thích tán gẫu với bạn bè ở quán cà phê."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_001",
+      "lesson": 5,
+      "korean": "고향",
+      "meaningVi": "Quê hương",
+      "krdictDefinitionVi": "Nơi mình sinh ra và lớn lên.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "김 선수는 힘들 때마다 고향을 찾아 따뜻한 마음의 위로를 받곤 한다.",
+          "vi": "Mỗi khi mệt mỏi, vận động viên Kim thường tìm về quê hương để nhận được sự an ủi ấm áp."
+        },
+        {
+          "index": 1,
+          "ko": "실향민들은 가고 싶어도 갈 수 없는 고향을 그리워하며 눈물을 흘렸다.",
+          "vi": "Những người mất quê nhớ về quê hương không thể về dù rất muốn, và rơi nước mắt."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_002",
+      "lesson": 5,
+      "korean": "공항",
+      "meaningVi": "Sân bay",
+      "krdictDefinitionVi": "Nơi được trang bị cơ sở vật chất để máy bay cất cánh và hạ cánh.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "미국행 비행기가 공항에서 이륙하고 있다.",
+          "vi": "Máy bay đi Mỹ đang cất cánh ở sân bay."
+        },
+        {
+          "index": 1,
+          "ko": "비행기가 떠나는 시간이 다섯 시에요?",
+          "vi": "Máy bay khởi hành lúc năm giờ phải không ạ?"
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_003",
+      "lesson": 5,
+      "korean": "겨울",
+      "meaningVi": "Mùa đông",
+      "krdictDefinitionVi": "Là một mùa trong bốn mùa, mùa lạnh giữa hai mùa thu và mùa xuân.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "지금이 삼월인데 아직도 겨울처럼 춥다.",
+          "vi": "Bây giờ đã là tháng Ba mà vẫn lạnh như mùa đông."
+        },
+        {
+          "index": 1,
+          "ko": "어서 추운 겨울이 빨리 지나가고 따뜻한 봄이 왔으면 좋겠다.",
+          "vi": "Tôi mong mùa đông lạnh giá mau qua và mùa xuân ấm áp đến."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_004",
+      "lesson": 5,
+      "korean": "끝나다",
+      "meaningVi": "Kết thúc",
+      "krdictDefinitionVi": "Công việc cuối cùng được hoàn tất.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "영화가 끝나자 극장의 불이 다시 환하게 켜졌다.",
+          "vi": "Khi bộ phim kết thúc, đèn trong rạp lại bật sáng."
+        },
+        {
+          "index": 1,
+          "ko": "여자는 남자의 말이 끝나기도 전에 자리에서 일어났다.",
+          "vi": "Người phụ nữ đứng dậy khỏi chỗ ngồi ngay cả trước khi người đàn ông nói xong."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_005",
+      "lesson": 5,
+      "korean": "남",
+      "meaningVi": "Người khác / Hướng nam",
+      "krdictDefinitionVi": "Người khác không phải mình.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나보다 남을 더 생각하는 지수는 봉사 활동을 열심히 한다.",
+          "vi": "Jisu, người nghĩ cho người khác hơn bản thân, rất chăm tham gia hoạt động tình nguyện."
+        },
+        {
+          "index": 1,
+          "ko": "우리 언니는 항상 남에게 관심을 가지고 도와주려고 노력한다.",
+          "vi": "Chị tôi luôn quan tâm đến người khác và cố gắng giúp đỡ họ."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_006",
+      "lesson": 5,
+      "korean": "남자",
+      "meaningVi": "Đàn ông",
+      "krdictDefinitionVi": "Người sinh ra với giới tính là nam.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "교실에서 남자 학생들이 무거운 책상을 옮겼다.",
+          "vi": "Trong lớp, các nam sinh đã chuyển những chiếc bàn nặng."
+        },
+        {
+          "index": 1,
+          "ko": "그 남자는 키가 크고 건장한 체격을 가진 사람이었다.",
+          "vi": "Người đàn ông đó là người cao lớn và có vóc dáng khỏe mạnh."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_007",
+      "lesson": 5,
+      "korean": "날",
+      "meaningVi": "Ngày",
+      "krdictDefinitionVi": "Khoảng thời gian hai mươi bốn giờ từ mười hai giờ đêm đến mười hai giờ đêm hôm sau.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나와 내 가장 친한 친구인 영수는 같은 날에 태어났다.",
+          "vi": "Tôi và Youngsu, người bạn thân nhất của tôi, sinh cùng một ngày."
+        },
+        {
+          "index": 1,
+          "ko": "오늘같이 좋은 날에 어떻게 술 한잔이 빠질 수 있겠습니까?",
+          "vi": "Vào một ngày đẹp như hôm nay thì làm sao thiếu một chén rượu được ạ?"
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_008",
+      "lesson": 5,
+      "korean": "내다",
+      "meaningVi": "Nộp / Chi trả",
+      "krdictDefinitionVi": "Làm xuất hiện con đường, lối đi hay cửa sổ v.v...",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "건축가는 햇볕이 잘 들도록 남향으로 창문을 내었다.",
+          "vi": "Kiến trúc sư đã mở cửa sổ hướng Nam để đón nhiều ánh nắng."
+        },
+        {
+          "index": 1,
+          "ko": "부엌은 어느 쪽으로 낼 생각이십니까?",
+          "vi": "Ông định bố trí nhà bếp ở phía nào ạ?"
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_009",
+      "lesson": 5,
+      "korean": "다니다",
+      "meaningVi": "Đi lại thường xuyên (đi học/đi làm)",
+      "krdictDefinitionVi": "Liên tục vào ra nơi nào đó.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "언니는 머리를 할 때면 늘 자주 가던 미용실에만 다녔다.",
+          "vi": "Mỗi khi làm tóc, chị tôi chỉ đến tiệm làm tóc quen mà chị thường lui tới."
+        },
+        {
+          "index": 1,
+          "ko": "아버지는 감기가 낫지 않아서 한 달 내내 병원에 다니셨다.",
+          "vi": "Vì cảm lạnh mãi không khỏi, cha tôi đã đi bệnh viện suốt cả tháng."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_010",
+      "lesson": 5,
+      "korean": "낮",
+      "meaningVi": "Ban ngày",
+      "krdictDefinitionVi": "Khoảng thời gian từ lúc mặt trời mọc đến lúc mặt trời lặn.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "여름은 낮이 길고 밤이 짧은 계절이다.",
+          "vi": "Mùa hè là mùa ngày dài và đêm ngắn."
+        },
+        {
+          "index": 1,
+          "ko": "승규는 낮에는 학비를 벌고 밤에는 공부를 한다.",
+          "vi": "Ban ngày Seunggyu kiếm tiền học phí, ban đêm thì học bài."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_011",
+      "lesson": 5,
+      "korean": "밤",
+      "meaningVi": "Ban đêm",
+      "krdictDefinitionVi": "Khoảng thời gian tối từ lúc mặt trời lặn đến lúc mặt trời mọc ngày hôm sau.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "아이가 밤에 갑자기 아파서 응급실에 데려갔다.",
+          "vi": "Đứa trẻ đột nhiên bị ốm vào ban đêm nên chúng tôi đưa đến phòng cấp cứu."
+        },
+        {
+          "index": 1,
+          "ko": "군대는 밤이 되기를 기다렸다가 적진을 습격하기로 했다.",
+          "vi": "Quân đội quyết định đợi đến đêm rồi tấn công doanh trại địch."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_012",
+      "lesson": 5,
+      "korean": "받다",
+      "meaningVi": "Nhận",
+      "krdictDefinitionVi": "Lấy cái mà người khác cho hoặc gửi đến.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 부모님으로부터 용돈을 받는다.",
+          "vi": "Tôi nhận tiền tiêu vặt từ bố mẹ."
+        },
+        {
+          "index": 1,
+          "ko": "어느 날 저녁 김 여사에게서 소포를 하나 받았다.",
+          "vi": "Một buổi tối nọ, tôi nhận được một bưu kiện từ bà Kim."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_013",
+      "lesson": 5,
+      "korean": "밥",
+      "meaningVi": "Cơm / Bữa ăn",
+      "krdictDefinitionVi": "Loại thức ăn được làm chín bằng cách đổ nước vào gạo và ngũ cốc khác rồi nấu đến khi cạn nước.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "밥이 뜸이 덜 들었나 봐.",
+          "vi": "Có vẻ cơm chưa được ủ đủ."
+        },
+        {
+          "index": 1,
+          "ko": "어머니가 밥을 안치는 동안 나는 상추를 씻었다.",
+          "vi": "Trong lúc mẹ nấu cơm, tôi rửa rau xà lách."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_014",
+      "lesson": 5,
+      "korean": "부모님",
+      "meaningVi": "Bố mẹ (kính ngữ)",
+      "krdictDefinitionVi": "(cách nói kính trọng) Cha mẹ.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "우리 형제들은 여름휴가를 부모님이 계시는 시골에서 보낸다.",
+          "vi": "Anh em chúng tôi trải qua kỳ nghỉ hè ở quê, nơi bố mẹ đang sống."
+        },
+        {
+          "index": 1,
+          "ko": "승규는 새삼 낳아 주고 길러 주신 부모님의 은혜에 감사한 마음이 들었다.",
+          "vi": "Seunggyu chợt thấy biết ơn công ơn sinh thành và nuôi dưỡng của cha mẹ."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_015",
+      "lesson": 5,
+      "korean": "아버지",
+      "meaningVi": "Bố / Cha",
+      "krdictDefinitionVi": "Người đàn ông đã sinh ra mình. Hoặc là lời gọi người đó.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "어머니가 돌아가신 후로 나는 아버지와 둘이 산다.",
+          "vi": "Sau khi mẹ qua đời, tôi sống với bố, chỉ hai bố con."
+        },
+        {
+          "index": 1,
+          "ko": "가족 중에서도 아버지와 나는 생김새부터 버릇까지 제일 많이 닮은 편이었다.",
+          "vi": "Trong gia đình, bố và tôi là những người giống nhau nhất, từ ngoại hình đến thói quen."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_016",
+      "lesson": 5,
+      "korean": "어머니",
+      "meaningVi": "Mẹ",
+      "krdictDefinitionVi": "Từ dùng để chỉ hay gọi người phụ nữ đã sinh ra mình. Hoặc là lời gọi người đó.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "어느새 부쩍 늙어 버리신 어머니의 모습을 보니 마음이 아프다.",
+          "vi": "Nhìn dáng vẻ mẹ đã già đi nhiều lúc nào không hay, tôi thấy đau lòng."
+        },
+        {
+          "index": 1,
+          "ko": "올해 어버이날에는 반드시 어머니가 계신 고향에 내려가야겠다.",
+          "vi": "Ngày Cha mẹ năm nay, nhất định tôi phải về quê nơi mẹ đang ở."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_017",
+      "lesson": 5,
+      "korean": "형",
+      "meaningVi": "Anh trai (nam gọi)",
+      "krdictDefinitionVi": "Từ đi kèm sau họ của người cấp dưới hoặc tuổi gần ngang nhau giữa những người nam giới để gọi hoặc nói đề cao đối phương.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "그 자리에는 이 형이 혼자만 갔다.",
+          "vi": "Ở chỗ đó, chỉ có anh này đi một mình."
+        },
+        {
+          "index": 1,
+          "ko": "그는 김 형에게 한 가지 부탁을 했다.",
+          "vi": "Anh ấy đã nhờ anh Kim một việc."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_018",
+      "lesson": 5,
+      "korean": "오빠",
+      "meaningVi": "Anh trai (nữ gọi)",
+      "krdictDefinitionVi": "Từ mà phụ nữ dùng để chỉ hay gọi đàn ông nhiều tuổi hơn mình giữa anh em hay anh em bà con với nhau.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 어릴 때 두 살 많은 오빠와 자주 싸우며 자랐다.",
+          "vi": "Hồi nhỏ, tôi lớn lên thường xuyên cãi nhau với anh trai hơn tôi hai tuổi."
+        },
+        {
+          "index": 1,
+          "ko": "나는 오빠가 있어서 남자 아이들이 좋아하는 장난감을 함께 가지고 놀았다.",
+          "vi": "Vì có anh trai nên tôi từng chơi cùng những món đồ chơi mà con trai thích."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_019",
+      "lesson": 5,
+      "korean": "누나",
+      "meaningVi": "Chị gái (nam gọi)",
+      "krdictDefinitionVi": "Từ mà nam giới dùng để chỉ hoặc gọi nữ giới nhiều tuổi hơn mình trong quan hệ chị em hoặc chị em bà con.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "내가 열세 살이 되자 세 살 위인 누나와 키가 비슷해졌다.",
+          "vi": "Khi tôi mười ba tuổi, chiều cao của tôi đã gần bằng chị gái hơn tôi ba tuổi."
+        },
+        {
+          "index": 1,
+          "ko": "엄마가 돌아가신 후에는 누나가 엄마처럼 나를 보살펴 주었다.",
+          "vi": "Sau khi mẹ qua đời, chị gái chăm sóc tôi như mẹ."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_020",
+      "lesson": 5,
+      "korean": "언니",
+      "meaningVi": "Chị gái (nữ gọi)",
+      "krdictDefinitionVi": "Từ mà phụ nữ dùng để chỉ hay gọi người phụ nữ nhiều tuổi hơn mình giữa chị em hay chị em bà con với nhau.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "우리 언니는 아버지를 닮고, 나는 어머니를 닮았다.",
+          "vi": "Chị gái tôi giống bố, còn tôi giống mẹ."
+        },
+        {
+          "index": 1,
+          "ko": "지수는 딸이 많은 집에서 태어나 늘 언니들의 옷을 물려 입어야 했다.",
+          "vi": "Jisu sinh ra trong gia đình có nhiều con gái nên luôn phải mặc lại quần áo của các chị."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_021",
+      "lesson": 5,
+      "korean": "남동생",
+      "meaningVi": "Em trai",
+      "krdictDefinitionVi": "Người em là nam giới.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "누나는 어린 남동생만 집에 두고 놀러 가는 것이 마음에 걸렸다.",
+          "vi": "Người chị thấy áy náy khi để em trai nhỏ ở nhà một mình rồi đi chơi."
+        },
+        {
+          "index": 1,
+          "ko": "하나밖에 없는 남동생이었지만 엄마가 동생만 챙기는 것 같아 괜히 미웠다.",
+          "vi": "Dù là em trai duy nhất, tôi vẫn vô cớ ghét em vì cảm thấy mẹ chỉ chăm lo cho nó."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_022",
+      "lesson": 5,
+      "korean": "여동생",
+      "meaningVi": "Em gái",
+      "krdictDefinitionVi": "Em gái",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 여동생이 하나 있다.",
+          "vi": "Tôi có một em gái."
+        },
+        {
+          "index": 1,
+          "ko": "승규는 친구의 여동생과 결혼을 했다.",
+          "vi": "Seunggyu đã kết hôn với em gái của bạn mình."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_023",
+      "lesson": 5,
+      "korean": "배우다",
+      "meaningVi": "Học",
+      "krdictDefinitionVi": "Tiếp nhận tri thức mới.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "유치원에서 한글을 배운 아이는 혼자 동화책을 읽기 시작했다.",
+          "vi": "Đứa trẻ học chữ Hangeul ở mẫu giáo bắt đầu tự đọc truyện cổ tích."
+        },
+        {
+          "index": 1,
+          "ko": "그는 할아버지께 한시를 배웠다.",
+          "vi": "Anh ấy học thơ chữ Hán từ ông."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_024",
+      "lesson": 5,
+      "korean": "분(시간)",
+      "meaningVi": "Phút",
+      "krdictDefinitionVi": "Đơn vị thời gian thể hiện một phần sáu mươi của một giờ đồng hồ.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "유민이는 육십 분 동안 보고서를 한 장밖에 못 썼다.",
+          "vi": "Trong sáu mươi phút, Yumin chỉ viết được một trang báo cáo."
+        },
+        {
+          "index": 1,
+          "ko": "영화가 백오십 분이 넘던데?",
+          "vi": "Bộ phim dài hơn một trăm năm mươi phút đấy nhỉ?"
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_025",
+      "lesson": 5,
+      "korean": "새벽",
+      "meaningVi": "Rạng sáng",
+      "krdictDefinitionVi": "Khoảng lúc mặt trời mọc.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "어머니는 이른 새벽부터 내 점심 도시락을 준비하셨다.",
+          "vi": "Mẹ đã chuẩn bị hộp cơm trưa cho tôi từ sáng sớm tinh mơ."
+        },
+        {
+          "index": 1,
+          "ko": "민준은 오늘도 언제나처럼 새벽을 알리는 닭 울음소리를 듣고 일어났다.",
+          "vi": "Hôm nay Minjun cũng thức dậy như mọi khi khi nghe tiếng gà gáy báo hiệu bình minh."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_026",
+      "lesson": 5,
+      "korean": "수업",
+      "meaningVi": "Giờ học / Buổi học / Tiết học",
+      "krdictDefinitionVi": "Việc học và lĩnh hội tri thức hay kỹ thuật.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "그녀는 연기자가 되기 위해 배우 수업을 받고 있다.",
+          "vi": "Cô ấy đang học diễn xuất để trở thành diễn viên."
+        },
+        {
+          "index": 1,
+          "ko": "진정한 작가가 되기 위해 다년간 수업을 하는 것은 쉽지 않은 일이다.",
+          "vi": "Để trở thành một nhà văn thực thụ, việc rèn luyện trong nhiều năm không phải là điều dễ dàng."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_027",
+      "lesson": 5,
+      "korean": "시작하다",
+      "meaningVi": "Bắt đầu",
+      "krdictDefinitionVi": "Thực hiện hay cho thực hiện giai đoạn đầu của một việc hay hành động nào đó.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "벼락이 치더니 비가 폭포처럼 쏟아지기 시작한다.",
+          "vi": "Sấm chớp nổi lên rồi mưa bắt đầu trút xuống như thác."
+        },
+        {
+          "index": 1,
+          "ko": "사랑은 시작할 때는 아름답지만 끝나면 허무해진다.",
+          "vi": "Tình yêu khi bắt đầu thì đẹp, nhưng khi kết thúc lại trở nên trống rỗng."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_029",
+      "lesson": 5,
+      "korean": "숙제하다",
+      "meaningVi": "Làm bài tập về nhà",
+      "krdictDefinitionVi": "Làm bài dành cho học sinh sau buổi học để ôn tập và chuẩn bị bài.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 숙제하는 데 방해가 되는 동생을 방에서 내보냈다.",
+          "vi": "Tôi đuổi em ra khỏi phòng vì nó làm phiền tôi làm bài tập."
+        },
+        {
+          "index": 1,
+          "ko": "민준이는 학교에서 돌아오자마자 열심히 숙제하는 중이다.",
+          "vi": "Minjun vừa đi học về là đang chăm chỉ làm bài tập ngay."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_030",
+      "lesson": 5,
+      "korean": "여자",
+      "meaningVi": "Phụ nữ",
+      "krdictDefinitionVi": "Người được sinh ra là giới nữ.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "결혼한 여자.",
+          "vi": "Người phụ nữ đã kết hôn."
+        },
+        {
+          "index": 1,
+          "ko": "예쁜 여자.",
+          "vi": "Người phụ nữ đẹp."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_032",
+      "lesson": 5,
+      "korean": "영어",
+      "meaningVi": "Tiếng Anh",
+      "krdictDefinitionVi": "Ngôn ngữ được sử dụng rộng rãi nhất trên khắp thế giới như Mỹ và Anh.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 미국에 갔을 때 영어를 잘 못해서 고생한 경험이 있다.",
+          "vi": "Khi sang Mỹ, tôi từng gặp khó khăn vì không giỏi tiếng Anh."
+        },
+        {
+          "index": 1,
+          "ko": "많은 어린이들이 유치원과 초등학교에서 영어를 배우고 있다.",
+          "vi": "Nhiều trẻ em đang học tiếng Anh ở mẫu giáo và tiểu học."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_033",
+      "lesson": 5,
+      "korean": "오전",
+      "meaningVi": "Buổi sáng (AM)",
+      "krdictDefinitionVi": "Khoảng thời gian từ sáng sớm đến 12 giờ trưa.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "승규는 오늘 오전에만 수업이 있어서 일찍 집에 갔다.",
+          "vi": "Hôm nay Seunggyu chỉ có tiết học vào buổi sáng nên đã về nhà sớm."
+        },
+        {
+          "index": 1,
+          "ko": "나는 여름에는 날씨가 시원한 오전에 주로 모든 활동을 한다.",
+          "vi": "Vào mùa hè, tôi chủ yếu hoạt động vào buổi sáng khi thời tiết mát mẻ."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_034",
+      "lesson": 5,
+      "korean": "오후",
+      "meaningVi": "Buổi chiều (PM)",
+      "krdictDefinitionVi": "Khoảng thời gian từ giữa trưa đến khi mặt trời lặn.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "학생들은 오후가 되자 꾸벅꾸벅 졸기 시작했다.",
+          "vi": "Đến buổi chiều, học sinh bắt đầu gật gù buồn ngủ."
+        },
+        {
+          "index": 1,
+          "ko": "비는 오전부터 오후 내내 오더니 저녁쯤 되자 그쳤다.",
+          "vi": "Mưa rơi từ buổi sáng suốt cả buổi chiều rồi đến tối mới tạnh."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_035",
+      "lesson": 5,
+      "korean": "외식하다",
+      "meaningVi": "Ăn ngoài",
+      "krdictDefinitionVi": "Mua thức ăn và ăn ở bên ngoài.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "아버지 생신을 맞이해서 우리 가족은 외식하러 나갔다.",
+          "vi": "Nhân sinh nhật bố, gia đình tôi đã ra ngoài ăn."
+        },
+        {
+          "index": 1,
+          "ko": "혼자 살다 보니 밥을 해 먹기가 귀찮아서 끼니 때가 되면 외식하기 일쑤였다.",
+          "vi": "Sống một mình nên tôi lười tự nấu ăn, cứ đến bữa là thường đi ăn ngoài."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_036",
+      "lesson": 5,
+      "korean": "인터넷",
+      "meaningVi": "Internet",
+      "krdictDefinitionVi": "Mạng thông tin máy tính lớn nối kết để máy tính trên toàn thế giới có thể trao đổi thông tin với nhau.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 인터넷으로 버스 노선과 시간표를 알아보았다.",
+          "vi": "Tôi tra cứu tuyến xe buýt và thời gian biểu trên Internet."
+        },
+        {
+          "index": 1,
+          "ko": "동생은 하루 종일 인터넷에 빠져서 컴퓨터 앞을 떠나지 않는다.",
+          "vi": "Em tôi mê Internet cả ngày nên không rời khỏi máy tính."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_037",
+      "lesson": 5,
+      "korean": "일기",
+      "meaningVi": "Nhật ký",
+      "krdictDefinitionVi": "Bài viết mỗi ngày viết lại cảm giác, suy nghĩ hay việc trải qua trong ngày.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 매일 밤 일기를 적으며 하루를 정리하는 시간을 갖는다.",
+          "vi": "Mỗi tối tôi viết nhật ký và dành thời gian nhìn lại một ngày."
+        },
+        {
+          "index": 1,
+          "ko": "승규는 영어 일기 쓰기를 통해 영어로 작문하는 연습을 하고 있다.",
+          "vi": "Seunggyu đang luyện viết văn bằng tiếng Anh thông qua việc viết nhật ký tiếng Anh."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_038",
+      "lesson": 5,
+      "korean": "일어나다",
+      "meaningVi": "Thức dậy",
+      "krdictDefinitionVi": "Đang nằm thì ngồi dậy hoặc đang ngồi thì đứng dậy.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "선생님이 강의실 안으로 들어오자 학생들이 일제히 자리에서 일어났다.",
+          "vi": "Khi thầy giáo bước vào phòng học, các học sinh đồng loạt đứng dậy khỏi chỗ."
+        },
+        {
+          "index": 1,
+          "ko": "밖에서 무언가 큰 소리가 나자 민준이가 놀란 듯 의자에서 벌떡 일어났다.",
+          "vi": "Khi bên ngoài vang lên tiếng động lớn, Minjun bật dậy khỏi ghế như bị giật mình."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_040",
+      "lesson": 5,
+      "korean": "세수하다",
+      "meaningVi": "Rửa mặt",
+      "krdictDefinitionVi": "Rửa tay hay mặt bằng nước.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "아이가 어느덧 혼자 머리를 감고 세수할 만큼 자랐다.",
+          "vi": "Đứa trẻ đã lớn đến mức có thể tự gội đầu và rửa mặt."
+        },
+        {
+          "index": 1,
+          "ko": "피부가 건조한 사람들은 세수하고 나서 로션을 충분히 바르는 것이 좋다.",
+          "vi": "Những người có làn da khô nên thoa đủ kem dưỡng sau khi rửa mặt."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_041",
+      "lesson": 5,
+      "korean": "읽다",
+      "meaningVi": "Đọc",
+      "krdictDefinitionVi": "Nhìn bài hay chữ rồi phát ra tiếng theo âm đó và thể hiện thành lời.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "절에 가니 스님이 경을 읽는 소리가 들렸다.",
+          "vi": "Đến chùa, tôi nghe thấy tiếng nhà sư đọc kinh."
+        },
+        {
+          "index": 1,
+          "ko": "아이는 큰 소리로 또박또박 동화책을 읽었다.",
+          "vi": "Đứa trẻ đọc truyện cổ tích to và rõ ràng."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_042",
+      "lesson": 5,
+      "korean": "자다",
+      "meaningVi": "Ngủ",
+      "krdictDefinitionVi": "Nhắm mắt, ngừng hoạt động của cơ thể và tinh thần, ở vào trạng thái nghỉ ngơi trong một thời gian.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "남편은 휴일에 침대에서 잠만 잤다.",
+          "vi": "Ngày nghỉ, chồng tôi chỉ ngủ trên giường."
+        },
+        {
+          "index": 1,
+          "ko": "나는 어제 잠을 잘 못 자서 피곤했다.",
+          "vi": "Hôm qua tôi ngủ không ngon nên mệt."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_043",
+      "lesson": 5,
+      "korean": "아침(시간)",
+      "meaningVi": "Buổi sáng (cũng có thể chỉ bữa sáng)",
+      "krdictDefinitionVi": "Khoảng thời gian từ lúc trời hửng sáng cho đến khi mặt trời mọc và công việc của một ngày được bắt đầu.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 아침에 커피를 한 잔 마시고 출근 준비를 한다.",
+          "vi": "Buổi sáng tôi uống một cốc cà phê rồi chuẩn bị đi làm."
+        },
+        {
+          "index": 1,
+          "ko": "아침마다 타는 버스에는 항상 등교하는 학생들이 가득 차 있다.",
+          "vi": "Chiếc xe buýt tôi đi mỗi sáng luôn đầy học sinh đến trường."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_044",
+      "lesson": 5,
+      "korean": "점심(시간)",
+      "meaningVi": "Buổi trưa (cũng có thể chỉ bữa trưa)",
+      "krdictDefinitionVi": "Bữa ăn vào ban ngày giữa bữa tối và bữa sáng.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "아침을 거르고 회사에 온 민준이는 점심 먹기만을 기다렸다.",
+          "vi": "Minjun, người đến công ty mà bỏ bữa sáng, chỉ chờ đến lúc ăn trưa."
+        },
+        {
+          "index": 1,
+          "ko": "고속 도로를 운전하던 유민이는 휴게소에 들러서 점심을 간단하게 때웠다.",
+          "vi": "Yumin đang lái xe trên đường cao tốc thì ghé trạm nghỉ và ăn trưa qua loa."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_045",
+      "lesson": 5,
+      "korean": "저녁(시간)",
+      "meaningVi": "Buổi tối (cũng có thể chỉ bữa tối)",
+      "krdictDefinitionVi": "Khoảng thời gian từ lúc mặt trời bắt đầu lặn cho đến lúc về đêm.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "직장인인 남자 친구와 나는 퇴근 후 저녁에 데이트를 한다.",
+          "vi": "Tôi và bạn trai là nhân viên công ty hẹn hò vào buổi tối sau giờ tan làm."
+        },
+        {
+          "index": 1,
+          "ko": "낮에는 몹시 더웠지만 저녁이 되자 선선한 바람이 불기 시작했다.",
+          "vi": "Ban ngày trời rất nóng, nhưng đến tối gió mát bắt đầu thổi."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_046",
+      "lesson": 5,
+      "korean": "청소하다",
+      "meaningVi": "Dọn dẹp vệ sinh",
+      "krdictDefinitionVi": "Dọn dẹp sạch sẽ thứ bừa bộn và dơ bẩn.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "아이들은 교실 안을 먼지를 털고 닦아 내며 청소하였다.",
+          "vi": "Bọn trẻ quét bụi, lau chùi và dọn dẹp trong lớp học."
+        },
+        {
+          "index": 1,
+          "ko": "우리 아파트 경비 아저씨는 항상 빗자루를 들고 다니며 화단 주변을 청소한다.",
+          "vi": "Chú bảo vệ chung cư chúng tôi luôn cầm chổi đi quanh và dọn dẹp khu vực quanh bồn hoa."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_047",
+      "lesson": 5,
+      "korean": "목욕하다",
+      "meaningVi": "Tắm",
+      "krdictDefinitionVi": "Tắm rửa toàn thân bằng nước.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "아이는 며칠 동안 목욕하지 못했던지 때에 찌들고 더러웠다.",
+          "vi": "Đứa trẻ có lẽ đã mấy ngày không tắm nên bẩn thỉu và đầy ghét."
+        },
+        {
+          "index": 1,
+          "ko": "먼지를 뒤집어쓰고 온 아이가 집에 오자마자 욕탕에서 목욕하였다.",
+          "vi": "Đứa trẻ phủ đầy bụi vừa về đến nhà đã tắm trong bồn tắm."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_048",
+      "lesson": 5,
+      "korean": "초",
+      "meaningVi": "Giây",
+      "krdictDefinitionVi": "Đơn vị thời gian thể hiện một phần sáu mươi của một phút.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "민준이는 달리기 시합에서 삼 초 차이로 아깝게 이 등을 했다.",
+          "vi": "Minjun tiếc nuối về nhì trong cuộc thi chạy với cách biệt ba giây."
+        },
+        {
+          "index": 1,
+          "ko": "나는 잠수한 지 삼십 초 만에 숨을 참지 못하고 고개를 물 밖으로 내밀었다.",
+          "vi": "Sau ba mươi giây lặn dưới nước, tôi không nín thở được nữa và ngẩng đầu lên khỏi mặt nước."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_050",
+      "lesson": 5,
+      "korean": "출근",
+      "meaningVi": "Sự đi làm / Đi làm",
+      "krdictDefinitionVi": "Sự đi đến hoặc đến chỗ làm để làm việc.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "우리 회사의 출근 시간은 오전 9시다.",
+          "vi": "Giờ vào làm của công ty chúng tôi là 9 giờ sáng."
+        },
+        {
+          "index": 1,
+          "ko": "항상 출근을 먼저 하시는 과장님 덕분에 우리들도 덩달아 회사에 일찍 나왔다.",
+          "vi": "Nhờ trưởng phòng luôn đi làm sớm nhất, chúng tôi cũng theo đó mà đến công ty sớm."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_051",
+      "lesson": 5,
+      "korean": "출근하다",
+      "meaningVi": "Đi làm",
+      "krdictDefinitionVi": "Đi đến hoặc đến chỗ làm để làm việc.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "그는 중요한 일이 있다며 평소보다 서둘러 새벽에 공장으로 출근하였다.",
+          "vi": "Anh ấy nói có việc quan trọng nên vội vã hơn thường ngày và đi làm ở nhà máy từ sáng sớm."
+        },
+        {
+          "index": 1,
+          "ko": "서울 시내 도로는 아침만 되면 출근하는 사람들로 인해 늘 막히고 복잡하다.",
+          "vi": "Đường trong nội thành Seoul cứ đến buổi sáng là luôn tắc nghẽn và đông đúc vì người đi làm."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_052",
+      "lesson": 5,
+      "korean": "출발하다",
+      "meaningVi": "Xuất phát",
+      "krdictDefinitionVi": "Sự lên đường và hướng đến nơi nào đó.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "나는 늦잠을 자는 바람에 평소보다 집에서 늦게 출발했다.",
+          "vi": "Vì ngủ dậy muộn, tôi rời nhà muộn hơn thường ngày."
+        },
+        {
+          "index": 1,
+          "ko": "우리는 한국을 출발해서 미국에 오기까지 꼬박 열 시간 동안 비행기를 탔다.",
+          "vi": "Từ lúc rời Hàn Quốc đến khi đến Mỹ, chúng tôi đã bay trọn mười tiếng."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_053",
+      "lesson": 5,
+      "korean": "퇴근",
+      "meaningVi": "Sự tan tầm / Tan làm",
+      "krdictDefinitionVi": "Việc kết thúc công việc ở nơi làm việc và trở về nhà.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "우리 회사는 연봉은 낮아도 퇴근이 이르다는 장점이 있다.",
+          "vi": "Công ty chúng tôi có ưu điểm là tuy lương thấp nhưng tan làm sớm."
+        },
+        {
+          "index": 1,
+          "ko": "나의 출근 시간은 아침 9시이고 퇴근 시간은 오후 6시이다.",
+          "vi": "Giờ đi làm của tôi là 9 giờ sáng và giờ tan làm là 6 giờ chiều."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_054",
+      "lesson": 5,
+      "korean": "퇴근하다",
+      "meaningVi": "Tan làm",
+      "krdictDefinitionVi": "Kết thúc công việc ở nơi làm việc và trở về nhà.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "그는 나에게 힘내라는 눈짓을 보내고 먼저 퇴근했다.",
+          "vi": "Anh ấy ra hiệu bằng ánh mắt bảo tôi cố lên rồi tan làm trước."
+        },
+        {
+          "index": 1,
+          "ko": "민준이는 야근을 마치고 퇴근하며 고단한 하루를 마무리했다.",
+          "vi": "Minjun kết thúc ca làm thêm buổi tối, tan làm và khép lại một ngày mệt nhọc."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_055",
+      "lesson": 5,
+      "korean": "회사",
+      "meaningVi": "Công ty",
+      "krdictDefinitionVi": "Tổ chức pháp nhân mà nhiều người tập hợp lại làm ra nhằm tìm kiếm lợi nhuận thông qua việc kinh doanh.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "아버지는 할아버지가 경영하시던 의류 회사를 물려받았다.",
+          "vi": "Cha tôi kế thừa công ty may mặc mà ông nội từng điều hành."
+        },
+        {
+          "index": 1,
+          "ko": "나는 금융 회사로 자리를 옮기면서 고액의 연봉을 받게 되었다.",
+          "vi": "Khi chuyển sang làm ở công ty tài chính, tôi bắt đầu nhận được mức lương cao."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_056",
+      "lesson": 5,
+      "korean": "회의",
+      "meaningVi": "Cuộc họp",
+      "krdictDefinitionVi": "Việc nhiều người tụ tập lại và thảo luận. Hoặc tổ cuộc gặp gỡ như vậy.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "동생의 유학 문제를 의논하기 위해 우리 가족은 회의를 했다.",
+          "vi": "Gia đình tôi đã họp để bàn về chuyện du học của em tôi."
+        },
+        {
+          "index": 1,
+          "ko": "이번 사항은 임원 회의에서 결정된 것이라 변경이 불가능하다.",
+          "vi": "Vấn đề lần này đã được quyết định trong cuộc họp ban điều hành nên không thể thay đổi."
+        }
+      ]
+    },
+    {
+      "id": "VOC_L05_057",
+      "lesson": 5,
+      "korean": "후",
+      "meaningVi": "Sau / Sau khi",
+      "krdictDefinitionVi": "Sau khi thời gian trôi qua khoảng bao lâu đó.",
+      "examples": [
+        {
+          "index": 0,
+          "ko": "며칠 후, 우연히 우리는 선생님을 만났다.",
+          "vi": "Vài ngày sau, chúng tôi tình cờ gặp thầy giáo."
+        },
+        {
+          "index": 1,
+          "ko": "비가 그친 후에야 우리는 학교로 출발하였다.",
+          "vi": "Chỉ sau khi mưa tạnh, chúng tôi mới xuất phát đến trường."
+        }
+      ]
+    }
+  ]
+}

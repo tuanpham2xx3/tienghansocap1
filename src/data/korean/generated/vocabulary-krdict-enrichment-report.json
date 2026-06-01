@@ -1,0 +1,4091 @@
+{
+  "inputFile": "C:\\PROJECT\\tienghan_ck\\data\\tuvungsocap_1-8.json",
+  "outputFile": "C:\\PROJECT\\tienghan_ck\\src\\data\\korean\\generated\\vocabulary-krdict-enriched.json",
+  "generatedAt": "2026-05-31T17:21:19.131Z",
+  "summary": {
+    "total": 429,
+    "enriched": 382,
+    "notFound": 47,
+    "withImage": 78,
+    "withoutImage": 304,
+    "withExamples": 363,
+    "missingVietnameseExampleTranslation": 0,
+    "needsReview": 410,
+    "failed": 0
+  },
+  "reviewItems": [
+    {
+      "id": "VOC_L01_001",
+      "word": "관광 가이드",
+      "meaningVi": "Hướng dẫn viên du lịch",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"관광 가이드\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L01_002",
+      "word": "국어국문학과",
+      "meaningVi": "Khoa Quốc ngữ Quốc văn",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"국어국문학과\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L01_003",
+      "word": "국적",
+      "meaningVi": "Quốc tịch",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L01_004",
+      "word": "네",
+      "meaningVi": "Vâng / Dạ",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L01_005",
+      "word": "나라",
+      "meaningVi": "Đất nước / Quốc gia",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L01_007",
+      "word": "대학교",
+      "meaningVi": "Trường đại học",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L01_008",
+      "word": "대학생",
+      "meaningVi": "Sinh viên",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L01_014",
+      "word": "보기",
+      "meaningVi": "Ví dụ / Mẫu",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L01_015",
+      "word": "반갑습니다",
+      "meaningVi": "Rất vui được gặp",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L01_016",
+      "word": "사람",
+      "meaningVi": "Người",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L01_017",
+      "word": "선생님",
+      "meaningVi": "Giáo viên",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L01_018",
+      "word": "씨",
+      "meaningVi": "Anh/Chị/Bạn (Kính ngữ gọi tên)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L01_019",
+      "word": "아니요",
+      "meaningVi": "Không",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L01_020",
+      "word": "안녕하세요?",
+      "meaningVi": "Xin chào?",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"안녕하세요?\" candidates=0",
+        "query=\"안녕하세요\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L01_021",
+      "word": "안녕하십니까?",
+      "meaningVi": "Xin chào? (Trang trọng)",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"안녕하십니까?\" candidates=0",
+        "query=\"안녕하십니까\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L01_022",
+      "word": "안녕히 가세요.",
+      "meaningVi": "Đi bình an nhé (Chào người đi)",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"안녕히 가세요.\" candidates=0",
+        "query=\"안녕히 가세요\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L01_023",
+      "word": "안녕히 계세요.",
+      "meaningVi": "Ở lại bình an nhé (Chào người ở)",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"안녕히 계세요.\" candidates=0",
+        "query=\"안녕히 계세요\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L01_024",
+      "word": "약사",
+      "meaningVi": "Dược sĩ",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L01_026",
+      "word": "이",
+      "meaningVi": "Này / Người này",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L01_027",
+      "word": "이름",
+      "meaningVi": "Tên",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L01_028",
+      "word": "이메일",
+      "meaningVi": "Email",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L01_032",
+      "word": "저",
+      "meaningVi": "Tôi (Khiêm nhường)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L01_033",
+      "word": "제",
+      "meaningVi": "Của tôi (Khiêm nhường)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L01_034",
+      "word": "주소",
+      "meaningVi": "Địa chỉ",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L01_035",
+      "word": "주부",
+      "meaningVi": "Nội trợ",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L01_037",
+      "word": "직업",
+      "meaningVi": "Nghề nghiệp",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L01_038",
+      "word": "처음 뵙겠습니다.",
+      "meaningVi": "Rất hân hạnh lần đầu gặp mặt",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"처음 뵙겠습니다.\" candidates=0",
+        "query=\"처음 뵙겠습니다\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L01_042",
+      "word": "학과",
+      "meaningVi": "Khoa / Ngành học",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L01_043",
+      "word": "학번",
+      "meaningVi": "Mã số sinh viên",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L01_044",
+      "word": "학생",
+      "meaningVi": "Học sinh / Sinh viên",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L01_045",
+      "word": "학생증",
+      "meaningVi": "Thẻ học sinh / sinh viên",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L01_047",
+      "word": "한국어",
+      "meaningVi": "Tiếng Hàn",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L01_048",
+      "word": "한국어과",
+      "meaningVi": "Khoa Tiếng Hàn",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"한국어과\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L01_049",
+      "word": "회사원",
+      "meaningVi": "Nhân viên công ty",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L01_050",
+      "word": "은행원",
+      "meaningVi": "Nhân viên ngân hàng",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L01_051",
+      "word": "인사말",
+      "meaningVi": "Lời chào hỏi",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_001",
+      "word": "경찰서",
+      "meaningVi": "Đồn cảnh sát",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_002",
+      "word": "가게",
+      "meaningVi": "Cửa hàng",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_003",
+      "word": "가방",
+      "meaningVi": "Túi xách / Cặp xách",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_004",
+      "word": "강당",
+      "meaningVi": "Giảng đường / Hội trường",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_005",
+      "word": "강의실",
+      "meaningVi": "Phòng học (Đại học)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_006",
+      "word": "거기",
+      "meaningVi": "Chỗ đó",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_007",
+      "word": "공책",
+      "meaningVi": "Quyển vở",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_008",
+      "word": "교실",
+      "meaningVi": "Phòng học",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_009",
+      "word": "그것",
+      "meaningVi": "Cái đó",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_010",
+      "word": "극장",
+      "meaningVi": "Nhà hát / Rạp phim",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_011",
+      "word": "도서관",
+      "meaningVi": "Thư viện",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_012",
+      "word": "동아리방",
+      "meaningVi": "Phòng sinh hoạt câu lạc bộ",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"동아리방\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L02_013",
+      "word": "라디오",
+      "meaningVi": "Đài radio",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_014",
+      "word": "랩실(어학실)",
+      "meaningVi": "Phòng thực hành ngoại ngữ",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"랩실(어학실)\" candidates=0",
+        "query=\"랩실\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L02_015",
+      "word": "많이",
+      "meaningVi": "Nhiều",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_017",
+      "word": "무엇",
+      "meaningVi": "Cái gì",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_018",
+      "word": "문",
+      "meaningVi": "Cánh cửa",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_019",
+      "word": "미용실",
+      "meaningVi": "Tiệm làm tóc",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_020",
+      "word": "백화점",
+      "meaningVi": "Trung tâm thương mại",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_021",
+      "word": "병원",
+      "meaningVi": "Bệnh viện",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_022",
+      "word": "사무실",
+      "meaningVi": "Văn phòng",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_023",
+      "word": "사전",
+      "meaningVi": "Từ điển",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_024",
+      "word": "서점",
+      "meaningVi": "Hiệu sách",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_025",
+      "word": "세미나실",
+      "meaningVi": "Phòng hội thảo",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"세미나실\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L02_026",
+      "word": "식당",
+      "meaningVi": "Nhà ăn / Quán ăn",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_027",
+      "word": "시계",
+      "meaningVi": "Đồng hồ",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_028",
+      "word": "약국",
+      "meaningVi": "Hiệu thuốc",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_029",
+      "word": "어디",
+      "meaningVi": "Ở đâu",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_030",
+      "word": "없다",
+      "meaningVi": "Không có",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_031",
+      "word": "여기",
+      "meaningVi": "Chỗ này / Đây",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_032",
+      "word": "우체국",
+      "meaningVi": "Bưu điện",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_033",
+      "word": "운동장",
+      "meaningVi": "Sân vận động",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_034",
+      "word": "의자",
+      "meaningVi": "Cái ghế",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_035",
+      "word": "이것",
+      "meaningVi": "Cái này",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_036",
+      "word": "은행",
+      "meaningVi": "Ngân hàng",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_037",
+      "word": "은행원",
+      "meaningVi": "Nhân viên ngân hàng",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_038",
+      "word": "있다",
+      "meaningVi": "Có / Ở",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_039",
+      "word": "장소",
+      "meaningVi": "Địa điểm",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_040",
+      "word": "저것",
+      "meaningVi": "Cái kia",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_041",
+      "word": "저기",
+      "meaningVi": "Chỗ kia",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_042",
+      "word": "전화",
+      "meaningVi": "Điện thoại",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_043",
+      "word": "체육관",
+      "meaningVi": "Nhà thi đấu",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_044",
+      "word": "창문",
+      "meaningVi": "Cửa sổ",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_045",
+      "word": "책상",
+      "meaningVi": "Bàn học",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_046",
+      "word": "칠판",
+      "meaningVi": "Bảng đen",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_047",
+      "word": "텔레비전",
+      "meaningVi": "Tivi",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_048",
+      "word": "펜",
+      "meaningVi": "Cây bút",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_049",
+      "word": "필통",
+      "meaningVi": "Hộp bút",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_050",
+      "word": "학교",
+      "meaningVi": "Trường học",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_051",
+      "word": "학교 시설",
+      "meaningVi": "Cơ sở vật chất trường học",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"학교 시설\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L02_052",
+      "word": "학생 식당",
+      "meaningVi": "Nhà ăn học sinh",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"학생 식당\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L02_053",
+      "word": "화장실",
+      "meaningVi": "Nhà vệ sinh",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_054",
+      "word": "휴게실",
+      "meaningVi": "Phòng nghỉ",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L02_055",
+      "word": "휴대전화",
+      "meaningVi": "Điện thoại di động",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_001",
+      "word": "가다",
+      "meaningVi": "Đi",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_002",
+      "word": "공부하다",
+      "meaningVi": "Học bài",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_003",
+      "word": "공원",
+      "meaningVi": "Công viên",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_004",
+      "word": "나쁘다",
+      "meaningVi": "Xấu / Tồi tệ",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_005",
+      "word": "노래",
+      "meaningVi": "Bài hát",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_006",
+      "word": "누구",
+      "meaningVi": "Ai",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_007",
+      "word": "대한빌딩",
+      "meaningVi": "Tòa nhà Dae Han",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"대한빌딩\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L03_008",
+      "word": "듣다",
+      "meaningVi": "Nghe",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_009",
+      "word": "마시다",
+      "meaningVi": "Uống",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_010",
+      "word": "만나다",
+      "meaningVi": "Gặp gỡ",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_011",
+      "word": "많다",
+      "meaningVi": "Nhiều",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_012",
+      "word": "먹다",
+      "meaningVi": "Ăn",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_013",
+      "word": "무엇",
+      "meaningVi": "Cái gì",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_014",
+      "word": "방",
+      "meaningVi": "Phòng / Căn phòng",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_015",
+      "word": "보다",
+      "meaningVi": "Xem / Nhìn",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_016",
+      "word": "사과",
+      "meaningVi": "Quả táo / Lời xin lỗi",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_017",
+      "word": "사다",
+      "meaningVi": "Mua",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_018",
+      "word": "산책하다",
+      "meaningVi": "Đi dạo",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_019",
+      "word": "쇼핑하다",
+      "meaningVi": "Mua sắm",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_020",
+      "word": "쉬다",
+      "meaningVi": "Nghỉ / Nghỉ ngơi",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_021",
+      "word": "식사하다",
+      "meaningVi": "Dùng bữa",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_022",
+      "word": "신문",
+      "meaningVi": "Báo / Tờ báo",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_023",
+      "word": "시장",
+      "meaningVi": "Chợ",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_024",
+      "word": "시내",
+      "meaningVi": "Trung tâm thành phố",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_025",
+      "word": "아이스크림",
+      "meaningVi": "Kem",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_026",
+      "word": "빵",
+      "meaningVi": "Bánh mì / Bánh mì tươi",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_027",
+      "word": "아주",
+      "meaningVi": "Rất",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_028",
+      "word": "어디",
+      "meaningVi": "Đâu / Ở đâu",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_029",
+      "word": "언제",
+      "meaningVi": "Khi nào / Bao giờ",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_030",
+      "word": "여행",
+      "meaningVi": "Du lịch",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_031",
+      "word": "우유",
+      "meaningVi": "Sữa",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_032",
+      "word": "영화",
+      "meaningVi": "Phim",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_033",
+      "word": "오다",
+      "meaningVi": "Đến",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_034",
+      "word": "위",
+      "meaningVi": "Trên / Phía trên",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_035",
+      "word": "음악",
+      "meaningVi": "Âm nhạc",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_036",
+      "word": "의문대명사",
+      "meaningVi": "Đại từ nghi vấn",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_037",
+      "word": "이야기하다",
+      "meaningVi": "Nói chuyện",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_038",
+      "word": "일하다",
+      "meaningVi": "Làm việc",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_039",
+      "word": "읽다",
+      "meaningVi": "Đọc",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_040",
+      "word": "자다",
+      "meaningVi": "Ngủ",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_041",
+      "word": "자주",
+      "meaningVi": "Thường xuyên / Hay",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_042",
+      "word": "작다",
+      "meaningVi": "Nhỏ / Bé",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_043",
+      "word": "재미없다",
+      "meaningVi": "Không hay / Nhàm chán",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_044",
+      "word": "재미있다",
+      "meaningVi": "Hay / Thú vị",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_045",
+      "word": "적다",
+      "meaningVi": "Ít",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_046",
+      "word": "전화하다",
+      "meaningVi": "Gọi điện thoại",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_047",
+      "word": "축구를 하다",
+      "meaningVi": "Đá bóng",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_048",
+      "word": "좋다",
+      "meaningVi": "Tốt",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_049",
+      "word": "좋아하다",
+      "meaningVi": "Thích",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_050",
+      "word": "지금",
+      "meaningVi": "Bây giờ",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_051",
+      "word": "차",
+      "meaningVi": "Trà / Xe hơi",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_052",
+      "word": "친구",
+      "meaningVi": "Bạn / Bạn bè",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_053",
+      "word": "커피",
+      "meaningVi": "Cà phê",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_054",
+      "word": "크다",
+      "meaningVi": "To / Lớn",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_055",
+      "word": "형용사",
+      "meaningVi": "Tính từ (Ngữ pháp)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_056",
+      "word": "운동하다",
+      "meaningVi": "Tập thể dục / Chơi thể thao",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_057",
+      "word": "카페",
+      "meaningVi": "Quán cà phê",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L03_058",
+      "word": "헬스클럽",
+      "meaningVi": "Câu lạc bộ thể dục thể thao / Gym",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_001",
+      "word": "계획표",
+      "meaningVi": "Bảng kế hoạch",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_002",
+      "word": "구경하다",
+      "meaningVi": "Ngắm cảnh / Tham quan",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_003",
+      "word": "강사",
+      "meaningVi": "Giảng viên",
+      "status": "enriched",
+      "notes": [
+        "Nhiều candidate gần điểm nhau; cần review sense",
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_004",
+      "word": "그리고",
+      "meaningVi": "Và / Rồi",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_005",
+      "word": "그저께",
+      "meaningVi": "Hôm kia",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_006",
+      "word": "내일",
+      "meaningVi": "Ngày mai",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_007",
+      "word": "년",
+      "meaningVi": "Năm",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_008",
+      "word": "다음달",
+      "meaningVi": "Tháng sau",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"다음달\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L04_009",
+      "word": "다음주",
+      "meaningVi": "Tuần sau",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"다음주\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L04_010",
+      "word": "다음 해(내년)",
+      "meaningVi": "Năm sau",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"다음 해(내년)\" candidates=0",
+        "query=\"다음 해\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L04_011",
+      "word": "등산",
+      "meaningVi": "Sự leo núi",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_012",
+      "word": "명절",
+      "meaningVi": "Ngày lễ tết",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_013",
+      "word": "모레",
+      "meaningVi": "Ngày kia",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_014",
+      "word": "월요일",
+      "meaningVi": "Thứ hai",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_015",
+      "word": "화요일",
+      "meaningVi": "Thứ ba",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_016",
+      "word": "수요일",
+      "meaningVi": "Thứ tư",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_017",
+      "word": "목요일",
+      "meaningVi": "Thứ năm",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_018",
+      "word": "금요일",
+      "meaningVi": "Thứ sáu",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_019",
+      "word": "토요일",
+      "meaningVi": "Thứ bảy",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_020",
+      "word": "일요일",
+      "meaningVi": "Chủ nhật",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_021",
+      "word": "숙제",
+      "meaningVi": "Bài tập về nhà",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_022",
+      "word": "시",
+      "meaningVi": "Giờ",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_023",
+      "word": "시험",
+      "meaningVi": "Kỳ thi",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_024",
+      "word": "아름답다",
+      "meaningVi": "Đẹp",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_025",
+      "word": "아르바이트",
+      "meaningVi": "Công việc làm thêm",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_026",
+      "word": "안내",
+      "meaningVi": "Sự hướng dẫn / Thông báo",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_027",
+      "word": "어제",
+      "meaningVi": "Hôm qua",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_028",
+      "word": "오늘",
+      "meaningVi": "Hôm nay",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_029",
+      "word": "오월",
+      "meaningVi": "Tháng 5",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_030",
+      "word": "요일",
+      "meaningVi": "Thứ (trong tuần)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_031",
+      "word": "월",
+      "meaningVi": "Tháng",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_032",
+      "word": "유월",
+      "meaningVi": "Tháng 6",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_033",
+      "word": "이월",
+      "meaningVi": "Tháng 2",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_034",
+      "word": "이번달",
+      "meaningVi": "Tháng này",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"이번달\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L04_035",
+      "word": "이번주",
+      "meaningVi": "Tuần này",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"이번주\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L04_036",
+      "word": "일",
+      "meaningVi": "Ngày (đơn vị ngày-tháng-năm) / Công việc",
+      "status": "enriched",
+      "notes": [
+        "Nhiều candidate gần điểm nhau; cần review sense",
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_037",
+      "word": "일월",
+      "meaningVi": "Tháng 1",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_038",
+      "word": "지난해(작년)",
+      "meaningVi": "Năm trước / Năm ngoái",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_039",
+      "word": "올해(금년)",
+      "meaningVi": "Năm nay",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_040",
+      "word": "지난달",
+      "meaningVi": "Tháng trước",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_041",
+      "word": "지난주",
+      "meaningVi": "Tuần trước",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_042",
+      "word": "칠월",
+      "meaningVi": "Tháng 7",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_043",
+      "word": "파티를 하다.",
+      "meaningVi": "Tổ chức tiệc",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"파티를 하다.\" candidates=0",
+        "query=\"파티를 하다\" candidates=0",
+        "query=\"파티하다\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L04_044",
+      "word": "팔월",
+      "meaningVi": "Tháng 8",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_045",
+      "word": "평일(주중)",
+      "meaningVi": "Ngày thường (trong tuần)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_046",
+      "word": "주말",
+      "meaningVi": "Cuối tuần",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_048",
+      "word": "형용사",
+      "meaningVi": "Tính từ",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_049",
+      "word": "휴가",
+      "meaningVi": "Kỳ nghỉ",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_050",
+      "word": "회의하다",
+      "meaningVi": "Họp",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_051",
+      "word": "구월",
+      "meaningVi": "Tháng 9",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_052",
+      "word": "시월",
+      "meaningVi": "Tháng 10",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_053",
+      "word": "십이월",
+      "meaningVi": "Tháng 12",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_054",
+      "word": "십일월",
+      "meaningVi": "Tháng 11",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_055",
+      "word": "삼월",
+      "meaningVi": "Tháng 3",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_056",
+      "word": "사월",
+      "meaningVi": "Tháng 4",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_058",
+      "word": "생일 파티",
+      "meaningVi": "Tiệc sinh nhật",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"생일 파티\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L04_059",
+      "word": "졸업하다",
+      "meaningVi": "Tốt nghiệp",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_060",
+      "word": "전화번호",
+      "meaningVi": "Số điện thoại",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_061",
+      "word": "층",
+      "meaningVi": "Tầng",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L04_062",
+      "word": "커피숍",
+      "meaningVi": "Quán cà phê",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_001",
+      "word": "고향",
+      "meaningVi": "Quê hương",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_002",
+      "word": "공항",
+      "meaningVi": "Sân bay",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_003",
+      "word": "겨울",
+      "meaningVi": "Mùa đông",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_004",
+      "word": "끝나다",
+      "meaningVi": "Kết thúc",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_005",
+      "word": "남",
+      "meaningVi": "Người khác / Hướng nam",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_006",
+      "word": "남자",
+      "meaningVi": "Đàn ông",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_007",
+      "word": "날",
+      "meaningVi": "Ngày",
+      "status": "enriched",
+      "notes": [
+        "Nhiều candidate gần điểm nhau; cần review sense",
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_008",
+      "word": "내다",
+      "meaningVi": "Nộp / Chi trả",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_009",
+      "word": "다니다",
+      "meaningVi": "Đi lại thường xuyên (đi học/đi làm)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_010",
+      "word": "낮",
+      "meaningVi": "Ban ngày",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_011",
+      "word": "밤",
+      "meaningVi": "Ban đêm",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_012",
+      "word": "받다",
+      "meaningVi": "Nhận",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_013",
+      "word": "밥",
+      "meaningVi": "Cơm / Bữa ăn",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_014",
+      "word": "부모님",
+      "meaningVi": "Bố mẹ (kính ngữ)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_015",
+      "word": "아버지",
+      "meaningVi": "Bố / Cha",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_016",
+      "word": "어머니",
+      "meaningVi": "Mẹ",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_017",
+      "word": "형",
+      "meaningVi": "Anh trai (nam gọi)",
+      "status": "enriched",
+      "notes": [
+        "Nhiều candidate gần điểm nhau; cần review sense",
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_018",
+      "word": "오빠",
+      "meaningVi": "Anh trai (nữ gọi)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_019",
+      "word": "누나",
+      "meaningVi": "Chị gái (nam gọi)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_020",
+      "word": "언니",
+      "meaningVi": "Chị gái (nữ gọi)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_021",
+      "word": "남동생",
+      "meaningVi": "Em trai",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_022",
+      "word": "여동생",
+      "meaningVi": "Em gái",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_023",
+      "word": "배우다",
+      "meaningVi": "Học",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_024",
+      "word": "분(시간)",
+      "meaningVi": "Phút",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_025",
+      "word": "새벽",
+      "meaningVi": "Rạng sáng",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_026",
+      "word": "수업",
+      "meaningVi": "Giờ học / Buổi học / Tiết học",
+      "status": "enriched",
+      "notes": [
+        "Nhiều candidate gần điểm nhau; cần review sense",
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_027",
+      "word": "시작하다",
+      "meaningVi": "Bắt đầu",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_028",
+      "word": "시험을 보다",
+      "meaningVi": "Thi / Làm bài thi",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"시험을 보다\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L05_029",
+      "word": "숙제하다",
+      "meaningVi": "Làm bài tập về nhà",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_030",
+      "word": "여자",
+      "meaningVi": "Phụ nữ",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_031",
+      "word": "영문과",
+      "meaningVi": "Khoa Ngữ văn Anh",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"영문과\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L05_032",
+      "word": "영어",
+      "meaningVi": "Tiếng Anh",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_033",
+      "word": "오전",
+      "meaningVi": "Buổi sáng (AM)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_034",
+      "word": "오후",
+      "meaningVi": "Buổi chiều (PM)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_035",
+      "word": "외식하다",
+      "meaningVi": "Ăn ngoài",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_036",
+      "word": "인터넷",
+      "meaningVi": "Internet",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_037",
+      "word": "일기",
+      "meaningVi": "Nhật ký",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_038",
+      "word": "일어나다",
+      "meaningVi": "Thức dậy",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_039",
+      "word": "이를 닦다",
+      "meaningVi": "Đánh răng",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"이를 닦다\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L05_040",
+      "word": "세수하다",
+      "meaningVi": "Rửa mặt",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_041",
+      "word": "읽다",
+      "meaningVi": "Đọc",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_042",
+      "word": "자다",
+      "meaningVi": "Ngủ",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_043",
+      "word": "아침(시간)",
+      "meaningVi": "Buổi sáng (cũng có thể chỉ bữa sáng)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_044",
+      "word": "점심(시간)",
+      "meaningVi": "Buổi trưa (cũng có thể chỉ bữa trưa)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_045",
+      "word": "저녁(시간)",
+      "meaningVi": "Buổi tối (cũng có thể chỉ bữa tối)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_046",
+      "word": "청소하다",
+      "meaningVi": "Dọn dẹp vệ sinh",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_047",
+      "word": "목욕하다",
+      "meaningVi": "Tắm",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_048",
+      "word": "초",
+      "meaningVi": "Giây",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_049",
+      "word": "3시 10분 50초",
+      "meaningVi": "3 giờ 10 phút 50 giây (đọc giờ)",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"3시 10분 50초\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L05_050",
+      "word": "출근",
+      "meaningVi": "Sự đi làm / Đi làm",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_051",
+      "word": "출근하다",
+      "meaningVi": "Đi làm",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_052",
+      "word": "출발하다",
+      "meaningVi": "Xuất phát",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_053",
+      "word": "퇴근",
+      "meaningVi": "Sự tan tầm / Tan làm",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_054",
+      "word": "퇴근하다",
+      "meaningVi": "Tan làm",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_055",
+      "word": "회사",
+      "meaningVi": "Công ty",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_056",
+      "word": "회의",
+      "meaningVi": "Cuộc họp",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_057",
+      "word": "후",
+      "meaningVi": "Sau / Sau khi",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L05_058",
+      "word": "PC방",
+      "meaningVi": "Quán net / Phòng máy tính công cộng",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"PC방\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L06_001",
+      "word": "가수",
+      "meaningVi": "Ca sĩ",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_002",
+      "word": "갈비",
+      "meaningVi": "Món Galbi (sườn nướng)",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_003",
+      "word": "개",
+      "meaningVi": "Con chó",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_004",
+      "word": "고양이",
+      "meaningVi": "Con mèo",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_005",
+      "word": "골프",
+      "meaningVi": "Golf",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_006",
+      "word": "공포 영화",
+      "meaningVi": "Phim kinh dị",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"공포 영화\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L06_007",
+      "word": "과일",
+      "meaningVi": "Trái cây",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_008",
+      "word": "김밥",
+      "meaningVi": "Món Kimbap (cơm cuộn lá kim)",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_009",
+      "word": "구두",
+      "meaningVi": "Giày da",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_010",
+      "word": "나무",
+      "meaningVi": "Cây",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_011",
+      "word": "낚시",
+      "meaningVi": "Sự câu cá",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_012",
+      "word": "동물",
+      "meaningVi": "Động vật",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_013",
+      "word": "드라마",
+      "meaningVi": "Phim truyền hình",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_014",
+      "word": "딸기",
+      "meaningVi": "Quả dâu",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_015",
+      "word": "등산하다",
+      "meaningVi": "Leo núi",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_016",
+      "word": "라면",
+      "meaningVi": "Mì gói",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_017",
+      "word": "모자",
+      "meaningVi": "Cái mũ / Nón",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_018",
+      "word": "바다",
+      "meaningVi": "Biển",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_019",
+      "word": "바지",
+      "meaningVi": "Quần",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_020",
+      "word": "배(과일)",
+      "meaningVi": "Quả lê / Bụng / Tàu thuyền",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_021",
+      "word": "배구",
+      "meaningVi": "Bóng chuyền",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_022",
+      "word": "보내다",
+      "meaningVi": "Gửi / Trải qua (thời gian)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_023",
+      "word": "비빔밥",
+      "meaningVi": "Cơm trộn",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_024",
+      "word": "불고기",
+      "meaningVi": "Món Bulgogi",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_025",
+      "word": "산책",
+      "meaningVi": "Sự đi dạo",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_026",
+      "word": "산책하다",
+      "meaningVi": "Đi dạo",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_027",
+      "word": "새",
+      "meaningVi": "Chim",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_028",
+      "word": "쇼핑하다",
+      "meaningVi": "Mua sắm",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_029",
+      "word": "수영하다",
+      "meaningVi": "Bơi lội",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_030",
+      "word": "쉬다",
+      "meaningVi": "Nghỉ ngơi",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_031",
+      "word": "싫어하다",
+      "meaningVi": "Ghét",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_032",
+      "word": "액션 영화",
+      "meaningVi": "Phim hành động",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"액션 영화\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L06_033",
+      "word": "야구",
+      "meaningVi": "Bóng chày",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_034",
+      "word": "여행하다",
+      "meaningVi": "Đi du lịch",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_035",
+      "word": "영화를 보다.",
+      "meaningVi": "Xem phim",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"영화를 보다.\" candidates=0",
+        "query=\"영화를 보다\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L06_036",
+      "word": "요리하다",
+      "meaningVi": "Nấu ăn",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_037",
+      "word": "일찍",
+      "meaningVi": "Sớm",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_038",
+      "word": "책을 읽다.",
+      "meaningVi": "Đọc sách",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"책을 읽다.\" candidates=0",
+        "query=\"책을 읽다\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L06_039",
+      "word": "춤을 추다",
+      "meaningVi": "Nhảy múa",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"춤을 추다\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L06_040",
+      "word": "치다",
+      "meaningVi": "Đánh (chơi thể thao, đàn)",
+      "status": "enriched",
+      "notes": [
+        "Nhiều candidate gần điểm nhau; cần review sense",
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_041",
+      "word": "치마",
+      "meaningVi": "Váy",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_042",
+      "word": "친구를 만나다.",
+      "meaningVi": "Gặp bạn",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"친구를 만나다.\" candidates=0",
+        "query=\"친구를 만나다\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L06_043",
+      "word": "테니스",
+      "meaningVi": "Tennis",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_044",
+      "word": "포도",
+      "meaningVi": "Nho",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_045",
+      "word": "피곤하다",
+      "meaningVi": "Mệt mỏi",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L06_046",
+      "word": "빨래하다",
+      "meaningVi": "Giặt giũ",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_001",
+      "word": "개(단위)",
+      "meaningVi": "Cái / Quả (Đơn vị đếm chung)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_002",
+      "word": "과자",
+      "meaningVi": "Bánh quy / Bánh snack",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_003",
+      "word": "권(단위)",
+      "meaningVi": "Quyển / Cuốn (Đếm sách vở)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_004",
+      "word": "귤",
+      "meaningVi": "Quả quýt",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_005",
+      "word": "대(단위)",
+      "meaningVi": "Chiếc (Đếm máy móc, xe cộ)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_006",
+      "word": "디자인",
+      "meaningVi": "Thiết kế",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_007",
+      "word": "마리",
+      "meaningVi": "Con (Đếm động vật)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_008",
+      "word": "마트",
+      "meaningVi": "Siêu thị (Mart)",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_009",
+      "word": "망고",
+      "meaningVi": "Quả xoài",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_010",
+      "word": "명(단위)",
+      "meaningVi": "Người",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_011",
+      "word": "문구점",
+      "meaningVi": "Cửa hàng văn phòng phẩm",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_012",
+      "word": "병(단위)",
+      "meaningVi": "Chai / Lọ",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_013",
+      "word": "생선",
+      "meaningVi": "Cá (làm thực phẩm)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_014",
+      "word": "세일",
+      "meaningVi": "Sự giảm giá (Sale)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_015",
+      "word": "소설책",
+      "meaningVi": "Sách tiểu thuyết",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_016",
+      "word": "수박",
+      "meaningVi": "Dưa hấu",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_017",
+      "word": "채소",
+      "meaningVi": "Rau (củ quả)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_018",
+      "word": "전자상가",
+      "meaningVi": "Khu thương mại đồ điện tử",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"전자상가\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L07_019",
+      "word": "음료수",
+      "meaningVi": "Thức uống / Nước giải khát",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_020",
+      "word": "옷",
+      "meaningVi": "Quần áo",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_021",
+      "word": "주스",
+      "meaningVi": "Nước ép / Nước hoa quả",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_022",
+      "word": "주인",
+      "meaningVi": "Chủ cửa hàng / Chủ nhà",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_023",
+      "word": "카메라",
+      "meaningVi": "Máy ảnh",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_024",
+      "word": "켤레",
+      "meaningVi": "Đôi (Đếm tất, giày dép)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_025",
+      "word": "티셔츠",
+      "meaningVi": "Áo phông / Áo thun",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_026",
+      "word": "잔",
+      "meaningVi": "Ly / Cốc",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_027",
+      "word": "장",
+      "meaningVi": "Tấm / Tờ (Đếm giấy, vé)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_028",
+      "word": "찾다",
+      "meaningVi": "Tìm",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_029",
+      "word": "비싸다",
+      "meaningVi": "Đắt",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_030",
+      "word": "싸다",
+      "meaningVi": "Rẻ",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_031",
+      "word": "깎다",
+      "meaningVi": "Bớt giá / Giảm (giá)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_032",
+      "word": "드리다",
+      "meaningVi": "Cho / Tặng (Kính ngữ của 주다)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_033",
+      "word": "어서 오세요.",
+      "meaningVi": "Xin mời vào.",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"어서 오세요.\" candidates=0",
+        "query=\"어서 오세요\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L07_034",
+      "word": "무얼 찾으세요?",
+      "meaningVi": "Anh/chị tìm gì ạ?",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"무얼 찾으세요?\" candidates=0",
+        "query=\"무얼 찾으세요\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L07_035",
+      "word": "( )이/가 있어요?",
+      "meaningVi": "Có (…) không ạ?",
+      "status": "enriched",
+      "notes": [
+        "Nhiều candidate gần điểm nhau; cần review sense",
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_036",
+      "word": "( )이/가 어때요?",
+      "meaningVi": "(…) thế nào ạ?",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L07_037",
+      "word": "이거 얼마예요?",
+      "meaningVi": "Cái này giá bao nhiêu ạ?",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"이거 얼마예요?\" candidates=0",
+        "query=\"이거 얼마예요\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L07_038",
+      "word": "10,000원이에요.",
+      "meaningVi": "10.000 won ạ.",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"10,000원이에요.\" candidates=0",
+        "query=\"10,000원이에요\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L07_039",
+      "word": "이거 두 개 주세요.",
+      "meaningVi": "Cái này cho hai cái ạ.",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"이거 두 개 주세요.\" candidates=0",
+        "query=\"이거 두 개 주세요\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L07_040",
+      "word": "여기 있어요.",
+      "meaningVi": "Ở đây ạ. / Đây ạ.",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"여기 있어요.\" candidates=0",
+        "query=\"여기 있어요\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L07_041",
+      "word": "너무 비싸요.",
+      "meaningVi": "Đắt quá.",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"너무 비싸요.\" candidates=0",
+        "query=\"너무 비싸요\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L07_042",
+      "word": "깎아 주세요.",
+      "meaningVi": "Xin bớt giá ạ.",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"깎아 주세요.\" candidates=0",
+        "query=\"깎아 주세요\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L07_043",
+      "word": "8,000원에 드릴게요.",
+      "meaningVi": "Tôi lấy 8.000 won thôi nhé.",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"8,000원에 드릴게요.\" candidates=0",
+        "query=\"8,000원에 드릴게요\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L07_044",
+      "word": "싸게 해 주세요.",
+      "meaningVi": "Bán rẻ giúp tôi ạ.",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"싸게 해 주세요.\" candidates=0",
+        "query=\"싸게 해 주세요\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L07_045",
+      "word": "다음에 또 오세요.",
+      "meaningVi": "Mời lần sau lại ghé ạ.",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"다음에 또 오세요.\" candidates=0",
+        "query=\"다음에 또 오세요\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L08_001",
+      "word": "계산서",
+      "meaningVi": "Hóa đơn thanh toán",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_002",
+      "word": "계산하다",
+      "meaningVi": "Tính tiền / Thanh toán",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_003",
+      "word": "고추",
+      "meaningVi": "Quả ớt",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_004",
+      "word": "국",
+      "meaningVi": "Canh",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_005",
+      "word": "금연석",
+      "meaningVi": "Khu vực cấm hút thuốc",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_006",
+      "word": "김치",
+      "meaningVi": "Kim chi",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_007",
+      "word": "김치찌개",
+      "meaningVi": "Canh hầm kim chi",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_008",
+      "word": "냉면",
+      "meaningVi": "Mì lạnh",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_009",
+      "word": "녹차",
+      "meaningVi": "Trà xanh",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_010",
+      "word": "달다",
+      "meaningVi": "Ngọt",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_011",
+      "word": "된장찌개",
+      "meaningVi": "Canh tương đậu",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_012",
+      "word": "드시다",
+      "meaningVi": "Ăn / Uống (Kính ngữ)",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"드시다\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L08_013",
+      "word": "떡",
+      "meaningVi": "Bánh gạo",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_014",
+      "word": "떡볶이",
+      "meaningVi": "Bánh gạo xào cay (Tteokbokki)",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_015",
+      "word": "라면",
+      "meaningVi": "Mì ăn liền",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_016",
+      "word": "레몬",
+      "meaningVi": "Chanh",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_017",
+      "word": "맛없다",
+      "meaningVi": "Không ngon",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_018",
+      "word": "맛있게",
+      "meaningVi": "Một cách ngon miệng",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"맛있게\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L08_019",
+      "word": "맛있다",
+      "meaningVi": "Ngon",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_020",
+      "word": "맵다",
+      "meaningVi": "Cay",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_021",
+      "word": "메뉴",
+      "meaningVi": "Thực đơn",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_022",
+      "word": "물",
+      "meaningVi": "Nước",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_023",
+      "word": "반찬",
+      "meaningVi": "Món ăn phụ / Đồ ăn kèm",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_024",
+      "word": "볶음밥",
+      "meaningVi": "Cơm chiên / Cơm rang",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_025",
+      "word": "병",
+      "meaningVi": "Chai",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_026",
+      "word": "보통",
+      "meaningVi": "Bình thường",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_027",
+      "word": "삼겹살",
+      "meaningVi": "Thịt lợn ba chỉ",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_028",
+      "word": "삼계탕",
+      "meaningVi": "Gà hầm sâm",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_029",
+      "word": "소금",
+      "meaningVi": "Muối",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_030",
+      "word": "손님",
+      "meaningVi": "Khách hàng",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_031",
+      "word": "숟가락",
+      "meaningVi": "Cái thìa / Muỗng",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_032",
+      "word": "시다",
+      "meaningVi": "Chua",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_033",
+      "word": "싱겁다",
+      "meaningVi": "Nhạt",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_034",
+      "word": "쓰다(맛)",
+      "meaningVi": "Đắng",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_035",
+      "word": "영수증",
+      "meaningVi": "Biên lai / Hóa đơn",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_036",
+      "word": "어서",
+      "meaningVi": "Nhanh lên / Xin mời",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_037",
+      "word": "여러",
+      "meaningVi": "Nhiều / Các loại",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_038",
+      "word": "음식",
+      "meaningVi": "Thức ăn",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_039",
+      "word": "인삼차",
+      "meaningVi": "Trà nhân sâm",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_040",
+      "word": "잠깐만",
+      "meaningVi": "Một chút / Một lát",
+      "status": "not_found",
+      "notes": [
+        "KRDICT search không trả candidate exact phù hợp",
+        "query=\"잠깐만\" candidates=0"
+      ]
+    },
+    {
+      "id": "VOC_L08_041",
+      "word": "젓가락",
+      "meaningVi": "Đôi đũa",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_042",
+      "word": "종업원",
+      "meaningVi": "Nhân viên phục vụ",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_043",
+      "word": "주문하다",
+      "meaningVi": "Gọi món / Đặt hàng",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_044",
+      "word": "조금",
+      "meaningVi": "Một chút",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_045",
+      "word": "좀",
+      "meaningVi": "Một chút (Dạng rút gọn của 조금)",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_046",
+      "word": "주다",
+      "meaningVi": "Cho",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_047",
+      "word": "짜다",
+      "meaningVi": "Mặn",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_048",
+      "word": "테이블",
+      "meaningVi": "Cái bàn",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_049",
+      "word": "특히",
+      "meaningVi": "Đặc biệt là",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_050",
+      "word": "항상",
+      "meaningVi": "Luôn luôn",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_051",
+      "word": "콜라",
+      "meaningVi": "Nước ngọt Cola",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_052",
+      "word": "케이크",
+      "meaningVi": "Bánh kem",
+      "status": "enriched",
+      "notes": [
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    },
+    {
+      "id": "VOC_L08_053",
+      "word": "남편",
+      "meaningVi": "Chồng",
+      "status": "enriched",
+      "notes": [
+        "KRDICT không cung cấp ảnh phù hợp",
+        "Câu ví dụ KRDICT chưa có bản dịch Việt; cần agent dịch trước khi dùng cho flashcard"
+      ]
+    }
+  ],
+  "failedItems": [],
+  "exampleTranslation": {
+    "translatedAt": "2026-05-31T17:39:13.692Z",
+    "source": "agent_vi",
+    "translatedExamples": 726,
+    "batchFiles": [
+      "src/data/korean/generated/krdict-translation-batches/L01-L02.json",
+      "src/data/korean/generated/krdict-translation-batches/L03-L05.json",
+      "src/data/korean/generated/krdict-translation-batches/L06-L08.json"
+    ],
+    "reviewerFixesApplied": 5
+  }
+}
