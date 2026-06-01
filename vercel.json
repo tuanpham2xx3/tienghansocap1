@@ -1,0 +1,44 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/fe_web/index.html"
+    },
+    {
+      "source": "/index.html",
+      "destination": "/fe_web/index.html"
+    },
+    {
+      "source": "/vocabulary.html",
+      "destination": "/fe_web/vocabulary.html"
+    },
+    {
+      "source": "/grammar.html",
+      "destination": "/fe_web/grammar.html"
+    },
+    {
+      "source": "/exam-start.html",
+      "destination": "/fe_web/exam-start.html"
+    },
+    {
+      "source": "/exam.html",
+      "destination": "/fe_web/exam.html"
+    },
+    {
+      "source": "/app.js",
+      "destination": "/fe_web/app.js"
+    },
+    {
+      "source": "/vocabulary.js",
+      "destination": "/fe_web/vocabulary.js"
+    },
+    {
+      "source": "/grammar.js",
+      "destination": "/fe_web/grammar.js"
+    },
+    {
+      "source": "/exam-start.js",
+      "destination": "/fe_web/exam-start.js"
+    }
+  ]
+}

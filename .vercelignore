@@ -1,0 +1,10 @@
+.agents/
+gen_questions/
+test-results/
+
+.env
+.env.*
+
+fe_web/test_ui/
+AGENTS.md
+skills-lock.json
