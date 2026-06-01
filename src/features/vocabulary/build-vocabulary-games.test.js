@@ -25,8 +25,8 @@ assert.ok([...practiceIds].every(id => ids.has(id)));
 assert.ok([...challengeIds].every(id => ids.has(id)));
 assert.deepStrictEqual(Object.keys(data.challengePool), ["marathon"]);
 assert.strictEqual(data.gameConfig.marathonSeconds, 45);
-assert.strictEqual(data.gameConfig.marathonLives, 3);
 assert.strictEqual(data.gameConfig.marathonCorrectBonusSeconds, 5);
+assert.strictEqual(data.gameConfig.marathonWrongPenaltySeconds, 3);
 
 assert.ok(Object.values(data.lessonPools).every(pool => !("imageChoice" in pool.modes)));
 

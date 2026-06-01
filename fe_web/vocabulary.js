@@ -20,7 +20,6 @@ const STORED_STATE_KEYS = [
   "audioTextVisible",
   "speedStarted",
   "speedRemaining",
-  "marathonLives",
   "marathonSeed",
 ];
 
@@ -63,8 +62,8 @@ const state = {
   practiceSeed: Math.floor(Date.now() % 2147483647) + Math.floor(Math.random() * 100000),
   speedStarted: false,
   speedRemaining: 45,
-  marathonLives: 3,
   marathonSeed: 1,
+  marathonTimeEffect: "",
   timerId: null,
   audioPlayer: null,
   speechAttempt: 0,
@@ -91,7 +90,6 @@ function restoreLocalState() {
     state.score = Math.max(0, Number(state.score) || 0);
     state.streak = Math.max(0, Number(state.streak) || 0);
     state.speedRemaining = Math.max(0, Number(state.speedRemaining) || state.data.gameConfig.marathonSeconds);
-    state.marathonLives = Math.max(0, Number(state.marathonLives) || state.data.gameConfig.marathonLives);
     state.marathonSeed = Math.max(1, Number(state.marathonSeed) || 1);
     state.matchedIds = Array.isArray(state.matchedIds) ? state.matchedIds : [];
     state.assembled = Array.isArray(state.assembled) ? state.assembled : [];
@@ -108,6 +106,19 @@ function escapeHtml(value) {
     .replaceAll("<", "&lt;")
     .replaceAll(">", "&gt;")
     .replaceAll('"', "&quot;");
+}
+
+function scrollToStudyBottomOnMobile() {
+  // Mobile study flows add feedback/actions below the fold; keep the next action reachable.
+  if (!window.matchMedia("(max-width: 767px)").matches) return;
+  const scrollBottom = () => {
+    window.scrollTo({
+      top: document.documentElement.scrollHeight,
+      behavior: "smooth",
+    });
+  };
+  window.requestAnimationFrame(scrollBottom);
+  window.setTimeout(scrollBottom, 120);
 }
 
 function shuffle(items, seed = 1) {
@@ -204,7 +215,7 @@ function resetRound() {
   state.audioTextVisible = false;
   state.speedStarted = false;
   state.speedRemaining = state.data?.gameConfig.marathonSeconds ?? 45;
-  state.marathonLives = state.data?.gameConfig.marathonLives ?? 3;
+  state.marathonTimeEffect = "";
   saveLocalState();
 }
 
@@ -217,6 +228,7 @@ function playOnlineKoreanAudio(text) {
   state.audioPlayer.play().catch(() => {
     state.feedback = "Trình duyệt không phát được âm thanh. Hãy bật âm lượng hoặc thử Chrome/Safari bản mới.";
     render();
+    scrollToStudyBottomOnMobile();
   });
 }
 
@@ -227,6 +239,7 @@ function speak(text = currentItem()?.audioText) {
     state.feedback = AUDIO_FALLBACK_MESSAGE;
     playOnlineKoreanAudio(text);
     render();
+    scrollToStudyBottomOnMobile();
     return;
   }
 
@@ -239,6 +252,7 @@ function speak(text = currentItem()?.audioText) {
     state.feedback = AUDIO_FALLBACK_MESSAGE;
     playOnlineKoreanAudio(text);
     render();
+    scrollToStudyBottomOnMobile();
     return;
   }
 
@@ -257,6 +271,7 @@ function speak(text = currentItem()?.audioText) {
     state.feedback = AUDIO_FALLBACK_MESSAGE;
     playOnlineKoreanAudio(text);
     render();
+    scrollToStudyBottomOnMobile();
   };
   window.speechSynthesis.speak(utterance);
   window.setTimeout(() => {
@@ -264,6 +279,7 @@ function speak(text = currentItem()?.audioText) {
     state.feedback = AUDIO_FALLBACK_MESSAGE;
     playOnlineKoreanAudio(text);
     render();
+    scrollToStudyBottomOnMobile();
   }, 900);
 }
 
@@ -272,18 +288,21 @@ function setSection(section) {
   state.mode = SECTIONS[section].modes[0];
   resetRound();
   render();
+  scrollToStudyBottomOnMobile();
 }
 
 function setMode(mode) {
   state.mode = mode;
   resetRound();
   render();
+  scrollToStudyBottomOnMobile();
 }
 
 function setLesson(lesson) {
   state.lesson = Number(lesson);
   resetRound();
   render();
+  scrollToStudyBottomOnMobile();
 }
 
 function nextQuestion() {
@@ -302,6 +321,7 @@ function nextQuestion() {
   state.matchedIds = [];
   clearMatchTimer();
   render();
+  scrollToStudyBottomOnMobile();
 }
 
 function previousQuestion() {
@@ -320,6 +340,7 @@ function previousQuestion() {
   state.matchedIds = [];
   clearMatchTimer();
   render();
+  scrollToStudyBottomOnMobile();
 }
 
 function checkChoice(id) {
@@ -328,29 +349,34 @@ function checkChoice(id) {
   state.selected = id;
   state.locked = true;
   if (state.mode === "marathon") {
+    const correctBonusSeconds = state.data.gameConfig.marathonCorrectBonusSeconds ?? 5;
+    const wrongPenaltySeconds = state.data.gameConfig.marathonWrongPenaltySeconds ?? 3;
     if (id === correct.id) {
       state.score += 1;
       state.streak += 1;
-      state.speedRemaining += state.data.gameConfig.marathonCorrectBonusSeconds;
+      state.speedRemaining += correctBonusSeconds;
+      state.marathonTimeEffect = "correct";
     } else {
       state.streak = 0;
-      state.marathonLives = Math.max(0, state.marathonLives - 1);
-      if (state.marathonLives <= 0) {
+      state.speedRemaining = Math.max(0, state.speedRemaining - wrongPenaltySeconds);
+      state.marathonTimeEffect = "wrong";
+      if (state.speedRemaining <= 0) {
         stopTimer();
       }
     }
     state.feedback = "";
-    if (state.speedRemaining <= 0 || state.marathonLives <= 0) {
+    if (state.speedRemaining <= 0) {
       state.locked = true;
     } else {
       clearMarathonAdvanceTimer();
       state.marathonAdvanceTimerId = window.setTimeout(() => {
-        if (state.speedRemaining <= 0 || state.marathonLives <= 0) {
+        if (state.speedRemaining <= 0) {
           state.locked = true;
         } else {
           state.index = (state.index + 1) % currentProgressTotal();
           state.selected = "";
           state.locked = false;
+          state.marathonTimeEffect = "";
         }
         state.marathonAdvanceTimerId = null;
         render();
@@ -368,6 +394,7 @@ function checkChoice(id) {
     state.feedback = `Sai. Đáp án đúng là ${correct.korean} - ${correct.meaningVi}.`;
   }
   render();
+  scrollToStudyBottomOnMobile();
 }
 
 function checkTextAnswer() {
@@ -384,6 +411,7 @@ function checkTextAnswer() {
   }
   state.locked = true;
   render();
+  scrollToStudyBottomOnMobile();
 }
 
 function startMarathon() {
@@ -391,7 +419,7 @@ function startMarathon() {
   clearMarathonAdvanceTimer();
   state.speedStarted = true;
   state.speedRemaining = state.data.gameConfig.marathonSeconds;
-  state.marathonLives = state.data.gameConfig.marathonLives;
+  state.marathonTimeEffect = "";
   state.marathonSeed = Math.floor(Date.now() % 2147483647) + Math.floor(Math.random() * 100000);
   state.timerId = window.setInterval(() => {
     state.speedRemaining -= 1;
@@ -400,13 +428,10 @@ function startMarathon() {
       state.speedRemaining = 0;
       state.locked = true;
     }
-    if (state.marathonLives <= 0) {
-      stopTimer();
-      state.locked = true;
-    }
     render();
   }, 1000);
   render();
+  scrollToStudyBottomOnMobile();
 }
 
 function buttonClass(active = false) {
@@ -470,22 +495,22 @@ function renderFlashcard() {
     "Card học từ mới",
     "Lật nhanh từng từ trong bài đang chọn. Dùng nút Nghe để phát âm tiếng Hàn.",
     `
-      <div class="relative mx-auto w-full max-w-[900px] px-11 sm:px-16">
+      <div class="relative mx-auto w-full max-w-[900px] px-10 sm:px-16">
         <button class="circle-button absolute left-0 top-1/2 z-10 flex h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full border border-[#D6D3CD] bg-white text-xl font-extrabold text-[#2F5D50] sm:h-12 sm:w-12 sm:text-2xl" data-action="previous" type="button" title="Từ trước" aria-label="Từ trước">‹</button>
-        <button class="study-card mx-auto block w-full rounded-2xl border border-[#D6D3CD] bg-[#FFF8EE] p-4 text-left shadow-sm hover:border-[#2F5D50] focus:border-[#2F5D50] focus:outline-none focus:ring-4 focus:ring-[#2F5D50]/10 md:p-8" data-action="flip-card" type="button">
+        <button class="study-card mx-auto block w-full rounded-xl border border-[#D6D3CD] bg-[#FFF8EE] p-3 text-left shadow-sm hover:border-[#2F5D50] focus:border-[#2F5D50] focus:outline-none focus:ring-4 focus:ring-[#2F5D50]/10 sm:rounded-2xl sm:p-4 md:p-8" data-action="flip-card" type="button">
           <div class="study-card-content text-center">
             <div class="text-sm font-bold text-[#6B625C]">${escapeHtml(item.lessonTitle)}</div>
-            <div class="mt-4 flex items-center justify-center gap-3">
-              <div class="font-korean text-4xl font-extrabold leading-tight sm:text-5xl md:text-7xl">${escapeHtml(item.korean)}</div>
+            <div class="mt-3 flex items-center justify-center gap-2 sm:mt-4 sm:gap-3">
+              <div class="font-korean text-[2rem] font-extrabold leading-tight sm:text-5xl md:text-7xl">${escapeHtml(item.korean)}</div>
               <span class="circle-button inline-flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-[#D6D3CD] bg-white text-[#2F5D50] sm:h-11 sm:w-11" data-action="speak" role="button" tabindex="0" title="Nghe phát âm" aria-label="Nghe phát âm"><span class="speaker-glyph">🔊</span></span>
             </div>
             ${
               state.cardFlipped
                 ? `
-                   <div class="mt-5 text-xl font-extrabold md:text-2xl">${escapeHtml(item.meaningVi)}</div>
-                  <div class="mt-5 flex justify-center">${itemMeta(item)}</div>
+                   <div class="mt-4 text-lg font-extrabold sm:text-xl md:text-2xl">${escapeHtml(item.meaningVi)}</div>
+                  <div class="mt-4 flex justify-center">${itemMeta(item)}</div>
                 `
-                : `<div class="mt-6 text-sm font-bold text-[#6B625C]">Bấm vào thẻ để xem nghĩa</div>`
+                : `<div class="mt-4 text-sm font-bold text-[#6B625C] sm:mt-6">Bấm vào thẻ để xem nghĩa</div>`
             }
           </div>
         </button>
@@ -638,21 +663,25 @@ function renderMarathon() {
   if (!state.speedStarted) {
     return shell(
       "Marathon",
-      "Trả lời liên tục trong 45 giây. Có 3 mạng, sai mất 1 mạng, đúng được cộng 5 giây.",
+      "Trả lời liên tục trong 45 giây. Đúng được +5 giây, sai bị -3 giây.",
       `<button class="tap-button w-full rounded-lg bg-[#2F5D50] px-5 py-3 text-sm font-bold text-white sm:w-fit" data-action="start-marathon">Bắt đầu Marathon</button>`,
     );
   }
   const item = currentItem();
   const options = optionItems(item);
-  const gameOver = state.speedRemaining <= 0 || state.marathonLives <= 0;
+  const gameOver = state.speedRemaining <= 0;
+  const timerStateClass =
+    state.marathonTimeEffect === "correct"
+      ? "border-[#2F5D50] bg-[#EEF6F2] text-[#2F5D50] ring-2 ring-[#2F5D50]/15"
+      : state.marathonTimeEffect === "wrong"
+        ? "border-[#B91C1C] bg-[#FEF2F2] text-[#B91C1C] ring-2 ring-[#B91C1C]/15"
+        : "border-[#D6D3CD] bg-white text-[#262422]";
   return shell(
     "Marathon",
     "Chọn nghĩa đúng càng lâu càng tốt. Mỗi lượt bắt đầu sẽ xáo trộn thứ tự câu hỏi.",
     `
-      <div class="flex flex-wrap gap-2">
-        <div class="w-fit rounded-lg border border-[#D6D3CD] px-3 py-2 text-sm font-bold">Còn ${state.speedRemaining}s</div>
-        <div class="w-fit rounded-lg border border-[#D6D3CD] px-3 py-2 text-sm font-bold">Mạng: ${state.marathonLives}</div>
-        <div class="w-fit rounded-lg border border-[#D6D3CD] px-3 py-2 text-sm font-bold">Combo: ${state.streak}</div>
+      <div class="flex justify-center">
+        <div class="min-w-24 rounded-lg border px-4 py-2 text-center text-sm font-extrabold tabular-nums transition-colors duration-150 ${timerStateClass}">${state.speedRemaining}s</div>
       </div>
       <div class="rounded-xl border border-[#D6D3CD] bg-[#FFF8EE] p-4 md:p-5">
         <div class="font-korean text-3xl font-extrabold md:text-4xl">${escapeHtml(item.korean)}</div>
@@ -683,6 +712,11 @@ function render() {
   renderControls();
   document.getElementById("app").innerHTML = renderMode();
   saveLocalState();
+}
+
+function renderAndScrollToStudyBottomOnMobile() {
+  render();
+  scrollToStudyBottomOnMobile();
 }
 
 async function loadData() {
@@ -721,7 +755,7 @@ function initEvents() {
       clearMatchTimer();
       state.matchAttempt = null;
       state.pairLeft = matchLeft.dataset.matchLeft;
-      render();
+      renderAndScrollToStudyBottomOnMobile();
       return;
     }
 
@@ -734,14 +768,14 @@ function initEvents() {
         state.feedback = "";
         state.matchAttempt = null;
         state.pairLeft = "";
-        render();
+        renderAndScrollToStudyBottomOnMobile();
       } else {
         const left = state.pairLeft;
         const right = matchRight.dataset.matchRight;
         state.streak = 0;
         state.feedback = "";
         state.matchAttempt = { left, right, result: "wrong" };
-        render();
+        renderAndScrollToStudyBottomOnMobile();
         clearMatchTimer();
         state.matchTimerId = window.setTimeout(() => {
           if (state.matchAttempt?.left === left && state.matchAttempt?.right === right) {
@@ -758,7 +792,7 @@ function initEvents() {
     const letter = event.target.closest("[data-letter]");
     if (letter) {
       state.assembled.push(letter.dataset.value);
-      render();
+      renderAndScrollToStudyBottomOnMobile();
     }
   });
 
@@ -786,11 +820,11 @@ function handleAction(action) {
   if (action === "check-text") checkTextAnswer();
   if (action === "reset-round") {
     resetRound();
-    render();
+    renderAndScrollToStudyBottomOnMobile();
   }
   if (action === "clear-letters") {
     state.assembled = [];
-    render();
+    renderAndScrollToStudyBottomOnMobile();
   }
   if (action === "check-arrange") {
     state.answerText = state.assembled.join("");
@@ -799,12 +833,12 @@ function handleAction(action) {
   if (action === "start-marathon") startMarathon();
   if (action === "flip-card") {
     state.cardFlipped = !state.cardFlipped;
-    render();
+    renderAndScrollToStudyBottomOnMobile();
   }
   if (action === "show-audio-text") {
     state.audioTextVisible = true;
     saveLocalState();
-    render();
+    renderAndScrollToStudyBottomOnMobile();
   }
 }
 
@@ -821,6 +855,7 @@ async function init() {
     }
     initEvents();
     render();
+    scrollToStudyBottomOnMobile();
   } catch (error) {
     document.getElementById("app").innerHTML = `
       <section class="rounded-xl border border-red-200 bg-red-50 p-5 text-red-950">

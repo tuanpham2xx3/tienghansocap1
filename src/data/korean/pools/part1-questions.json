@@ -51,7 +51,7 @@
     "skill": "grammar",
     "knowledgeTarget": "Chọn 입니다 / 입니까 trong câu giới thiệu hoặc hỏi thông tin",
     "difficulty": "easy",
-    "stem": "민수 씨는 학생___.",
+    "stem": "민수 씨는 학생___?",
     "options": [
       {
         "id": "P1_L01_01_Q002_OPT_A",
@@ -1084,7 +1084,7 @@
     "skill": "grammar",
     "knowledgeTarget": "Chọn đuôi trần thuật/nghi vấn -ㅂ/습니다 / -ㅂ/습니까",
     "difficulty": "easy",
-    "stem": "민수 씨는 밥을 먹___.",
+    "stem": "민수 씨는 밥을 먹___?",
     "options": [
       {
         "id": "P1_L03_01_Q002_OPT_A",

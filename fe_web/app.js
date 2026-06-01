@@ -316,12 +316,16 @@ function renderOptionList(question, shuffledOptionIds, part, answerKeyItem) {
 }
 
 function renderQuestionCard(number, title, bodyHtml, meta = "", badge = "", anchorId = "") {
+  const titleHtml = title
+    ? `<h3 class="text-sm font-extrabold leading-6 text-[#262422] md:text-base">${escapeHtml(title)}</h3>`
+    : "";
+
   return `
     <article id="${escapeHtml(anchorId || `question-${number}`)}" class="scroll-mt-24 rounded-xl border border-[#D6D3CD] bg-white p-4 shadow-sm md:p-5">
       <div class="flex flex-col gap-3 sm:flex-row sm:items-start sm:justify-between">
         <div class="flex items-center gap-2">
           <div class="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-[#2F5D50] text-sm font-extrabold text-white">${number}</div>
-          <h3 class="text-sm font-extrabold leading-6 text-[#262422] md:text-base">${escapeHtml(title)}</h3>
+          ${titleHtml}
         </div>
         <div class="flex items-center gap-2">
           ${badge}
@@ -357,7 +361,7 @@ function renderPart1(context, grading) {
       `;
       return renderQuestionCard(
         item.displayOrder,
-        question.knowledgeTarget,
+        "",
         body,
         question.id,
         resultBadge(question.id, "part1", grading),
@@ -564,6 +568,7 @@ function renderMeta(officialExam, grading) {
 
 function updateControls() {
   const timerPill = document.getElementById("timerPill");
+  const timerPillRow = document.getElementById("timerPillRow");
   const submitButton = document.getElementById("submitExam");
   const toggleButton = document.getElementById("toggleAnswers");
   const clearButton = document.getElementById("clearSession");
@@ -571,9 +576,11 @@ function updateControls() {
   if (timerPill) {
     const secondsLeft = remainingSeconds();
     timerPill.textContent = formatClock(secondsLeft);
-    timerPill.classList.toggle("hidden", !state.hasStarted);
-    timerPill.classList.toggle("flex", state.hasStarted);
     timerPill.classList.toggle("text-[#B91C1C]", state.hasStarted && secondsLeft <= 300 && !state.submitted);
+  }
+  if (timerPillRow) {
+    timerPillRow.classList.toggle("hidden", !state.hasStarted);
+    timerPillRow.classList.toggle("flex", state.hasStarted);
   }
   if (submitButton) {
     submitButton.classList.toggle("hidden", !state.hasStarted || state.submitted);
@@ -636,6 +643,36 @@ function insertKoreanCharacter(questionId, char) {
   refreshQuestionMap();
 }
 
+function submitConfirmSummary() {
+  const officialExam = getOfficialExam();
+  const refs = allQuestionRefs(getPartContext(officialExam));
+  const answeredCount = refs.filter(item => getUserAnswer(item.questionId, item.part).trim()).length;
+  const unansweredCount = refs.length - answeredCount;
+  if (unansweredCount <= 0) {
+    return "Bạn đã trả lời tất cả câu hỏi. Sau khi nộp, bài làm sẽ được chấm và hiện đáp án.";
+  }
+  return `Bạn còn ${unansweredCount}/${refs.length} câu chưa trả lời. Sau khi nộp, bài làm sẽ được chấm và hiện đáp án.`;
+}
+
+function openSubmitConfirmModal() {
+  const modal = document.getElementById("submitConfirmModal");
+  const message = document.getElementById("submitConfirmMessage");
+  const confirmButton = document.getElementById("confirmSubmitExam");
+  if (!modal) return;
+  if (message) message.textContent = submitConfirmSummary();
+  modal.classList.remove("hidden");
+  modal.classList.add("flex");
+  confirmButton?.focus();
+}
+
+function closeSubmitConfirmModal() {
+  const modal = document.getElementById("submitConfirmModal");
+  if (!modal) return;
+  modal.classList.add("hidden");
+  modal.classList.remove("flex");
+  document.getElementById("submitExam")?.focus();
+}
+
 function initEvents() {
   document.getElementById("toggleAnswers").addEventListener("click", () => {
     state.showAnswers = !state.showAnswers;
@@ -644,8 +681,25 @@ function initEvents() {
   });
 
   document.getElementById("submitExam").addEventListener("click", () => {
+    if (state.submitted) return;
+    openSubmitConfirmModal();
+  });
+
+  document.getElementById("cancelSubmitConfirm").addEventListener("click", closeSubmitConfirmModal);
+
+  document.getElementById("confirmSubmitExam").addEventListener("click", () => {
+    closeSubmitConfirmModal();
     submitAttempt();
     render();
+  });
+
+  document.getElementById("submitConfirmModal").addEventListener("click", event => {
+    if (event.target.id === "submitConfirmModal") closeSubmitConfirmModal();
+  });
+
+  document.addEventListener("keydown", event => {
+    const modal = document.getElementById("submitConfirmModal");
+    if (event.key === "Escape" && modal && !modal.classList.contains("hidden")) closeSubmitConfirmModal();
   });
 
   document.getElementById("clearSession").addEventListener("click", () => {

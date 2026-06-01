@@ -419,8 +419,8 @@ function buildVocabularyGames() {
       flashcardChunkSize: 12,
       matchingPairRange: [8, 12],
       marathonSeconds: 45,
-      marathonLives: 3,
       marathonCorrectBonusSeconds: 5,
+      marathonWrongPenaltySeconds: 3,
       speechLang: "ko-KR",
     },
   };

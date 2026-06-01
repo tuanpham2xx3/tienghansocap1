@@ -34,11 +34,13 @@
             <a class="flex h-10 min-w-0 flex-1 items-center justify-center whitespace-nowrap rounded-lg border border-[#D6D3CD] bg-white px-[clamp(0.35rem,1.8vw,0.75rem)] text-[#262422] hover:bg-[#F5F4F0] md:h-11 md:flex-none md:px-4" href="./grammar.html">Ngữ pháp</a>
             <a class="flex h-10 min-w-0 flex-1 items-center justify-center whitespace-nowrap rounded-lg bg-[#2F5D50] px-[clamp(0.35rem,1.8vw,0.75rem)] text-white md:h-11 md:flex-none md:px-4" href="./exam-start.html" aria-current="page">Thi thử</a>
           </nav>
-          <div class="flex flex-wrap items-center gap-2 xl:justify-end">
-            <div id="timerPill" class="flex h-10 items-center rounded-lg border border-[#D6D3CD] bg-white px-3 text-sm font-extrabold tabular-nums text-[#262422] md:h-11">--:--</div>
-            <button id="submitExam" class="h-10 rounded-lg bg-[#2F5D50] px-3 text-sm font-bold text-white hover:bg-[#254C42] md:h-11 md:px-4">Nộp bài</button>
-            <button id="toggleAnswers" class="h-10 rounded-lg border border-[#D6D3CD] bg-white px-3 text-sm font-bold text-[#262422] hover:bg-[#F5F4F0] md:h-11 md:px-4">Hiện đáp án</button>
-            <a id="clearSession" class="h-10 rounded-lg border border-[#D6D3CD] bg-white px-3 py-2 text-sm font-bold text-[#262422] hover:bg-[#F5F4F0] md:h-11 md:px-4 md:py-2.5" href="./exam-start.html">Làm đề khác</a>
+          <div class="flex flex-wrap items-center justify-center gap-2 md:justify-start xl:justify-end">
+            <button id="toggleAnswers" class="order-1 h-10 rounded-lg border border-[#D6D3CD] bg-white px-2 text-[0.78rem] font-bold text-[#262422] hover:bg-[#F5F4F0] sm:px-3 sm:text-sm md:h-11 md:px-4 xl:order-3">Hiện đáp án</button>
+            <a id="clearSession" class="order-2 h-10 rounded-lg border border-[#D6D3CD] bg-white px-2 py-2 text-[0.78rem] font-bold text-[#262422] hover:bg-[#F5F4F0] sm:px-3 sm:text-sm md:h-11 md:px-4 md:py-2.5 xl:order-4" href="./exam-start.html">Làm đề khác</a>
+            <button id="submitExam" class="order-3 h-10 rounded-lg bg-[#2F5D50] px-2 text-[0.78rem] font-bold text-white hover:bg-[#254C42] sm:px-3 sm:text-sm md:h-11 md:px-4 xl:order-2">Nộp bài</button>
+            <div id="timerPillRow" class="order-4 flex w-full justify-center xl:order-1 xl:w-auto">
+              <div id="timerPill" class="flex h-10 items-center rounded-lg border border-[#D6D3CD] bg-white px-3 text-sm font-extrabold tabular-nums text-[#262422] md:h-11">--:--</div>
+            </div>
           </div>
         </div>
       </header>
@@ -62,6 +64,17 @@
 
         <div id="app" class="space-y-5"></div>
       </main>
+
+      <div id="submitConfirmModal" class="fixed inset-0 z-50 hidden items-center justify-center bg-[#262422]/35 px-4" role="dialog" aria-modal="true" aria-labelledby="submitConfirmTitle">
+        <section class="w-full max-w-sm rounded-xl border border-[#D6D3CD] bg-white p-5 shadow-xl">
+          <div id="submitConfirmTitle" class="text-lg font-extrabold text-[#262422]">Nộp bài?</div>
+          <p id="submitConfirmMessage" class="mt-2 text-sm font-semibold leading-6 text-[#6B625C]">Sau khi nộp, bài làm sẽ được chấm và hiện đáp án.</p>
+          <div class="mt-5 flex flex-col-reverse gap-2 sm:flex-row sm:justify-end">
+            <button id="cancelSubmitConfirm" class="h-11 rounded-lg border border-[#D6D3CD] bg-white px-4 text-sm font-bold text-[#262422] hover:bg-[#F5F4F0]">Kiểm tra lại</button>
+            <button id="confirmSubmitExam" class="h-11 rounded-lg bg-[#2F5D50] px-4 text-sm font-bold text-white hover:bg-[#254C42]">Nộp bài</button>
+          </div>
+        </section>
+      </div>
     </div>
 
     <template id="loadingTemplate">
